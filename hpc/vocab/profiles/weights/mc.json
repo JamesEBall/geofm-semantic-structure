@@ -1,0 +1,17 @@
+{
+  "mc": {
+    "stage_modules": [
+      "weights"
+    ],
+    "only_stages": [
+      "weights_fetch"
+    ],
+    "pools": {
+      "net": {
+        "start_width": 4,
+        "max_width": 4,
+        "time": "02:00:00"
+      }
+    }
+  }
+}

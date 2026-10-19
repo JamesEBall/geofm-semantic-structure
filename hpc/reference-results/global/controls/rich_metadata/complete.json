@@ -1,0 +1,11 @@
+{
+  "fingerprint": {
+    "manifest": "9ad0d7c52eb8676d790a65217c800e05dff21f1389e80655e956eba55af671e2",
+    "features": "50975187495d14375b919b421bbc6a7a29c2ff533f45ed34cbfa8a7f31a4eedb",
+    "text": "c1290aa390e4878cafdcb08b9e74be72b9f5eb75c6370645e9c6244ff73a3b28",
+    "code": "20f275101cb94fd118f1ed9407c1b08096e3943ec22222fccded77be58ce10f9",
+    "frozen_analysis": "8ade631e9e44b0d04385b18ace9d597a654607eb02ead9956c4ebf8a40300c63",
+    "protocol": "a4971ac356f2ced50a3d8bccfa0af2647d2848bf1468414e7c745dea4ee1603f"
+  },
+  "folds": 5
+}

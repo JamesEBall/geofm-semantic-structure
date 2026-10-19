@@ -1,0 +1,12 @@
+{
+  "code/acquire.py": "b1b83144eab69232a868a427b525da565d3ec67bd1882e5cf85e38f59d473aa3",
+  "code/aggregate.py": "e0befd1cc8e8c81ca7a1567948ab33b73bcd67c415714373a232c9aa7c2f3e12",
+  "code/pilot.py": "d05b34032a1b04ea11b24f0ecf0d39abc081f062e093e3bc07900bf043ac2a7d",
+  "data/blocks.json": "aa00b08c75b44e9049bc2629b7742a51a084a9b5aa8b31c9a53a903738000857",
+  "data/countries-source.json": "158e989605be1cdd13151f3f7ef924dcd04a334cb2191d5a4669ca887266d42b",
+  "data/text.npz": "c1290aa390e4878cafdcb08b9e74be72b9f5eb75c6370645e9c6244ff73a3b28",
+  "data/text-manifest.json": "1b77ccdd3257e09768b3526486642c70ef8ef59717df1ed205b14507ee85690f",
+  "source-selection.md": "e762e9e38f88223fe2eb6564f31f73fe0f30124f7d2d57a8ad89cef607ca6cf9",
+  "staging/select_eligible.py": "329d67446fe4499c1f66db1a990d5f876d02e2c0051a208fe5ea729280f7ba85",
+  "results/eligibility-report.json": "92b704608896efab66ad3c2405398c029d2d32161eb311d6a8b8896f829ed7ce"
+}

@@ -1,0 +1,153 @@
+{
+  "osm_pipeline": {
+    "area_commit_rows": 1000,
+    "area_cache_mb": 64,
+    "lattice_candidate_chunk": 256,
+    "max_cell_polygons": 2000000,
+    "labels_chunk": 250,
+    "countries_url": "https://naturalearth.s3.amazonaws.com/110m_cultural/ne_110m_admin_0_countries.zip",
+    "taxonomy": {
+      "primary_keys": [
+        "aeroway",
+        "power",
+        "man_made",
+        "amenity",
+        "leisure",
+        "tourism",
+        "historic",
+        "waterway",
+        "landuse",
+        "natural",
+        "landcover",
+        "place"
+      ],
+      "exclude_presence": [
+        "boundary",
+        "protect_class"
+      ],
+      "exclude_values": {
+        "leisure": [
+          "nature_reserve"
+        ],
+        "landuse": [
+          "conservation",
+          "military"
+        ]
+      },
+      "only_values": {
+        "place": [
+          "island",
+          "islet"
+        ]
+      },
+      "refinements": {
+        "landuse=farmland": [
+          "crop",
+          "trees",
+          "produce"
+        ],
+        "landuse=orchard": [
+          "crop",
+          "trees",
+          "produce"
+        ],
+        "landuse=plantation": [
+          "crop",
+          "trees",
+          "produce"
+        ],
+        "landuse=greenhouse_horticulture": [
+          "crop",
+          "trees",
+          "produce"
+        ],
+        "landuse=aquaculture": [
+          "crop",
+          "trees",
+          "produce"
+        ],
+        "landuse=forest": [
+          "leaf_type",
+          "leaf_cycle"
+        ],
+        "natural=wood": [
+          "leaf_type",
+          "leaf_cycle"
+        ],
+        "natural=wetland": [
+          "wetland"
+        ],
+        "natural=water": [
+          "water"
+        ],
+        "landuse=quarry": [
+          "resource"
+        ],
+        "landuse=industrial": [
+          "industrial"
+        ],
+        "power=plant": [
+          "plant:source"
+        ],
+        "power=generator": [
+          "generator:source"
+        ],
+        "aeroway=aerodrome": [
+          "aerodrome:type"
+        ],
+        "leisure=pitch": [
+          "sport"
+        ],
+        "leisure=stadium": [
+          "sport"
+        ],
+        "leisure=track": [
+          "sport"
+        ],
+        "natural=beach": [
+          "surface"
+        ],
+        "natural=glacier": [
+          "glacier:type"
+        ],
+        "landuse=residential": [
+          "residential"
+        ]
+      },
+      "synonyms": {
+        "landuse=reservoir": {
+          "natural": "water",
+          "water": "reservoir"
+        },
+        "waterway=riverbank": {
+          "natural": "water",
+          "water": "river"
+        },
+        "natural=marsh": {
+          "natural": "wetland",
+          "wetland": "marsh"
+        }
+      },
+      "templates": {
+        "refine": {
+          "crop": "{v} {p}",
+          "trees": "{v} {p}",
+          "produce": "{v} {p}",
+          "leaf_type": "{v} {p}",
+          "leaf_cycle": "{v} {p}",
+          "water": "{v}",
+          "wetland": "{v} wetland",
+          "resource": "{v} quarry",
+          "industrial": "{v} industrial site",
+          "plant:source": "{v} power plant",
+          "generator:source": "{v} generator",
+          "sport": "{v} {p}"
+        }
+      }
+    },
+    "_proposed_science": "Taxonomy transcribes PLAN section3; exclusions of yes/no and semicolon-valued ambiguous tags are explicit. Candidate windows follow the fixed lattice, and within-class non-overlap uses circumscribed stored-footprint circles to guarantee no overlap. All must be frozen at F1.",
+    "region_lon_deg": 30,
+    "region_lat_deg": 90,
+    "extract_strategy": "smart"
+  }
+}

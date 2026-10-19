@@ -1,0 +1,18 @@
+{
+  "data/blocks.json": "aa00b08c75b44e9049bc2629b7742a51a084a9b5aa8b31c9a53a903738000857",
+  "data/countries-source.json": "158e989605be1cdd13151f3f7ef924dcd04a334cb2191d5a4669ca887266d42b",
+  "code/acquire.py": "b1b83144eab69232a868a427b525da565d3ec67bd1882e5cf85e38f59d473aa3",
+  "code/aggregate.py": "d14cbf997d695b25df813929002c45b7a647a6ff7828afcb7747fbaa8a47bf35",
+  "results/aggregate-report.json": "a11581d0b949d7b270398eb496d51990f446664c97ad3083dd29d6c8e6e7586e",
+  "code/acquisition-freeze.json": "1d20470043e37eeaf05b8fb2c972ed41b248af7b8799c7361beb77b435a5a222",
+  "results/extraction-freeze.json": "a2172dc70e9862b904d158bae29d710b0b735322d83451d7be9f5ae0a0039d4c",
+  "support/acquire.sbatch": "9e82db92953f4f3e799cb39d53f987f719091822c57a128f8dc836a63872b2cc",
+  "support/acquire_extra.py": "ac5d15edc63c5278810430fef499f2f476c9818fba9d9d799d2c269eb9d70851",
+  "support/admit.sbatch": "0f84737b440fdfba81a75454a05fab309adcbcb63e5b9ee760fd41106132536f",
+  "support/commit_inventory.py": "472b1096f72a1961f44ebc7d752672b494d2f2b9de9912cffa01b4a3be151d3e",
+  "support/prepare.sbatch": "3cdd6a9f28df64f9ed15565c36baa1b4a4593cf1b674d4ea749f816fa7a9ff20",
+  "support/protocol.md": "b4a25daf13110c9f5c414fa0269309c6d87dbb5c6f0af23b967d056ef89c5421",
+  "support/select_support.py": "4580c0ad9bc0465c4da5ee89efeaa905971ffea0738e82871fc7241cb91be124",
+  "support/targets.json": "cb26fc0d5edbc8616be9d7541d7ab5c8e1f7ea04c4727fb69a70c2a990f43757",
+  "support/test_support.py": "e3c89c9b8467a99e086603893a4ac73ab674112d2de8be2fb863aeb9c76132d5"
+}

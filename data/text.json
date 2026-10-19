@@ -1,0 +1,87 @@
+{
+  "author": "James Edward Ball",
+  "classes": [
+    {
+      "id": "Water",
+      "definition": "Open water with little vegetation or built development.",
+      "phrases": [
+        "Water covers the surface.",
+        "The surface is covered by open water.",
+        "An area of open water."
+      ]
+    },
+    {
+      "id": "Trees",
+      "definition": "Dense, tall vegetation, including wooded cover, dense shrubs and tree plantations.",
+      "phrases": [
+        "Dense tree or tall shrub cover.",
+        "A dense canopy of tall vegetation.",
+        "Wooded or dense tall vegetation."
+      ]
+    },
+    {
+      "id": "Grass",
+      "definition": "Open grass-like vegetation, including pasture and lawns, with little taller vegetation.",
+      "phrases": [
+        "Open grass-like vegetation.",
+        "Low grass cover with few tall plants.",
+        "An open area of grasses."
+      ]
+    },
+    {
+      "id": "Flooded_Vegetation",
+      "definition": "Vegetation visibly mixed with water in this image.",
+      "phrases": [
+        "Vegetation mixed with visible water.",
+        "Water is visibly interspersed among plants.",
+        "Plants and visible water occur together."
+      ]
+    },
+    {
+      "id": "Crops",
+      "definition": "Crops or grass planted in structured fields, including hay and fallow plots.",
+      "phrases": [
+        "Planted or fallow agricultural fields.",
+        "Structured fields used for crops or hay.",
+        "Agricultural plots, including fallow fields."
+      ]
+    },
+    {
+      "id": "Scrub",
+      "definition": "Scattered low plants or shrubs with exposed soil or rock between them.",
+      "phrases": [
+        "Scattered shrubs with exposed ground.",
+        "Low shrubs are dispersed across bare soil or rock.",
+        "Sparse low vegetation with visible ground between plants."
+      ]
+    },
+    {
+      "id": "Built_Area",
+      "definition": "Buildings, roads or other large human-made surfaces, with associated small vegetation patches.",
+      "phrases": [
+        "Buildings, roads and other constructed surfaces.",
+        "An area occupied by built structures and paving.",
+        "Human-made structures or paved surfaces."
+      ]
+    },
+    {
+      "id": "Bare_Ground",
+      "definition": "Exposed soil, rock or sand with very little vegetation.",
+      "phrases": [
+        "Bare soil, rock or sand.",
+        "Exposed ground with sparse or absent vegetation.",
+        "An area of largely unvegetated soil or rock."
+      ]
+    }
+  ],
+  "arrays_path": "cache/text.npz",
+  "arrays_sha256": "c1290aa390e4878cafdcb08b9e74be72b9f5eb75c6370645e9c6244ff73a3b28",
+  "scalar_prototype_checks": 24,
+  "maximum_scalar_error": 5.551115123125783e-17,
+  "descriptive_cross_reference_rho": {
+    "qwen_instructed__mpnet_plain": 0.4876847290640395,
+    "qwen_plain__mpnet_plain": 0.7898193760262726,
+    "qwen_instructed__qwen_plain": 0.7558839627805145
+  },
+  "limits": "Finite source ontology and one-reviewer development contrasts; no image outcome or population semantic-similarity claim."
+}

@@ -1,0 +1,1341 @@
+{
+  "author": "James Edward Ball",
+  "precision": {
+    "cells": [
+      {
+        "key": "patch-shift0.0-effect0.0",
+        "dependence": "patch",
+        "training_shift": 0.0,
+        "effect": 0.0,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.00019258314436885866,
+        "coverage": 0.951,
+        "coverage_wilson": [
+          0.9438668183415736,
+          0.9572677638111157
+        ],
+        "mean_interval_width": 0.2660562636115957,
+        "rejection_0.05": 0.05925,
+        "rejection_wilson_0.05": [
+          0.05234773625351233,
+          0.06699801300635953
+        ],
+        "rejection_0.0125": 0.012,
+        "rejection_wilson_0.0125": [
+          0.009063156390579401,
+          0.01587326026016925
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": true,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "patch-shift0.0-effect0.025",
+        "dependence": "patch",
+        "training_shift": 0.0,
+        "effect": 0.025,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0013861899939373902,
+        "coverage": 0.95725,
+        "coverage_wilson": [
+          0.9505299554848226,
+          0.9630926336267456
+        ],
+        "mean_interval_width": 0.27921616419206724,
+        "rejection_0.05": 0.09325,
+        "rejection_wilson_0.05": [
+          0.08462485087637199,
+          0.10265565623980018
+        ],
+        "rejection_0.0125": 0.02475,
+        "rejection_wilson_0.0125": [
+          0.02037209333687362,
+          0.030039857509987646
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "patch-shift0.0-effect0.05",
+        "dependence": "patch",
+        "training_shift": 0.0,
+        "effect": 0.05,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0005698299188502606,
+        "coverage": 0.95375,
+        "coverage_wilson": [
+          0.9467945705265916,
+          0.9598347346880044
+        ],
+        "mean_interval_width": 0.2917929242645767,
+        "rejection_0.05": 0.16275,
+        "rejection_wilson_0.05": [
+          0.15163500676691172,
+          0.17451213773199198
+        ],
+        "rejection_0.0125": 0.049,
+        "rejection_wilson_0.0125": [
+          0.042732236188884304,
+          0.056133181658426456
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": false
+      },
+      {
+        "key": "patch-shift0.0-effect0.1",
+        "dependence": "patch",
+        "training_shift": 0.0,
+        "effect": 0.1,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0005474925628044386,
+        "coverage": 0.95475,
+        "coverage_wilson": [
+          0.947860736290353,
+          0.9607666500376636
+        ],
+        "mean_interval_width": 0.31060230442762143,
+        "rejection_0.05": 0.364,
+        "rejection_wilson_0.05": [
+          0.3492263913767822,
+          0.37903457719801664
+        ],
+        "rejection_0.0125": 0.16275,
+        "rejection_wilson_0.0125": [
+          0.15163500676691172,
+          0.17451213773199198
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "patch-shift0.025-effect0.0",
+        "dependence": "patch",
+        "training_shift": 0.025,
+        "effect": 0.0,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 0.0017753679722274718,
+        "coverage": 0.93825,
+        "coverage_wilson": [
+          0.930361993864853,
+          0.9452970540917237
+        ],
+        "mean_interval_width": 0.2734528602542857,
+        "rejection_0.05": 0.0615,
+        "rejection_wilson_0.05": [
+          0.05446726635979738,
+          0.06937416540527085
+        ],
+        "rejection_0.0125": 0.01425,
+        "rejection_wilson_0.0125": [
+          0.01101544933823307,
+          0.01841664981771193
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": true,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "patch-shift0.025-effect0.025",
+        "dependence": "patch",
+        "training_shift": 0.025,
+        "effect": 0.025,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.001224110357877721,
+        "coverage": 0.93475,
+        "coverage_wilson": [
+          0.9266717612056034,
+          0.9419940028540011
+        ],
+        "mean_interval_width": 0.27826298353738527,
+        "rejection_0.05": 0.108,
+        "rejection_wilson_0.05": [
+          0.09875475148502648,
+          0.11799745205409949
+        ],
+        "rejection_0.0125": 0.03475,
+        "rejection_wilson_0.0125": [
+          0.029505922083879765,
+          0.04088683989718749
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "patch-shift0.025-effect0.05",
+        "dependence": "patch",
+        "training_shift": 0.025,
+        "effect": 0.05,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0001658813158751174,
+        "coverage": 0.93575,
+        "coverage_wilson": [
+          0.9277254530886512,
+          0.9429383920843739
+        ],
+        "mean_interval_width": 0.29137985727080723,
+        "rejection_0.05": 0.1795,
+        "rejection_wilson_0.05": [
+          0.16791628107077444,
+          0.1916987220779242
+        ],
+        "rejection_0.0125": 0.06525,
+        "rejection_wilson_0.0125": [
+          0.058005997145998814,
+          0.07332823879439664
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": false
+      },
+      {
+        "key": "patch-shift0.025-effect0.1",
+        "dependence": "patch",
+        "training_shift": 0.025,
+        "effect": 0.1,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0009465937349090875,
+        "coverage": 0.94575,
+        "coverage_wilson": [
+          0.9382931745695986,
+          0.9523514817376326
+        ],
+        "mean_interval_width": 0.31005605809239045,
+        "rejection_0.05": 0.3585,
+        "rejection_wilson_0.05": [
+          0.34378082803383914,
+          0.37349069441714644
+        ],
+        "rejection_0.0125": 0.1615,
+        "rejection_wilson_0.0125": [
+          0.15042165232652885,
+          0.17322789078059905
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "parent-shift0.0-effect0.0",
+        "dependence": "parent",
+        "training_shift": 0.0,
+        "effect": 0.0,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 0.0010452215608465606,
+        "coverage": 0.94775,
+        "coverage_wilson": [
+          0.9404141715113069,
+          0.9542266470227655
+        ],
+        "mean_interval_width": 0.3555073836503336,
+        "rejection_0.05": 0.057,
+        "rejection_wilson_0.05": [
+          0.05023116865546568,
+          0.06461889809920986
+        ],
+        "rejection_0.0125": 0.012,
+        "rejection_wilson_0.0125": [
+          0.009063156390579401,
+          0.01587326026016925
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": true,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "parent-shift0.0-effect0.025",
+        "dependence": "parent",
+        "training_shift": 0.0,
+        "effect": 0.025,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0005264715608465607,
+        "coverage": 0.9475,
+        "coverage_wilson": [
+          0.9401488972315901,
+          0.9539924010241272
+        ],
+        "mean_interval_width": 0.37157428831169104,
+        "rejection_0.05": 0.08525,
+        "rejection_wilson_0.05": [
+          0.07698894106040734,
+          0.09430691714840007
+        ],
+        "rejection_0.0125": 0.019,
+        "rejection_wilson_0.0125": [
+          0.015207548340719364,
+          0.023715436103973468
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "parent-shift0.0-effect0.05",
+        "dependence": "parent",
+        "training_shift": 0.0,
+        "effect": 0.05,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 0.0012765597442680743,
+        "coverage": 0.951,
+        "coverage_wilson": [
+          0.9438668183415736,
+          0.9572677638111157
+        ],
+        "mean_interval_width": 0.38797998035091713,
+        "rejection_0.05": 0.13575,
+        "rejection_wilson_0.05": [
+          0.12548411664996315,
+          0.14671483778658442
+        ],
+        "rejection_0.0125": 0.037,
+        "rejection_wilson_0.0125": [
+          0.03158049840442258,
+          0.043307946081841006
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": false
+      },
+      {
+        "key": "parent-shift0.0-effect0.1",
+        "dependence": "parent",
+        "training_shift": 0.0,
+        "effect": 0.1,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 0.00047769510582011676,
+        "coverage": 0.9465,
+        "coverage_wilson": [
+          0.9390882305447635,
+          0.9530549865975332
+        ],
+        "mean_interval_width": 0.4110343754925742,
+        "rejection_0.05": 0.24875,
+        "rejection_wilson_0.05": [
+          0.235598802078791,
+          0.262383318174284
+        ],
+        "rejection_0.0125": 0.0885,
+        "rejection_wilson_0.0125": [
+          0.08008844917401492,
+          0.09770117265340938
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "parent-shift0.025-effect0.0",
+        "dependence": "parent",
+        "training_shift": 0.025,
+        "effect": 0.0,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 0.0008715388007054687,
+        "coverage": 0.9435,
+        "coverage_wilson": [
+          0.9359102127281518,
+          0.9502387610738832
+        ],
+        "mean_interval_width": 0.3605392484414064,
+        "rejection_0.05": 0.053,
+        "rejection_wilson_0.05": [
+          0.046476220676243206,
+          0.06038152162474993
+        ],
+        "rejection_0.0125": 0.01475,
+        "rejection_wilson_0.0125": [
+          0.011452618231140022,
+          0.018978521481515274
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": true,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "parent-shift0.025-effect0.025",
+        "dependence": "parent",
+        "training_shift": 0.025,
+        "effect": 0.025,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0005202546296296309,
+        "coverage": 0.946,
+        "coverage_wilson": [
+          0.9385581514923739,
+          0.9525860250932124
+        ],
+        "mean_interval_width": 0.3709968667398617,
+        "rejection_0.05": 0.09525,
+        "rejection_wilson_0.05": [
+          0.08653706179623596,
+          0.10473960754677739
+        ],
+        "rejection_0.0125": 0.02375,
+        "rejection_wilson_0.0125": [
+          0.019468329415510265,
+          0.028945540317930403
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "parent-shift0.025-effect0.05",
+        "dependence": "parent",
+        "training_shift": 0.025,
+        "effect": 0.05,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.00039856150793651096,
+        "coverage": 0.938,
+        "coverage_wilson": [
+          0.930098187642426,
+          0.9450613400357953
+        ],
+        "mean_interval_width": 0.38483734628418687,
+        "rejection_0.05": 0.131,
+        "rejection_wilson_0.05": [
+          0.12089710361229147,
+          0.14181096553550823
+        ],
+        "rejection_0.0125": 0.04275,
+        "rejection_wilson_0.0125": [
+          0.03690736637325445,
+          0.04947004451517757
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": false
+      },
+      {
+        "key": "parent-shift0.025-effect0.1",
+        "dependence": "parent",
+        "training_shift": 0.025,
+        "effect": 0.1,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0011952904541446124,
+        "coverage": 0.9375,
+        "coverage_wilson": [
+          0.9295706779458726,
+          0.9445898091756386
+        ],
+        "mean_interval_width": 0.40826805558110585,
+        "rejection_0.05": 0.2545,
+        "rejection_wilson_0.05": [
+          0.2412414551348824,
+          0.2682296315203611
+        ],
+        "rejection_0.0125": 0.099,
+        "rejection_wilson_0.0125": [
+          0.09012571929661306,
+          0.10864375422172753
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "component-shift0.0-effect0.0",
+        "dependence": "component",
+        "training_shift": 0.0,
+        "effect": 0.0,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0007335868606701943,
+        "coverage": 0.952,
+        "coverage_wilson": [
+          0.9449307616636636,
+          0.9582019016024462
+        ],
+        "mean_interval_width": 0.35396811377692994,
+        "rejection_0.05": 0.04725,
+        "rejection_wilson_0.05": [
+          0.04109801024846582,
+          0.05427076565035889
+        ],
+        "rejection_0.0125": 0.012,
+        "rejection_wilson_0.0125": [
+          0.009063156390579401,
+          0.01587326026016925
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": true,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "component-shift0.0-effect0.025",
+        "dependence": "component",
+        "training_shift": 0.0,
+        "effect": 0.025,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0012784060846560835,
+        "coverage": 0.94775,
+        "coverage_wilson": [
+          0.9404141715113069,
+          0.9542266470227655
+        ],
+        "mean_interval_width": 0.37077127885519556,
+        "rejection_0.05": 0.0865,
+        "rejection_wilson_0.05": [
+          0.07818062719997478,
+          0.09561283240060835
+        ],
+        "rejection_0.0125": 0.01925,
+        "rejection_wilson_0.0125": [
+          0.015430305811551068,
+          0.023992198911496912
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "component-shift0.0-effect0.05",
+        "dependence": "component",
+        "training_shift": 0.0,
+        "effect": 0.05,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 7.041170634920074e-05,
+        "coverage": 0.9525,
+        "coverage_wilson": [
+          0.9454630269931453,
+          0.9586686768296749
+        ],
+        "mean_interval_width": 0.38755204623732037,
+        "rejection_0.05": 0.128,
+        "rejection_wilson_0.05": [
+          0.11800236757120135,
+          0.1387114582363366
+        ],
+        "rejection_0.0125": 0.03375,
+        "rejection_wilson_0.0125": [
+          0.028585882635801245,
+          0.0398087982318454
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": false
+      },
+      {
+        "key": "component-shift0.0-effect0.1",
+        "dependence": "component",
+        "training_shift": 0.0,
+        "effect": 0.1,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.00161517857142858,
+        "coverage": 0.94375,
+        "coverage_wilson": [
+          0.9361748266374861,
+          0.950473667442904
+        ],
+        "mean_interval_width": 0.41064718629933594,
+        "rejection_0.05": 0.25,
+        "rejection_wilson_0.05": [
+          0.2368251990662288,
+          0.263654522578622
+        ],
+        "rejection_0.0125": 0.09,
+        "rejection_wilson_0.0125": [
+          0.08152020169747756,
+          0.09926654180007766
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "component-shift0.025-effect0.0",
+        "dependence": "component",
+        "training_shift": 0.025,
+        "effect": 0.0,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 0.0009946456128747804,
+        "coverage": 0.9365,
+        "coverage_wilson": [
+          0.9285160642336746,
+          0.943646341774416
+        ],
+        "mean_interval_width": 0.3627440078591122,
+        "rejection_0.05": 0.05475,
+        "rejection_wilson_0.05": [
+          0.04811772883093955,
+          0.062236655418539635
+        ],
+        "rejection_0.0125": 0.014,
+        "rejection_wilson_0.0125": [
+          0.010797286711653527,
+          0.01813529216593632
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": true,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "component-shift0.025-effect0.025",
+        "dependence": "component",
+        "training_shift": 0.025,
+        "effect": 0.025,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.0017484099426807766,
+        "coverage": 0.943,
+        "coverage_wilson": [
+          0.9353811019007902,
+          0.9497688313445344
+        ],
+        "mean_interval_width": 0.37049175951324304,
+        "rejection_0.05": 0.08325,
+        "rejection_wilson_0.05": [
+          0.07508339886669244,
+          0.09221629711527377
+        ],
+        "rejection_0.0125": 0.02275,
+        "rejection_wilson_0.0125": [
+          0.018566727412319083,
+          0.027849061207700986
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      },
+      {
+        "key": "component-shift0.025-effect0.05",
+        "dependence": "component",
+        "training_shift": 0.025,
+        "effect": 0.05,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": -0.00029720017636684914,
+        "coverage": 0.94475,
+        "coverage_wilson": [
+          0.9372336779726775,
+          0.9514128972211331
+        ],
+        "mean_interval_width": 0.3855630985223063,
+        "rejection_0.05": 0.133,
+        "rejection_wilson_0.05": [
+          0.12282793635418357,
+          0.14387629502045732
+        ],
+        "rejection_0.0125": 0.0385,
+        "rejection_wilson_0.0125": [
+          0.03296679038311427,
+          0.04491877577328021
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": false
+      },
+      {
+        "key": "component-shift0.025-effect0.1",
+        "dependence": "component",
+        "training_shift": 0.025,
+        "effect": 0.1,
+        "trials": 4000,
+        "degenerate_trials": 0,
+        "bias": 0.0016909088403880002,
+        "coverage": 0.9405,
+        "coverage_wilson": [
+          0.9327378266364695,
+          0.9474169038253034
+        ],
+        "mean_interval_width": 0.40965080562366174,
+        "rejection_0.05": 0.25775,
+        "rejection_wilson_0.05": [
+          0.2444321537577913,
+          0.27153269651606915
+        ],
+        "rejection_0.0125": 0.11325,
+        "rejection_wilson_0.0125": [
+          0.10379817093905991,
+          0.1234439584455242
+        ],
+        "coverage_screen_pass": true,
+        "null_screen_pass": null,
+        "practical_effect_screen_pass": null
+      }
+    ],
+    "joint_patch_ids": [
+      "dw_-17.0885201459_63.8796830500-20170830__r2c0",
+      "dw_-22.5991998634_65.0263168051-20170521__r2c2",
+      "dw_-22.5991998634_65.0263168051-20170521__r3c2",
+      "dw_-22.5991998634_65.0263168051-20170521__r3c3",
+      "dw_-3.9589394764_15.8586613852-20191114__r0c0",
+      "dw_-37.7561031964_-4.4983595411-20190809__r0c1",
+      "dw_-37.7561031964_-4.4983595411-20190809__r0c2",
+      "dw_-37.7561031964_-4.4983595411-20190809__r1c2",
+      "dw_-37.7561031964_-4.4983595411-20190809__r2c1",
+      "dw_-64.7649590096_-21.4757336818-20190824__r0c0",
+      "dw_-69.3961005418_-19.1824661715-20190308__r0c0",
+      "dw_-69.3961005418_-19.1824661715-20190308__r0c1",
+      "dw_-69.3961005418_-19.1824661715-20190308__r0c2",
+      "dw_-69.3961005418_-19.1824661715-20190308__r0c3",
+      "dw_-69.3961005418_-19.1824661715-20190308__r1c0",
+      "dw_-69.3961005418_-19.1824661715-20190308__r1c1",
+      "dw_-69.3961005418_-19.1824661715-20190308__r1c2",
+      "dw_-69.3961005418_-19.1824661715-20190308__r1c3",
+      "dw_-69.3961005418_-19.1824661715-20190308__r2c0",
+      "dw_-69.3961005418_-19.1824661715-20190308__r2c1",
+      "dw_-69.3961005418_-19.1824661715-20190308__r2c2",
+      "dw_-69.3961005418_-19.1824661715-20190308__r2c3",
+      "dw_-69.3961005418_-19.1824661715-20190308__r3c0",
+      "dw_-69.3961005418_-19.1824661715-20190308__r3c1",
+      "dw_-69.3961005418_-19.1824661715-20190308__r3c2",
+      "dw_-69.3961005418_-19.1824661715-20190308__r3c3",
+      "dw_-69.5585363945_6.0236913882-20190123__r1c1",
+      "dw_-71.8353625474_-16.4098607856-20190609__r0c2",
+      "dw_-71.8353625474_-16.4098607856-20190609__r0c3",
+      "dw_-71.8353625474_-16.4098607856-20190609__r1c3",
+      "dw_-81.1123409937_-6.0317011509-20190321__r1c3",
+      "dw_-81.1123409937_-6.0317011509-20190321__r2c3",
+      "dw_-88.2299785941_52.3971577280-20190527__r3c2",
+      "dw_-88.2299785941_52.3971577280-20190527__r3c3",
+      "dw_11.8053433335_65.6306602431-20190616__r0c1",
+      "dw_11.8053433335_65.6306602431-20190616__r0c2",
+      "dw_11.8053433335_65.6306602431-20190616__r1c1",
+      "dw_11.8053433335_65.6306602431-20190616__r2c0",
+      "dw_11.8053433335_65.6306602431-20190616__r2c1",
+      "dw_11.8053433335_65.6306602431-20190616__r2c2",
+      "dw_149.4255703649_-33.4924554355-20190212__r2c1",
+      "dw_149.4255703649_-33.4924554355-20190212__r2c2",
+      "dw_28.5301207950_31.0400923031-20170420__r1c2",
+      "dw_34.8147866077_28.5174980418-20170421__r2c1",
+      "dw_35.0221595322_31.0832596915-20190516__r0c1",
+      "dw_35.0221595322_31.0832596915-20190516__r0c2",
+      "dw_35.0221595322_31.0832596915-20190516__r0c3",
+      "dw_35.0221595322_31.0832596915-20190516__r1c0",
+      "dw_35.0221595322_31.0832596915-20190516__r1c1",
+      "dw_35.0221595322_31.0832596915-20190516__r1c2",
+      "dw_35.0221595322_31.0832596915-20190516__r1c3",
+      "dw_35.0221595322_31.0832596915-20190516__r2c0",
+      "dw_35.0221595322_31.0832596915-20190516__r2c1",
+      "dw_41.2994838569_57.4126686711-20190904__r2c2",
+      "dw_46.8261330958_48.2395986300-20190410__r0c0",
+      "dw_46.8261330958_48.2395986300-20190410__r0c2",
+      "dw_46.8261330958_48.2395986300-20190410__r1c2",
+      "dw_46.8261330958_48.2395986300-20190410__r1c3",
+      "dw_46.8261330958_48.2395986300-20190410__r2c3",
+      "dw_46.8261330958_48.2395986300-20190410__r3c0",
+      "dw_46.8261330958_48.2395986300-20190410__r3c3",
+      "dw_96.0496415199_56.2660349159-20190630__r1c1"
+    ]
+  },
+  "text_span": {
+    "results": [
+      {
+        "reference": "qwen_instructed",
+        "rank": 5,
+        "singular_values": [
+          1.8919261607973927,
+          0.678788475028173,
+          0.6168984076916812,
+          0.5890133521643768,
+          0.48203862274606385
+        ],
+        "projection_audit_error": 7.008282842946301e-16,
+        "classes": [
+          {
+            "class": "Water",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000002,
+            "box_margin": 0.8397740439663985,
+            "verified_unit_direction_margin": 0.41937253564913235,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.1102230246251565e-16,
+            "cosine_scores": [
+              0.5084404587428878,
+              0.012807963854863824,
+              0.08906792309375527,
+              0.08906792309375541,
+              -0.06044089753969405,
+              -0.1543962393738266,
+              -0.26944990824155735,
+              0.037218116743316945
+            ]
+          },
+          {
+            "class": "Trees",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.000000000000001,
+            "box_margin": 1.0840674967206128,
+            "verified_unit_direction_margin": 0.48480972297306335,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.1102230246251565e-16,
+            "cosine_scores": [
+              0.2513114810733864,
+              0.8404207331816502,
+              0.33227227032671064,
+              0.19010290330069934,
+              0.3556110102085869,
+              0.2832977342181541,
+              0.33784435863667006,
+              0.2988067400794252
+            ]
+          },
+          {
+            "class": "Grass",
+            "role": "test",
+            "maximum_attainable_cosine": 0.901525702788433,
+            "box_margin": 0.02042577881685824,
+            "verified_unit_direction_margin": 0.019679799788389074,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.3877787807814457e-17,
+            "cosine_scores": [
+              0.8379966442440935,
+              0.8379966442440931,
+              0.8576764440324828,
+              0.7309177101701411,
+              0.8007155439039425,
+              0.8379966442440927,
+              0.8379966442440936,
+              0.8379966442440937
+            ]
+          },
+          {
+            "class": "Flooded_Vegetation",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.000000000000001,
+            "box_margin": 0.7830985516753853,
+            "verified_unit_direction_margin": 0.3902805295976705,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 0.0,
+            "cosine_scores": [
+              0.4166772974925222,
+              0.4166772974925219,
+              0.36759200195617486,
+              0.8069578270901927,
+              0.333398943480398,
+              0.3860026026981833,
+              0.049299076099887346,
+              0.19749290637451403
+            ]
+          },
+          {
+            "class": "Crops",
+            "role": "validation",
+            "maximum_attainable_cosine": 0.8222363572335899,
+            "box_margin": 0.015378343435936893,
+            "verified_unit_direction_margin": 0.015180710562565647,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 2.7755575615628914e-17,
+            "cosine_scores": [
+              -0.9003598823223726,
+              -0.8191473300499252,
+              -0.8636653825205594,
+              -0.8191473300499252,
+              -0.8039666194873591,
+              -0.8191473300499248,
+              -0.8191473300499257,
+              -0.8191473300499258
+            ]
+          },
+          {
+            "class": "Scrub",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000013,
+            "box_margin": 0.6036951469731598,
+            "verified_unit_direction_margin": 0.2759801968304534,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 5.551115123125783e-17,
+            "cosine_scores": [
+              0.2100256176808026,
+              0.17827189810845723,
+              0.5196117813175345,
+              0.5223770079684509,
+              0.41992027083054484,
+              0.7983572047989045,
+              0.21989194626755246,
+              0.5223770079684511
+            ]
+          },
+          {
+            "class": "Built_Area",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000004,
+            "box_margin": 0.8893404204384673,
+            "verified_unit_direction_margin": 0.42953217166251406,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": -1.1102230246251565e-16,
+            "cosine_scores": [
+              0.11835983632159959,
+              -0.030713098361916658,
+              0.09891597605117658,
+              0.26478468610310096,
+              0.2647846861031015,
+              0.061683351903903096,
+              0.6943168577656156,
+              0.1047914249656102
+            ]
+          },
+          {
+            "class": "Bare_Ground",
+            "role": "test",
+            "maximum_attainable_cosine": 0.9055553573132443,
+            "box_margin": 0.3052205231100195,
+            "verified_unit_direction_margin": 0.17433972010354454,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 5.551115123125783e-17,
+            "cosine_scores": [
+              -0.3144621452601971,
+              -0.6416947752220974,
+              -0.32301752092774355,
+              -0.8102221583859389,
+              -0.41154702372593627,
+              -0.31446214526019617,
+              -0.31446214526019667,
+              -0.14012242515665163
+            ]
+          }
+        ]
+      },
+      {
+        "reference": "qwen_plain",
+        "rank": 5,
+        "singular_values": [
+          1.9388117231721242,
+          0.627070124324036,
+          0.6150693575883612,
+          0.5135878517925272,
+          0.4535519431306089
+        ],
+        "projection_audit_error": 2.095545958979983e-15,
+        "classes": [
+          {
+            "class": "Water",
+            "role": "fit",
+            "maximum_attainable_cosine": 0.9999999999999982,
+            "box_margin": 0.727746660655304,
+            "verified_unit_direction_margin": 0.44095904158590377,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 0.0,
+            "cosine_scores": [
+              0.6924586145842095,
+              0.2514995729983058,
+              0.25149957299830517,
+              0.2514995729983053,
+              0.16671466123156176,
+              -0.009245643555479088,
+              0.2514995729983055,
+              0.23553109647159387
+            ]
+          },
+          {
+            "class": "Trees",
+            "role": "fit",
+            "maximum_attainable_cosine": 0.9999999999999996,
+            "box_margin": 0.8920404728239094,
+            "verified_unit_direction_margin": 0.49318457309195635,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.1102230246251565e-16,
+            "cosine_scores": [
+              -0.04842898402522959,
+              0.5002437850582683,
+              0.007059211966311802,
+              -0.1844458897766635,
+              0.007059211966311894,
+              -0.10087927705184101,
+              0.007059211966311919,
+              -0.0458429506143128
+            ]
+          },
+          {
+            "class": "Grass",
+            "role": "test",
+            "maximum_attainable_cosine": 0.9119380280507956,
+            "box_margin": 0.015202611334751431,
+            "verified_unit_direction_margin": 0.010324229999818413,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 6.938893903907228e-17,
+            "cosine_scores": [
+              0.7115042676593202,
+              0.7115042676593193,
+              0.7218284976591386,
+              0.33841227613898395,
+              0.5186714142849619,
+              0.7115042676593188,
+              0.4689692942170337,
+              0.7115042676593188
+            ]
+          },
+          {
+            "class": "Flooded_Vegetation",
+            "role": "fit",
+            "maximum_attainable_cosine": 0.9999999999999997,
+            "box_margin": 0.893394487756708,
+            "verified_unit_direction_margin": 0.44102024447075105,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 0.0,
+            "cosine_scores": [
+              0.39336893450097665,
+              0.3933689345009764,
+              0.29737699880043705,
+              0.8343891789717277,
+              0.3208997238997422,
+              0.2622298227143696,
+              0.24768436642981673,
+              0.19002872855692735
+            ]
+          },
+          {
+            "class": "Crops",
+            "role": "validation",
+            "maximum_attainable_cosine": 0.7881262619876982,
+            "box_margin": 0.08267466598634407,
+            "verified_unit_direction_margin": 0.08227034792928056,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.3877787807814457e-17,
+            "cosine_scores": [
+              -0.9099179710371652,
+              -0.8510732592407324,
+              -0.8786746777880844,
+              -0.851073259240732,
+              -0.7688029113114507,
+              -0.8510732592407313,
+              -0.8510732592407327,
+              -0.8510732592407313
+            ]
+          },
+          {
+            "class": "Scrub",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000004,
+            "box_margin": 0.5418186891953396,
+            "verified_unit_direction_margin": 0.265185446101449,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.3877787807814457e-16,
+            "cosine_scores": [
+              -0.6824476071506448,
+              -0.4444824970865321,
+              -0.33408742484753906,
+              -0.33408742484753895,
+              -0.33408742484753917,
+              -0.06890197874608997,
+              -0.601050782553592,
+              -0.33931658711800744
+            ]
+          },
+          {
+            "class": "Built_Area",
+            "role": "fit",
+            "maximum_attainable_cosine": 0.9999999999999986,
+            "box_margin": 0.7396028313194349,
+            "verified_unit_direction_margin": 0.3668488419773307,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.942890293094024e-16,
+            "cosine_scores": [
+              0.44262984853772214,
+              0.15586176436971352,
+              0.35899315101009743,
+              0.44262984853772136,
+              0.44262984853772136,
+              0.3129087048100311,
+              0.8094786905150528,
+              0.4345249092230184
+            ]
+          },
+          {
+            "class": "Bare_Ground",
+            "role": "test",
+            "maximum_attainable_cosine": 0.903366984823803,
+            "box_margin": 0.19250170575834147,
+            "verified_unit_direction_margin": 0.10278750822486887,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.3877787807814457e-16,
+            "cosine_scores": [
+              -0.31869576392133936,
+              -0.529607107978037,
+              -0.327876581899872,
+              -0.8229247928481243,
+              -0.37215003738500063,
+              -0.31869576392133825,
+              -0.3186957639213387,
+              -0.21590825569646938
+            ]
+          }
+        ]
+      },
+      {
+        "reference": "mpnet_plain",
+        "rank": 5,
+        "singular_values": [
+          1.760700236209514,
+          0.8655635035316477,
+          0.7910804985053551,
+          0.559078927405182,
+          0.4608219801417617
+        ],
+        "projection_audit_error": 1.0807327255335508e-15,
+        "classes": [
+          {
+            "class": "Water",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000007,
+            "box_margin": 1.1658340810695833,
+            "verified_unit_direction_margin": 0.5614508684346377,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 0.0,
+            "cosine_scores": [
+              0.18760338749011787,
+              -0.4906103239045987,
+              -0.47651227761303877,
+              -0.45044237512006957,
+              -0.404013744245945,
+              -0.7121649412488743,
+              -0.3738474809445198,
+              -0.3738474809445201
+            ]
+          },
+          {
+            "class": "Trees",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000009,
+            "box_margin": 0.854331870991367,
+            "verified_unit_direction_margin": 0.3820688277762551,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 0.0,
+            "cosine_scores": [
+              -0.05375468839841829,
+              0.8352616566032814,
+              0.45319282882702633,
+              0.3093186165779397,
+              0.34787425899888313,
+              0.39146547485127614,
+              0.2247780548036337,
+              0.2972979899900465
+            ]
+          },
+          {
+            "class": "Grass",
+            "role": "test",
+            "maximum_attainable_cosine": 0.7980974097815047,
+            "box_margin": 0.05322428922572948,
+            "verified_unit_direction_margin": 0.04084303747851603,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 5.551115123125783e-17,
+            "cosine_scores": [
+              -0.5267007010998148,
+              -0.5267007010998148,
+              -0.48585766362129856,
+              -0.5267007010998148,
+              -0.5267007010998146,
+              -0.5267007010998155,
+              -0.9764221898883014,
+              -0.6190201005333578
+            ]
+          },
+          {
+            "class": "Flooded_Vegetation",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000002,
+            "box_margin": 1.0202652311811868,
+            "verified_unit_direction_margin": 0.5025968845495308,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": -1.1102230246251565e-16,
+            "cosine_scores": [
+              0.37097873100405204,
+              0.13696437807044012,
+              0.3262577994293376,
+              0.873575615553583,
+              0.1571713705498761,
+              0.3709787310040522,
+              0.1506218824069694,
+              0.16433592010972395
+            ]
+          },
+          {
+            "class": "Crops",
+            "role": "validation",
+            "maximum_attainable_cosine": 0.6311342291438272,
+            "box_margin": 0.2019712050270833,
+            "verified_unit_direction_margin": 0.15661872057630666,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.3877787807814457e-16,
+            "cosine_scores": [
+              -0.9502247457192335,
+              -0.5329241860126505,
+              -0.53292418601265,
+              -0.5329241860126503,
+              -0.37630546543634324,
+              -0.532924186012651,
+              -0.5329241860126499,
+              -0.6638905680341171
+            ]
+          },
+          {
+            "class": "Scrub",
+            "role": "fit",
+            "maximum_attainable_cosine": 0.9999999999999998,
+            "box_margin": 0.7314322040248005,
+            "verified_unit_direction_margin": 0.32710642582639005,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.1102230246251565e-16,
+            "cosine_scores": [
+              -0.032764887541736995,
+              0.3889242805213885,
+              0.4878913963071645,
+              0.21644648251290807,
+              0.3815473370052314,
+              0.847088320040273,
+              0.28854230959156607,
+              0.519981894213883
+            ]
+          },
+          {
+            "class": "Built_Area",
+            "role": "fit",
+            "maximum_attainable_cosine": 1.0000000000000009,
+            "box_margin": 1.0379112937115942,
+            "verified_unit_direction_margin": 0.46416804147077484,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": -1.1102230246251565e-16,
+            "cosine_scores": [
+              0.08679777869040584,
+              0.26777593882399175,
+              0.24394097383712848,
+              0.32001208128642555,
+              0.39214548594342424,
+              0.2916875088164115,
+              0.8563135274141991,
+              0.3335470669258147
+            ]
+          },
+          {
+            "class": "Bare_Ground",
+            "role": "test",
+            "maximum_attainable_cosine": 0.8331015731731042,
+            "box_margin": 0.1769099883077395,
+            "verified_unit_direction_margin": 0.14751514470161237,
+            "top1_direction_exists": true,
+            "solver_status": 0,
+            "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+            "constraint_max_residual": 1.1102230246251565e-16,
+            "cosine_scores": [
+              -0.012550549589548949,
+              -0.012550549589549004,
+              -0.07988680208192334,
+              -0.6239219559580389,
+              -0.012550549589548795,
+              -0.012550549589548956,
+              -0.012550549589548644,
+              0.1349645951120637
+            ]
+          }
+        ]
+      }
+    ],
+    "roles": {
+      "fit": [
+        "Built_Area",
+        "Flooded_Vegetation",
+        "Scrub",
+        "Trees",
+        "Water"
+      ],
+      "validation": "Crops",
+      "test": [
+        "Bare_Ground",
+        "Grass"
+      ],
+      "strict_fit_parents": 78,
+      "validation_parents": 15,
+      "fitting_class_parents": {
+        "Built_Area": 10,
+        "Flooded_Vegetation": 5,
+        "Scrub": 11,
+        "Trees": 31,
+        "Water": 33
+      },
+      "four_cell_parent_counts": {
+        "known_fit": {
+          "Built_Area": 35,
+          "Flooded_Vegetation": 8,
+          "Scrub": 42,
+          "Trees": 95,
+          "Water": 60
+        },
+        "known_test": {
+          "Built_Area": 22,
+          "Flooded_Vegetation": 8,
+          "Scrub": 24,
+          "Trees": 67,
+          "Water": 45
+        },
+        "heldout_fit": {
+          "Bare_Ground": 14,
+          "Grass": 20
+        },
+        "heldout_test": {
+          "Bare_Ground": 18,
+          "Grass": 9
+        }
+      },
+      "passes_minimal_support": true
+    }
+  }
+}

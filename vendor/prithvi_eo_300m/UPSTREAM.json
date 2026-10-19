@@ -1,0 +1,11 @@
+{
+  "repository": "ibm-nasa-geospatial/Prithvi-EO-2.0-300M",
+  "revision": "9eb1b1102806593963daa333bcc491b1c6f8562f",
+  "licence": "Apache-2.0",
+  "modifications": "none",
+  "files": {
+    "prithvi_mae.py": "9cee9a8cb17c3859d6365a7e58f723e0f4c08e3e29aa4b8e6523506db70321da",
+    "config.json": "748bc314d9b0653b00e3a2eaf14b69b4c27a295d73eb0b85112fe21bd2c36aa8",
+    "README.md": "0f85c7d59f91566bd7c8a11793ad0e4a342d22b88bd8d470a7a27c1f5ed53917"
+  }
+}

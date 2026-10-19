@@ -1,0 +1,14 @@
+[
+  {
+    "name": "validation_set_tiles.zip",
+    "url": "https://download.pangaea.de/dataset/933475/files/validation_set_tiles.zip",
+    "bytes": 30430798,
+    "sha256": "6704ffd009a6445cef62ff40dd9fe62172d0930884bc68bf43a67601bb99b090"
+  },
+  {
+    "name": "Experts_tiles.zip",
+    "url": "https://download.pangaea.de/dataset/933475/files/Experts_tiles.zip",
+    "bytes": 50158298,
+    "sha256": "63bc6c4fefcf6192411a101c8c289701e27c030234ac9059571950ed55760623"
+  }
+]

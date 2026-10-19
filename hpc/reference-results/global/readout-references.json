@@ -1,0 +1,670 @@
+{
+  "author": "James Edward Ball",
+  "status": "Post-hoc review diagnostic; not part of frozen study",
+  "manifest_sha256": "9ad0d7c52eb8676d790a65217c800e05dff21f1389e80655e956eba55af671e2",
+  "uniform_random_full_gallery_expected_rr": 0.3397321428571428,
+  "uniform_random_full_gallery_expected_top1": 0.125,
+  "references": {
+    "qwen_instructed": {
+      "folds": [
+        {
+          "held_categories": null,
+          "n_test": 13782,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.4425324693301976,
+              "top1": 0.21593382673051806,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Bare_Ground",
+                "Scrub",
+                "Crops",
+                "Water",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.4088607293696996,
+              "top1": 0.21593382673051806,
+              "constant_rank_order": [
+                "Grass",
+                "Crops",
+                "Scrub",
+                "Bare_Ground",
+                "Water",
+                "Flooded_Vegetation",
+                "Trees",
+                "Built_Area"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.8283354663287769,
+            "prithvi": 0.8161537845194051,
+            "prithvi100": 0.8126922491496353
+          }
+        },
+        {
+          "held_categories": [
+            "Water",
+            "Trees"
+          ],
+          "n_test": 4463,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.15432142316519443,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Bare_Ground",
+                "Scrub",
+                "Crops",
+                "Water",
+                "Flooded_Vegetation",
+                "Built_Area",
+                "Trees"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.14128967953621901,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Scrub",
+                "Crops",
+                "Bare_Ground",
+                "Flooded_Vegetation",
+                "Water",
+                "Built_Area",
+                "Trees"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.19021386270893761,
+            "prithvi": 0.16080624130770602,
+            "prithvi100": 0.1904397117767882
+          }
+        },
+        {
+          "held_categories": [
+            "Grass",
+            "Flooded_Vegetation"
+          ],
+          "n_test": 3974,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.41971409700055884,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Trees",
+                "Grass",
+                "Crops",
+                "Water",
+                "Bare_Ground",
+                "Scrub",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.8032995376513692,
+              "top1": 0.7488676396577756,
+              "constant_rank_order": [
+                "Grass",
+                "Bare_Ground",
+                "Crops",
+                "Scrub",
+                "Water",
+                "Built_Area",
+                "Trees",
+                "Flooded_Vegetation"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.34099254176259625,
+            "prithvi": 0.33529341054810224,
+            "prithvi100": 0.34325827696067507
+          }
+        },
+        {
+          "held_categories": [
+            "Crops",
+            "Scrub"
+          ],
+          "n_test": 2768,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.17856544493888565,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Water",
+                "Bare_Ground",
+                "Scrub",
+                "Crops",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.18810122172778102,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Water",
+                "Flooded_Vegetation",
+                "Bare_Ground",
+                "Crops",
+                "Scrub",
+                "Trees",
+                "Built_Area"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.3111887359696589,
+            "prithvi": 0.31394907373995173,
+            "prithvi100": 0.3168439915747667
+          }
+        },
+        {
+          "held_categories": [
+            "Built_Area",
+            "Bare_Ground"
+          ],
+          "n_test": 2577,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.14660257701153645,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Crops",
+                "Water",
+                "Scrub",
+                "Bare_Ground",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.14660257701153645,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Crops",
+                "Scrub",
+                "Flooded_Vegetation",
+                "Water",
+                "Bare_Ground",
+                "Trees",
+                "Built_Area"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.2196073916603466,
+            "prithvi": 0.22270416226834056,
+            "prithvi100": 0.22228153599615053
+          }
+        }
+      ],
+      "heldout_average": {
+        "train_frequency": 0.22480088552904381,
+        "uniform_permitted_categories": 0.31982325398172645
+      },
+      "heldout_trained": {
+        "clay": 0.26550063302538485,
+        "prithvi": 0.25818822196602514,
+        "prithvi100": 0.26820587907709514
+      }
+    },
+    "qwen_plain": {
+      "folds": [
+        {
+          "held_categories": null,
+          "n_test": 13782,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.4425676410382985,
+              "top1": 0.21593382673051806,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Bare_Ground",
+                "Scrub",
+                "Water",
+                "Crops",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.4129060807989524,
+              "top1": 0.21593382673051806,
+              "constant_rank_order": [
+                "Grass",
+                "Bare_Ground",
+                "Scrub",
+                "Water",
+                "Crops",
+                "Trees",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.8261081933480547,
+            "prithvi": 0.8113324291439046,
+            "prithvi100": 0.8098388526591025
+          }
+        },
+        {
+          "held_categories": [
+            "Water",
+            "Trees"
+          ],
+          "n_test": 4463,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.17969841029564187,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Bare_Ground",
+                "Scrub",
+                "Crops",
+                "Water",
+                "Trees",
+                "Built_Area",
+                "Flooded_Vegetation"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.13198129122980815,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Bare_Ground",
+                "Scrub",
+                "Crops",
+                "Built_Area",
+                "Flooded_Vegetation",
+                "Water",
+                "Trees"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.20783348187864015,
+            "prithvi": 0.18252500959851226,
+            "prithvi100": 0.20847693382913626
+          }
+        },
+        {
+          "held_categories": [
+            "Grass",
+            "Flooded_Vegetation"
+          ],
+          "n_test": 3974,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.4156998018505868,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Trees",
+                "Grass",
+                "Bare_Ground",
+                "Scrub",
+                "Water",
+                "Crops",
+                "Built_Area",
+                "Flooded_Vegetation"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.4156998018505868,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Bare_Ground",
+                "Grass",
+                "Scrub",
+                "Built_Area",
+                "Crops",
+                "Water",
+                "Trees",
+                "Flooded_Vegetation"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.35711738396539333,
+            "prithvi": 0.3517037518969338,
+            "prithvi100": 0.35202276115093134
+          }
+        },
+        {
+          "held_categories": [
+            "Crops",
+            "Scrub"
+          ],
+          "n_test": 2768,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.1811032158749896,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Bare_Ground",
+                "Scrub",
+                "Water",
+                "Flooded_Vegetation",
+                "Crops",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.16962041852082127,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Bare_Ground",
+                "Water",
+                "Scrub",
+                "Flooded_Vegetation",
+                "Trees",
+                "Built_Area",
+                "Crops"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.2596074459428396,
+            "prithvi": 0.2556934614631365,
+            "prithvi100": 0.25662022337642015
+          }
+        },
+        {
+          "held_categories": [
+            "Built_Area",
+            "Bare_Ground"
+          ],
+          "n_test": 2577,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.1898077310346095,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Scrub",
+                "Bare_Ground",
+                "Water",
+                "Crops",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.1898077310346095,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Scrub",
+                "Flooded_Vegetation",
+                "Bare_Ground",
+                "Water",
+                "Trees",
+                "Crops",
+                "Built_Area"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.24930623015596498,
+            "prithvi": 0.2456584759979955,
+            "prithvi100": 0.23102756061911375
+          }
+        }
+      ],
+      "heldout_average": {
+        "train_frequency": 0.24157728976395693,
+        "uniform_permitted_categories": 0.22677731065895643
+      },
+      "heldout_trained": {
+        "clay": 0.2684661354857095,
+        "prithvi": 0.2588951747391445,
+        "prithvi100": 0.26203686974390034
+      }
+    },
+    "mpnet_plain": {
+      "folds": [
+        {
+          "held_categories": null,
+          "n_test": 13782,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.4412584660486274,
+              "top1": 0.21593382673051806,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Bare_Ground",
+                "Scrub",
+                "Crops",
+                "Flooded_Vegetation",
+                "Water",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.3726847787774088,
+              "top1": 0.13916702945871426,
+              "constant_rank_order": [
+                "Bare_Ground",
+                "Grass",
+                "Scrub",
+                "Trees",
+                "Flooded_Vegetation",
+                "Crops",
+                "Built_Area",
+                "Water"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.8277538750440889,
+            "prithvi": 0.8188433010782852,
+            "prithvi100": 0.8116792681415517
+          }
+        },
+        {
+          "held_categories": [
+            "Water",
+            "Trees"
+          ],
+          "n_test": 4463,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.1706785768348057,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Bare_Ground",
+                "Scrub",
+                "Crops",
+                "Trees",
+                "Flooded_Vegetation",
+                "Built_Area",
+                "Water"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.1706785768348057,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Bare_Ground",
+                "Grass",
+                "Scrub",
+                "Crops",
+                "Trees",
+                "Flooded_Vegetation",
+                "Built_Area",
+                "Water"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.2654307074881283,
+            "prithvi": 0.2432590890921201,
+            "prithvi100": 0.24924536745896828
+          }
+        },
+        {
+          "held_categories": [
+            "Grass",
+            "Flooded_Vegetation"
+          ],
+          "n_test": 3974,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.22591422910016748,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Trees",
+                "Bare_Ground",
+                "Scrub",
+                "Grass",
+                "Crops",
+                "Water",
+                "Flooded_Vegetation",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.22189993395019547,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Bare_Ground",
+                "Scrub",
+                "Trees",
+                "Grass",
+                "Crops",
+                "Built_Area",
+                "Water",
+                "Flooded_Vegetation"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.3018052132614946,
+            "prithvi": 0.3016569447841261,
+            "prithvi100": 0.301268887613961
+          }
+        },
+        {
+          "held_categories": [
+            "Crops",
+            "Scrub"
+          ],
+          "n_test": 2768,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.19641361234721408,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Trees",
+                "Grass",
+                "Bare_Ground",
+                "Scrub",
+                "Flooded_Vegetation",
+                "Crops",
+                "Water",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.16962041852082127,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Bare_Ground",
+                "Grass",
+                "Trees",
+                "Scrub",
+                "Flooded_Vegetation",
+                "Water",
+                "Built_Area",
+                "Crops"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.2577018971244676,
+            "prithvi": 0.2534071821738869,
+            "prithvi100": 0.259009478000157
+          }
+        },
+        {
+          "held_categories": [
+            "Built_Area",
+            "Bare_Ground"
+          ],
+          "n_test": 2577,
+          "baselines": {
+            "train_frequency": {
+              "query_ap": 0.1898077310346095,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Trees",
+                "Scrub",
+                "Bare_Ground",
+                "Flooded_Vegetation",
+                "Crops",
+                "Water",
+                "Built_Area"
+              ]
+            },
+            "uniform_permitted_categories": {
+              "query_ap": 0.1898077310346095,
+              "top1": 0.0,
+              "constant_rank_order": [
+                "Grass",
+                "Scrub",
+                "Trees",
+                "Bare_Ground",
+                "Flooded_Vegetation",
+                "Crops",
+                "Water",
+                "Built_Area"
+              ]
+            }
+          },
+          "trained": {
+            "clay": 0.2421459130527207,
+            "prithvi": 0.2353609981236138,
+            "prithvi100": 0.23302447205895313
+          }
+        }
+      ],
+      "heldout_average": {
+        "train_frequency": 0.19570353732919918,
+        "uniform_permitted_categories": 0.188001665085108
+      },
+      "heldout_trained": {
+        "clay": 0.2667709327317028,
+        "prithvi": 0.25842105354343675,
+        "prithvi100": 0.26063705128300985
+      }
+    }
+  },
+  "ridge_prototype_identity_max_abs_error": 1.6653345369377348e-16
+}

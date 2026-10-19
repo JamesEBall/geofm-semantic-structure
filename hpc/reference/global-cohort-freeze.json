@@ -1,0 +1,8 @@
+{
+  "data/images.npy": "8a74db1b2aeb8ececfbe5f07a7a4f9f4afdcbfb0cd5fc79512cdd96097fa1048",
+  "data/manifest.json": "9ad0d7c52eb8676d790a65217c800e05dff21f1389e80655e956eba55af671e2",
+  "data/appearance.npy": "9a6bbefb8bdf2df8a5f8f24deb0a4fbf4ed88beb5745f573fd077b894f4e90a7",
+  "data/text.npz": "c1290aa390e4878cafdcb08b9e74be72b9f5eb75c6370645e9c6244ff73a3b28",
+  "data/text-manifest.json": "1b77ccdd3257e09768b3526486642c70ef8ef59717df1ed205b14507ee85690f",
+  "results/aggregate-report.json": "4f6b6b5eaf974da5247f6f3d97dbcfc875de5a12f6c19d74fad05b05eb4c8da6"
+}

@@ -1,0 +1,43 @@
+{
+  "author": "James Edward Ball",
+  "created_utc": "2026-10-15T19:40:20.158884+00:00",
+  "seed": "geofm-global-support-augmentation-v1",
+  "targets": [
+    {
+      "split": "val",
+      "code": 50,
+      "class": "Built_Area",
+      "blocks": 4,
+      "minimum_candidates": 10
+    },
+    {
+      "split": "test",
+      "code": 90,
+      "class": "Flooded_Vegetation",
+      "blocks": 18,
+      "minimum_candidates": 10
+    },
+    {
+      "split": "test",
+      "code": 50,
+      "class": "Built_Area",
+      "blocks": 12,
+      "minimum_candidates": 10
+    },
+    {
+      "split": "test",
+      "code": 60,
+      "class": "Bare_Ground",
+      "blocks": 4,
+      "minimum_candidates": 20
+    }
+  ],
+  "maximum_extra_blocks": 38,
+  "coarse_minimum_pixels": 8,
+  "coarse_shape": 128,
+  "attempts_per_block": 200,
+  "minimum_block_distance_km": 200,
+  "minimum_prior_distance_km": 100,
+  "original_blocks": 120,
+  "quality_gates_changed": false
+}

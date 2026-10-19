@@ -1,0 +1,286 @@
+{
+  "author": "James Edward Ball",
+  "canonical_rows": 44355,
+  "code": {
+    "code/mc/__init__.py": "0416dd9112c13c398438912a6c719fdfc5f4441c3c55a3798983f56a0eda9b0d",
+    "code/mc/cli.py": "8fa6cc5aad605e94a9cae29e7e85e70538c7dff5e746edda399f6806b3b243e8",
+    "code/mc/context.py": "26ce40afce294dc6992905a54fbae3ec6392f9b42e36d9944bd6a0c03b6222fd",
+    "code/mc/core.py": "487d7aff07b81ff971a89a160f81390b13f0f93a97fb6a56e4a29b42c9b586db",
+    "code/mc/disk.py": "641a7f13f9fd7a77fd40e88fe97bc2915941a033ee8710da036b0a77c7eb4950",
+    "code/mc/governor.py": "0b409201b719612d5f0986ab705b18180f3c4fcad20efa444ffe6463c9f53de1",
+    "code/mc/registry.py": "6b9c161cf9625960ab8351ba97f7a428ab78c0cc2931f3c50fe9341a20113b0a",
+    "code/mc/runner.py": "0f8cee4e6ec4a83c66eff02b588e12656e4be24dfead2f7b88db1c13fd676c8e",
+    "code/mc/slurm.py": "a5e3c6658b31a492271fa4af7c8f77e80e53674cc5fc27441b98e35a01a03488",
+    "code/mc/status.py": "da6224a40124ecb3dd749fb08a0d8b5efca94911a9c9d8901243f3b9c655fd14",
+    "code/mc/util.py": "4c465709b3a80247d1e57f0f79cda272834f181bb5b58dddef7768ecba6cf981",
+    "code/mc/work.py": "3243f2133646c9c33fc9ec3bff9eef2e3b9312112f726b630af1d3f6fe322113",
+    "code/mc/worker.py": "65a32bda2af8ce9a51b790457ba8998102ab014e5cf69a0d74df70e5e5057775",
+    "code/megaearth_stats/__init__.py": "e67fc1a5c04f7d7c6203472f16b8fa9340b6032b223bacd2e9c00ec8e6c8d0c4",
+    "code/megaearth_stats/bootstrap.py": "2ec73ab30d401238ae2029cfc7e0986d3339ec447af648ffbf7bef9ecf866b6c",
+    "code/megaearth_stats/canonical.py": "da617208b343aefffec88a8f7c38b646463e6fe9d3b8af97bde5d830078fb438",
+    "code/megaearth_stats/cohort.py": "680a0ef534c84612a655e45c365a269f15389b29b98ce4988aae9e322963a17c",
+    "code/megaearth_stats/folds.py": "b1dc38f96c6220661373cfe0182f7c81a8d7a8be1dd93d931b7e55d25d6ac213",
+    "code/megaearth_stats/io.py": "2999e614c83fc20807040bfbf7858106bf85f5e057bbee8dc7a15da4bb5d7855",
+    "code/megaearth_stats/metrics.py": "12132cc2b7290a07a28b4fbaf1796320fadbf49027bfa6077073554b30007850",
+    "code/megaearth_stats/qualify.py": "550bfea4087822fd7118e66ec6901ce1361ea94c1a21df7590de7f0abd8a4849",
+    "code/megaearth_stats/readout.py": "5c73fc5e7a7c80fd8f33cc087b8990b02e5c7347cf5bb1cdec8a84f0c9117326",
+    "code/megaearth_stats/ridge.py": "390dddf70aa53a06cca595b664f3a2746e8a91bcd3822fbc355b65bee489bad2",
+    "code/megaearth_stats/rsa.py": "6b2f2debc063fb442696320e54c5e7aaa7c838c5e5b952b79b2e4ebf62ba2ca8",
+    "code/megaearth_stats/study.py": "e382231fe7dcf09cfa1fbd1536e59ab2a7790b21a38dae5655201c2cd8be91ae",
+    "code/megaearth_stats/verdict.py": "7859ec45c52eaa2dfb9c4ccbcb36bddabda3c20c4162084e0ff6d78e427061fd",
+    "code/p0/README.md": "1917b109d9d8e93c8aa99399fb078e42741fe4757ea49e776fd763c1c06b170a",
+    "code/p0/oc_sim.py": "061dbf415a88f95bb236a8cab52d81b69923e621ca64ac44ca66a4c645aba24f",
+    "code/p0/rescore_archived.py": "108307ba581ac6ded8398b4ee6ed5f1bc83380cbb254caa3b963e1ac8b92e263",
+    "code/stages/INTERFACES.md": "44579fb301e0f06e1f8f87bc49128a0b921ce6be73c8118b3fb93454c2def622",
+    "code/stages/README.md": "03e5fa1c3f316b3c04d5bd0e8f6c4a6f22b7d27449a786442664efe580f1b6e8",
+    "code/stages/__init__.py": "f823c1909169f5c6b74911a86415b4b30c3c5e0fd0492b9c7c5e9a2265c18aaf",
+    "code/stages/_catalogue_http.py": "ff8534a8295f27910442d71bb955aa8e3f3fcf343aba1b1096138872b2522097",
+    "code/stages/_dofa/__init__.py": "470d8dd606c2f5f47e351e3f49f09001582d540ac24671c4b6606fed7b6dd394",
+    "code/stages/_dofa/wave_dynamic_layer.py": "1e103ab619abe98de025f8ebb582b6799e5bbf091d2a1aecce2ab21690b86f70",
+    "code/stages/_extract_freeze.py": "f3a2d3748bb9fd26e656b10db61d75cda449c665da24cdb3cfc78c1d179e9377",
+    "code/stages/_extract_models.py": "d1ed003f5c4398a9c56ca8d37932cad556360a27f3211b088e6cab600c00f25e",
+    "code/stages/_imagery_acquire.py": "16adceb5e59ff3b31e9861550db95c406c5a9a129ebdb1cfb03591343048947f",
+    "code/stages/_imagery_catalogue.py": "d6651cd2037d27588d223e88a159080be9e10ecb0214a07f78c455f0f9dadb81",
+    "code/stages/_imagery_features.py": "d0036164d3fccc105e921170c398da0cee08a13eac744aa2f3bdd05ee138b212",
+    "code/stages/_imagery_io.py": "8fdb55585525d4991746ebb845bb54fd82ef3ad4e03a1ce141200c8bad875f66",
+    "code/stages/_osm_buildareas.py": "c9627251cac45b9aeb8678becf1b79ebd87b0ddbc1f699f228aee8680f0ea5eb",
+    "code/stages/_osm_geometry.py": "01065c1aa8d2364134b9ae46b7ec14eea69f17de4adfb1d4f8195730aacb4102",
+    "code/stages/_osm_pipeline.py": "4208ed98e2c131ee64b1fd95b612ae43320a789274082a195bb80c19a2735299",
+    "code/stages/_text_phrases.py": "f55383ec9ab3007d75a01e1d7cc17d6a600bfe2f86cdb67f17c811e63ea5bbaa",
+    "code/stages/_text_wiki.py": "f96618eca9f02ef80859deb73e70d71711a249a590abcea8ce03e574bb99b33e",
+    "code/stages/analysis.py": "2aef1da3dece4f52fe74bee3c7251ebe91924eb70928313c082dfee07953074f",
+    "code/stages/extract.py": "65eae9ba4baca54c754455f19af608449c7a1df2efa2f6ebad49f3db36b8a456",
+    "code/stages/imagery.py": "531cc5feade9f4d4508020f92bc41fec7db69571e78e10a36444f08ff5efc23e",
+    "code/stages/osm.py": "3a0added7e5cfbd46c31789799fdf78bf14b18b5b0b4243d619847a025ebcbf2",
+    "code/stages/p0.py": "44459b3924bc97707fbef82a0794bc0dc7f12f51cf62d0dee8a6096c26a228b8",
+    "code/stages/qualify.py": "3e246a5c5a0cd24e16f91125b690502ac408ef5e09e36e9fd13b319ebe41ed42",
+    "code/stages/release.py": "f37c4ecc5fa836d96d6e696d3fa839534af7d7002e60d0ec9feb724bd7d7107f",
+    "code/stages/selftest.py": "896259f1ba187056c640c5f23543f894d5433133b7202edf08f7e76cc468cd63",
+    "code/stages/text.py": "86a4d73690aac476a173028ddff4f89562394ec8d97dc98e5858f60b42dc3ae2",
+    "code/stages/weights.py": "d04bbe457c97ea471d4c42153015b9c66c8b0e56c6c2bf62cf57627fb580489c",
+    "config.d/mc.json": "80b7a2a2ee1c5c26007011c3ccf0a69418eae6e71b776237842bd489f085ccd5",
+    "config.d/osm.json": "55f17cfc6242e899c5e4956ed8379825b8ed6307b90dec102c3fcff0b4b0dd9e",
+    "config.d/text.json": "fb25b4784cee7fe092707dc368d5f7c037b6e40edf5889482f712c7c9c1400f2",
+    "config.json": "cad112a47e8504b708e93507c2fa86c53f2b195f74f3def71544dfb358efdd8d",
+    "retained-cohort-correction-20261018/PROTOCOL.md": "74a7cdca9ed0b84899d11848ba161dfcd5ac0ca23fd2ad41e03b821262b5cf6d",
+    "retained-cohort-correction-20261018/controller.py": "ac919c4ea5e512739e916caa869c30e6931d679791e210b804ecf6957388a850",
+    "retained-cohort-correction-20261018/controller.sbatch": "fc214753f73c90bbbb9115fdb6576830204c428e1caf4a4bbd929a1ca63ed496",
+    "retained-cohort-correction-20261018/run.py": "409dd6733b1a06dfd9e6490681aec9eb9bc4d9b40a31862e7c941ac61991c4b4",
+    "retained-cohort-correction-20261018/test_controller.py": "2399575fa0d8d7eccf9ce822539d979d03f1c22a76e31ccb0bf84bc043e0896d",
+    "retained-cohort-correction-20261018/test_runner.py": "7f4fc04e81501ec480c54a9a4e885fca5c6adc841acec1e74136271567a0bfc9",
+    "retained-cohort-correction-20261018/worker.sbatch": "7cbdfae5280d3ad239a8093e9a2e220435e83c86592d7921a944700c962e4255"
+  },
+  "cohort_audit": {
+    "admitted_gallery_classes": 188,
+    "family_outer_additional_exclusions": [
+      26,
+      66,
+      216,
+      157,
+      205
+    ],
+    "family_outer_train_counts": [
+      17585,
+      15498,
+      14359,
+      7902,
+      14680
+    ],
+    "retained_scored_test_windows": 5942,
+    "retained_test_pairs": 8755
+  },
+  "config_fingerprint": "ac1030fd8b2b950562fe6cd929223fb5a83672ad4febdda7591ffe92aab6b284",
+  "corrections": [
+    "retained_cohort_every_fit_and_readout",
+    "full_taxonomy_family_exclusion"
+  ],
+  "expected_routes": [
+    [
+      "r1",
+      "clay"
+    ],
+    [
+      "r1",
+      "prithvi"
+    ],
+    [
+      "r1",
+      "prithvi100"
+    ],
+    [
+      "r1",
+      "random_clay_101"
+    ],
+    [
+      "r1",
+      "random_prithvi_101"
+    ],
+    [
+      "r1",
+      "random_prithvi100_101"
+    ],
+    [
+      "r1",
+      "random_clay_202"
+    ],
+    [
+      "r1",
+      "random_prithvi_202"
+    ],
+    [
+      "r1",
+      "random_prithvi100_202"
+    ],
+    [
+      "r1",
+      "random_clay_303"
+    ],
+    [
+      "r1",
+      "random_prithvi_303"
+    ],
+    [
+      "r1",
+      "random_prithvi100_303"
+    ],
+    [
+      "r1",
+      "prithvi_tl"
+    ],
+    [
+      "r1",
+      "dofa"
+    ],
+    [
+      "r1",
+      "random_dofa_101"
+    ],
+    [
+      "r1",
+      "random_dofa_202"
+    ],
+    [
+      "r1",
+      "random_dofa_303"
+    ],
+    [
+      "r2",
+      "clay"
+    ],
+    [
+      "r2",
+      "prithvi"
+    ],
+    [
+      "r2",
+      "prithvi100"
+    ],
+    [
+      "r2",
+      "random_clay_101"
+    ],
+    [
+      "r2",
+      "random_prithvi_101"
+    ],
+    [
+      "r2",
+      "random_prithvi100_101"
+    ],
+    [
+      "r2",
+      "random_clay_202"
+    ],
+    [
+      "r2",
+      "random_prithvi_202"
+    ],
+    [
+      "r2",
+      "random_prithvi100_202"
+    ],
+    [
+      "r2",
+      "random_clay_303"
+    ],
+    [
+      "r2",
+      "random_prithvi_303"
+    ],
+    [
+      "r2",
+      "random_prithvi100_303"
+    ],
+    [
+      "r2",
+      "prithvi_tl"
+    ],
+    [
+      "r2",
+      "dofa"
+    ],
+    [
+      "r2g1875",
+      "clay"
+    ],
+    [
+      "r1c64",
+      "clay"
+    ],
+    [
+      "r1c64",
+      "prithvi"
+    ],
+    [
+      "r1c64",
+      "prithvi100"
+    ],
+    [
+      "r1c64",
+      "random_clay_101"
+    ],
+    [
+      "r1c64",
+      "random_prithvi_101"
+    ],
+    [
+      "r1c64",
+      "random_prithvi100_101"
+    ],
+    [
+      "r3",
+      "clay"
+    ],
+    [
+      "r3",
+      "random_clay_101"
+    ],
+    [
+      "r1rgb224",
+      "dinov2"
+    ],
+    [
+      "r1rgb224",
+      "remoteclip"
+    ],
+    [
+      "r1rgb224",
+      "dofa"
+    ]
+  ],
+  "release": "/mnt/scratch/users/40021461/geofm-semantic-expansion/vocab-01/releases/megaearth-retained-20261018T171451Z",
+  "retained_rows": 34992,
+  "retained_splits": {
+    "test": 6879,
+    "train": 24574,
+    "val": 3539
+  },
+  "retention_sha256": "41d96a5ee2eaef0064d21dce34ffe818ae262974a2d5c203de88d0e6de5bca9a",
+  "source_freezes": {
+    "f1": "30c47c55940f6505371cd50530d7e8dc8f56c83be1c38170dc05f0e29a39ee91",
+    "f2": "315cd2f98928ffef1b41a9febe9ee59a0f187629c8fc2f7b381d219ce64ca4fb",
+    "f3": "66351ef42ac43c4334bcc5a5628359c0e31bafdd892990e9d5f6ac235f3f58d7"
+  },
+  "source_run": "/mnt/scratch/users/40021461/geofm-semantic-expansion/vocab-01/runs/full",
+  "unavailable_source_routes": []
+}

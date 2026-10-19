@@ -1,0 +1,6 @@
+{
+  "root": "/tmp/megaearth-selftest",
+  "mc": {"stage_modules": ["selftest"]},
+  "selftest": {"n_units": 12, "unit_s": 0.3, "steps": 6, "fail_once": ["u0003"], "poison": ["u0007"],
+               "net_url": "https://example.com/"}
+}

@@ -1,0 +1,15 @@
+{
+  "author": "James Edward Ball",
+  "status": "passed",
+  "comparisons": {
+    "geometry": {
+      "count": 309,
+      "maximum_absolute_error": 0.0
+    },
+    "transfer": {
+      "count": 16720,
+      "maximum_absolute_error": 0.0
+    }
+  },
+  "scope": "Exploratory checkpoint extension on the existing benchmark."
+}

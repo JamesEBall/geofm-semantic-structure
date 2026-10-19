@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/Clay-foundation/model",
+  "commit": "f14e698f3c237cabf8d28dec669a362d66625381",
+  "original_sha256": {
+    "model.py": "ebf06103d64a8746509f8a4f900bbebf35eb4b54482bcaeecb953de0df81dcf1",
+    "backbone.py": "f9ef3e410be8736f60d55cb3a8ed6c2cdf3b4e7972fa4716d410618514d3a4bf",
+    "factory.py": "11dd00918a88fa076bea4739ce889233c0444ea459ebb2d38bb8bec90e1294c7",
+    "utils.py": "007e4b8eede28f96132e3d5a34735fcf1fdb03a1940f3fa550689404549e63ca"
+  },
+  "modifications": "Extracted Encoder and Decoder; removed training and teacher dependencies and global side effects; made imports relative. Other model logic unchanged.",
+  "attribution": "Clay Foundation and upstream contributors; see source references and Apache-2.0 licence."
+}

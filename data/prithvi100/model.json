@@ -1,0 +1,18 @@
+{
+  "author": "James Edward Ball",
+  "base_url": "https://huggingface.co/ibm-nasa-geospatial/Prithvi-EO-1.0-100M/resolve/f3a9ea7a1723621b0aeceb4de993093704d712c5/",
+  "files": [
+    {
+      "name": "Prithvi_EO_V1_100M.pt",
+      "sha256": "7fac0c8a8693198e32a055e0c5a967f8b005f382182b63df1b29fdcd5c880731"
+    },
+    {
+      "name": "config.json",
+      "sha256": "35119b76e63f0302b60a81b1f934a95272540b2ec1ba61566cb4b8441fc52481"
+    },
+    {
+      "name": "prithvi_mae.py",
+      "sha256": "ebf8a1c758479b27f5ac7cc9bb9ec1f57f692e9721e1d474c2915277eaa007c4"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "author": "James Edward Ball",
+  "status": "passed",
+  "patches": 2,
+  "conditions": 8,
+  "maximum_absolute_error": 0.0,
+  "scope": "Standalone source extraction compared with the frozen full-run features for all trained/random mean/CLS conditions."
+}

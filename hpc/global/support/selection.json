@@ -1,0 +1,1031 @@
+{
+  "author": "James Edward Ball",
+  "original_block_count": 120,
+  "screened": 280,
+  "selected": [
+    {
+      "id": "30_16",
+      "lon": 30,
+      "lat": 16,
+      "region": "Africa",
+      "split": "test"
+    },
+    {
+      "id": "99_45",
+      "lon": 99,
+      "lat": 45,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "18_-28",
+      "lon": 18,
+      "lat": -28,
+      "region": "Africa",
+      "split": "test"
+    },
+    {
+      "id": "97_42",
+      "lon": 97,
+      "lat": 42,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "65_52",
+      "lon": 65,
+      "lat": 52,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "-7_13",
+      "lon": -7,
+      "lat": 13,
+      "region": "Africa",
+      "split": "val"
+    },
+    {
+      "id": "131_-13",
+      "lon": 131,
+      "lat": -13,
+      "region": "Oceania",
+      "split": "test"
+    },
+    {
+      "id": "17_-15",
+      "lon": 17,
+      "lat": -15,
+      "region": "Africa",
+      "split": "val"
+    },
+    {
+      "id": "173_65",
+      "lon": 173,
+      "lat": 65,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "-53_-24",
+      "lon": -53,
+      "lat": -24,
+      "region": "South America",
+      "split": "val"
+    },
+    {
+      "id": "103_30",
+      "lon": 103,
+      "lat": 30,
+      "region": "Asia",
+      "split": "val"
+    },
+    {
+      "id": "29_59",
+      "lon": 29,
+      "lat": 59,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "-103_67",
+      "lon": -103,
+      "lat": 67,
+      "region": "North America",
+      "split": "test"
+    },
+    {
+      "id": "68_38",
+      "lon": 68,
+      "lat": 38,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "53_67",
+      "lon": 53,
+      "lat": 67,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "11_10",
+      "lon": 11,
+      "lat": 10,
+      "region": "Africa",
+      "split": "test"
+    },
+    {
+      "id": "-61_-4",
+      "lon": -61,
+      "lat": -4,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "-50_-29",
+      "lon": -50,
+      "lat": -29,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "87_47",
+      "lon": 87,
+      "lat": 47,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "-65_-28",
+      "lon": -65,
+      "lat": -28,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "83_69",
+      "lon": 83,
+      "lat": 69,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "-51_0",
+      "lon": -51,
+      "lat": 0,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "80_57",
+      "lon": 80,
+      "lat": 57,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "140_-29",
+      "lon": 140,
+      "lat": -29,
+      "region": "Oceania",
+      "split": "test"
+    },
+    {
+      "id": "43_62",
+      "lon": 43,
+      "lat": 62,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "58_43",
+      "lon": 58,
+      "lat": 43,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "116_29",
+      "lon": 116,
+      "lat": 29,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "57_63",
+      "lon": 57,
+      "lat": 63,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "-63_-15",
+      "lon": -63,
+      "lat": -15,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "53_54",
+      "lon": 53,
+      "lat": 54,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "117_73",
+      "lon": 117,
+      "lat": 73,
+      "region": "Europe",
+      "split": "test"
+    },
+    {
+      "id": "119_35",
+      "lon": 119,
+      "lat": 35,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "48_31",
+      "lon": 48,
+      "lat": 31,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "-68_10",
+      "lon": -68,
+      "lat": 10,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "-65_-32",
+      "lon": -65,
+      "lat": -32,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "116_23",
+      "lon": 116,
+      "lat": 23,
+      "region": "Asia",
+      "split": "test"
+    },
+    {
+      "id": "-41_-10",
+      "lon": -41,
+      "lat": -10,
+      "region": "South America",
+      "split": "test"
+    },
+    {
+      "id": "72_31",
+      "lon": 72,
+      "lat": 31,
+      "region": "Asia",
+      "split": "test"
+    }
+  ],
+  "evidence": [
+    {
+      "block": {
+        "id": "30_16",
+        "lon": 30,
+        "lat": 16,
+        "region": "Africa",
+        "split": "test"
+      },
+      "supplied": [
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "60": 200
+      },
+      "candidate_sha256": "fd2f9e6fb990fb20c309639262058511f80d15d19ef1ca4bcf97d3923ea1246e"
+    },
+    {
+      "block": {
+        "id": "99_45",
+        "lon": 99,
+        "lat": 45,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "80": 67,
+        "30": 67,
+        "60": 66
+      },
+      "candidate_sha256": "58691d824128d8553cebb061a0c99f9b87c7410fc2d355c87e9ff70871105d12"
+    },
+    {
+      "block": {
+        "id": "18_-28",
+        "lon": 18,
+        "lat": -28,
+        "region": "Africa",
+        "split": "test"
+      },
+      "supplied": [
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "30": 67,
+        "20": 67,
+        "60": 66
+      },
+      "candidate_sha256": "db500be0e03b416e812f242359a2a3f37c06616221d857bb4abb18701757326e"
+    },
+    {
+      "block": {
+        "id": "97_42",
+        "lon": 97,
+        "lat": 42,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "60": 200
+      },
+      "candidate_sha256": "6fc2c7e1841af117d8c725edbc9b6616b38a5dec905889512ca61bc31471f8de"
+    },
+    {
+      "block": {
+        "id": "65_52",
+        "lon": 65,
+        "lat": 52,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 50,
+        "30": 50,
+        "90": 50,
+        "40": 49,
+        "50": 1
+      },
+      "candidate_sha256": "5e2efc8c22a98c211c00ddef9904126fc5ec585b4eab8c4eb565a126f5fd57a0"
+    },
+    {
+      "block": {
+        "id": "-7_13",
+        "lon": -7,
+        "lat": 13,
+        "region": "Africa",
+        "split": "val"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 45,
+        "30": 45,
+        "90": 1,
+        "40": 45,
+        "20": 45,
+        "50": 19
+      },
+      "candidate_sha256": "af4f5d7a1e7a8c52a9b6820e6acd347663c26bbfdc29155ca3b06893675d231d"
+    },
+    {
+      "block": {
+        "id": "131_-13",
+        "lon": 131,
+        "lat": -13,
+        "region": "Oceania",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 50,
+        "10": 50,
+        "30": 50,
+        "90": 49,
+        "60": 1
+      },
+      "candidate_sha256": "5d88d3155077965b7dfe51855bfb4be39bdb323eeb4d558b8a940883985cb2d3"
+    },
+    {
+      "block": {
+        "id": "17_-15",
+        "lon": 17,
+        "lat": -15,
+        "region": "Africa",
+        "split": "val"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "10": 49,
+        "30": 48,
+        "90": 43,
+        "20": 48,
+        "50": 12
+      },
+      "candidate_sha256": "2ea43aab5d3a1dda183d105b46f2dcabb478b362a3da76ed2e8dc2d800d0f5b8"
+    },
+    {
+      "block": {
+        "id": "173_65",
+        "lon": 173,
+        "lat": 65,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 60,
+        "30": 70,
+        "90": 70
+      },
+      "candidate_sha256": "d3f2220deb7b2cabb48507e6ed2fcf6a2548e9dbc8faa4c1afe27bf9ad99a940"
+    },
+    {
+      "block": {
+        "id": "-53_-24",
+        "lon": -53,
+        "lat": -24,
+        "region": "South America",
+        "split": "val"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "10": 76,
+        "30": 33,
+        "40": 76,
+        "50": 15
+      },
+      "candidate_sha256": "ec371584f74b6f25a0a5e3a15ff5ba2dc2afb6901136bc5e069da806c2646036"
+    },
+    {
+      "block": {
+        "id": "103_30",
+        "lon": 103,
+        "lat": 30,
+        "region": "Asia",
+        "split": "val"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "10": 67,
+        "30": 1,
+        "40": 66,
+        "50": 66
+      },
+      "candidate_sha256": "8c829ac4962eb602f07d9477563fe9807552ab6f985707576d57602a21979a1e"
+    },
+    {
+      "block": {
+        "id": "29_59",
+        "lon": 29,
+        "lat": 59,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 4,
+        "10": 79,
+        "30": 20,
+        "90": 19,
+        "40": 78
+      },
+      "candidate_sha256": "1c4ee12b141cfd14c9246f116ecd97c7be839a8b43969aa4ef5738df765f6e6c"
+    },
+    {
+      "block": {
+        "id": "-103_67",
+        "lon": -103,
+        "lat": 67,
+        "region": "North America",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 77,
+        "30": 76,
+        "90": 47
+      },
+      "candidate_sha256": "87553967da7d627829a15f84b130b92f71ece5d46de810b42720d71f0b5b1a6a"
+    },
+    {
+      "block": {
+        "id": "68_38",
+        "lon": 68,
+        "lat": 38,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "10": 6,
+        "30": 62,
+        "40": 62,
+        "50": 62,
+        "60": 8
+      },
+      "candidate_sha256": "371336db2d49d93e6bbaeb61b99963428f874dd75671ce934a31b2784f65a60c"
+    },
+    {
+      "block": {
+        "id": "53_67",
+        "lon": 53,
+        "lat": 67,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 47,
+        "10": 75,
+        "30": 4,
+        "90": 74
+      },
+      "candidate_sha256": "b444e443c2dd9a96b13224356fcb0556d33bb5a52853f3d80c28141684eb583e"
+    },
+    {
+      "block": {
+        "id": "11_10",
+        "lon": 11,
+        "lat": 10,
+        "region": "Africa",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 39,
+        "10": 3,
+        "30": 39,
+        "90": 2,
+        "40": 39,
+        "20": 39,
+        "50": 39
+      },
+      "candidate_sha256": "0b9614808316964ca85c7b90881500cfe381e1512f951fb43ae1aab8b7aae98a"
+    },
+    {
+      "block": {
+        "id": "-61_-4",
+        "lon": -61,
+        "lat": -4,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 60,
+        "10": 60,
+        "30": 59,
+        "90": 19,
+        "50": 2
+      },
+      "candidate_sha256": "b45b55a3ac849160c5a68bf8620d9668640ca5727477732662bb1d8ee8ce4b43"
+    },
+    {
+      "block": {
+        "id": "-50_-29",
+        "lon": -50,
+        "lat": -29,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 31,
+        "10": 46,
+        "30": 46,
+        "90": 1,
+        "40": 45,
+        "50": 31
+      },
+      "candidate_sha256": "5781025c4060b22359da0b80237ecee7e278c76dc04b59ef2db358c4eec82049"
+    },
+    {
+      "block": {
+        "id": "87_47",
+        "lon": 87,
+        "lat": 47,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation",
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "80": 43,
+        "30": 42,
+        "90": 26,
+        "40": 42,
+        "50": 5,
+        "60": 42
+      },
+      "candidate_sha256": "1ab13fe0fa6f426a87cee89a7ada9733873ab476f242f60c021c6dbfaab52e30"
+    },
+    {
+      "block": {
+        "id": "-65_-28",
+        "lon": -65,
+        "lat": -28,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 10,
+        "10": 36,
+        "30": 35,
+        "40": 36,
+        "20": 35,
+        "50": 35,
+        "60": 13
+      },
+      "candidate_sha256": "24c320f6aef4e6e94c294518c4c8a05ce8274b3d3a6fe53729a89582193bdc57"
+    },
+    {
+      "block": {
+        "id": "83_69",
+        "lon": 83,
+        "lat": 69,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 62,
+        "30": 69,
+        "90": 69
+      },
+      "candidate_sha256": "b007f56ae63320b31306ce523bf95ab1d479625a69529dc64eb9d9054ba32b12"
+    },
+    {
+      "block": {
+        "id": "-51_0",
+        "lon": -51,
+        "lat": 0,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 50,
+        "10": 50,
+        "30": 50,
+        "90": 50
+      },
+      "candidate_sha256": "f380e7572a12234f78023b19dc88bf8ddc4da58f952814864a5bae55a008b606"
+    },
+    {
+      "block": {
+        "id": "80_57",
+        "lon": 80,
+        "lat": 57,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "10": 100,
+        "30": 1,
+        "90": 99
+      },
+      "candidate_sha256": "3412d6a91ea7221f533507fd9c84b6750a5712569cbc97d24393ee613a6b6a7c"
+    },
+    {
+      "block": {
+        "id": "140_-29",
+        "lon": 140,
+        "lat": -29,
+        "region": "Oceania",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation",
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "30": 115,
+        "90": 63,
+        "60": 22
+      },
+      "candidate_sha256": "bc719e90dcf07352b1d0f18d04f169119ef10db9c3d706d6f367e8950c33bd15"
+    },
+    {
+      "block": {
+        "id": "43_62",
+        "lon": 43,
+        "lat": 62,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 60,
+        "10": 65,
+        "30": 11,
+        "90": 64
+      },
+      "candidate_sha256": "3f9277e9ec047de931f0c87d7f9610f2f29d7231ede8757f22dd37e813184b5b"
+    },
+    {
+      "block": {
+        "id": "58_43",
+        "lon": 58,
+        "lat": 43,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation",
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "80": 34,
+        "30": 33,
+        "90": 33,
+        "40": 33,
+        "20": 33,
+        "50": 1,
+        "60": 33
+      },
+      "candidate_sha256": "c66c3ffd21e334cdfe678eb4820a62334d4cfd805b637257ed9ad080f9877f98"
+    },
+    {
+      "block": {
+        "id": "116_29",
+        "lon": 116,
+        "lat": 29,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 49,
+        "10": 48,
+        "90": 48,
+        "40": 48,
+        "50": 7
+      },
+      "candidate_sha256": "46b0d3df8539cca9b9f3036edcb6e66be0a4951a16826264d5b08cba47f8d298"
+    },
+    {
+      "block": {
+        "id": "57_63",
+        "lon": 57,
+        "lat": 63,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 1,
+        "10": 154,
+        "90": 45
+      },
+      "candidate_sha256": "7625e0791145e0f87917fc98a1c057707edc95a9f88721f89054b3e96484e55f"
+    },
+    {
+      "block": {
+        "id": "-63_-15",
+        "lon": -63,
+        "lat": -15,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "10": 183,
+        "30": 1,
+        "90": 15,
+        "20": 1
+      },
+      "candidate_sha256": "d000386d5b55e3e14d61d9f2110e68685b44202aa21caae71dc7d7ab4d2c589d"
+    },
+    {
+      "block": {
+        "id": "53_54",
+        "lon": 53,
+        "lat": 54,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 1,
+        "10": 62,
+        "30": 62,
+        "40": 62,
+        "50": 13
+      },
+      "candidate_sha256": "59b527f7db06e56e496d8491e8bb8079a19150425d8f59100ef20e9435629fe9"
+    },
+    {
+      "block": {
+        "id": "117_73",
+        "lon": 117,
+        "lat": 73,
+        "region": "Europe",
+        "split": "test"
+      },
+      "supplied": [
+        "Flooded_Vegetation"
+      ],
+      "candidate_counts": {
+        "80": 97,
+        "30": 6,
+        "90": 97
+      },
+      "candidate_sha256": "458953fd8c7946524b95ee5fffbb4b44246dcee5ade650a819e596d6f63a4400"
+    },
+    {
+      "block": {
+        "id": "119_35",
+        "lon": 119,
+        "lat": 35,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 49,
+        "10": 49,
+        "30": 3,
+        "40": 48,
+        "50": 48,
+        "60": 3
+      },
+      "candidate_sha256": "d288f09fb87cf7badd6d929ed4f8a32225f1c6902940a1f0f2863ff5d41396ef"
+    },
+    {
+      "block": {
+        "id": "48_31",
+        "lon": 48,
+        "lat": 31,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area",
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "10": 2,
+        "30": 28,
+        "40": 50,
+        "20": 22,
+        "50": 49,
+        "60": 49
+      },
+      "candidate_sha256": "f697465d5ffc153792662275211b1797c59d5163b6bca063865bd7755161aa57"
+    },
+    {
+      "block": {
+        "id": "-68_10",
+        "lon": -68,
+        "lat": 10,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 48,
+        "10": 48,
+        "30": 47,
+        "40": 1,
+        "20": 9,
+        "50": 47
+      },
+      "candidate_sha256": "01e9287dd618614144e4835e6fc645f0ad01acfd83a4ecdb82affcf287604c4d"
+    },
+    {
+      "block": {
+        "id": "-65_-32",
+        "lon": -65,
+        "lat": -32,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 19,
+        "10": 42,
+        "30": 41,
+        "40": 41,
+        "20": 16,
+        "50": 41
+      },
+      "candidate_sha256": "bd51cacf9d5276409419a7660107bf9b51feb032d544003ee2f33dca93a373b1"
+    },
+    {
+      "block": {
+        "id": "116_23",
+        "lon": 116,
+        "lat": 23,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 51,
+        "10": 51,
+        "30": 3,
+        "40": 39,
+        "50": 50,
+        "60": 6
+      },
+      "candidate_sha256": "805be3053945695789fc47ba2d690e32c2eb6f348bf7aa4bbe3b079d2d23fd9d"
+    },
+    {
+      "block": {
+        "id": "-41_-10",
+        "lon": -41,
+        "lat": -10,
+        "region": "South America",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area"
+      ],
+      "candidate_counts": {
+        "80": 38,
+        "10": 8,
+        "30": 38,
+        "90": 1,
+        "40": 38,
+        "20": 38,
+        "50": 33,
+        "60": 6
+      },
+      "candidate_sha256": "e6475d9b548d64d6ba6d0b85fa2d19274b872d9b4b142b106232bfc637f67e03"
+    },
+    {
+      "block": {
+        "id": "72_31",
+        "lon": 72,
+        "lat": 31,
+        "region": "Asia",
+        "split": "test"
+      },
+      "supplied": [
+        "Built_Area",
+        "Bare_Ground"
+      ],
+      "candidate_counts": {
+        "10": 2,
+        "40": 146,
+        "50": 20,
+        "60": 32
+      },
+      "candidate_sha256": "cffb845b0ce3d9533a9a477f879f5468aa59cd78600aee638d351575e036cae3"
+    }
+  ],
+  "support": {
+    "val:Built_Area": 4,
+    "test:Flooded_Vegetation": 18,
+    "test:Built_Area": 12,
+    "test:Bare_Ground": 9
+  },
+  "quality_gates_changed": false
+}

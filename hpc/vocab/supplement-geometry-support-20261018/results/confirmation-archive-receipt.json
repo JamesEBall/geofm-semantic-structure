@@ -1,0 +1,20 @@
+{
+  "author": "James Edward Ball",
+  "job_id": "178875",
+  "complete": true,
+  "total_replicates": 47000,
+  "files": {
+    "confirmation/records.tar.gz": {
+      "sha256": "5e62c2c78362300fd2a95c8324d08a397266e437d91e22659869f08ec512068d",
+      "bytes": 660354283
+    },
+    "confirmation/record-sha256.txt": {
+      "sha256": "8dc0457c518d84e7540c8f7107cb0ecdaef1521d1884441b5ac9ee8cc1440f9d",
+      "bytes": 4926000
+    },
+    "confirmation/summary.json": {
+      "sha256": "f640028a5e4c2c4397c1c46a969eba2f74047083172dbbe746327a4e44349977",
+      "bytes": 400698
+    }
+  }
+}

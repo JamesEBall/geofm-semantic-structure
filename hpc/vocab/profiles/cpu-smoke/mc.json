@@ -1,0 +1,1 @@
+{"mc":{"stage_modules":["selftest"],"only_stages":["selftest_fan"],"unit_backoff_s":1,"idle_exit_s":10,"poll_s":5,"pools":{"cpu":{"time":"00:10:00","max_nodes":1}}},"selftest":{"n_units":4,"unit_s":0.1,"steps":3,"fail_once":["u0001"]}}

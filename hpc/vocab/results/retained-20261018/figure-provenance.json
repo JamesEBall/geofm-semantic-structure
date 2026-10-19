@@ -1,0 +1,15 @@
+{
+  "author": "James Edward Ball",
+  "sources": {
+    "full-20261018/results.json": "5bbd9ad9505b11dc16a8abaae44381539fa3e13f6ce98a15bf4f8624bd3b3916",
+    "retained-20261018/results.json": "57dae784ae00beb57c9594ca745c03672334fa3422fa8bfd40ab857214c6f1a1",
+    "retained-20261018/qualify/verdict.json": "d99b9cd9879327db67dd341d02dfe41d222d67c67cb4877c9bef5fb0406160c5"
+  },
+  "plot_script_sha256": "3da81477457cb2b19bd88738cf8572d8534e281764e3729a638d5f65c538af27",
+  "plot_data_sha256": "87bc3fde152b7f0b1bc97e1ab668835dfbc7d9b8b3075ce8c9d26ea90fcf826f",
+  "limits": [
+    "Conditional on fitted maps, tuning, vocabulary and seed panel.",
+    "No confidence interval or significance test for the before/after change.",
+    "Geometry population interval qualification remains failed."
+  ]
+}

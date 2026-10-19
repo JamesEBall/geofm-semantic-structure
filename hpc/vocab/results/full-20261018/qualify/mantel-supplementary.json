@@ -1,0 +1,8 @@
+{
+ "supplementary_sims": 1000,
+ "independent_mantel_type1": 0.044,
+ "partial_type1": 0.011,
+ "mean_partial_spearman": -0.019094612854802365,
+ "pooled_sims": 1200,
+ "pooled_type1": 0.05
+}

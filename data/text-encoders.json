@@ -1,0 +1,189 @@
+[
+  {
+    "name": "qwen",
+    "model": "Qwen/Qwen3-Embedding-0.6B",
+    "revision": "97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+    "strings": [
+      "Buildings, roads or other large human-made surfaces, with associated small vegetation patches.",
+      "Human-made structures or paved surfaces.",
+      "Wooded or dense tall vegetation.",
+      "Exposed soil, rock or sand with very little vegetation.",
+      "Bare soil, rock or sand.",
+      "Water covers the surface.",
+      "Open grass-like vegetation, including pasture and lawns, with little taller vegetation.",
+      "Open grass-like vegetation.",
+      "Vegetation mixed with visible water.",
+      "Scattered low plants or shrubs with exposed soil or rock between them.",
+      "Scattered shrubs with exposed ground.",
+      "Buildings, roads and other constructed surfaces.",
+      "Sparse low vegetation with visible ground between plants.",
+      "An area of open water.",
+      "An area occupied by built structures and paving.",
+      "The surface is covered by open water.",
+      "Dense, tall vegetation, including wooded cover, dense shrubs and tree plantations.",
+      "Agricultural plots, including fallow fields.",
+      "Open water with little vegetation or built development.",
+      "Dense tree or tall shrub cover.",
+      "An open area of grasses.",
+      "A dense canopy of tall vegetation.",
+      "Water is visibly interspersed among plants.",
+      "Low grass cover with few tall plants.",
+      "Structured fields used for crops or hay.",
+      "Crops or grass planted in structured fields, including hay and fallow plots.",
+      "Vegetation visibly mixed with water in this image.",
+      "Plants and visible water occur together.",
+      "Planted or fallow agricultural fields.",
+      "Exposed ground with sparse or absent vegetation.",
+      "An area of largely unvegetated soil or rock.",
+      "Low shrubs are dispersed across bare soil or rock."
+    ],
+    "files": [
+      {
+        "file": "1_Pooling/config.json",
+        "bytes": 313,
+        "sha256": "37bf193fa101f19101bfad9c31d3eb0f786e247b7b1e5cb7f007d730eed1ddbd"
+      },
+      {
+        "file": "README.md",
+        "bytes": 17237,
+        "sha256": "c34d9b7e5a267ad3fdd13227a253686bc90844ff4744a2a6a86c7c905e3d06f3"
+      },
+      {
+        "file": "config.json",
+        "bytes": 727,
+        "sha256": "b5bf1f51fc45be473a54718cef92448d90a1be001bf9b9a44b8c7f10a19feaa9"
+      },
+      {
+        "file": "config_sentence_transformers.json",
+        "bytes": 215,
+        "sha256": "10667c72ddb772627bf1780cb7f86af8e2ae0032b8c243c731172064105c6961"
+      },
+      {
+        "file": "merges.txt",
+        "bytes": 1671853,
+        "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+      },
+      {
+        "file": "model.safetensors",
+        "bytes": 1191586416,
+        "sha256": "0437e45c94563b09e13cb7a64478fc406947a93cb34a7e05870fc8dcd48e23fd"
+      },
+      {
+        "file": "modules.json",
+        "bytes": 349,
+        "sha256": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf"
+      },
+      {
+        "file": "tokenizer.json",
+        "bytes": 11423705,
+        "sha256": "def76fb086971c7867b829c23a26261e38d9d74e02139253b38aeb9df8b4b50a"
+      },
+      {
+        "file": "tokenizer_config.json",
+        "bytes": 9706,
+        "sha256": "253153d0738ceb4c668d2eff957714dd2bea0b56de772a9fdccd96cbf517e6a0"
+      },
+      {
+        "file": "vocab.json",
+        "bytes": 2776833,
+        "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+      }
+    ]
+  },
+  {
+    "name": "mpnet",
+    "model": "sentence-transformers/all-mpnet-base-v2",
+    "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+    "strings": [
+      "Buildings, roads or other large human-made surfaces, with associated small vegetation patches.",
+      "Human-made structures or paved surfaces.",
+      "Wooded or dense tall vegetation.",
+      "Exposed soil, rock or sand with very little vegetation.",
+      "Bare soil, rock or sand.",
+      "Water covers the surface.",
+      "Open grass-like vegetation, including pasture and lawns, with little taller vegetation.",
+      "Open grass-like vegetation.",
+      "Vegetation mixed with visible water.",
+      "Scattered low plants or shrubs with exposed soil or rock between them.",
+      "Scattered shrubs with exposed ground.",
+      "Buildings, roads and other constructed surfaces.",
+      "Sparse low vegetation with visible ground between plants.",
+      "An area of open water.",
+      "An area occupied by built structures and paving.",
+      "The surface is covered by open water.",
+      "Dense, tall vegetation, including wooded cover, dense shrubs and tree plantations.",
+      "Agricultural plots, including fallow fields.",
+      "Open water with little vegetation or built development.",
+      "Dense tree or tall shrub cover.",
+      "An open area of grasses.",
+      "A dense canopy of tall vegetation.",
+      "Water is visibly interspersed among plants.",
+      "Low grass cover with few tall plants.",
+      "Structured fields used for crops or hay.",
+      "Crops or grass planted in structured fields, including hay and fallow plots.",
+      "Vegetation visibly mixed with water in this image.",
+      "Plants and visible water occur together.",
+      "Planted or fallow agricultural fields.",
+      "Exposed ground with sparse or absent vegetation.",
+      "An area of largely unvegetated soil or rock.",
+      "Low shrubs are dispersed across bare soil or rock."
+    ],
+    "files": [
+      {
+        "file": "1_Pooling/config.json",
+        "bytes": 190,
+        "sha256": "a37f83ada23e7887be6b88f4998927dbeac0038af301553c7cd5461413bf1a56"
+      },
+      {
+        "file": "README.md",
+        "bytes": 11612,
+        "sha256": "89a1a9c3290fe58e76c939b578c48a14331dc7bfcaaf5a53102adb183da6f96a"
+      },
+      {
+        "file": "config.json",
+        "bytes": 571,
+        "sha256": "d46a3e04ded82bba22528424480697d394eeda6a27484e08c5bb2bdf5906cfa0"
+      },
+      {
+        "file": "config_sentence_transformers.json",
+        "bytes": 116,
+        "sha256": "061ca9d39661d6c6d6de5ba27f79a1cd5770ea247f8d46412a68a498dc5ac9f3"
+      },
+      {
+        "file": "model.safetensors",
+        "bytes": 437971872,
+        "sha256": "78c0197b6159d92658e319bc1d72e4c73a9a03dd03815e70e555c5ef05615658"
+      },
+      {
+        "file": "modules.json",
+        "bytes": 349,
+        "sha256": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf"
+      },
+      {
+        "file": "sentence_bert_config.json",
+        "bytes": 53,
+        "sha256": "cabfacded9272091a06ff595a46ef027a76ddf4ac9e77d0fcf11c605748f1667"
+      },
+      {
+        "file": "special_tokens_map.json",
+        "bytes": 239,
+        "sha256": "9ef40e9c160511bf3f46ceb71f1471dafa1e9473d5120bb816c36b2efa75f8ba"
+      },
+      {
+        "file": "tokenizer.json",
+        "bytes": 466021,
+        "sha256": "b8be2c30ba5dd723a6d5ee26d013da103d5408d92ddcb23747622f9e48f1d842"
+      },
+      {
+        "file": "tokenizer_config.json",
+        "bytes": 363,
+        "sha256": "67f2ff7e223518e729869bb3a70f0caf8368fe549383fc11cfe2dfb42fffc268"
+      },
+      {
+        "file": "vocab.txt",
+        "bytes": 231536,
+        "sha256": "dbd90cb94e2247bd4d4ccaecbf616d2290e66691d7d5e5bb81f063c2d0649ada"
+      }
+    ]
+  }
+]

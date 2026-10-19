@@ -1,0 +1,5984 @@
+{
+  "author": "James Edward Ball",
+  "analysis": "Secondary leave-one-geographic-group-out evaluation",
+  "source_freeze_sha256": "389fd4ebddfa53724685ccc5eec75deb6241ff6758361a3de1b824090ec8d4da",
+  "comparisons": [
+    {
+      "geographic_group": "Africa",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.0027390418523935713,
+      "conditional_ci": [
+        -0.04932058766732042,
+        0.050487129027504324
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.040694639449911224,
+      "conditional_ci": [
+        0.004494657314398368,
+        0.073789896123544
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "clay",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.08250155886727979,
+      "conditional_ci": [
+        0.04105640184616586,
+        0.12553781458183458
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.021079861338188618,
+      "conditional_ci": [
+        0.008837969072048615,
+        0.03372645247629617
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.021959157956449663,
+      "conditional_ci": [
+        0.008248435641330328,
+        0.035995257804491365
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "clay",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.016142242554867153,
+      "conditional_ci": [
+        0.0074738361013185145,
+        0.02477907029322732
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.054786031269529994,
+      "conditional_ci": [
+        0.024949491963269087,
+        0.09044107347358239
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.05644991056779986,
+      "conditional_ci": [
+        0.023307561706680236,
+        0.09136536234854674
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.10344082386244434,
+      "conditional_ci": [
+        0.055298989429982584,
+        0.15546723340056903
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.010457191986656315,
+      "conditional_ci": [
+        -0.0007338018319176464,
+        0.02170110697988961
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.010280059607841507,
+      "conditional_ci": [
+        -0.001917557856076526,
+        0.022998359343019994
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.017076478639026248,
+      "conditional_ci": [
+        0.008097297276951208,
+        0.026499521740794844
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.041931176697282135,
+      "conditional_ci": [
+        0.0036282915357247793,
+        0.09133111789045102
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.04923822542428165,
+      "conditional_ci": [
+        0.011624948720678537,
+        0.09585338717079978
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.1018198989222493,
+      "conditional_ci": [
+        0.04535058159921927,
+        0.16750589439484495
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03462725047456021,
+      "conditional_ci": [
+        0.018430279347635095,
+        0.051461583382545216
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.019032926745955383,
+      "conditional_ci": [
+        0.003331728740083813,
+        0.03561810668432412
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.02352069599372287,
+      "conditional_ci": [
+        0.010975075833331849,
+        0.03730477240420065
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.07415034975348318,
+      "conditional_ci": [
+        -0.12758640265060903,
+        -0.028231177667928042
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.06475898130358602,
+      "conditional_ci": [
+        -0.11861778787038098,
+        -0.01780221521248899
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.04978363994639881,
+      "conditional_ci": [
+        -0.10194245814671628,
+        -0.0024199859205445047
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.0005650299314264411,
+      "conditional_ci": [
+        -0.013266919418374157,
+        0.013200446638203075
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.011547133256463123,
+      "conditional_ci": [
+        0.002014582266470256,
+        0.021211756265373416
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.005650615696257959,
+      "conditional_ci": [
+        -0.006133954690151104,
+        0.018771169616545746
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.08465477424322859,
+      "conditional_ci": [
+        -0.13876210224671157,
+        -0.03747550750427959
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.08091946497399558,
+      "conditional_ci": [
+        -0.143122540060454,
+        -0.028811975940694054
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.06136756752464314,
+      "conditional_ci": [
+        -0.11486038784510567,
+        -0.013858744954942867
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.0007819803396847506,
+      "conditional_ci": [
+        -0.014577052516428352,
+        0.01436157208045779
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.010212387354567084,
+      "conditional_ci": [
+        0.00010237950483046849,
+        0.019518540941238092
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.0013162468698661174,
+      "conditional_ci": [
+        -0.010376372721356303,
+        0.014362465010932595
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.06402679528180004,
+      "conditional_ci": [
+        -0.11503035406273593,
+        -0.018907960152751344
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.05505268117502741,
+      "conditional_ci": [
+        -0.10541230307704787,
+        -0.01034429226636677
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.02942528604109557,
+      "conditional_ci": [
+        -0.0805617364800995,
+        0.021251268354729017
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.0037424880645423124,
+      "conditional_ci": [
+        -0.018284490182686047,
+        0.0096932258008338
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.011715641327517668,
+      "conditional_ci": [
+        0.0024474402450628944,
+        0.02116142804877868
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.006795025928871523,
+      "conditional_ci": [
+        -0.004069678158755246,
+        0.01872561560238028
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.060913616528583486,
+      "conditional_ci": [
+        -0.11818623442044279,
+        -0.01227488720962362
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.03473647052244653,
+      "conditional_ci": [
+        -0.08466859618978095,
+        0.01286934285034379
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.018980503802774273,
+      "conditional_ci": [
+        -0.03284794425481687,
+        0.0760745107374036
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.014637045442053917,
+      "conditional_ci": [
+        -0.0011619602932430172,
+        0.029881872016222468
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.023338238283304297,
+      "conditional_ci": [
+        0.00820355007216673,
+        0.03876898800273677
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03165214727843019,
+      "conditional_ci": [
+        0.014257915047512025,
+        0.05240569475232914
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.048908098711738804,
+      "conditional_ci": [
+        -0.10110885270197285,
+        -0.0025164067459083677
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.005230459384769062,
+      "conditional_ci": [
+        -0.05171577796489015,
+        0.043485598120757314
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04724682307569521,
+      "conditional_ci": [
+        -0.004494280799665569,
+        0.11110037422520949
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.029275543707790425,
+      "conditional_ci": [
+        0.010302188628159273,
+        0.04827573384305474
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.030534827256274016,
+      "conditional_ci": [
+        0.014246003746058144,
+        0.048478220527507894
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.026602550170280518,
+      "conditional_ci": [
+        0.01398727284105365,
+        0.04181638068914859
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.06092359556930416,
+      "conditional_ci": [
+        -0.11445085418654803,
+        -0.014012423668412178
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.031168921724619835,
+      "conditional_ci": [
+        -0.0824042692170553,
+        0.017464221483076973
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.021245433532342605,
+      "conditional_ci": [
+        -0.0312506170205143,
+        0.0792764392417876
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.0287041565213112,
+      "conditional_ci": [
+        0.009231933770539883,
+        0.05012609844587032
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.032855574718313234,
+      "conditional_ci": [
+        0.015187126405450039,
+        0.05042072130533882
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03601729838469933,
+      "conditional_ci": [
+        0.01901299314698499,
+        0.05583293580807085
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.048484110411055895,
+      "conditional_ci": [
+        -0.10119895010225041,
+        -5.9570916236327464e-05
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.015091786223391352,
+      "conditional_ci": [
+        -0.06510353584383086,
+        0.03129674117313035
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04934257292829351,
+      "conditional_ci": [
+        -0.00565865059341354,
+        0.11546838104213049
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.006609398794731559,
+      "conditional_ci": [
+        -0.00859925219647685,
+        0.020703176764936774
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.025388943191477522,
+      "conditional_ci": [
+        0.012258761359556088,
+        0.03951128772810234
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.02628337729364869,
+      "conditional_ci": [
+        0.010574927244714347,
+        0.04467280430602866
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.050975764086431265,
+      "conditional_ci": [
+        -0.1031561486364068,
+        -0.0049038432582185106
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.004118348640675529,
+      "conditional_ci": [
+        -0.05087256408366743,
+        0.041652078074243676
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.024829408076716884,
+      "conditional_ci": [
+        -0.02325009928349138,
+        0.08051543324125966
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.014568810040426126,
+      "conditional_ci": [
+        -0.00040112735369683233,
+        0.027491451802557788
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.023355461507187165,
+      "conditional_ci": [
+        0.010028729114434573,
+        0.03823451984684697
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.020311453818533602,
+      "conditional_ci": [
+        0.008667315129704808,
+        0.03261432052160087
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.007783835552622083,
+      "conditional_ci": [
+        -0.04408371493044217,
+        0.03017260273297566
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.03308560141540353,
+      "conditional_ci": [
+        -0.0016062211586017328,
+        0.08142691122619991
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.08544137801319118,
+      "conditional_ci": [
+        0.031106209472542792,
+        0.15393007577450038
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.022866465911584734,
+      "conditional_ci": [
+        0.005975833248670587,
+        0.039185835758831715
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.017912127335000243,
+      "conditional_ci": [
+        0.004059408028435095,
+        0.032269302629347726
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Africa",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.030899331441155444,
+      "conditional_ci": [
+        0.012387784037253853,
+        0.050385211058675834
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 25
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.08276816735999705,
+      "conditional_ci": [
+        0.05661762864483208,
+        0.11199535192442675
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.08954501003321233,
+      "conditional_ci": [
+        0.06101091021223334,
+        0.12075194712519709
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "clay",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.10740913959606282,
+      "conditional_ci": [
+        0.07483550492782835,
+        0.14080644390391764
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.006275950706774009,
+      "conditional_ci": [
+        -0.0030363463851391602,
+        0.01594495356653941
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.00283796905611424,
+      "conditional_ci": [
+        -0.014231063971735137,
+        0.007353304251314919
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "clay",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.01900706450465138,
+      "conditional_ci": [
+        0.01251700372148719,
+        0.02560329647022744
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.07759289594136262,
+      "conditional_ci": [
+        0.05381743658697327,
+        0.1021382404643003
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0860001260060576,
+      "conditional_ci": [
+        0.05516034273464208,
+        0.11590123134106292
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.09991100577439962,
+      "conditional_ci": [
+        0.07192910906741927,
+        0.13071711502889244
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.005707445740625119,
+      "conditional_ci": [
+        -0.0018246254561241093,
+        0.013685626975208247
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.004712687218134302,
+      "conditional_ci": [
+        -0.016590954861869817,
+        0.006280777484874274
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.021024527440284588,
+      "conditional_ci": [
+        0.015803957927612404,
+        0.02637751102929942
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03506345702091274,
+      "conditional_ci": [
+        -0.011706357051537929,
+        0.08196642230897186
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.046247770885811036,
+      "conditional_ci": [
+        -0.001323390617850341,
+        0.0939421851780224
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.06176388756482223,
+      "conditional_ci": [
+        0.01878983295326332,
+        0.10877778158714128
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.013124148202524116,
+      "conditional_ci": [
+        0.0036789428634356,
+        0.02242939113702929
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.006004277936583805,
+      "conditional_ci": [
+        -0.01573839622389142,
+        0.003043854748397559
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.02087428702885373,
+      "conditional_ci": [
+        0.01286509669881414,
+        0.028589593800044995
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.060526271577819826,
+      "conditional_ci": [
+        -0.09369267964789858,
+        -0.03201344604304294
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.04837010204050505,
+      "conditional_ci": [
+        -0.07539554477683524,
+        -0.02445497261470077
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.01053627043602764,
+      "conditional_ci": [
+        -0.04764448882590632,
+        0.021602327846468
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.0021230750807397915,
+      "conditional_ci": [
+        -0.00653479908175277,
+        0.010011087374902881
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.014744076020018874,
+      "conditional_ci": [
+        -0.027609636161436114,
+        -0.003290551388989727
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.0014115911139769705,
+      "conditional_ci": [
+        -0.006560013514643848,
+        0.003966367853754734
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.06002912904031367,
+      "conditional_ci": [
+        -0.09187765443828877,
+        -0.03184492084417062
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.04745268209449392,
+      "conditional_ci": [
+        -0.07431992353325878,
+        -0.02384408161504112
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.01113124957639631,
+      "conditional_ci": [
+        -0.04725769786833244,
+        0.02047920211018583
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.004921294548501029,
+      "conditional_ci": [
+        -0.012904295403249751,
+        0.0032256095797035013
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.015790441067810808,
+      "conditional_ci": [
+        -0.027429986994382656,
+        -0.005537540404050223
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -5.9184440157442064e-05,
+      "conditional_ci": [
+        -0.005173975732414758,
+        0.0052405611301322205
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.05637997984908702,
+      "conditional_ci": [
+        -0.08685226698072929,
+        -0.030304073628052895
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.04274240792298499,
+      "conditional_ci": [
+        -0.06848022381345248,
+        -0.020173994523470372
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.006930775646891527,
+      "conditional_ci": [
+        -0.04200990220990956,
+        0.022420858809423475
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.004876800669100707,
+      "conditional_ci": [
+        -0.013045184386351723,
+        0.002734580037792389
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.012020281929981995,
+      "conditional_ci": [
+        -0.024289328310890163,
+        -0.001113555433860962
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.0009849790810762859,
+      "conditional_ci": [
+        -0.006044255898546855,
+        0.004415602607569479
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.031315229831440465,
+      "conditional_ci": [
+        0.0013757725522246923,
+        0.0645103233751501
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.038568703360802634,
+      "conditional_ci": [
+        0.005918517510655595,
+        0.07415633537781607
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.05363546916101149,
+      "conditional_ci": [
+        0.022189256889789788,
+        0.08890332290787359
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.01413473610200769,
+      "conditional_ci": [
+        0.0060607545149157695,
+        0.02267498278296312
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.009385202951353264,
+      "conditional_ci": [
+        -0.02057938870623421,
+        0.0009762449273438534
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04502897314167174,
+      "conditional_ci": [
+        0.030534840843606623,
+        0.059359607366393445
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.029807337629894043,
+      "conditional_ci": [
+        -0.0008073545455595817,
+        0.06402915726575974
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02470116561077866,
+      "conditional_ci": [
+        -0.00826756720799471,
+        0.059833000484192836
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.038407268772846594,
+      "conditional_ci": [
+        0.006663021350505383,
+        0.07128706968352144
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02662369784416118,
+      "conditional_ci": [
+        0.015589328041220851,
+        0.036655363267325096
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0071257183428688215,
+      "conditional_ci": [
+        -0.004143276452665398,
+        0.0180033297520346
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.02843287546805986,
+      "conditional_ci": [
+        0.01816268017791982,
+        0.0375109222806251
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.029190143143301973,
+      "conditional_ci": [
+        -0.0036993296707921726,
+        0.0634975038693876
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.032546770429159086,
+      "conditional_ci": [
+        -0.0008295373144027788,
+        0.06835846071753635
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04687236977468457,
+      "conditional_ci": [
+        0.014712517644073936,
+        0.08154078031649226
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.019016415366982824,
+      "conditional_ci": [
+        0.009700376823818727,
+        0.02875935246857042
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0024432005256281534,
+      "conditional_ci": [
+        -0.008730560791508508,
+        0.01292587441617337
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.05336182382973676,
+      "conditional_ci": [
+        0.03039935829305988,
+        0.07886767061269767
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02404141622014033,
+      "conditional_ci": [
+        -0.01057593588079677,
+        0.05961721821693055
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02767780462894359,
+      "conditional_ci": [
+        -0.006452815531673153,
+        0.06446736163608423
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.039958703605177344,
+      "conditional_ci": [
+        0.008965160978084589,
+        0.07446382802493348
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02477744458921125,
+      "conditional_ci": [
+        0.013613726034450158,
+        0.03586542601308804
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.001109604818779022,
+      "conditional_ci": [
+        -0.010979693271635897,
+        0.012369629198007725
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.0377280437296835,
+      "conditional_ci": [
+        0.02341184920553761,
+        0.05208609045488594
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02445703123588913,
+      "conditional_ci": [
+        -0.00317541660304733,
+        0.0567450341840643
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02719464756829271,
+      "conditional_ci": [
+        -0.007051715800285203,
+        0.06340831054318391
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03972672764490042,
+      "conditional_ci": [
+        0.007989323500537765,
+        0.0743431866265173
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.006796072895004758,
+      "conditional_ci": [
+        -0.003347987563207414,
+        0.016737795232718535
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.009977049484088682,
+      "conditional_ci": [
+        -0.020455370880968667,
+        -0.00010553303278828254
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04059409239927092,
+      "conditional_ci": [
+        0.026911081461078446,
+        0.05391915561497781
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.019382651626297726,
+      "conditional_ci": [
+        -0.019019601588690614,
+        0.059606439871583115
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02689295239877989,
+      "conditional_ci": [
+        -0.012091252596186269,
+        0.06731671829445712
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03897371401151138,
+      "conditional_ci": [
+        0.0025693648824259797,
+        0.07781516881727898
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.023002573803326966,
+      "conditional_ci": [
+        0.012278551184328645,
+        0.03399107734956067
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.013282092874645147,
+      "conditional_ci": [
+        -0.001016807131046658,
+        0.02714824925175334
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Asia",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.042225960838579726,
+      "conditional_ci": [
+        0.027807506097519058,
+        0.056204341193283686
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 32
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "clay",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "clay",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "Europe",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "unsupported",
+      "gain": null
+    },
+    {
+      "geographic_group": "North America",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.05822787371346751,
+      "conditional_ci": [
+        0.02800770101709815,
+        0.09334149383527564
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.07042694721911164,
+      "conditional_ci": [
+        0.04255558277879482,
+        0.10575758855508423
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "clay",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.0591121266742208,
+      "conditional_ci": [
+        0.02831749778660606,
+        0.09545975404536482
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.024815103280862682,
+      "conditional_ci": [
+        0.006066196219690835,
+        0.04182369891290788
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.020724697439278596,
+      "conditional_ci": [
+        0.006314674833664035,
+        0.036073868004169805
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "clay",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03728906449742899,
+      "conditional_ci": [
+        0.018978059826087513,
+        0.05743841708613406
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.0501464591038154,
+      "conditional_ci": [
+        0.02069242526574041,
+        0.08251000037630819
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0633339259497138,
+      "conditional_ci": [
+        0.029549071111472272,
+        0.09923299417852811
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.05164605025080306,
+      "conditional_ci": [
+        0.01989954119096921,
+        0.08921597195563398
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.010336618273478964,
+      "conditional_ci": [
+        -0.028525973199017524,
+        0.004934801419522778
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.005633255836581051,
+      "conditional_ci": [
+        -0.016410648675795256,
+        0.00399743389253518
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.012910747194272827,
+      "conditional_ci": [
+        -0.0004833148177008671,
+        0.024495035338916626
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03342156187900304,
+      "conditional_ci": [
+        0.006296375877248697,
+        0.06345617017086348
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.05036051308902452,
+      "conditional_ci": [
+        0.02311213325000766,
+        0.08015586070970553
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03522677137160259,
+      "conditional_ci": [
+        0.008367104835494207,
+        0.06593393240083212
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.013033869401317035,
+      "conditional_ci": [
+        1.7030666409083167e-05,
+        0.025665261417970743
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.0008265474549168537,
+      "conditional_ci": [
+        -0.0091652389821536,
+        0.007120459575190783
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.011950548181817903,
+      "conditional_ci": [
+        -0.0028303258960464595,
+        0.025683446466731225
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.016879181831608053,
+      "conditional_ci": [
+        -0.040862830718434155,
+        0.007479608318276378
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.01866431021994918,
+      "conditional_ci": [
+        -0.04493993877921902,
+        0.006743360435811123
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.029287939691877225,
+      "conditional_ci": [
+        -0.05666128600264987,
+        -0.002183671076245452
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.00939116911831401,
+      "conditional_ci": [
+        -0.019058694916658257,
+        -0.0006332932146425845
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.006734238721436374,
+      "conditional_ci": [
+        -0.005580317689741853,
+        0.02039175265186925
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.017311593811981076,
+      "conditional_ci": [
+        -0.0001845324255418566,
+        0.03349696503119405
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.017835908170806197,
+      "conditional_ci": [
+        -0.04236770698019468,
+        0.006835557757220699
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.01841988755680989,
+      "conditional_ci": [
+        -0.044848283867445,
+        0.007264823117669046
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.030111182529185907,
+      "conditional_ci": [
+        -0.058408862571507604,
+        -0.00152103791330668
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.010553606321710051,
+      "conditional_ci": [
+        -0.020884195283420864,
+        -0.000565964106283315
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.004600668273594434,
+      "conditional_ci": [
+        -0.007428833962589394,
+        0.01892340614739699
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.016115433111976295,
+      "conditional_ci": [
+        -0.0006789801174746944,
+        0.03185810299580035
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.015065041270097399,
+      "conditional_ci": [
+        -0.037912630563965474,
+        0.007868621508379199
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.016881584106590138,
+      "conditional_ci": [
+        -0.041188708394377854,
+        0.007261411202429166
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.026951705247548582,
+      "conditional_ci": [
+        -0.0521936693194188,
+        -0.0015798677832724063
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.008973289776228348,
+      "conditional_ci": [
+        -0.018559522766047123,
+        -0.0001525411166803657
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.004850558533013585,
+      "conditional_ci": [
+        -0.013595412520335814,
+        0.0018828194014199992
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.015940268875476615,
+      "conditional_ci": [
+        -0.0010237308141139087,
+        0.032076643125144425
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02035846351503346,
+      "conditional_ci": [
+        -0.010732979307597536,
+        0.050536106218140184
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02553413970653989,
+      "conditional_ci": [
+        -0.001759781528656193,
+        0.053017280245392685
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.015665955016273075,
+      "conditional_ci": [
+        -0.016064850893577242,
+        0.045134766633265995
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02979698126770269,
+      "conditional_ci": [
+        0.013267020271287927,
+        0.04498121432609368
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.00029001688879383815,
+      "conditional_ci": [
+        -0.011304086144845304,
+        0.01019721292840618
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04668991183206187,
+      "conditional_ci": [
+        0.023231228753829554,
+        0.07095852241467725
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.025635925270761445,
+      "conditional_ci": [
+        -0.0015323005629146488,
+        0.05207000523281471
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02752431560921382,
+      "conditional_ci": [
+        0.0014811510662506699,
+        0.0542602627006107
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.014988192173564466,
+      "conditional_ci": [
+        -0.017317139305085837,
+        0.045239582860434266
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03569282502678443,
+      "conditional_ci": [
+        0.018572510303037686,
+        0.05185474100871812
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.01124357287185869,
+      "conditional_ci": [
+        -5.7559572622287236e-05,
+        0.021514574542682945
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.01948154377170464,
+      "conditional_ci": [
+        0.00034239679192562715,
+        0.03716704129762746
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.021193864752634392,
+      "conditional_ci": [
+        -0.01198592794892669,
+        0.05169948129640547
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.025489296804183628,
+      "conditional_ci": [
+        -0.0024450926271464644,
+        0.05362155751293441
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.010005393066869525,
+      "conditional_ci": [
+        -0.021044821134252253,
+        0.03960293579528531
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.01562381401742338,
+      "conditional_ci": [
+        -0.00493249660220009,
+        0.033315292195566816
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0010003452909268995,
+      "conditional_ci": [
+        -0.009004518162768186,
+        0.009821775886486056
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04324859291327056,
+      "conditional_ci": [
+        0.02374951536037346,
+        0.06390812157060338
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.030098478347558126,
+      "conditional_ci": [
+        -0.0014213248354427994,
+        0.06144890684494838
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.025903931352689355,
+      "conditional_ci": [
+        -6.38522005516955e-05,
+        0.04997471912963729
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.014071713620812212,
+      "conditional_ci": [
+        -0.015571543497086789,
+        0.04184233662859514
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.019778922930132066,
+      "conditional_ci": [
+        0.0038646202108959357,
+        0.033502920757583626
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.000958737494481352,
+      "conditional_ci": [
+        -0.010392124700071807,
+        0.008598658401497629
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.08308328357459768,
+      "conditional_ci": [
+        0.043949833094751256,
+        0.12151774724385703
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03273859232450283,
+      "conditional_ci": [
+        0.00425296605215549,
+        0.061764102859053774
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.011806938306983225,
+      "conditional_ci": [
+        -0.014784082970368036,
+        0.038332586098057696
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.014556137748634105,
+      "conditional_ci": [
+        -0.013848557831403638,
+        0.042326554488803625
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.007927178998356713,
+      "conditional_ci": [
+        -0.005531274464442111,
+        0.01980490744977587
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.007639895207019284,
+      "conditional_ci": [
+        -0.01657251918435914,
+        0.001400296927824068
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.025372826182900054,
+      "conditional_ci": [
+        0.010145610658393053,
+        0.04072492321785632
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03126884081187818,
+      "conditional_ci": [
+        0.002143166668832478,
+        0.060549472907865394
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02927312987803212,
+      "conditional_ci": [
+        0.0037454935023848216,
+        0.054152939375039934
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.005080585551497258,
+      "conditional_ci": [
+        -0.023054373062817865,
+        0.03001166563608383
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.030408110536708926,
+      "conditional_ci": [
+        0.010643082140894645,
+        0.04796500602309397
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0037212746177251376,
+      "conditional_ci": [
+        -0.007271852631723813,
+        0.01577165168827404
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "North America",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03870941008509738,
+      "conditional_ci": [
+        0.018932187193848222,
+        0.057545822262554606
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 21
+    },
+    {
+      "geographic_group": "South America",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.10899806829237088,
+      "conditional_ci": [
+        0.07985277778048898,
+        0.13525737386733602
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.11578401857357637,
+      "conditional_ci": [
+        0.08473019612295073,
+        0.14391201635739456
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "clay",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.11399929942468874,
+      "conditional_ci": [
+        0.08392984582608069,
+        0.14187676611299682
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02701248511601213,
+      "conditional_ci": [
+        0.018140684391070062,
+        0.0392023729232036
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02317797589305984,
+      "conditional_ci": [
+        0.016940006992050363,
+        0.030224829325066243
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "clay",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.023130309369451162,
+      "conditional_ci": [
+        0.015267673463114105,
+        0.028900136291562156
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.10004379225983683,
+      "conditional_ci": [
+        0.07166999665862377,
+        0.1254823433327834
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.10541842281902285,
+      "conditional_ci": [
+        0.07559268660598845,
+        0.1323790936483912
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.10026880162861401,
+      "conditional_ci": [
+        0.07292369697459261,
+        0.12516781561237297
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.011337031449008918,
+      "conditional_ci": [
+        0.0023963882145523877,
+        0.023050403744626087
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.009325596370595936,
+      "conditional_ci": [
+        0.004829690262884438,
+        0.014087982172955645
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.018534758829918046,
+      "conditional_ci": [
+        0.010623511787058365,
+        0.024491611449600572
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.07816503226461648,
+      "conditional_ci": [
+        0.050826348639637094,
+        0.10323329170459679
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.07045616311071261,
+      "conditional_ci": [
+        0.04000482671028957,
+        0.09967229207095987
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.0627631388561625,
+      "conditional_ci": [
+        0.036461912734367524,
+        0.08758554381183373
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.020728785950314552,
+      "conditional_ci": [
+        0.010057221547587434,
+        0.0326232876075556
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.017172580035365422,
+      "conditional_ci": [
+        0.010264251756296824,
+        0.023920436612177114
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.010462579886209456,
+      "conditional_ci": [
+        -0.0012843397521556624,
+        0.019884479212058038
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.016578854237285143,
+      "conditional_ci": [
+        -0.0413844362070544,
+        0.007268476068071067
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.01687467371346826,
+      "conditional_ci": [
+        -0.0396710647729481,
+        0.00717980578876856
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.020771469210551258,
+      "conditional_ci": [
+        -0.042558127903991855,
+        0.0008913467549325573
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.002139384660414823,
+      "conditional_ci": [
+        -0.005107688721699328,
+        0.00816158475494195
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.000833804021541887,
+      "conditional_ci": [
+        -0.005825343949613127,
+        0.0036161951154460685
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.0038967543743765186,
+      "conditional_ci": [
+        -0.012871510980693923,
+        0.0020194352519781965
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.015697673568554414,
+      "conditional_ci": [
+        -0.03967266190973299,
+        0.007612970108795496
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.017059679123348187,
+      "conditional_ci": [
+        -0.03975905381251243,
+        0.00613878637369532
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.02150069160140759,
+      "conditional_ci": [
+        -0.042431584789957275,
+        -0.00014390649351881836
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.001930615001549467,
+      "conditional_ci": [
+        -0.005350538075859851,
+        0.008318782725612525
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.00026423876763865617,
+      "conditional_ci": [
+        -0.004847144018302743,
+        0.004509104231579784
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.0019084578964448785,
+      "conditional_ci": [
+        -0.010701368037085025,
+        0.00432662945651322
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.013412325251975122,
+      "conditional_ci": [
+        -0.03576507837940164,
+        0.008995848359264183
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.014832055132880969,
+      "conditional_ci": [
+        -0.0374249100262349,
+        0.008182970418180072
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.020721679331574386,
+      "conditional_ci": [
+        -0.041509542351448464,
+        0.00013687731116782212
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.0015164047759163013,
+      "conditional_ci": [
+        -0.008464781175739759,
+        0.004353037245901016
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0007169270243478716,
+      "conditional_ci": [
+        -0.0061587113774377875,
+        0.0061991771517333335
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -1.6566371254148494e-05,
+      "conditional_ci": [
+        -0.008458418546864471,
+        0.005866751770693181
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02084537655834276,
+      "conditional_ci": [
+        -0.005715572186575638,
+        0.04739084987847687
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.03334191461066601,
+      "conditional_ci": [
+        0.0067270619550216714,
+        0.05996992676045844
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.025215605978599044,
+      "conditional_ci": [
+        0.002029080889591129,
+        0.04870736071672702
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02014564636817247,
+      "conditional_ci": [
+        0.010211280162697105,
+        0.030125280001510324
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.01146152917132423,
+      "conditional_ci": [
+        0.003913547101336863,
+        0.01947173716228725
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.025333606985901126,
+      "conditional_ci": [
+        0.01687432557448417,
+        0.03402387993078616
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.019489931542881197,
+      "conditional_ci": [
+        -0.007182885536191621,
+        0.04525062551433984
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.020018629000397553,
+      "conditional_ci": [
+        -0.0059186300710611294,
+        0.04671966716735237
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.024699282751383198,
+      "conditional_ci": [
+        0.00111352270734091,
+        0.04868164223101413
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03335078819529601,
+      "conditional_ci": [
+        0.023256401367649532,
+        0.04347567664964016
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.022517196099732708,
+      "conditional_ci": [
+        0.014375487687168126,
+        0.02986620105305271
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.023670193305064365,
+      "conditional_ci": [
+        0.012446026805769636,
+        0.034255290189447674
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03370804529843773,
+      "conditional_ci": [
+        0.007507511549989778,
+        0.05915698059650805
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.03483666660856581,
+      "conditional_ci": [
+        0.008945706489906498,
+        0.06119713249895319
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.025431196856581916,
+      "conditional_ci": [
+        0.0026770001556498135,
+        0.04847273116440857
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.024142557189400102,
+      "conditional_ci": [
+        0.014718230616105206,
+        0.03419753487543667
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.014046248834689721,
+      "conditional_ci": [
+        0.006918076015667067,
+        0.021259379716659088
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.024841609740285063,
+      "conditional_ci": [
+        0.013157350600477217,
+        0.03542791273653461
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02676600280531183,
+      "conditional_ci": [
+        0.0005766413862297272,
+        0.05246088889979095
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.026932816526088307,
+      "conditional_ci": [
+        0.0009736055716108455,
+        0.053255358961053934
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.030429500733032723,
+      "conditional_ci": [
+        0.007519828719316986,
+        0.05279666727524935
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.022011304825916282,
+      "conditional_ci": [
+        0.011307648456596379,
+        0.0325572332850352
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.013556263602425211,
+      "conditional_ci": [
+        0.005601648988528284,
+        0.02165628036772472
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.024074357881147215,
+      "conditional_ci": [
+        0.012644833490467586,
+        0.03463847295594839
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.029733491939410318,
+      "conditional_ci": [
+        0.0018105650342947744,
+        0.056579542786386695
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.029836099955749408,
+      "conditional_ci": [
+        0.0018532380825583275,
+        0.05673282939829087
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.02048461317584954,
+      "conditional_ci": [
+        -0.0032980649464120918,
+        0.044225600271281376
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.020998950448559553,
+      "conditional_ci": [
+        0.010954887496977398,
+        0.03131645772891342
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.016890522008126446,
+      "conditional_ci": [
+        0.00825214010171066,
+        0.02533981701365519
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.01663432622811356,
+      "conditional_ci": [
+        0.006783738378730512,
+        0.025945151919357298
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02547324445374683,
+      "conditional_ci": [
+        -0.0013679442287836898,
+        0.051406416494439874
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02615885443008846,
+      "conditional_ci": [
+        0.00104887834027309,
+        0.05263025675983993
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.03629973089921972,
+      "conditional_ci": [
+        0.010829723381511865,
+        0.05829413151010677
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03125869324478861,
+      "conditional_ci": [
+        0.021081582956513783,
+        0.04164117203121653
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02079128707100823,
+      "conditional_ci": [
+        0.012313470571017324,
+        0.029119793808876682
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "South America",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.023732530362020318,
+      "conditional_ci": [
+        0.01128546157689588,
+        0.03525028237907245
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 29
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.06171870018295505,
+      "conditional_ci": [
+        0.017378803172424375,
+        0.10515067053780125
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "clay",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.06600063319535486,
+      "conditional_ci": [
+        0.02494194770470442,
+        0.10943078434177521
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "clay",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.059178532487083206,
+      "conditional_ci": [
+        0.021873897269333187,
+        0.0998129997487526
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.00823503249203863,
+      "conditional_ci": [
+        -0.0019292847997551214,
+        0.01800440738732895
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "clay",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.010937592995962107,
+      "conditional_ci": [
+        -0.0011341378753916564,
+        0.02280995718215451
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "clay",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.012518087746334287,
+      "conditional_ci": [
+        -3.6544606484247766e-05,
+        0.022876567738025044
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.06798330330849589,
+      "conditional_ci": [
+        0.03240464928735278,
+        0.10581824613858118
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.07460386322730234,
+      "conditional_ci": [
+        0.04177351206225672,
+        0.11135876096658427
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.0746890395742902,
+      "conditional_ci": [
+        0.04253220748316348,
+        0.10767076321563576
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.011882839299971639,
+      "conditional_ci": [
+        -0.0016907134570141777,
+        0.02511769518514746
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.013840976407957454,
+      "conditional_ci": [
+        0.0027876201704258256,
+        0.024801405703985556
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.015867456748627003,
+      "conditional_ci": [
+        -0.0004885689994024904,
+        0.03550663242276604
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.006928820217097504,
+      "conditional_ci": [
+        -0.06294990251949151,
+        0.041203321081757206
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.009135928632017726,
+      "conditional_ci": [
+        -0.06047183427860249,
+        0.03596798238745738
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi100",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.009688121176728555,
+      "conditional_ci": [
+        -0.05793826310325381,
+        0.03673531053212621
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.015180504026674358,
+      "conditional_ci": [
+        0.0016920802961764415,
+        0.02714379298164701
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -9.024526847620055e-05,
+      "conditional_ci": [
+        -0.015646586283189563,
+        0.014551775074080042
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "prithvi100",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.014362988665169848,
+      "conditional_ci": [
+        0.0012398727450581323,
+        0.02703005283523367
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.05586099545668381,
+      "conditional_ci": [
+        0.02974806569452181,
+        0.08379365072517078
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.05730451658398785,
+      "conditional_ci": [
+        0.028155069152819345,
+        0.0894070836540858
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.06948144373869672,
+      "conditional_ci": [
+        0.032390235695975295,
+        0.10520069869092129
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.011085515180569355,
+      "conditional_ci": [
+        -0.02316139428180233,
+        -0.0003137284220492777
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.016562699193036844,
+      "conditional_ci": [
+        -0.02644126040707475,
+        -0.005688795269022862
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.0031231419083237576,
+      "conditional_ci": [
+        -0.016068335686591065,
+        0.00877730815641737
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.055841036698861306,
+      "conditional_ci": [
+        0.030917778779561204,
+        0.08282674822922281
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.05845601068137198,
+      "conditional_ci": [
+        0.030051220869646695,
+        0.08988826172014117
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.0701039040473559,
+      "conditional_ci": [
+        0.033178061146877956,
+        0.10538223990424189
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.011793944677824787,
+      "conditional_ci": [
+        -0.024031501210321857,
+        -0.00025941569641579996
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.019893631675549677,
+      "conditional_ci": [
+        -0.03075692156430795,
+        -0.00872052621474566
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.0066236909931814015,
+      "conditional_ci": [
+        -0.019379415419687636,
+        0.006267984620933554
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.055431502504420326,
+      "conditional_ci": [
+        0.03061504201848054,
+        0.08209419466204387
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.057758347316392754,
+      "conditional_ci": [
+        0.029190228593289437,
+        0.08844808234569813
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.06835542017358609,
+      "conditional_ci": [
+        0.03053028264794847,
+        0.10411849714671659
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": -0.01309815494050768,
+      "conditional_ci": [
+        -0.023190088672861053,
+        -0.0035425887027009137
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": -0.015699200524362328,
+      "conditional_ci": [
+        -0.024822100504809222,
+        -0.006238531062172819
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_clay_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": -0.0051782871069112335,
+      "conditional_ci": [
+        -0.019194148705006797,
+        0.007236939766358561
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.02516573536408374,
+      "conditional_ci": [
+        -0.006090701128429111,
+        0.05784551087008713
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.046290628994218826,
+      "conditional_ci": [
+        0.006398702788392615,
+        0.0872242196782649
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.05197097548143119,
+      "conditional_ci": [
+        0.009608299414945985,
+        0.09376583245088838
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03396374470560856,
+      "conditional_ci": [
+        0.019133498130929807,
+        0.04771621180987725
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.026915761306728632,
+      "conditional_ci": [
+        0.01589079856517143,
+        0.037412895974416736
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04011350224065642,
+      "conditional_ci": [
+        0.023412498412867813,
+        0.058459446666719414
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.04277338118408227,
+      "conditional_ci": [
+        0.0029148702315490156,
+        0.08671771095001056
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.0502517472770605,
+      "conditional_ci": [
+        0.008277957934121762,
+        0.09316154490213516
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04990720263720105,
+      "conditional_ci": [
+        0.006630291042151402,
+        0.09168117212521477
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03965344237184702,
+      "conditional_ci": [
+        0.026589619979000948,
+        0.052343711990566144
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.03354192595357771,
+      "conditional_ci": [
+        0.02040272441400463,
+        0.046685770289153015
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.047400725638932134,
+      "conditional_ci": [
+        0.028087610155743764,
+        0.06776933126234917
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.04184893261914836,
+      "conditional_ci": [
+        0.0011976857221798589,
+        0.08701079030692696
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.04959100198501496,
+      "conditional_ci": [
+        0.009388503212210771,
+        0.08996129723187284
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.05308377135343481,
+      "conditional_ci": [
+        0.009289268974506583,
+        0.0940876374289407
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.042050143421339996,
+      "conditional_ci": [
+        0.028668061184686792,
+        0.05395816304413657
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.03778681902985149,
+      "conditional_ci": [
+        0.02513618205386472,
+        0.04947141392091633
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04546458704249949,
+      "conditional_ci": [
+        0.02746920215108076,
+        0.06427489871813828
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03793929441045428,
+      "conditional_ci": [
+        -0.00246161573872764,
+        0.08369439851642645
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.040095929085443245,
+      "conditional_ci": [
+        0.0010476358758888119,
+        0.08097238552617377
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_101",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.041239140848901165,
+      "conditional_ci": [
+        0.0018011148520706293,
+        0.08238114978270701
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.03492666277908088,
+      "conditional_ci": [
+        0.022889910000754965,
+        0.045737638491397774
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.02593545539032125,
+      "conditional_ci": [
+        0.014839172905251195,
+        0.03646062894584322
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_101",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.0345519216422542,
+      "conditional_ci": [
+        0.02233528669980081,
+        0.047236300925096134
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.04262582701846453,
+      "conditional_ci": [
+        0.002169368192029595,
+        0.08629540816183587
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.050513162439170894,
+      "conditional_ci": [
+        0.009617042492725141,
+        0.09401897273902374
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_202",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04648849357015925,
+      "conditional_ci": [
+        0.005659600059828357,
+        0.08832501315096078
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.022447618350111928,
+      "conditional_ci": [
+        0.010997271169377702,
+        0.0333748482862681
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.017884387159996233,
+      "conditional_ci": [
+        0.005326914405948061,
+        0.029594701642372514
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_202",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.04664586817586518,
+      "conditional_ci": [
+        0.028832858974857992,
+        0.06588337347936005
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.04124382347904847,
+      "conditional_ci": [
+        0.0021845196949253818,
+        0.08322831704528257
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.04602024489872549,
+      "conditional_ci": [
+        0.006541285794969253,
+        0.08535134233523103
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_303",
+      "track": "known",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.034021219847985375,
+      "conditional_ci": [
+        -0.003864505703220878,
+        0.07080978426329852
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_instructed",
+      "status": "complete",
+      "gain": 0.035334879760770266,
+      "conditional_ci": [
+        0.020913614548485265,
+        0.04894301461332152
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "qwen_plain",
+      "status": "complete",
+      "gain": 0.020643083331149812,
+      "conditional_ci": [
+        0.003656531244467935,
+        0.03511136716135951
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    },
+    {
+      "geographic_group": "Oceania",
+      "model": "random_prithvi100_303",
+      "track": "joint",
+      "reference": "mpnet_plain",
+      "status": "complete",
+      "gain": 0.037392554014180256,
+      "conditional_ci": [
+        0.01653765285739069,
+        0.05652052946032949
+      ],
+      "valid_bootstraps": 1000,
+      "invalid_bootstraps": 0,
+      "test_blocks": 22
+    }
+  ],
+  "limits": "Country-based geographic groups; automated annual reference labels; conditional ranges hold fits and validation fixed. Unsupported folds remain NA; joint summary requires every fold."
+}

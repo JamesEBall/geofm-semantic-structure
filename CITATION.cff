@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: 'Please cite the accompanying paper when using this code or study data.'
+title: 'Do Geospatial Foundation Models Learn Semantic Structure from Imagery Alone?'
+type: software
+authors:
+  - family-names: Ball
+    given-names: James Edward
+    orcid: 'https://orcid.org/0000-0002-1052-9747'
+    affiliation: 'School of Computing, Engineering & the Built Environment, Edinburgh Napier University; School of Informatics, University of Edinburgh'
+repository-code: 'https://github.com/JamesEBall/geofm-semantic-structure'
+url: 'https://github.com/JamesEBall/geofm-semantic-structure'
+abstract: 'Code and study data for evaluating category structure and language-readout transfer in geospatial foundation models.'

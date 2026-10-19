@@ -1,0 +1,11 @@
+{
+  "repository": "JamesEBall/geofm-semantic-structure",
+  "tag": "prithvi100-v1",
+  "files": [
+    {
+      "name": "prithvi100-features.npz",
+      "sha256": "4c4900d9afa4ad889303737fbfd8f5cebc2459cdad572ba6d4ead17e9455f3f4",
+      "bytes": 70515592
+    }
+  ]
+}

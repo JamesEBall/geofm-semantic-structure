@@ -1,0 +1,445 @@
+{
+  "project": "megaearth",
+  "banner": "🌍🤖 MegaEarth: OSM × Sentinel-2 semantic-structure study (few-hundred-class, pretraining ladder)",
+  "slurm_prefix": "🌍🤖",
+  "author": "James Edward Ball",
+  "root": "/mnt/scratch/users/40021461/geofm-semantic-expansion/vocab-01",
+  "model_root": "/mnt/scratch/users/40021461/geofm-semantic-expansion/fresh-01",
+  "seed": 51426,
+  "osm": {
+    "preferred_snapshot": "planet-251229.osm.pbf",
+    "fallback_snapshot": "latest",
+    "md5_base": "https://planet.openstreetmap.org/pbf/",
+    "mirrors": [
+      "https://ftp.fau.de/osm-planet/pbf/",
+      "https://ftp5.gwdg.de/pub/misc/openstreetmap/planet.openstreetmap.org/pbf/",
+      "https://planet.openstreetmap.org/pbf/"
+    ],
+    "download_ranges": 16,
+    "range_mib": 256
+  },
+  "lattice": {
+    "cell_m": 1280,
+    "store_px10": 256,
+    "analysis_px10": 128,
+    "deg_cell": 1.0
+  },
+  "labels": {
+    "tau": 0.3,
+    "multilabel_min": 0.05,
+    "min_polygon_m2": 0.0,
+    "footprints_m": {
+      "r1": 1280,
+      "r2": 1200,
+      "r1c64": 640,
+      "r3": 2560
+    },
+    "footprint_label_column": {
+      "r1": "labels_idx",
+      "r2": "labels_idx_r2",
+      "r1c64": "labels_idx_c64",
+      "r3": "labels_idx_r3"
+    }
+  },
+  "selection": {
+    "candidates_per_class_per_deg": 30,
+    "candidates_per_class": 900,
+    "max_per_class_per_deg": 10,
+    "cap_per_class": 150,
+    "oversample": 1.5,
+    "budget": 200000,
+    "split_fracs": {
+      "train": 0.7,
+      "val": 0.1,
+      "test": 0.2
+    },
+    "split_salt": "megaearth-split-v1",
+    "buffer_km": 5.0,
+    "admission": {
+      "train": 30,
+      "val": 5,
+      "test": 10,
+      "test_cells": 5,
+      "cells": 8
+    },
+    "min_candidate_cells": 5,
+    "buffer_rule": "great-circle centre distance >= buffer_km + 2*half-diagonal of stored footprint (1.81 km) => >=5 km between stored-footprint edges"
+  },
+  "imagery": {
+    "primary_source": "planetary_computer",
+    "fallback_source": "earth_search",
+    "seasons": {
+      "tropics_abs_lat": 23.5,
+      "tropics": [
+        "2025-01-01",
+        "2025-12-31"
+      ],
+      "north": [
+        "2025-05-01",
+        "2025-09-30"
+      ],
+      "south": [
+        "2024-11-01",
+        "2025-03-31"
+      ]
+    },
+    "stac_cloud_max": 60,
+    "max_candidates_per_window": 12,
+    "max_scene_tries": 6,
+    "scl_bad": [
+      0,
+      1,
+      3,
+      8,
+      9,
+      10
+    ],
+    "scl_snow": [
+      11
+    ],
+    "scl_max_bad_fraction": 0.01,
+    "bands10": [
+      "B02",
+      "B03",
+      "B04",
+      "B08"
+    ],
+    "bands20": [
+      "B05",
+      "B06",
+      "B07",
+      "B8A",
+      "B11",
+      "B12"
+    ],
+    "dn_offset_baseline_ge_0400": -1000,
+    "shard_windows": 1000,
+    "chunk_windows": 250,
+    "threads_per_task": 24,
+    "max_concurrent_tasks": 12,
+    "pilot_windows": 1500
+  },
+  "pilot_gate": {
+    "min_accept_rate": 0.55,
+    "max_negative_reflectance_fraction": 0.01,
+    "water_nir_median_max": 0.06,
+    "water_nir_median_min": -0.01,
+    "water_coverage_scl_spearman_min": 0.4,
+    "min_windows_per_hour": 2500,
+    "max_alignment_error_m": 0.0,
+    "source_parity_rule": "resolved_pass_min_15",
+    "water_check": "labelled_multilabel_and_separation",
+    "water_separation_min": 0.2,
+    "_amendment": "A5, accepted by the author 18 Oct 2026 08:50 UTC; thresholds unchanged, statistics restricted to where they are defined"
+  },
+  "extraction": {
+    "max_concurrent_gpus": 2,
+    "routes": [
+      {
+        "route": "r1",
+        "models": [
+          "clay",
+          "prithvi",
+          "prithvi100",
+          "random_clay_101",
+          "random_prithvi_101",
+          "random_prithvi100_101",
+          "random_clay_202",
+          "random_prithvi_202",
+          "random_prithvi100_202",
+          "random_clay_303",
+          "random_prithvi_303",
+          "random_prithvi100_303",
+          "prithvi_tl",
+          "dofa",
+          "random_dofa_101",
+          "random_dofa_202",
+          "random_dofa_303"
+        ]
+      },
+      {
+        "route": "r2",
+        "models": [
+          "clay",
+          "prithvi",
+          "prithvi100",
+          "random_clay_101",
+          "random_prithvi_101",
+          "random_prithvi100_101",
+          "random_clay_202",
+          "random_prithvi_202",
+          "random_prithvi100_202",
+          "random_clay_303",
+          "random_prithvi_303",
+          "random_prithvi100_303",
+          "prithvi_tl",
+          "dofa"
+        ]
+      },
+      {
+        "route": "r2g1875",
+        "models": [
+          "clay"
+        ]
+      },
+      {
+        "route": "r1c64",
+        "models": [
+          "clay",
+          "prithvi",
+          "prithvi100",
+          "random_clay_101",
+          "random_prithvi_101",
+          "random_prithvi100_101"
+        ]
+      },
+      {
+        "route": "r3",
+        "models": [
+          "clay",
+          "random_clay_101"
+        ]
+      },
+      {
+        "route": "r1rgb224",
+        "models": [
+          "dinov2",
+          "remoteclip",
+          "dofa"
+        ]
+      }
+    ],
+    "batch_size": {
+      "r1": {
+        "clay": 128,
+        "prithvi": 256,
+        "prithvi100": 256,
+        "prithvi_tl": 256,
+        "dofa": 128
+      },
+      "r2": {
+        "clay": 256,
+        "prithvi": 512,
+        "prithvi100": 512,
+        "prithvi_tl": 512,
+        "dofa": 256
+      },
+      "r1c64": {
+        "clay": 256,
+        "prithvi": 512,
+        "prithvi100": 512
+      },
+      "r3": {
+        "clay": 16
+      },
+      "r2g1875": {
+        "clay": 256
+      },
+      "r1rgb224": {
+        "dinov2": 128,
+        "remoteclip": 256,
+        "dofa": 128
+      }
+    },
+    "clay_gsd": {
+      "r1": 10.0,
+      "r2": 10.0,
+      "r2g1875": 18.75,
+      "r1c64": 10.0,
+      "r3": 10.0
+    }
+  },
+  "text": {
+    "encoders": [
+      "qwen_instructed",
+      "qwen_plain",
+      "mpnet"
+    ],
+    "instruction": "Instruct: Represent the land-cover meaning of this category for semantic similarity.\nQuery: ",
+    "family_merge_cosine": 0.9,
+    "user_agent": "geofm-vocab-study/0.1 (research; contact via github JamesEBall)",
+    "family_merge_rule": "connected components of (frozen ontology/synonym/alias edges) OR (cosine > 0.90 under ANY reference)"
+  },
+  "analysis": {
+    "alphas": [
+      0.1,
+      1.0,
+      10.0,
+      100.0,
+      1000.0,
+      10000.0,
+      100000.0,
+      1000000.0
+    ],
+    "outer_folds": 5,
+    "inner_folds": 5,
+    "bootstrap": 10000,
+    "text_permutations": 100,
+    "label_shuffles": 20,
+    "mantel_permutations": 10000,
+    "scaling_m": [
+      6,
+      12,
+      25,
+      50,
+      100,
+      200,
+      400,
+      "all"
+    ],
+    "scaling_subsets": 10,
+    "refs": [
+      "qwen_instructed",
+      "qwen_plain",
+      "mpnet"
+    ],
+    "primary_ref": "qwen_instructed",
+    "poolings": [
+      "mean",
+      "cls"
+    ],
+    "primary_pooling": "mean",
+    "strong_yes_ratio": 1.5,
+    "null_fraction": 0.1,
+    "probe_top1_floor": 0.15,
+    "holm_alpha": 0.05,
+    "mantel_alpha_strong": 0.01,
+    "geo_grid_deg": 10,
+    "continent_min_classes": 20,
+    "continents_required": 4,
+    "architectures": {
+      "clay": {
+        "pretrained": "r1-clay",
+        "random": [
+          "r1-random_clay_101",
+          "r1-random_clay_202",
+          "r1-random_clay_303"
+        ]
+      },
+      "prithvi": {
+        "pretrained": "r1-prithvi",
+        "random": [
+          "r1-random_prithvi_101",
+          "r1-random_prithvi_202",
+          "r1-random_prithvi_303"
+        ]
+      },
+      "prithvi100": {
+        "pretrained": "r1-prithvi100",
+        "random": [
+          "r1-random_prithvi100_101",
+          "r1-random_prithvi100_202",
+          "r1-random_prithvi100_303"
+        ]
+      }
+    },
+    "controls": {
+      "appearance_rich": [
+        "appearance_rich"
+      ],
+      "appearance_rich_metadata_rich": [
+        "appearance_rich",
+        "metadata_rich"
+      ],
+      "appearance_rff_metadata_rich": [
+        "appearance_rff",
+        "metadata_rich"
+      ]
+    },
+    "descriptive_routes": [
+      [
+        "appearance42"
+      ],
+      [
+        "metadata"
+      ],
+      [
+        "metadata_rich"
+      ],
+      [
+        "appearance_rff"
+      ]
+    ],
+    "secondary_route_prefixes": [
+      "r2-",
+      "r2g1875-",
+      "r1c64-",
+      "r3-"
+    ],
+    "sesoi": 0.01,
+    "power_min": 0.8,
+    "gzsl_gamma_grid": [
+      -2.0,
+      2.0,
+      0.01
+    ],
+    "pca_dims": 256,
+    "far_test_km": 200,
+    "text_sensitivity_arrays": [
+      "qwen_instructed_name",
+      "qwen_instructed_desc"
+    ],
+    "ladder": {
+      "rung0_random": [
+        "r1-random_clay_101",
+        "r1-random_clay_202",
+        "r1-random_clay_303",
+        "r1-random_prithvi_101",
+        "r1-random_prithvi_202",
+        "r1-random_prithvi_303",
+        "r1-random_prithvi100_101",
+        "r1-random_prithvi100_202",
+        "r1-random_prithvi100_303",
+        "r1-random_dofa_101",
+        "r1-random_dofa_202",
+        "r1-random_dofa_303"
+      ],
+      "rung1_imagery_only": [
+        "r1-prithvi",
+        "r1-prithvi100"
+      ],
+      "rung1b_eo_imagery_natural_image_init": [
+        "r1-dofa"
+      ],
+      "rung2_imagery_plus_metadata": [
+        "r1-clay",
+        "r1-prithvi_tl"
+      ],
+      "rung3_natural_image": [
+        "r1rgb224-dinov2",
+        "r1rgb224-dofa"
+      ],
+      "rung4_language_aligned": [
+        "r1rgb224-remoteclip"
+      ]
+    },
+    "ladder_rule": "Descriptive. The imagery-alone claim is carried by rung 1 (masked-image pretraining on Earth-observation imagery with no sample-level metadata and no external teacher; both from one laboratory, HLS at 30 m applied to 10 m). Rung 1b (DOFA) takes wavelength as a sensor constant and its natural-image initialisation/teacher must be confirmed from Xiong et al. 2024 before F1. Rung 2 adds metadata conditioning (and, for Clay, a DINOv2 teacher). Rung 3 is read only against r1rgb224-dofa, the same-input EO comparator. Rung 4 is a positive reference and never evidence. The single matched contrast is r1-prithvi versus r1-prithvi_tl. Confirmatory H1 stays with the three registered architectures.",
+    "matched_contrasts": [
+      [
+        "r1-prithvi",
+        "r1-prithvi_tl"
+      ]
+    ]
+  },
+  "release": {
+    "hf_repo": "TBD/megaearth-osm-s2",
+    "private_until_submission": true,
+    "shard_bytes": 1000000000
+  },
+  "features": {
+    "appearance_rff_dim": 1024,
+    "appearance_rff_seed": 7301,
+    "metadata_rich_rff_dim": 256,
+    "metadata_rich_rff_seed": 7302,
+    "metadata_rich_rff_scales_km": [
+      100,
+      300,
+      1000,
+      3000
+    ],
+    "doy_harmonics": 3,
+    "biome_source": "RESOLVE Ecoregions 2017 (CC BY 4.0)",
+    "biome_url": "https://storage.googleapis.com/teow2016/Ecoregions2017.zip",
+    "mapping_density_radius_cells": 3
+  }
+}

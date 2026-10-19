@@ -1,0 +1,18 @@
+{
+  "author": "James Edward Ball",
+  "source_design_sha256": "eb2428e809237ea889258a6d300f4abc8125e85d70ef96e5fd82cb4a4cb87007",
+  "basis": "Retained labels only; no representation outcomes; mathematical union bounds under the registered iid test-template sampling design. Calculated after development run but independently of its outcomes.",
+  "test_cells": 1783,
+  "classes": 188,
+  "sum_class_absence_probabilities": 0.047076996551939004,
+  "sum_pair_absence_probabilities": 0.0010593368002861543,
+  "any_class_absent_probability_bounds": [
+    0.046017659751652853,
+    0.047076996551939004
+  ],
+  "unconditional_coverage_if_available_coverage_is_0_95_bounds": [
+    0.9052768532756579,
+    0.9062832232359298
+  ],
+  "warning": "The last range assumes exactly 95% coverage conditional on availability. It is not a universal upper bound on unconditional coverage. The absolute availability ceiling is one minus the missing-class probability. No protocol gate or simulation outcome changes."
+}

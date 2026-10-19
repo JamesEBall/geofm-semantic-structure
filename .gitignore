@@ -1,0 +1,18 @@
+.venv/
+/work*/
+work-*/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.aux
+*.log
+*.synctex.gz
+
+# MegaEarth release copies and deploy pointer (rebuilt by hpc/vocab/slurm/release.sh)
+output/
+
+# Local manuscript and working material remain outside the reproduction package.
+paper/
+examples/
+hpc/vocab/paper-drafts/

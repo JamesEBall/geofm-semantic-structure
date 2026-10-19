@@ -1,0 +1,21 @@
+{
+  "repository": "JamesEBall/geofm-semantic-structure",
+  "tag": "semantic-structure-v1",
+  "files": [
+    {
+      "name": "calibration.npz",
+      "sha256": "3831fb545019405a228a2ae4b1b5465ee507dfccd446dc968b18da19fa93840d",
+      "bytes": 6333764
+    },
+    {
+      "name": "features.npz",
+      "sha256": "f7ff87d54ecf186b85f3025256d9512b543528609d8979199c670ffc95669de3",
+      "bytes": 214971029
+    },
+    {
+      "name": "text.npz",
+      "sha256": "c1290aa390e4878cafdcb08b9e74be72b9f5eb75c6370645e9c6244ff73a3b28",
+      "bytes": 174934
+    }
+  ]
+}
