@@ -1,0 +1,17 @@
+{
+  "author": "James Edward Ball",
+  "created_utc": "2026-10-15T17:02:13.684759+00:00",
+  "sha256": {
+    "code/extract.py": "6d17edb79463c3b98b0b43b228d0ecebf25e1cedd0c920392a4f0b10036bfff4",
+    "code/analyse.py": "8ade631e9e44b0d04385b18ace9d597a654607eb02ead9956c4ebf8a40300c63",
+    "code/freeze.py": "dfc05e7db5a0a99ff7a893f8d6ef6ee53c042cbeb1330d5827870a7e6bde99b1",
+    "code/test_analysis.py": "9fbe33b8d4d8314c52332371661cfeffd5bdd4e4f0c1da5344f1211b1ce8271c",
+    "code/global-protocol.md": "8cf2af375b87ec76c8251740bfa8fc05c04d932a0f3769383f29fe6ffeec1b0a",
+    "acquire.sbatch": "1d1d61c44a0fd799c722b7a8d09e6ed74d2158d4cafe6249e376edac48f0fe1e",
+    "aggregate.sbatch": "a2b88349b3be49f43c9f6455e3f45caf2a61fe9dcc5279f1be1e9daa5d70a7f3",
+    "analysis.sbatch": "314e5b3d18b4c99ad596fa49a2ca24e9ee542a2156b757443893ccb999ad0b8f",
+    "gpu.sbatch": "55ac1903095855123372ade042eb6678ee2098204f0522ffc21f5750e1436ca6",
+    "pilot.sbatch": "4802f327d775736477b802a10d1a3942cd7670dea653d288944413cd12d70e36",
+    "code/acquisition-freeze.json": "1d20470043e37eeaf05b8fb2c972ed41b248af7b8799c7361beb77b435a5a222"
+  }
+}

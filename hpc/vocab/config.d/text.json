@@ -1,0 +1,8 @@
+{
+  "text_prefetch": {
+    "min_polygons": 100,
+    "max_units": 6,
+    "throttle_s": 0.5,
+    "_note": "engineering knobs for the wiki pre-fetch; the class list itself is decided by the frozen selection rules"
+  }
+}

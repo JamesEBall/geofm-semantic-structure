@@ -1,0 +1,39 @@
+{
+  "author": "James Edward Ball",
+  "checked_at_utc": "2026-10-18T23:48:32.141053Z",
+  "remote_independent_audit": {
+    "exact_unit_counts": {
+      "analysis_readouts": 950,
+      "analysis_nulls": 45,
+      "analysis_scaling": 750,
+      "analysis_rsa": 150,
+      "analysis_inference": 1,
+      "analysis_qualify": 90
+    },
+    "all_unit_parameters_match_frozen_plans": true,
+    "all_final_manifest_outputs_verified": true,
+    "unique_outputs_hashed": 1989,
+    "bytes_hashed": 3470759661,
+    "base_release_source_files_hashed": 67,
+    "original_base_receipts_match_exact_cpu_readout_plan": 850,
+    "other_analysis_receipts_match_operational_overlay": true,
+    "identity_sha256": "1baba0a05078b99c6c33590f11aab6377fdcc368a581b751b51edf50749a78ce",
+    "overlay_sha256": "dbfb5b99f20341592b024231a14bab50ea974190bbc246d547ba4a00cd516992",
+    "assessment_verification_sha256": "c1b4ecbb4df850ed715eac2420e6dedae3a867f39a49b49ebb06c8e783754ad8"
+  },
+  "local_download_audit": {
+    "all_downloaded_inference_and_qualification_outputs_match_final_receipt_hashes": true,
+    "automated_comparison_hashes_match": true,
+    "primary_models_and_controls_exact_pairs": 8755,
+    "primary_models_and_controls_exact_classes": 188,
+    "test_data_used_for_tuning": false
+  },
+  "remote_jobs": {
+    "controller177753": "COMPLETED 0:0",
+    "assessment177754": "COMPLETED 0:0",
+    "inference179855": "COMPLETED 0:0; elapsed01:45:19; peakRSS112970516K",
+    "qualification_finalize179953": "COMPLETED 0:0"
+  },
+  "overleaf_changed": false,
+  "scientific_admission": "Separate from file verification; review all statistical gates."
+}

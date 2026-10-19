@@ -1,0 +1,193 @@
+{
+  "author": "James Edward Ball",
+  "version": "support-v2-physical-window-preflight",
+  "world_seed": 2026101861,
+  "development_seed": 2026101862,
+  "confirmation_seed": 2026101863,
+  "dimension": 24,
+  "bootstrap": 499,
+  "bootstrap_batch": 16,
+  "development_replicates": 64,
+  "confirmation_replicates": 1000,
+  "coverage_band": [
+    0.92,
+    0.995
+  ],
+  "size_band": [
+    0.035,
+    0.065
+  ],
+  "power_reference": 0.8,
+  "weights": [
+    "cell",
+    "block"
+  ],
+  "intervals": [
+    "basic",
+    "percentile"
+  ],
+  "primary_interval": "basic",
+  "scenarios": [
+    {
+      "id": "low_noise_b0",
+      "regime": "low_noise",
+      "beta": 0.0,
+      "independent_text": false
+    },
+    {
+      "id": "low_noise_b04",
+      "regime": "low_noise",
+      "beta": 0.4,
+      "independent_text": false
+    },
+    {
+      "id": "standard_b0",
+      "regime": "standard",
+      "beta": 0.0,
+      "independent_text": false
+    },
+    {
+      "id": "standard_b04",
+      "regime": "standard",
+      "beta": 0.4,
+      "independent_text": false
+    },
+    {
+      "id": "heterogeneous_b0",
+      "regime": "heterogeneous",
+      "beta": 0.0,
+      "independent_text": false
+    },
+    {
+      "id": "heterogeneous_b04",
+      "regime": "heterogeneous",
+      "beta": 0.4,
+      "independent_text": false
+    },
+    {
+      "id": "spatial_five_b0",
+      "regime": "spatial_five",
+      "beta": 0.0,
+      "independent_text": false
+    },
+    {
+      "id": "spatial_five_b04",
+      "regime": "spatial_five",
+      "beta": 0.4,
+      "independent_text": false
+    },
+    {
+      "id": "spatial_twenty_b0",
+      "regime": "spatial_twenty",
+      "beta": 0.0,
+      "independent_text": false
+    },
+    {
+      "id": "spatial_twenty_b04",
+      "regime": "spatial_twenty",
+      "beta": 0.4,
+      "independent_text": false
+    },
+    {
+      "id": "fixed_design_b0",
+      "regime": "fixed_design",
+      "beta": 0.0,
+      "independent_text": false
+    },
+    {
+      "id": "fixed_design_b04",
+      "regime": "fixed_design",
+      "beta": 0.4,
+      "independent_text": false
+    },
+    {
+      "id": "support_x4_b0",
+      "regime": "support_x4",
+      "beta": 0.0,
+      "independent_text": false
+    },
+    {
+      "id": "support_x4_b04",
+      "regime": "support_x4",
+      "beta": 0.4,
+      "independent_text": false
+    },
+    {
+      "id": "independent_text_b0",
+      "regime": "standard",
+      "beta": 0.0,
+      "independent_text": true
+    }
+  ],
+  "qualification": {
+    "empirical_default": "none; candidate-specific reporting only; no selection after outcomes",
+    "cell_basic": {
+      "claim": "fresh retained-template cells independent within and between splits",
+      "coverage_scenarios": [
+        "low_noise_b0",
+        "low_noise_b04",
+        "standard_b0",
+        "standard_b04",
+        "heterogeneous_b0",
+        "heterogeneous_b04",
+        "independent_text_b0"
+      ],
+      "size_scenarios": [
+        "low_noise_b0",
+        "standard_b0",
+        "heterogeneous_b0",
+        "independent_text_b0"
+      ],
+      "metrics": [
+        "ordinary_baseline",
+        "ordinary_semantic",
+        "partial_baseline",
+        "partial_semantic",
+        "ordinary_difference",
+        "partial_difference"
+      ]
+    },
+    "block_basic": {
+      "claim": "fresh retained-template cells with dependence confined to the fixed five-degree blocks",
+      "coverage_scenarios": [
+        "low_noise_b0",
+        "low_noise_b04",
+        "standard_b0",
+        "standard_b04",
+        "heterogeneous_b0",
+        "heterogeneous_b04",
+        "independent_text_b0",
+        "spatial_five_b0",
+        "spatial_five_b04"
+      ],
+      "size_scenarios": [
+        "low_noise_b0",
+        "standard_b0",
+        "heterogeneous_b0",
+        "spatial_five_b0",
+        "independent_text_b0"
+      ],
+      "metrics": [
+        "ordinary_baseline",
+        "ordinary_semantic",
+        "partial_baseline",
+        "partial_semantic",
+        "ordinary_difference",
+        "partial_difference"
+      ]
+    },
+    "mandatory_disclosed_stresses": [
+      "spatial_twenty_b0",
+      "spatial_twenty_b04"
+    ],
+    "diagnostics_only": [
+      "fixed_design_b0",
+      "fixed_design_b04",
+      "support_x4_b0",
+      "support_x4_b04"
+    ],
+    "criterion": "Wilson95 entirely within registered band; every named scenario must pass per metric; no cross-metric substitution"
+  },
+  "confirmation_null_replicates": 5000,
+  "feature_dgp": "single physical-window vector; exact cell-balanced label-mixture population target"
+}

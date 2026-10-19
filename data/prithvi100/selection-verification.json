@@ -1,0 +1,18 @@
+{
+  "author": "James Edward Ball",
+  "status": "passed",
+  "readout_selections": 480,
+  "readout_candidates": 3360,
+  "maximum_validation_ap_error": 0.0,
+  "nuisance": [
+    {
+      "model": "prithvi100",
+      "selected_regularisation": 28.5,
+      "expected_regularisation": 28.5,
+      "maximum_candidate_mse_error": 0.0,
+      "passed": true
+    }
+  ],
+  "failures": [],
+  "scope": "Recomputed seven-penalty grids on frozen fitting/validation rows. Final evaluation rows and scores are not used for selection. Existing study choices remain unchanged."
+}

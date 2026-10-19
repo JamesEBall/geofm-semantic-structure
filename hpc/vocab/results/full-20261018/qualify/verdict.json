@@ -1,0 +1,593 @@
+{
+ "arch_gates": {
+  "clay": {
+   "beats_each_seed": true,
+   "crit1": false,
+   "crit2": true,
+   "crit3": true,
+   "crit4": null,
+   "crit4_available": false,
+   "crit5": true,
+   "crit6": null,
+   "family_macro_gain_pos": true,
+   "h1_pass": true,
+   "lb_cstar_gt_sesoi_simultaneous": true,
+   "matched_support_pass": null,
+   "probe_below_floor": false,
+   "ub_cstar_lt_minus_sesoi_simultaneous": false,
+   "ub_cstar_lt_sesoi_simultaneous": false
+  },
+  "prithvi": {
+   "beats_each_seed": true,
+   "crit1": false,
+   "crit2": true,
+   "crit3": true,
+   "crit4": null,
+   "crit4_available": false,
+   "crit5": true,
+   "crit6": null,
+   "family_macro_gain_pos": true,
+   "h1_pass": true,
+   "lb_cstar_gt_sesoi_simultaneous": false,
+   "matched_support_pass": null,
+   "probe_below_floor": true,
+   "ub_cstar_lt_minus_sesoi_simultaneous": false,
+   "ub_cstar_lt_sesoi_simultaneous": false
+  },
+  "prithvi100": {
+   "beats_each_seed": true,
+   "crit1": false,
+   "crit2": false,
+   "crit3": false,
+   "crit4": null,
+   "crit4_available": false,
+   "crit5": true,
+   "crit6": null,
+   "family_macro_gain_pos": true,
+   "h1_pass": false,
+   "lb_cstar_gt_sesoi_simultaneous": false,
+   "matched_support_pass": null,
+   "probe_below_floor": true,
+   "ub_cstar_lt_minus_sesoi_simultaneous": false,
+   "ub_cstar_lt_sesoi_simultaneous": false
+  }
+ },
+ "conditional": "conditional on fitted weights, tuning, vocabulary and seed panel",
+ "engine_version": "s11-a1.0",
+ "estimand": "Estimand: frozen-feature transfer through a supervised linear text readout beyond the specified controls \u2014 not semantic understanding or causal acquisition from imagery alone.",
+ "label": "YES (weak)",
+ "mantel_p_qualified": false,
+ "power_qualified": false,
+ "reading": "STRONG YES needs every listed gate True in at least two architectures; an unavailable gate never satisfies it. YES (weak) needs one architecture with h1_pass.",
+ "real": {
+  "clay": {
+   "beats_each_seed": true,
+   "controls": {
+    "appearance_rff_metadata_rich": {
+     "ci": [
+      0.020408100964750056,
+      0.05252139122316319
+     ],
+     "delta": 0.03465166421592334,
+     "p": 0.0004999500049995
+    },
+    "appearance_rich": {
+     "ci": [
+      0.0320690953039407,
+      0.07311792315799995
+     ],
+     "delta": 0.04996358957168917,
+     "p": 0.00019998000199980003
+    },
+    "appearance_rich_metadata_rich": {
+     "ci": [
+      0.024313246215342352,
+      0.05993401930700039
+     ],
+     "delta": 0.040121780034461395,
+     "p": 0.00029997000299970003
+    },
+    "r1-random_clay_101": {
+     "ci": [
+      0.04977166487451509,
+      0.10283783056567598
+     ],
+     "delta": 0.07239233777627802,
+     "p": 9.999000099990002e-05
+    },
+    "r1-random_clay_202": {
+     "ci": [
+      0.05133205234101767,
+      0.10432820034600515
+     ],
+     "delta": 0.07374094197053728,
+     "p": 9.999000099990002e-05
+    },
+    "r1-random_clay_303": {
+     "ci": [
+      0.05138390806849855,
+      0.10391150150983086
+     ],
+     "delta": 0.07364185077226014,
+     "p": 9.999000099990002e-05
+    }
+   },
+   "crit1": {
+    "ci": [
+     -0.03650691554235806,
+     0.0052781561182174965
+    ],
+    "pass": false,
+    "point": -0.013636412187106928
+   },
+   "crit1_pass": false,
+   "crit2": {
+    "mpnet/family": {
+     "available": true,
+     "holm_p": 0.0068993100689931,
+     "iut_p": 0.0022997700229977,
+     "pass": true
+    },
+    "qwen_instructed/family": {
+     "available": true,
+     "holm_p": 0.0014998500149985001,
+     "iut_p": 0.0004999500049995,
+     "pass": true
+    },
+    "qwen_instructed/random_class": {
+     "available": true,
+     "holm_p": 0.00029997000299970003,
+     "iut_p": 9.999000099990002e-05,
+     "pass": true
+    },
+    "qwen_plain/family": {
+     "available": true,
+     "holm_p": 0.0023997600239976003,
+     "iut_p": 0.0007999200079992001,
+     "pass": true
+    }
+   },
+   "crit2_pass": true,
+   "crit3": {
+    "ci": [
+     0.01710035020564928,
+     0.048002414455461134
+    ],
+    "difference": 0.030920177720846848,
+    "gap_all": 0.03465166421592342,
+    "gap_m6": 0.003731486495076569
+   },
+   "crit3_pass": true,
+   "crit5": {
+    "continent_gains": {
+     "continent=Africa": 0.024791295656839157,
+     "continent=Antarctica": -0.1895116031488475,
+     "continent=Asia": 0.03462721956349479,
+     "continent=Europe": 0.04874116780154003,
+     "continent=North America": 0.029637898475884772,
+     "continent=Oceania": 0.04117035961605653,
+     "continent=South America": 0.03410662566853673
+    },
+    "eligible_continents": [
+     "continent=Africa",
+     "continent=Asia",
+     "continent=Europe",
+     "continent=North America",
+     "continent=Oceania",
+     "continent=South America"
+    ],
+    "leave_key_out_gains": {
+     "leave-key-out=aeroway": 0.03465920347393328,
+     "leave-key-out=amenity": 0.03539911428346865,
+     "leave-key-out=historic": 0.0345782239283636,
+     "leave-key-out=landcover": 0.03384125013510242,
+     "leave-key-out=landuse": 0.036138854657339375,
+     "leave-key-out=leisure": 0.033761960468997376,
+     "leave-key-out=man_made": 0.03368597944949045,
+     "leave-key-out=natural": 0.037673340202860395,
+     "leave-key-out=place": 0.034888229335816784,
+     "leave-key-out=power": 0.03277595895539187,
+     "leave-key-out=tourism": 0.035315127633019694
+    },
+    "positive_eligible": 6
+   },
+   "crit5_pass": true,
+   "cstar": {
+    "ci": [
+     0.020232739573454343,
+     0.05226445206859959
+    ],
+    "delta": 0.03465166421592342,
+    "lb_gt_sesoi_simultaneous": true,
+    "simultaneous_ci": [
+     0.01746451028158534,
+     0.056686779264884954
+    ],
+    "ub_lt_minus_sesoi_simultaneous": false,
+    "ub_lt_sesoi_simultaneous": false
+   },
+   "family_macro_gain": 0.046567037755415125,
+   "family_macro_gain_pos": true,
+   "h1_pass": true,
+   "holm_p": 0.0014998500149985001,
+   "iut_p": 0.0004999500049995,
+   "mantel_p": 9.999000099990002e-05,
+   "matches_inference": true,
+   "partial_mantel_p": 9.999000099990002e-05,
+   "partial_spearman": 0.11645573962805963,
+   "point_best_control": "appearance_rff_metadata_rich",
+   "probe_below_floor": false,
+   "probe_top1": 0.1745536247766873
+  },
+  "prithvi": {
+   "beats_each_seed": true,
+   "controls": {
+    "appearance_rff_metadata_rich": {
+     "ci": [
+      0.010782307890303225,
+      0.03784731434801309
+     ],
+     "delta": 0.023762789189777415,
+     "p": 0.000999900009999
+    },
+    "appearance_rich": {
+     "ci": [
+      0.024913055195886498,
+      0.05584559824426984
+     ],
+     "delta": 0.03907471454554325,
+     "p": 9.999000099990002e-05
+    },
+    "appearance_rich_metadata_rich": {
+     "ci": [
+      0.014625057953611968,
+      0.04480603427064233
+     ],
+     "delta": 0.029232905008315477,
+     "p": 0.00029997000299970003
+    },
+    "r1-random_prithvi_101": {
+     "ci": [
+      0.024395718013785202,
+      0.05444020316713266
+     ],
+     "delta": 0.038047577404853164,
+     "p": 9.999000099990002e-05
+    },
+    "r1-random_prithvi_202": {
+     "ci": [
+      0.024424844432682648,
+      0.056289925811599535
+     ],
+     "delta": 0.03857458420854486,
+     "p": 0.00029997000299970003
+    },
+    "r1-random_prithvi_303": {
+     "ci": [
+      0.02450270983211625,
+      0.05459425002393005
+     ],
+     "delta": 0.03800181278435673,
+     "p": 9.999000099990002e-05
+    }
+   },
+   "crit1": {
+    "ci": [
+     -0.04989513796960014,
+     -0.0061354408065015945
+    ],
+    "pass": false,
+    "point": -0.024525287213252867
+   },
+   "crit1_pass": false,
+   "crit2": {
+    "mpnet/family": {
+     "available": true,
+     "holm_p": 0.0068993100689931,
+     "iut_p": 0.0022997700229977,
+     "pass": true
+    },
+    "qwen_instructed/family": {
+     "available": true,
+     "holm_p": 0.001999800019998,
+     "iut_p": 0.000999900009999,
+     "pass": true
+    },
+    "qwen_instructed/random_class": {
+     "available": true,
+     "holm_p": 0.00029997000299970003,
+     "iut_p": 9.999000099990002e-05,
+     "pass": true
+    },
+    "qwen_plain/family": {
+     "available": true,
+     "holm_p": 0.004399560043995601,
+     "iut_p": 0.0021997800219978004,
+     "pass": true
+    }
+   },
+   "crit2_pass": true,
+   "crit3": {
+    "ci": [
+     0.007155229331002074,
+     0.03290456877459692
+    ],
+    "difference": 0.019453651524898474,
+    "gap_all": 0.023762789189777478,
+    "gap_m6": 0.004309137664879004
+   },
+   "crit3_pass": true,
+   "crit5": {
+    "continent_gains": {
+     "continent=Africa": 0.014984369508189377,
+     "continent=Antarctica": -0.13411439398810082,
+     "continent=Asia": 0.02890865128970374,
+     "continent=Europe": 0.035597053765197256,
+     "continent=North America": 0.004644298928899004,
+     "continent=Oceania": 0.020710765737426834,
+     "continent=South America": 0.02557620602821739
+    },
+    "eligible_continents": [
+     "continent=Africa",
+     "continent=Asia",
+     "continent=Europe",
+     "continent=North America",
+     "continent=Oceania",
+     "continent=South America"
+    ],
+    "leave_key_out_gains": {
+     "leave-key-out=aeroway": 0.023535602062689787,
+     "leave-key-out=amenity": 0.025554263823059087,
+     "leave-key-out=historic": 0.023509698472384266,
+     "leave-key-out=landcover": 0.022416302962811913,
+     "leave-key-out=landuse": 0.023224177626002235,
+     "leave-key-out=leisure": 0.024632127269864412,
+     "leave-key-out=man_made": 0.02367858678988144,
+     "leave-key-out=natural": 0.022022838329643857,
+     "leave-key-out=place": 0.023917291275946856,
+     "leave-key-out=power": 0.023858236524584492,
+     "leave-key-out=tourism": 0.02430977029810727
+    },
+    "positive_eligible": 6
+   },
+   "crit5_pass": true,
+   "cstar": {
+    "ci": [
+     0.010720909776665026,
+     0.03733666009153385
+    ],
+    "delta": 0.023762789189777478,
+    "lb_gt_sesoi_simultaneous": false,
+    "simultaneous_ci": [
+     0.007594977716720907,
+     0.04021952029657335
+    ],
+    "ub_lt_minus_sesoi_simultaneous": false,
+    "ub_lt_sesoi_simultaneous": false
+   },
+   "family_macro_gain": 0.024656916232416174,
+   "family_macro_gain_pos": true,
+   "h1_pass": true,
+   "holm_p": 0.001999800019998,
+   "iut_p": 0.000999900009999,
+   "mantel_p": 9.999000099990002e-05,
+   "matches_inference": true,
+   "partial_mantel_p": 0.0011998800119988001,
+   "partial_spearman": 0.09653751190403614,
+   "point_best_control": "appearance_rff_metadata_rich",
+   "probe_below_floor": true,
+   "probe_top1": 0.14367524196974824
+  },
+  "prithvi100": {
+   "beats_each_seed": true,
+   "controls": {
+    "appearance_rff_metadata_rich": {
+     "ci": [
+      -0.005530669672734575,
+      0.022105792846304734
+     ],
+     "delta": 0.0079875311684665,
+     "p": 0.1284871512848715
+    },
+    "appearance_rich": {
+     "ci": [
+      0.011802634132150006,
+      0.03767703282381668
+     ],
+     "delta": 0.023299456524232327,
+     "p": 0.0014998500149985001
+    },
+    "appearance_rich_metadata_rich": {
+     "ci": [
+      -0.0006938147424888026,
+      0.02837251573742236
+     ],
+     "delta": 0.013457646987004565,
+     "p": 0.0382961703829617
+    },
+    "r1-random_prithvi100_101": {
+     "ci": [
+      0.009448425030165655,
+      0.035842128646244475
+     ],
+     "delta": 0.021032105535123375,
+     "p": 0.0035996400359964
+    },
+    "r1-random_prithvi100_202": {
+     "ci": [
+      0.007977637230451943,
+      0.033201433730064324
+     ],
+     "delta": 0.019285915072489022,
+     "p": 0.004899510048995101
+    },
+    "r1-random_prithvi100_303": {
+     "ci": [
+      0.00906358810303436,
+      0.0342996843353108
+     ],
+     "delta": 0.020454833885033826,
+     "p": 0.0027997200279972004
+    }
+   },
+   "crit1": {
+    "ci": [
+     -0.06729340754342342,
+     -0.021134347333524726
+    ],
+    "pass": false,
+    "point": -0.040300545234563834
+   },
+   "crit1_pass": false,
+   "crit2": {
+    "mpnet/family": {
+     "available": true,
+     "holm_p": 0.0978902109789021,
+     "iut_p": 0.0978902109789021,
+     "pass": false
+    },
+    "qwen_instructed/family": {
+     "available": true,
+     "holm_p": 0.1284871512848715,
+     "iut_p": 0.1284871512848715,
+     "pass": false
+    },
+    "qwen_instructed/random_class": {
+     "available": true,
+     "holm_p": 0.06769323067693231,
+     "iut_p": 0.06769323067693231,
+     "pass": false
+    },
+    "qwen_plain/family": {
+     "available": true,
+     "holm_p": 0.18998100189981001,
+     "iut_p": 0.18998100189981001,
+     "pass": false
+    }
+   },
+   "crit2_pass": false,
+   "crit3": {
+    "ci": [
+     -0.004133877880737303,
+     0.02340969713518078
+    ],
+    "difference": 0.00829806659868304,
+    "gap_all": 0.00798753116846651,
+    "gap_m6": -0.00031053543021652974
+   },
+   "crit3_pass": false,
+   "crit5": {
+    "continent_gains": {
+     "continent=Africa": -0.006087770507433865,
+     "continent=Antarctica": -0.11748653946909032,
+     "continent=Asia": 0.017814060983191604,
+     "continent=Europe": 0.01471582963035828,
+     "continent=North America": -0.010210988009375616,
+     "continent=Oceania": 0.014227600612022079,
+     "continent=South America": 0.008838731095586833
+    },
+    "eligible_continents": [
+     "continent=Africa",
+     "continent=Asia",
+     "continent=Europe",
+     "continent=North America",
+     "continent=Oceania",
+     "continent=South America"
+    ],
+    "leave_key_out_gains": {
+     "leave-key-out=aeroway": 0.007605692317995655,
+     "leave-key-out=amenity": 0.008942570804080563,
+     "leave-key-out=historic": 0.00838402886081338,
+     "leave-key-out=landcover": 0.006146719299956777,
+     "leave-key-out=landuse": 0.010081694636447952,
+     "leave-key-out=leisure": 0.008836049736554108,
+     "leave-key-out=man_made": 0.007498467672164194,
+     "leave-key-out=natural": 0.010172118471425934,
+     "leave-key-out=place": 0.008098616678262588,
+     "leave-key-out=power": 0.005316314781743325,
+     "leave-key-out=tourism": 0.008298989648007932
+    },
+    "positive_eligible": 4
+   },
+   "crit5_pass": true,
+   "cstar": {
+    "ci": [
+     -0.005566813603105279,
+     0.020636632659854423
+    ],
+    "delta": 0.00798753116846651,
+    "lb_gt_sesoi_simultaneous": false,
+    "simultaneous_ci": [
+     -0.008358988606179509,
+     0.023504162229024073
+    ],
+    "ub_lt_minus_sesoi_simultaneous": false,
+    "ub_lt_sesoi_simultaneous": false
+   },
+   "family_macro_gain": 0.006054813419823445,
+   "family_macro_gain_pos": true,
+   "h1_pass": false,
+   "holm_p": 0.1284871512848715,
+   "iut_p": 0.1284871512848715,
+   "mantel_p": 9.999000099990002e-05,
+   "matches_inference": true,
+   "partial_mantel_p": 0.0694930506949305,
+   "partial_spearman": 0.04617677838387584,
+   "point_best_control": "appearance_rff_metadata_rich",
+   "probe_below_floor": true,
+   "probe_top1": 0.12420395133523635
+  }
+ },
+ "rsa_interval_qualified": false,
+ "study_gates": {
+  "mantel_p_qualified": false,
+  "power_ok": false,
+  "rsa_interval_qualified": false
+ },
+ "test_data_used_for_tuning": false,
+ "tier": "YES (weak)",
+ "trace": [
+  {
+   "holds": false,
+   "tier": "STRONG YES"
+  },
+  {
+   "holds": true,
+   "tier": "YES (weak)"
+  }
+ ],
+ "unavailable": {
+  "clay": [
+   "crit4",
+   "crit6",
+   "matched_support_pass"
+  ],
+  "prithvi": [
+   "crit4",
+   "crit6",
+   "matched_support_pass"
+  ],
+  "prithvi100": [
+   "crit4",
+   "crit6",
+   "matched_support_pass"
+  ]
+ },
+ "unavailable_reasons": {
+  "clay": {
+   "crit4": "no registered interval estimator for the pretrained-minus-random partial RSA difference; pretrained partial Mantel p = 9.999000099990002e-05 (strong threshold 0.01)",
+   "crit6": "hardest tercile must be defined on val-split ranks (TEST-PLAN S11-T07); readouts store no val-split scores",
+   "matched_support_pass": "A2 competence adjustment unreconciled (A3); no production matched-support estimator"
+  },
+  "prithvi": {
+   "crit4": "no registered interval estimator for the pretrained-minus-random partial RSA difference; pretrained partial Mantel p = 0.0011998800119988001 (strong threshold 0.01)",
+   "crit6": "hardest tercile must be defined on val-split ranks (TEST-PLAN S11-T07); readouts store no val-split scores",
+   "matched_support_pass": "A2 competence adjustment unreconciled (A3); no production matched-support estimator"
+  },
+  "prithvi100": {
+   "crit4": "no registered interval estimator for the pretrained-minus-random partial RSA difference; pretrained partial Mantel p = 0.0694930506949305 (strong threshold 0.01)",
+   "crit6": "hardest tercile must be defined on val-split ranks (TEST-PLAN S11-T07); readouts store no val-split scores",
+   "matched_support_pass": "A2 competence adjustment unreconciled (A3); no production matched-support estimator"
+  }
+ }
+}

@@ -1,0 +1,126 @@
+{
+  "mc": {
+    "user": "40021461",
+    "job_prefix": "🌍🤖",
+    "job_suffix": "",
+    "nice": 1000,
+    "poll_s": 20,
+    "pending_grace_s": 90,
+    "max_submits_per_cycle": 24,
+    "max_our_jobs": 240,
+    "yield_grace_s": 150,
+    "yield_kill_s": 330,
+    "heartbeat_s": 30,
+    "stale_heartbeat_s": 240,
+    "idle_exit_s": 180,
+    "unit_backoff_s": 60,
+    "catalogue_request_interval_s": 0.5,
+    "catalogue_http_retries": 5,
+    "catalogue_max_workers": 8,
+    "ckpt_every_s": 60,
+    "unit_rss_kill_factor": 1.6,
+    "governor": {
+      "partition": "short",
+      "cpus": 1,
+      "mem_gb": 4,
+      "time": "23:30:00"
+    },
+    "foreign_ignore_reasons": [
+      "Dependency",
+      "BeginTime",
+      "JobHeldUser",
+      "JobHeldAdmin",
+      "DependencyNeverSatisfied",
+      "PartitionTimeLimit",
+      "PartitionNodeLimit",
+      "InvalidAccount",
+      "InvalidQOS",
+      "QOSMaxCpuPerUserLimit",
+      "QOSMaxJobsPerUserLimit",
+      "QOSMaxSubmitJobPerUserLimit",
+      "QOSMaxNodePerUserLimit",
+      "QOSMaxGRESPerUser",
+      "AssocMaxJobsLimit",
+      "AssocMaxCpuPerJobLimit",
+      "AssocGrpCpuLimit",
+      "QOSGrpCpuLimit",
+      "Reservation",
+      "NodeDown",
+      "launch failed requeued held",
+      "JobArrayTaskLimit"
+    ],
+    "floor_yield_after_s": 600,
+    "_note_max_nodes": "max_nodes is a concurrent-job cap per pool, not a node count; the governor packs jobs onto nodes by free CPUs and memory",
+    "pools": {
+      "cpu": {
+        "partition": "short",
+        "serves": [
+          "cpu"
+        ],
+        "yield_to_foreign": false,
+        "time": "04:00:00",
+        "min_cpus": 8,
+        "mem_margin_gb": 4,
+        "floor_workers": 1,
+        "floor_cpus": 16,
+        "max_nodes": 160
+      },
+      "himem": {
+        "partition": "himem",
+        "serves": [
+          "himem",
+          "cpu"
+        ],
+        "yield_to_foreign": false,
+        "time": "04:00:00",
+        "min_cpus": 16,
+        "mem_margin_gb": 8,
+        "floor_workers": 0,
+        "max_nodes": 100
+      },
+      "net": {
+        "partition": "short",
+        "serves": [
+          "net"
+        ],
+        "yield_to_foreign": false,
+        "time": "04:00:00",
+        "worker_cpus": 4,
+        "worker_mem_gb": 16,
+        "floor_workers": 1,
+        "start_width": 24,
+        "max_width": 48,
+        "min_width": 1,
+        "aimd_window_s": 600,
+        "aimd_429_hi": 0.05,
+        "aimd_429_lo": 0.01
+      },
+      "gpu": {
+        "partition": "gpu",
+        "serves": [
+          "gpu"
+        ],
+        "yield_to_foreign": true,
+        "time": "04:00:00",
+        "worker_cpus": 16,
+        "min_cpus": 6,
+        "worker_mem_gb": 96,
+        "min_mem_gb": 48,
+        "floor_workers": 0,
+        "max_gpus": 8
+      }
+    },
+    "disk": {
+      "min_free_tb": 3.0,
+      "run_budget_tb": 2.0,
+      "unplanned_reserve_gb": 400,
+      "node_tmp_min_free_gb": 60,
+      "home_quota_warn_frac": 0.8,
+      "check_every_s": 300
+    },
+    "skip_stages": [
+      "stac_prefetch"
+    ],
+    "_note_skip_stages": "stac_prefetch covered 11,464 of 23,9xx cell-season catalogues before selection finished; the selected windows need 10,989, 5,112 already cached. stac_search fetches the rest itself under the shared request budget. Re-enable for a rerun that starts before selection."
+  }
+}

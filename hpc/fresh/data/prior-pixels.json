@@ -1,0 +1,3995 @@
+{
+  "records": [
+    {
+      "path": "full/m-eurosat/id_26588.npz",
+      "rgb_sha256": "8c8836b3cb9b471ef4a5fbc343a7c180ec38c6a6e980360af5b26e4ded521540",
+      "sorted_rgb_sha256": "fb8ae5171e314fcf23d092c09bce8a756b8684af21d7e4ca28e25fcb2be11076"
+    },
+    {
+      "path": "full/m-eurosat/id_18300.npz",
+      "rgb_sha256": "c22e7b14da9dbeb9235b391517befc2e2d0938098e038a87b0a9477a50211c31",
+      "sorted_rgb_sha256": "24be8cacd3d0deb060e81e7d42cf5d09b9b77a6c06afcdddd2e403b50269f52f"
+    },
+    {
+      "path": "full/m-eurosat/id_25903.npz",
+      "rgb_sha256": "641e87d6c28db736e59f6684b681ded3983c24348d690aa4775ca4fc8a4789be",
+      "sorted_rgb_sha256": "b7af0175a0f4048e207eb9be1d7d4f0df62ffd4bd8076d5b453d1d7f76185822"
+    },
+    {
+      "path": "full/m-eurosat/id_18328.npz",
+      "rgb_sha256": "8ffb9cb80f5d2ba2f576ec853b984e744ba67be4a7cc9ef9c5dd72b047f875b8",
+      "sorted_rgb_sha256": "1bb05250bddb00d13490898b1555441eaefed3ad15a4a0a1093c792bd2432c88"
+    },
+    {
+      "path": "full/m-eurosat/id_15817.npz",
+      "rgb_sha256": "1813670e79d0208bc1a3436851caf5ddfe5ecc1aceb523f8921f74a0d9afae2f",
+      "sorted_rgb_sha256": "2f01345d4f9b28015343198012e184508a44f66dc59c82b7174c46a6a5e9c53d"
+    },
+    {
+      "path": "full/m-eurosat/id_26205.npz",
+      "rgb_sha256": "9d13add6474bb12811bc61ecab7e39284f35a19be19b9df416a783eb9741ddca",
+      "sorted_rgb_sha256": "6cabce1a10d8859da3ef82f27241af5f39c502361c0c1b1be0b0bf5c67e135fc"
+    },
+    {
+      "path": "full/m-eurosat/id_24374.npz",
+      "rgb_sha256": "fc2476221bdb6f239dd1e0162ee6240e69c6591f2d3ae0cec3520b87af2a02d5",
+      "sorted_rgb_sha256": "7e49e392553f1db7b867cb5fcc055854d4dc7764627f8ec28eb3c75ee30655cc"
+    },
+    {
+      "path": "full/m-eurosat/id_18880.npz",
+      "rgb_sha256": "5a64bc0cb8bbc5f4bc1b355c47109cdf6d97b84b835fcd8a9b7037b8e84f4742",
+      "sorted_rgb_sha256": "cd5588ee8af99c2c33ed2977e75bfd161bbc7e9f7356b50157c5f01476e545a1"
+    },
+    {
+      "path": "full/m-eurosat/id_13719.npz",
+      "rgb_sha256": "00aef865397b11826be64fc6ddb458a179759b21dd246a7bde1f7b2791006393",
+      "sorted_rgb_sha256": "86fd94c39c317a6f6996cd6fc0a57da63acccf34f1a7824b326d3a394e5c0a74"
+    },
+    {
+      "path": "full/m-eurosat/id_26775.npz",
+      "rgb_sha256": "87bab10ff621925f2465da494147bb5cfe19a59c27586975551252053503509c",
+      "sorted_rgb_sha256": "b94a8c596dd1fa0bef4062f54c0edb1512dfc8494136c156aea73186c2fef612"
+    },
+    {
+      "path": "full/m-eurosat/id_22507.npz",
+      "rgb_sha256": "0ad66e2a01393aae222724e77916c3b6d83fae04177ca60cec4148baf1215a4b",
+      "sorted_rgb_sha256": "ef5ea87151ffd818e4d2dd9b1fe211c206e473064a9a3da1edc359bc146ede14"
+    },
+    {
+      "path": "full/m-eurosat/id_25268.npz",
+      "rgb_sha256": "936de0e93aca0a4828ed28df6b715a02562f2b8e995dae32f303a7d7bb782391",
+      "sorted_rgb_sha256": "6e5cd4971f730927b75d2f00a8e2e56d51284addaffaa622c21e2e86a8ce1f23"
+    },
+    {
+      "path": "full/m-eurosat/id_23792.npz",
+      "rgb_sha256": "2444006723739997cdc7811714ea9d29e6ce66abe3b630711dd6717c1db95790",
+      "sorted_rgb_sha256": "4f7f8bc549f3c6493d75c2e8866de22f4e2b71e6d5674dcd49978735699fd7dc"
+    },
+    {
+      "path": "full/m-eurosat/id_24943.npz",
+      "rgb_sha256": "0946d89365a8188c471b09d76723149c00a182179899655bbd3ac5666c258ca3",
+      "sorted_rgb_sha256": "f2b3a5bfe366910497ab048afd0462cddc36e22fd1107dedf3d4f280e834055c"
+    },
+    {
+      "path": "full/m-eurosat/id_18738.npz",
+      "rgb_sha256": "b921e3b9a741222ef2bac2c97091b6f69aeaa586e2420903f84773345458ed55",
+      "sorted_rgb_sha256": "538a6a6f7d50b012d129d9c5ab7587dd29eff96f427cb1fb3f3411cee51d4ef0"
+    },
+    {
+      "path": "full/m-eurosat/id_23976.npz",
+      "rgb_sha256": "a6abc00a635b67b1024a6ba5b480d4a51404a61596704c250854eb63e083b5ec",
+      "sorted_rgb_sha256": "87846763f650d8501e027147ee903bc003515eed2e2a0a16fcbff4a3db1ebb2a"
+    },
+    {
+      "path": "full/m-eurosat/id_26629.npz",
+      "rgb_sha256": "e6034cbab4b92de2ac69759631f2868db136f78d2d7f4ad38a6085dff928930a",
+      "sorted_rgb_sha256": "1770cabdd65e06d7c3ec512c69bc6e2819b87f921305462b72bd7e7c89191c49"
+    },
+    {
+      "path": "full/m-eurosat/id_22329.npz",
+      "rgb_sha256": "d1e2cfaa90297b296a93349ea92ef770802ff565bf0e85ccd56a788b97344d99",
+      "sorted_rgb_sha256": "c13d33a0716e6f85c4345105169f7a11beb10096d4f7185361d57d78ba08e305"
+    },
+    {
+      "path": "full/m-eurosat/id_21393.npz",
+      "rgb_sha256": "df77e2fd0b8809115cc3bebbf9a5679447d37220a3f9a35337713a1c41181a12",
+      "sorted_rgb_sha256": "23beb651c07c4ab563aa85dde72b68edf30e63533bf77dcf6f586abdc993ac4f"
+    },
+    {
+      "path": "full/m-eurosat/id_20099.npz",
+      "rgb_sha256": "2a12f9325a9d6265b53ca45e6b95499e5012142c5dddf9e29454c5055f3e4f46",
+      "sorted_rgb_sha256": "294198336ade1524e15987a65f5e2ece69c6a9ec0235dd1a67a838ec5bb80a99"
+    },
+    {
+      "path": "full/m-eurosat/id_24572.npz",
+      "rgb_sha256": "51db73afd97211aa8738a6f82b63ad16363b5b6b1d071a9aef004aa758f497ef",
+      "sorted_rgb_sha256": "bb1db36b9c30ecc41188d103df5742f4863dc0736f49c5adfef360348142aa26"
+    },
+    {
+      "path": "full/m-eurosat/id_1747.npz",
+      "rgb_sha256": "2a05edc6ad312f2735bc1f1437bd6c9aea63ede1a309b1d6f801dcfc68c1f2c3",
+      "sorted_rgb_sha256": "cfb5c846fc82188d341f1337813383a2a7dd5aa3d020f452efdc97c0bb9a9816"
+    },
+    {
+      "path": "full/m-eurosat/id_19180.npz",
+      "rgb_sha256": "ed818cfce4bef1276bdbdf1f0fb5001078e755df60f9d79d0f17e79ce740e997",
+      "sorted_rgb_sha256": "3ef273b1aa20cc44af52d2592dd3e24dbacd15fecf43a218e644c7c80adb1cab"
+    },
+    {
+      "path": "full/m-eurosat/id_21423.npz",
+      "rgb_sha256": "1841852ba2511da0c1786bcb48c82e9f1f2939135521e1a7979a95116da6d88e",
+      "sorted_rgb_sha256": "fc2359ff75fbbac1608919724a8862281959a8cb5e04589e522d532dfd5e2ce5"
+    },
+    {
+      "path": "full/m-eurosat/id_17191.npz",
+      "rgb_sha256": "f7f1b94b20950dfa27cbd3f411fd07b367f5c8bad5354786ad34c32551e11c9e",
+      "sorted_rgb_sha256": "dfbdef833d9a91ae782aaf2cd2d8c817edfbaef78ea3c58d89809f8b6d6fe8e0"
+    },
+    {
+      "path": "full/m-eurosat/id_26358.npz",
+      "rgb_sha256": "5b8ebf02a24c6cd72f72371af14355b613f83d00ac50d9eba265ddbc4c4a52bc",
+      "sorted_rgb_sha256": "890fb29555fd37814153b89adfacf27842786b348e678c9795a79fb14d12b5a0"
+    },
+    {
+      "path": "full/m-eurosat/id_20729.npz",
+      "rgb_sha256": "275c30ef90700e873c6e1861d826b30e2775898f64b2117230e9f294550430d9",
+      "sorted_rgb_sha256": "5bb72b6e914719ee5ca168bc5c19cfe58555612154f681f9e402852c732b5b7b"
+    },
+    {
+      "path": "full/m-eurosat/id_5291.npz",
+      "rgb_sha256": "6ccab5c5adbbe65c0e1566d202352e6c0ce28f407af64b43e914ba95c7568c44",
+      "sorted_rgb_sha256": "53fc1a5c3d2efd489b10d057d3f7c6c7d7945c45708412be98ae5ce4762b5169"
+    },
+    {
+      "path": "full/m-eurosat/id_19157.npz",
+      "rgb_sha256": "4dace26bb85fdb2e01219d3adace027ea7124f0b796729a3466a38fc9f2434fd",
+      "sorted_rgb_sha256": "db2f938ce6b6f8cdefe632d4a8c97e87969a462e1aedbe9ef2df7c61e585753d"
+    },
+    {
+      "path": "full/m-eurosat/id_20932.npz",
+      "rgb_sha256": "ae8405f8b439b52c52870660cddffd4d272c7afd74edb901be9c77bfd025ee9c",
+      "sorted_rgb_sha256": "e7b034b5531884f31d72b123feb45405c80e0b5bf1e7033deb83f43dd8042fb7"
+    },
+    {
+      "path": "full/m-eurosat/id_18922.npz",
+      "rgb_sha256": "96b80b5f55a09b69de4204d6b8e2d094d745cfa89dd49a182f7307a1e9b240b9",
+      "sorted_rgb_sha256": "69dfc933c8d4ba2d8eaf844458743192b05c8b1bb8e6db8153c991ef0960e589"
+    },
+    {
+      "path": "full/m-eurosat/id_26614.npz",
+      "rgb_sha256": "0cc99c14e38ba744eee4a3f0d5136d78a7a9c21d3c7f98f4ca129a2d4c3ece99",
+      "sorted_rgb_sha256": "0539b19e59413d56ad73c4768c081852b153071785747e1ef42bd0afa9e46120"
+    },
+    {
+      "path": "full/m-eurosat/id_24765.npz",
+      "rgb_sha256": "b7a25592a2cd8e0a637295bffeb19626616b651517a1725bcf52805ef49c6c5a",
+      "sorted_rgb_sha256": "e2c7cb3d58d59e8c0aa2e6cfe315fb789b1daecc368add2672220c6b8e97d33c"
+    },
+    {
+      "path": "full/m-eurosat/id_26166.npz",
+      "rgb_sha256": "c57628bd5a25434bb96d4d38cbf4c55f5bc61251998d70d6ca67d77d78c54303",
+      "sorted_rgb_sha256": "a66012bad5d04ff88a2ee25661e3c397940c0065127aea5e85251b2ff8817597"
+    },
+    {
+      "path": "full/m-eurosat/id_25309.npz",
+      "rgb_sha256": "c7b1439125dfeac5dfe5fb8c672f3051adefd900034efb9a0977d9240398f356",
+      "sorted_rgb_sha256": "bbc358a7aa4fae33e1a4dc3a99bab321577b942d032a5fe72492dbe234856bf6"
+    },
+    {
+      "path": "full/m-eurosat/id_9124.npz",
+      "rgb_sha256": "4bcac0b9a0fbdb4b9eb714559b474851a3bae470e43c0f4b6a8fee82145f535a",
+      "sorted_rgb_sha256": "68dc2dc798a045126890b5f05f1e78678f765ac3776ed527ff843920bb76e9d0"
+    },
+    {
+      "path": "full/m-eurosat/id_19355.npz",
+      "rgb_sha256": "c2933e7cdb3138f0fef254b047af350e550d9cc7ca2f81e5a0bc9e596357deb6",
+      "sorted_rgb_sha256": "934e4434ef1e8542fa58aee4b967a2d7d1fd0a719b0172e0d6d23e7c1217a767"
+    },
+    {
+      "path": "full/m-eurosat/id_23787.npz",
+      "rgb_sha256": "acc9226397c8a5601df1356d26301bfcd4623b921d647047147d14b0815ef13c",
+      "sorted_rgb_sha256": "1bfcb2116cc083fe330a30c9f16e590bb37df896f338c6c08915619b1c7b2472"
+    },
+    {
+      "path": "full/m-eurosat/id_23618.npz",
+      "rgb_sha256": "645ac9f0f91a6380e2d3b080111bd2486555d815db228d2cde5d93803e1afce6",
+      "sorted_rgb_sha256": "26ff27692883a02a0c35ae71a3f7da9c35d593b0801b8bb2840f0b43e9585518"
+    },
+    {
+      "path": "full/m-eurosat/id_13718.npz",
+      "rgb_sha256": "5827a62a53799f1004b96f84186923b25ba1fcdf9700af2f5536bcc4eb8e69b4",
+      "sorted_rgb_sha256": "ba02b3106d92f0c4d19558ecd62ad5b1de2f6f81990d11c39c130b401b08c85a"
+    },
+    {
+      "path": "full/m-eurosat/id_24836.npz",
+      "rgb_sha256": "b4dbbfc0fcb5459abff1d2c73aefd900f0f2b2390abf8d98172547ae7ccae1c5",
+      "sorted_rgb_sha256": "96a9ef8bc23bb40238bd5c4df631faee054e8b342b8e9eb6964dd8f2226232ec"
+    },
+    {
+      "path": "full/m-eurosat/id_19209.npz",
+      "rgb_sha256": "7036ccc830e3d53fef03092f56a47e613e820830ade3cc2e2548eef23babdd3c",
+      "sorted_rgb_sha256": "6596908b4b507f328d6c53eb7ba0596a6c3819c17d79772e69387784f13e2a2d"
+    },
+    {
+      "path": "full/m-eurosat/id_1154.npz",
+      "rgb_sha256": "4a4244761e9e1b736cfad83716dbb7c69e2d5ad10e9576738f0ead4d878bcc08",
+      "sorted_rgb_sha256": "e0e54ac647d40cc8991ceae2d101f1d165d21a1526bf941b829a9cfcbda56cbf"
+    },
+    {
+      "path": "full/m-eurosat/id_26562.npz",
+      "rgb_sha256": "897d0e404d59f104bf551a8d7552a9ca9fc09f40ecf1462e2e6cb484d85d44ce",
+      "sorted_rgb_sha256": "8ad562a5f13fccefc2e83d93fd079dc234262af2245d7c5ab6b60e02991f5c52"
+    },
+    {
+      "path": "full/m-eurosat/id_15194.npz",
+      "rgb_sha256": "326ebfd51331bc59d966bb2d66692130d0ee4a67ad5ec24cf87f8c8dd6701409",
+      "sorted_rgb_sha256": "e510c8002e28ab04166babdb946bff2337e9722f5003662fabcf8d2b520d720b"
+    },
+    {
+      "path": "full/m-eurosat/id_20885.npz",
+      "rgb_sha256": "dba88f81dda3afefce1bb30cff56decfd7a2464ab3ab19c9e5e7cc6b22d01b04",
+      "sorted_rgb_sha256": "3648de9a0b6138404e9d5a9d16fa99f3cff99768f2394c443101f108b8199ea8"
+    },
+    {
+      "path": "full/m-eurosat/id_3958.npz",
+      "rgb_sha256": "78cae5883638beece7a21bcbe338fa7cae07fca919793949b81ef9aa71e8afcc",
+      "sorted_rgb_sha256": "52834bc59e6bd52af6d83caf06ea3b203d642987267df7fad41f3a1e45fdd2d8"
+    },
+    {
+      "path": "full/m-eurosat/id_10991.npz",
+      "rgb_sha256": "738e9a90991205de2c7b6bb50a225b36b94c3c589d52548cdfdea678f90ac6fe",
+      "sorted_rgb_sha256": "4a3d3b1be558c1ffcb23dbb4037fe3e038993f10dd161d80eb23f4551526560d"
+    },
+    {
+      "path": "full/m-eurosat/id_20852.npz",
+      "rgb_sha256": "edd2cfacebfd9ed54aaf52a9b8298d039680a6c67bd9e35cac1ae0f5032d1b9e",
+      "sorted_rgb_sha256": "ec92c291fc107f9a561d9643aa5cb79ace371a5e94e7448dfca5545cc5647f45"
+    },
+    {
+      "path": "full/m-eurosat/id_19779.npz",
+      "rgb_sha256": "342c05cbcb2a05a0ca6d8207a3ef7f9ee7bfba7a7fe2140520f622f167ffa69a",
+      "sorted_rgb_sha256": "7d547d43c0f4960710af8b9fea9cc78d0ebbd95a7443fb2cda8e9da4182971a6"
+    },
+    {
+      "path": "full/m-eurosat/id_18301.npz",
+      "rgb_sha256": "792341ad22c117007b737f7bebb13372c6b26e6cdc50cdf69e397cc7ca6d67b5",
+      "sorted_rgb_sha256": "ed26c66194c370334f9182abe11475f48a5df5c5a5b6f0fd962a27c62290ad37"
+    },
+    {
+      "path": "full/m-eurosat/id_17018.npz",
+      "rgb_sha256": "912d974de06ff5f38e7ee0333c6c7fd974d427be1a54cd0e8e9e80f21f9105b5",
+      "sorted_rgb_sha256": "78b06d68ad13e570ed4ef541f61e596cee46571ffb6cdc592d622ba9bb391678"
+    },
+    {
+      "path": "full/m-eurosat/id_25055.npz",
+      "rgb_sha256": "51e15489cd6d3fc45c972563b822f8ee0ac79e4019150f5ab74ec63357f4e777",
+      "sorted_rgb_sha256": "09e561577d43da4422421aeed58f86629d4de33f4a897ed6ccb6bab8d7f54141"
+    },
+    {
+      "path": "full/m-eurosat/id_9536.npz",
+      "rgb_sha256": "431000146b001c4d314a1cb2b8bb3b4c59b0620d437b6a5ed4f4011321731d58",
+      "sorted_rgb_sha256": "9eaa234b31065ae5d29a64533e2acdeb5453880d43de51e81b0715956578f0fc"
+    },
+    {
+      "path": "full/m-eurosat/id_10950.npz",
+      "rgb_sha256": "72b0da706be28e5261f88cb5f7e479e735ba96367121f916628c32e06f4fb715",
+      "sorted_rgb_sha256": "fd7e1bc110620d1e57ecde20667650b4015c90073951b523d9a0fefafb5272fa"
+    },
+    {
+      "path": "full/m-eurosat/id_25727.npz",
+      "rgb_sha256": "f21fe788aa0b25c4a755d647d17104401c1c457db2e5ef1c320c6819429324a4",
+      "sorted_rgb_sha256": "62fda51ba71f615a9eb9e526b24fca330f19028bf08c83937f2344e0480810c5"
+    },
+    {
+      "path": "full/m-eurosat/id_21227.npz",
+      "rgb_sha256": "234d568abe602b4510c642e003a74cfff5c457bbcb56f7af182cd0e8b4c9b5d8",
+      "sorted_rgb_sha256": "b1915240fdb8fd4728c24130177c0743d94eae928193abf4fb604410ad0c9045"
+    },
+    {
+      "path": "full/m-eurosat/id_25069.npz",
+      "rgb_sha256": "8910e05b204648929f8cec4f6447871e5cee734285769badde67153f03a7b100",
+      "sorted_rgb_sha256": "e3cd7a9afd908819c97ba368e8a67b9d54b452fdb28b74760cc125882704cb76"
+    },
+    {
+      "path": "full/m-eurosat/id_22060.npz",
+      "rgb_sha256": "38bdb0cda0537cb96844e2ecce1ad52dfa87b7e257a794585b91acf2cab685bf",
+      "sorted_rgb_sha256": "eff6d696c9e7b19f1df9fe40dc7f25abc7722745a83de41f5ff21332c2c7fd81"
+    },
+    {
+      "path": "full/m-eurosat/id_26212.npz",
+      "rgb_sha256": "4fa21b6b27da8cd1e4f28e435001b049a80f4ea911bf22cbf566904ddd1fdca3",
+      "sorted_rgb_sha256": "6f3d223511c55658190df3638974b7d8de53ef724e8b5746ce0c99b178db5b74"
+    },
+    {
+      "path": "full/m-eurosat/id_22074.npz",
+      "rgb_sha256": "a81f4c633f540f21ca38ad86c84fc7c85aa592919fdb84058409daa1ea0da5f4",
+      "sorted_rgb_sha256": "8f05a2e30c5e0a535658aa6708e5439a123e9b3bc2f65d5321d0fdfb95a0bda4"
+    },
+    {
+      "path": "full/m-eurosat/id_22289.npz",
+      "rgb_sha256": "40fb236dd804044504da10f1330dd0cdfc33296c2a137fca4aa193e19e31366b",
+      "sorted_rgb_sha256": "34fa73ea5eec516c2a1ada65d63d0ab01f288a9c57acbd8b5208d007b9dcdb28"
+    },
+    {
+      "path": "full/m-eurosat/id_18129.npz",
+      "rgb_sha256": "97bd3a210ef33e95e040ea275de724ffe63709449dbe62a4da18555852a964d9",
+      "sorted_rgb_sha256": "de821ec3b91364c2801c6f3f852dd8ff972872de7e2748f3e40f05e3ef6b640f"
+    },
+    {
+      "path": "full/m-eurosat/id_23626.npz",
+      "rgb_sha256": "0225ebd1c1358f99de5935b85efb4ca807ccf110a3b9516aad78d639822c3cc8",
+      "sorted_rgb_sha256": "d96bdbe49bef913e31d725cd733b4dd8c0f1907de782e406e6ff8944a68392fd"
+    },
+    {
+      "path": "full/m-eurosat/id_16689.npz",
+      "rgb_sha256": "561043cfe7a88afe042fdb4a62f6a497c6f0ecc96678f2af717328b4e6793a9d",
+      "sorted_rgb_sha256": "a9d94c8230dc61bb313e7441318431aa02acb7e9bfd105dda50dac39b0a2777a"
+    },
+    {
+      "path": "full/m-eurosat/id_22504.npz",
+      "rgb_sha256": "98d3f893b266f90a1221b1aad1d21b9a37fd846a3035eb202714926991858738",
+      "sorted_rgb_sha256": "ea6d99696ff557d280bcf042ae80b948f43a4cafb931dad85524d3475ed7d598"
+    },
+    {
+      "path": "full/m-eurosat/id_17434.npz",
+      "rgb_sha256": "e0b54a58a21f08ed5caf71405a2c20db3d5fec50167fda2e62c7e772db69c73a",
+      "sorted_rgb_sha256": "90ea56ec831eeab95c0548a699dd8928b5d28f9e8f6e966257022b892ddcf3ad"
+    },
+    {
+      "path": "full/m-eurosat/id_23961.npz",
+      "rgb_sha256": "00aab1868c7ca8bb93b328ac4e1692f61788159e4b1a32adb327297fca6091cf",
+      "sorted_rgb_sha256": "67cc94ce25ace4d56b85c26dd4c025825216fa8c051712b0a759b140b9ca6526"
+    },
+    {
+      "path": "full/m-eurosat/id_26158.npz",
+      "rgb_sha256": "f46ba9331ab2b6031214a6ccc1109bfb334d4a17ee91c3540917ac58b214cb5d",
+      "sorted_rgb_sha256": "96831f1b0b71020b3d59d4d4eede8bbaf6ad0d6b71a99a3a0a773843975b78d3"
+    },
+    {
+      "path": "full/m-eurosat/id_8210.npz",
+      "rgb_sha256": "269e99ad65a0fd28d30a2238b0ae92cb61bbcf8d8a0a3f0285ca7f619da160f1",
+      "sorted_rgb_sha256": "ae36b14f440ea328f1c8ec8a9075c0432f39fc0f4ddf2a96950d89ff7d63405a"
+    },
+    {
+      "path": "full/m-eurosat/id_16528.npz",
+      "rgb_sha256": "b1292256d8f1b1df1425493c605ed8ab8bea1f56547490d161644f180847a4bc",
+      "sorted_rgb_sha256": "f93af2e4304663db6f10e363af2359623cc658fd2cc67014f60dedb4016c6677"
+    },
+    {
+      "path": "full/m-eurosat/id_12996.npz",
+      "rgb_sha256": "a97f0f2f2759a52d6888160a7123b972dce32ffbe446d279c0abcba5c88f07e9",
+      "sorted_rgb_sha256": "04dfd5397b516e58c9c7fea4ea871ba15a7da83cbd0fc17f983396be3873bc6d"
+    },
+    {
+      "path": "full/m-eurosat/id_18263.npz",
+      "rgb_sha256": "5583d214acaad6684710d7eb59c443c8ba969d5811d848d2b0d44d71f900b155",
+      "sorted_rgb_sha256": "b9e064b2d19cfdf45fcf8249e2c443e63265aba72898eca72d517ae5efcfaa86"
+    },
+    {
+      "path": "full/m-eurosat/id_25690.npz",
+      "rgb_sha256": "5f8e1f39dc207504a4d6ed0a6c369e07b15a24aba5e363b07734c09a6db39fb4",
+      "sorted_rgb_sha256": "07747b701b1000fe1e86ac3b54253cae4ee47321f56f1924a5a50baef5c239dd"
+    },
+    {
+      "path": "full/m-eurosat/id_19627.npz",
+      "rgb_sha256": "ee602194b7f3b326e9df455f6f96f84308d1237fde7f00f41ed070fa6b8417f3",
+      "sorted_rgb_sha256": "e40ccc15ae1dd143a41d6a0aa4efc2144b168f3cbf5c431159fbb4fe3838bdfb"
+    },
+    {
+      "path": "full/m-eurosat/id_20918.npz",
+      "rgb_sha256": "74af3e752c69f21784fd95fd2e7164803de923c509f67e4a10710270938c6ef4",
+      "sorted_rgb_sha256": "c86ddcc0986d20034a3fbf92e5f12b5faf63f53d00b394d126b1e0f743899859"
+    },
+    {
+      "path": "full/m-eurosat/id_10824.npz",
+      "rgb_sha256": "228a0a3d3ce73970692c602d0947bda09eaf49c7087567740d811d14811f69b1",
+      "sorted_rgb_sha256": "2f941c6b99e5c962c24bc83ef8cc7fd93397933110a9528b305b4cc71984fed8"
+    },
+    {
+      "path": "full/m-eurosat/id_21353.npz",
+      "rgb_sha256": "7fa83125a86cbf1bccc07a2179839e90a0f8b4cd27831d87ae94f9e26972d803",
+      "sorted_rgb_sha256": "54c568713b98d6c529ab19c9e54817a46e9855294b909534053bb5232741d120"
+    },
+    {
+      "path": "full/m-eurosat/id_25135.npz",
+      "rgb_sha256": "61045a7f4352b163ad4900fe4cc5632260cd83882269e7de6a570a22a2ab3e0d",
+      "sorted_rgb_sha256": "318f8c799d8e0352a308d24d2e403f73470ac0eca9512bb7c3a2664c1b4692de"
+    },
+    {
+      "path": "full/m-eurosat/id_22672.npz",
+      "rgb_sha256": "6ab947165ae9c741b646a09d446551de275696792b5ada6a64ba20c0200f0f35",
+      "sorted_rgb_sha256": "dce3091986bb50998be15704228a041fc33a5d226a14449900c70a8de483f5ce"
+    },
+    {
+      "path": "full/m-eurosat/id_23223.npz",
+      "rgb_sha256": "669554816f137df37d1f30287b30b0c239c61b10b1f510296f94d25cd57da898",
+      "sorted_rgb_sha256": "ebbab9d6b3d56fb4824497960d2b48c9a09b300bb00f11ac185ef37699861fb8"
+    },
+    {
+      "path": "full/m-eurosat/id_23551.npz",
+      "rgb_sha256": "a9e749dbb23d9ad5303e06bfa1dd1c6504826c13040e98c250017a37942802f2",
+      "sorted_rgb_sha256": "4d669abee6894895740cab1843556cba7cb17395e59d92579669b9db5a744266"
+    },
+    {
+      "path": "full/m-eurosat/id_21420.npz",
+      "rgb_sha256": "aa93f09fd825e8d5e9fd6e5a3d6469f5ae0ceeb944c25858d4ea17973170bdea",
+      "sorted_rgb_sha256": "d6d25e6e37b7cd1fe01e75985f334460fa64b0c22d47ad2ff3690e9c335b5e30"
+    },
+    {
+      "path": "full/m-eurosat/id_12997.npz",
+      "rgb_sha256": "d43c9523a402bb61e59ae6b7a677c57264b002420a764389d0e9140711ac06ee",
+      "sorted_rgb_sha256": "9a3e3811d1fdeceb2f19e02c2adb0439cffd0776bffb1d07222f0f3e737082e0"
+    },
+    {
+      "path": "full/m-eurosat/id_15746.npz",
+      "rgb_sha256": "7477494ed65e7217596eff5c6d2e6074e657e93703fefeee8b2e4b598fbc9368",
+      "sorted_rgb_sha256": "3831ada6cd06d7b96441924a5a3d7569535aee5e62ca5f49ad3688677223fa0a"
+    },
+    {
+      "path": "full/m-eurosat/id_13337.npz",
+      "rgb_sha256": "4237c0448dc1d3440e98dd085d11d83976070a564c9832cf640fb881b8d94800",
+      "sorted_rgb_sha256": "039eb5917cdecf2d2fc3098ac29a084ed639045a802679b4250951a940396949"
+    },
+    {
+      "path": "full/m-eurosat/id_25478.npz",
+      "rgb_sha256": "385b2ade893194dcbbfa8aa92418b3b4c2b17eef020f69cd42907bde51c63320",
+      "sorted_rgb_sha256": "96b295a6e572c01c91181b564a1988b132e7422536cdb570d8fdc039e3dfb68c"
+    },
+    {
+      "path": "full/m-eurosat/id_2714.npz",
+      "rgb_sha256": "ab0d3b6fcd73c111b2c081807d6abb48c1010b18915b463ee75d2f69daffd061",
+      "sorted_rgb_sha256": "c58b624f648ec7f3c696e7345a94ae0442c2d31dca8e75f909ef1930a1fa9885"
+    },
+    {
+      "path": "full/m-eurosat/id_24969.npz",
+      "rgb_sha256": "b462f08741173429af69b0a09a2db5b6df07d96317d2806bdc34e5c481a7ee21",
+      "sorted_rgb_sha256": "1544465fbc2df861dfd04d546e4f73b0337a21db8ddb7c4a041a2db49750d25b"
+    },
+    {
+      "path": "full/m-eurosat/id_17347.npz",
+      "rgb_sha256": "62313eb89c69f3ca83eb3839df9f617401ec518f3292ce605adfede9f27117df",
+      "sorted_rgb_sha256": "540d4a4315b00f06a929a0787b2efb9d51785972fc48288ef30be89a1f14d3f9"
+    },
+    {
+      "path": "full/m-eurosat/id_9682.npz",
+      "rgb_sha256": "0f97d5cf5b22592dbea31ce5ad9aeb0ae820e8d795626eb1b334c144210b37de",
+      "sorted_rgb_sha256": "d035719b9248753b9587dc49d4dc80fc7389aa152c16ef3755820e2ecf6ddd58"
+    },
+    {
+      "path": "full/m-eurosat/id_19593.npz",
+      "rgb_sha256": "02a2446264d83710fce5dc112622a2c3870b31a13b20df6d5cba7f2b54a63b0f",
+      "sorted_rgb_sha256": "e3cfeffa1393446976e95450aa3a3d36f63337695a81579ed305477d8a22160b"
+    },
+    {
+      "path": "full/m-eurosat/id_7724.npz",
+      "rgb_sha256": "15eb6e81197064ea974cb647e5f40bb21a54aeb015ab6a62b1975984565a6ea2",
+      "sorted_rgb_sha256": "4be3f478e90073ce91e23dc1c930bb3e1fe7049819d91f1a32a204802dfc7632"
+    },
+    {
+      "path": "full/m-eurosat/id_18128.npz",
+      "rgb_sha256": "98ca46eacc6783b9161064c904cb5e0d1f0c322c3529b9a6ec054814221690ed",
+      "sorted_rgb_sha256": "a1aead3d93eed64be58a48009ba3e62b349fc079a6336750c9a80dc1d20f8e56"
+    },
+    {
+      "path": "full/m-eurosat/id_24809.npz",
+      "rgb_sha256": "53b59bc0f829a0c7304681e63f9a8f72dd050cfff4fc41d915b748721a137df8",
+      "sorted_rgb_sha256": "2cd339d2e2df960928e0ac67e01629b502e1ac3337f2739b8b8b8a98ef781070"
+    },
+    {
+      "path": "full/m-eurosat/id_0088.npz",
+      "rgb_sha256": "9df914d43a3ba3cfa04304bbc26538dba924123a02315cb9c55b63afd11ab175",
+      "sorted_rgb_sha256": "50d34113881d0acd425d93c31526b2b8d8c39119d7ad889a4a20ff399d27cfea"
+    },
+    {
+      "path": "full/m-eurosat/id_18896.npz",
+      "rgb_sha256": "b1785073171de153fdd5c1ecd2ae28e8eae00b05ece989fdf257dbc3afd2f6da",
+      "sorted_rgb_sha256": "972918aa2765337e37bcfc15e56cf92b5b6ecce2f9c9f7ebb796a02ed4344a5b"
+    },
+    {
+      "path": "full/m-eurosat/id_26788.npz",
+      "rgb_sha256": "b05d699429b7cc10f6c8f08edc357f0f70ba2065999b63c4ef5bb6f2d598f125",
+      "sorted_rgb_sha256": "4a7bf75cefe9f2d90dee73f4a9d4224608a55fe470ca9af6d3223cfe501a493d"
+    },
+    {
+      "path": "full/m-eurosat/id_3026.npz",
+      "rgb_sha256": "2e6c308e3aad1ca6154873f9aad629a8b536dd86f6e26893ce105e022bc5f245",
+      "sorted_rgb_sha256": "d699f30873fa814d65deaa2cd624b662c644a7cf4d7d0d5f3a55aa04f31ab98e"
+    },
+    {
+      "path": "full/m-eurosat/id_23357.npz",
+      "rgb_sha256": "8a39a38b8f59c5dad5514d1b9ec178f4c738d72bf7152b3e8361d5335e032b48",
+      "sorted_rgb_sha256": "78b65c4417f1df9e7b7770e33ab346041df9f68174e5de135117d8b93e64da84"
+    },
+    {
+      "path": "full/m-eurosat/id_22918.npz",
+      "rgb_sha256": "7fb16baa8662cbf7f2ca4a2d144242dd46ad82a6e65e39ea55dd0c8dc9b56acf",
+      "sorted_rgb_sha256": "f87f0d8a3c213aefdc3c2b14e95ab6f9c3659e3029b4731a2fea16c4b3869392"
+    },
+    {
+      "path": "full/m-eurosat/id_20114.npz",
+      "rgb_sha256": "52a48335a2618fa37e1df3b7d0d469ac60dfa81b49778c37f79d47dedfebb57b",
+      "sorted_rgb_sha256": "b65747ecd3aa7c27a37e037b9fd1167df9d0ad2228925247c4c193271c1439aa"
+    },
+    {
+      "path": "full/m-eurosat/id_23347.npz",
+      "rgb_sha256": "f93b7381c4399bbf2b388183d33723a6cb43726242d5041e476a2bd50b1f7a7c",
+      "sorted_rgb_sha256": "b3012bbfcb71718956860858c58545324f6b67f5e6a6cc8f834c57d8a5b84d9a"
+    },
+    {
+      "path": "full/m-eurosat/id_18689.npz",
+      "rgb_sha256": "bcae7811cc3805bdc967203aef6789bb2e2fe724aad00fb774965cfde53a5c2c",
+      "sorted_rgb_sha256": "00530e6668eb1db74a235ad6161e79a63d64b3690dc15eeb67dbadd6e22bff13"
+    },
+    {
+      "path": "full/m-eurosat/id_7046.npz",
+      "rgb_sha256": "2e4d5b9df451dd029b59b319b0f242db0429a3a8c882a6f2f86107330129181a",
+      "sorted_rgb_sha256": "bb1170de6b1feecb14793df6dbce4e7a0b99ebde1fd622fe20ca05f0e7d317b4"
+    },
+    {
+      "path": "full/m-eurosat/id_14919.npz",
+      "rgb_sha256": "55b721475b7edb4c470d14274c578b72cc42f0f01d39e28073fea60dac3a2cb6",
+      "sorted_rgb_sha256": "f45ace0db5934ce3c84cd89500acf88c51cffa5f47e66616f2ec02b804f9fa15"
+    },
+    {
+      "path": "full/m-eurosat/id_2116.npz",
+      "rgb_sha256": "38aa0f602d465df6ffe0d21a3566c491bbe3aee79e595fdbc242d4e808eee74d",
+      "sorted_rgb_sha256": "d3d17ce028e5c01019ee6db7056434dbec2e1dd8f1a23df24c2815f407dd967f"
+    },
+    {
+      "path": "full/m-eurosat/id_3383.npz",
+      "rgb_sha256": "eeedb5ba51858a883e91547c3456149e68f2e1f72e8e1bdb5888aa1a2f90cf19",
+      "sorted_rgb_sha256": "f25ae19c58209ca0afc9ba7787da657df404ec9ef55702bcab70c471030d2e21"
+    },
+    {
+      "path": "full/m-eurosat/id_21815.npz",
+      "rgb_sha256": "5fb239b64f7ab1a04ad605a4f295a4f6dda954719301fe1d834ed084baafed3a",
+      "sorted_rgb_sha256": "564adf0a4482a1bdb1c54afa144b95baca9f7b323533fa680111ffbf8b7e9046"
+    },
+    {
+      "path": "full/m-eurosat/id_18716.npz",
+      "rgb_sha256": "85a6e6efa5162b2fce48ed1c6d921a65bf64fbc3add1acb402abd02598ba6b7b",
+      "sorted_rgb_sha256": "8e37c2629efc7063ac2792a809e37927523cf67bc24ebec170ee35de289f44f7"
+    },
+    {
+      "path": "full/m-eurosat/id_23780.npz",
+      "rgb_sha256": "8806e3b55f78499cfb799d99b064ab068d33e61776a6fee7500953a4ce631103",
+      "sorted_rgb_sha256": "1351b983137d75c511a78bdec9eb9c8e44a85da53dcde8c597aceb3fd74bc5ef"
+    },
+    {
+      "path": "full/m-eurosat/id_26175.npz",
+      "rgb_sha256": "505ae710da7e4573e37c3485f4e141b654cd7e65f3c668fa2efcf39fce6d9d44",
+      "sorted_rgb_sha256": "96947d7e2653aa0899b8e6b1c5d62b8d93330b65249f06cf848a9ad21c54257a"
+    },
+    {
+      "path": "full/m-eurosat/id_24010.npz",
+      "rgb_sha256": "c0a4a7d4a6433081e85d77c11b4bb463ecf3070e36c8d7ac47f07667390f0917",
+      "sorted_rgb_sha256": "3268719619827914dada88fda6974ccc65447bdde6d39ea92efec888e7ddc880"
+    },
+    {
+      "path": "full/m-eurosat/id_23757.npz",
+      "rgb_sha256": "b32f0111a50654288e59f6bfc4a23d3a10ffa7818a38799db76d2a6280a945d5",
+      "sorted_rgb_sha256": "7d04817ea28e01fca446ed80367e13c83964d3ed85a4f34275e6080d29919c45"
+    },
+    {
+      "path": "full/m-eurosat/id_4822.npz",
+      "rgb_sha256": "0eb5951bcdbf8ed16dbd05e38a108116ac06e2654295f4a0b052ffb39fbbe6bc",
+      "sorted_rgb_sha256": "dc9b197cefae8f91970666c83f5e2f889cdafec8c7839c1f248f02c3e7f85bea"
+    },
+    {
+      "path": "full/m-eurosat/id_14312.npz",
+      "rgb_sha256": "56cddfde1579120bdee4d2766e3c1233e58a633b64fc7064b2447e92604121ca",
+      "sorted_rgb_sha256": "a849b8a7062a81630a3d39a9fd1e3c5be85b0d6f808033830aca00b77049f889"
+    },
+    {
+      "path": "full/m-eurosat/id_7481.npz",
+      "rgb_sha256": "62b7b3efa182c97639eeab6dfcfd96d45f09a36d60b243284625c0dce7c02b0d",
+      "sorted_rgb_sha256": "276f22396964ebcfebb3f38a8dd71cee10fc33bf39f7e1ec40d19b40130253b1"
+    },
+    {
+      "path": "full/m-eurosat/id_24574.npz",
+      "rgb_sha256": "149fb3bc5e651c22ca751f3664d91369af5e03d3b1fd7e3f76efd3c3ae9691b5",
+      "sorted_rgb_sha256": "44143edd1263a0780d7e1430121d065209cd6572763c7f0a3e92b45021c36df9"
+    },
+    {
+      "path": "full/m-eurosat/id_0463.npz",
+      "rgb_sha256": "96eb90a25e50cfb7760e25fb9a9e2c79d3e2d1c5d80ed88c17f12514eeefa011",
+      "sorted_rgb_sha256": "b55d2a2178af25f589d648ffb4a1bb4d17f9dbfbf57ce505718d730695669453"
+    },
+    {
+      "path": "full/m-eurosat/id_21356.npz",
+      "rgb_sha256": "433e2b71c5de2dcb157a098d141227eb7d43e964c0cc90e322302ce0c2fda2b3",
+      "sorted_rgb_sha256": "c0f2146ceece9193b5737c155b34400810baac928d2eb417c09bbe0c41f752db"
+    },
+    {
+      "path": "full/m-eurosat/id_24548.npz",
+      "rgb_sha256": "ac2dc1cbe54c521dd8eac09b8854c61143f559e052f4ea7d8086de92f797e673",
+      "sorted_rgb_sha256": "fb62e59ea066defffdb44da532382c53dd6a91f4b653bb3164387aaff7d0d555"
+    },
+    {
+      "path": "full/m-eurosat/id_25657.npz",
+      "rgb_sha256": "d9aee1923571b40ffb1987e6ff623638652fb56ea06c4b56da1908023ebeae20",
+      "sorted_rgb_sha256": "40daa45c8262e62b6de003be3e6846a82949df3a130a2eaa0bfeacd4ec23b514"
+    },
+    {
+      "path": "full/m-eurosat/id_2513.npz",
+      "rgb_sha256": "902a9d0c766b16cc44dd0837c7c152ad0e77c0db4207ae336fd2b9ba7a7a0422",
+      "sorted_rgb_sha256": "125b2662da2ab57eadd56ad422ee2d6c6150a9c432821809099aeff7ea94db67"
+    },
+    {
+      "path": "full/m-eurosat/id_19186.npz",
+      "rgb_sha256": "1c1ac8e22c60be8932c410a8db1c24a9420e22591e698fc0eda4edde21613577",
+      "sorted_rgb_sha256": "2a791b1724438db1e5b8a230aa18ea208617836e7a1bb63bea295d88efecab3f"
+    },
+    {
+      "path": "full/m-eurosat/id_18515.npz",
+      "rgb_sha256": "5505c811d56287aab884a4f3fc261ed4ef91a0fd9e68c12e82cc2fab5835df90",
+      "sorted_rgb_sha256": "d52a8fa511b14abaf77624c95ecb27ce5039acc14517e7c1f973352cb6644d70"
+    },
+    {
+      "path": "full/m-eurosat/id_22845.npz",
+      "rgb_sha256": "0d0e4d8ebdb3dad4b64945dd24c7b5bce7ccfb14ec43618b526a64195cc9458a",
+      "sorted_rgb_sha256": "b6e033283f161f3c63316a14963cefe6c974f852dc29dda55f98a337adb5bbff"
+    },
+    {
+      "path": "full/m-eurosat/id_25694.npz",
+      "rgb_sha256": "4f96ec13aa550a5b033bc7e9643bba036a6f746f0b572b615d06b57c47767a2d",
+      "sorted_rgb_sha256": "224b7207e012249bca7ab47ebbaaaa3002166e2a7efed5182510178d0f0fc052"
+    },
+    {
+      "path": "full/m-eurosat/id_12762.npz",
+      "rgb_sha256": "a96f3e6dcd7173066c8a57d3dda2066e7f7d4e39e14b06b1abab13580fd75c4e",
+      "sorted_rgb_sha256": "4f8243a4d8a18782d490776532a07e70f08d45eb31422c7c0d7441e67141c61e"
+    },
+    {
+      "path": "full/m-eurosat/id_21627.npz",
+      "rgb_sha256": "dd0eedf957cc86bc117e96f89f1cf4d9dfcdc01d5a858ca1b44d493f47bbd0fc",
+      "sorted_rgb_sha256": "62ccf74181273a827bfcc218aa499376f0146e30d5aded075d2c50c52acd2c46"
+    },
+    {
+      "path": "full/m-eurosat/id_0890.npz",
+      "rgb_sha256": "3551e5cbb83d9a654d54433c78b6a336d4643483f46a99730885c6b67f35ea91",
+      "sorted_rgb_sha256": "044d5713558a1cf02a5b03ae735df9f2992b034b269fd07af7537e7b11e7df02"
+    },
+    {
+      "path": "full/m-eurosat/id_18930.npz",
+      "rgb_sha256": "f439b6a2736fdcef8d05e4078dd1a06356497050336d8dd71d00dd93dc6c70ff",
+      "sorted_rgb_sha256": "303a2f19830c1dae592eccea3eb6f2438753c0cf94bed47eb166f1ace9ab9788"
+    },
+    {
+      "path": "full/m-eurosat/id_11733.npz",
+      "rgb_sha256": "17b7b357dda03755c0241a4d1c97410bccb806b8d8c4d5c33aef121ab12ab9dd",
+      "sorted_rgb_sha256": "e49e8a3f39d215ddd17ec84e65162f4933c030a526eabc31080f1dba0fd1458f"
+    },
+    {
+      "path": "full/m-eurosat/id_10411.npz",
+      "rgb_sha256": "182cdb7db5874b3464d436791e032df42b1a066eafb5f9c680d140c7a6ef0b43",
+      "sorted_rgb_sha256": "7c3c7190587176356c14dfdf337328ccb83c55bbb7eec21fa9662e8a076ff737"
+    },
+    {
+      "path": "full/m-eurosat/id_16074.npz",
+      "rgb_sha256": "9b30198a86d0e10d307f1d7ed85d55b392c97e2537ef2fa46af3ee3c7f8e61ab",
+      "sorted_rgb_sha256": "70cf09a9e002b1ebf14166bd22eace84dac38e50ced59fd833c97f71daf523b8"
+    },
+    {
+      "path": "full/m-eurosat/id_23636.npz",
+      "rgb_sha256": "6d09a5889dd7039bb95f0254c5970fc18ac1529a2512f6ae0b673993c8410ccf",
+      "sorted_rgb_sha256": "d5d931d986711ae7e6c24adf5e3fb28c80c4e0449bb6b48873ed2ddbd673b473"
+    },
+    {
+      "path": "full/m-eurosat/id_18844.npz",
+      "rgb_sha256": "46bce04de4ade2bca569a6fb3999c433aa5671104a08f63b0bdf529cd68800f9",
+      "sorted_rgb_sha256": "eb0006b18a1c461823aab5a0ed465c0e3a462ef7d4680105dd155726bc0ec69e"
+    },
+    {
+      "path": "full/m-eurosat/id_19582.npz",
+      "rgb_sha256": "e259f4254a9159065c28a857561321b6443d5576a28afd7764ebc333d264e552",
+      "sorted_rgb_sha256": "2ecce4873ec487f64476fdedbae4fe07eb60aaf80c6baba3c751d813b9400bd0"
+    },
+    {
+      "path": "full/m-eurosat/id_17236.npz",
+      "rgb_sha256": "99e8c58538c5e983986a39409c89dec00bdc728036d95a77ba7bcb80b79bab25",
+      "sorted_rgb_sha256": "f812a3bffbd308d2d03c547205367493d5fe6d7bb900a9d8f077ecdf0101c867"
+    },
+    {
+      "path": "full/m-eurosat/id_13736.npz",
+      "rgb_sha256": "0e0254b4db40d889999b74834bf05fa5576709fedcdc7bbdbe2605a573bd5c78",
+      "sorted_rgb_sha256": "ce5d15913893af302b9ddcad0ce84ae7f303e40cffe6061fb5bc3d7a57eb6d67"
+    },
+    {
+      "path": "full/m-eurosat/id_26955.npz",
+      "rgb_sha256": "0b3c25ed7fe932ddbddc1ac987efff7e33a13af46ab6bc3b8379c3d5d2987612",
+      "sorted_rgb_sha256": "e0dc206effc98a403e1118f584c015b534332e706609db6ab80bc81692472840"
+    },
+    {
+      "path": "full/m-eurosat/id_19233.npz",
+      "rgb_sha256": "e4caba5c5fac088856057dc531d3e13ba5f65e9a17c68a32900bf6031cd954bb",
+      "sorted_rgb_sha256": "37c316ada0d1cad5a39c647175a31bd8419bd62ccd38562137a14642076d54b5"
+    },
+    {
+      "path": "full/m-eurosat/id_9526.npz",
+      "rgb_sha256": "dcfa8cac9783652130ba6f7b2b5c3be85838e5993009091f0997dd2758a1472d",
+      "sorted_rgb_sha256": "16c7c51c5ea7a371d1037bbf32e09a7a1a5331dd4d1a59fab725bbd41f895f35"
+    },
+    {
+      "path": "full/m-eurosat/id_10940.npz",
+      "rgb_sha256": "b4d3ae8a7c39dbbe096ad816eb68ff660936ca9ff4555e219a99addeef0ddb81",
+      "sorted_rgb_sha256": "2cc44c78d10962edafddbbda71afef8b7499c63a05990f98738175cd58ff552d"
+    },
+    {
+      "path": "full/m-eurosat/id_20673.npz",
+      "rgb_sha256": "94c9a7a3ca361c73c0842fc476a93cf6c021df99824ab565695db5f0575a70e3",
+      "sorted_rgb_sha256": "8bb02ef6fd91c054e855cc2b9a7f3512f765146aba7c8221a1f6a87ad6faa3c8"
+    },
+    {
+      "path": "full/m-eurosat/id_24415.npz",
+      "rgb_sha256": "4f840001aa31b71fe080292ef4f9dcd5e92453565d2adc94d68ed6b160628c6a",
+      "sorted_rgb_sha256": "3881d5f02afb91ed38175cba4aebdc61ea2c477e994d4a170ac0178749e70cc7"
+    },
+    {
+      "path": "full/m-eurosat/id_22702.npz",
+      "rgb_sha256": "b01330f48d49114663c777a572254644f0775342b6ccffce7e2ff503ef5ea041",
+      "sorted_rgb_sha256": "b40ee2f9a2635c04b431a5d255fbb5a0d092603aa68620ff1773b873708d893a"
+    },
+    {
+      "path": "full/m-eurosat/id_17961.npz",
+      "rgb_sha256": "5ecaf9a49220ed1a154d6df687ba5fc21214541f6f00dbe57ca2c67731cf2fe1",
+      "sorted_rgb_sha256": "4fcb07633d37f16e20acf15649f15ee4e3b802d7911e99ecb10a82efdf16dae5"
+    },
+    {
+      "path": "full/m-eurosat/id_23385.npz",
+      "rgb_sha256": "37e45f6c24809893eedfe1511065a069f9adc715e15c671414a3b87f11c3d5e2",
+      "sorted_rgb_sha256": "1dad2717aa43ebe65938fdea2ea58aa90857363d23160d6f22d3e776dee76c0c"
+    },
+    {
+      "path": "full/m-eurosat/id_25904.npz",
+      "rgb_sha256": "8a94edbdfe1b29378ff5a6d403a570b9f1ea7bc6057aa32aaa47fc5857df41fc",
+      "sorted_rgb_sha256": "a14abc53b776a0464a60e8eefcce20f960c0185252f526b04786774e305ce09e"
+    },
+    {
+      "path": "full/m-eurosat/id_8809.npz",
+      "rgb_sha256": "70faea441eec65dfd300d769d00df879228430bfce52a2d4fa421daadbd4e661",
+      "sorted_rgb_sha256": "82ca978423e2fdf4a14a4ccfe0c16ba4a46f380e0d1dab84247c77cce877413f"
+    },
+    {
+      "path": "full/m-eurosat/id_17036.npz",
+      "rgb_sha256": "0cc63ecad746b43baffdf868e3f2cbc4601d0f07563b5ba9719b93c9ef9d853f",
+      "sorted_rgb_sha256": "e46431515e437c51e533122b10cfe454cae91ec82b01d38f5e962fed60161f94"
+    },
+    {
+      "path": "full/m-eurosat/id_20842.npz",
+      "rgb_sha256": "d78ba7a0c651419cc13396b43a86d5a6353a5a22e35856ca272b841b1bdafefa",
+      "sorted_rgb_sha256": "cf86c894183ee9f7c8b0f38dff378336733152c68faa07f627e52114e95a8d83"
+    },
+    {
+      "path": "full/m-eurosat/id_13536.npz",
+      "rgb_sha256": "017ba172080b9efff5e8063fa227d1c3c2ac15f98b51c75950d33327e0abf89e",
+      "sorted_rgb_sha256": "cd7d2f22370c3a4ef8b50702cd7dc02983fb4f1736acc17e8988a0093117fa56"
+    },
+    {
+      "path": "full/m-eurosat/id_26599.npz",
+      "rgb_sha256": "f201c18f582dd8276b0c40d8bedbd989a1a4c2cd6727722a0a6ede4588204200",
+      "sorted_rgb_sha256": "6737b22f9cc67a71d003003624c1ac6eb700b83b2752ebe9e2dadb9a217680e3"
+    },
+    {
+      "path": "full/m-eurosat/id_22700.npz",
+      "rgb_sha256": "f3f9e58f4c5d81ae71ed0ee19353d5686c314a43cf19eeda8749d1da3ede262b",
+      "sorted_rgb_sha256": "7562c386b5c61760a43b4b38670cc9c32829ee3a38a8e3d65d4530531d1ab78e"
+    },
+    {
+      "path": "full/m-eurosat/id_20659.npz",
+      "rgb_sha256": "1dc6aae261dd7acc39824cc0e00e6af9973fc19dfce6cbe16f2833ab18d13488",
+      "sorted_rgb_sha256": "35ba5d423febe59544d94da4c2f0197e199da94ebd2e480f63540c36fbc6a64b"
+    },
+    {
+      "path": "full/m-eurosat/id_11645.npz",
+      "rgb_sha256": "ea5bead4e825d250e889e1fb40557c309ee5313513165f89a7500cf76378a581",
+      "sorted_rgb_sha256": "17ed2216c89aabd73831480add0bcd33e7fc2ceabf411ee5b89043ea24faa888"
+    },
+    {
+      "path": "full/m-eurosat/id_8389.npz",
+      "rgb_sha256": "d239da22020c1fb30e4531a9eb576df7050d21e69072add2818886a4f2db3a41",
+      "sorted_rgb_sha256": "bcfcab301e74f0cdc19c33f75196e9f12b5a60ac40ac8ce81e8888b920bd6de9"
+    },
+    {
+      "path": "full/m-eurosat/id_18852.npz",
+      "rgb_sha256": "87726b13af94c2747ad4ce14850046f26209336ac3b6cba04a1eac9aaf9c9fc6",
+      "sorted_rgb_sha256": "ce124bc93c2f0e93c42649c678d963d304eb5f9bc20a6f18c5049d87ed122aeb"
+    },
+    {
+      "path": "full/m-eurosat/id_23620.npz",
+      "rgb_sha256": "d696a582be6fdebfce3fbcd32ae3c1f12f29439777e44576ac79811574b28d10",
+      "sorted_rgb_sha256": "ca9856c8c7c74f1314655b6df77f70f0ca89f4acfc0fa7b711bcdfa650e2363d"
+    },
+    {
+      "path": "full/m-eurosat/id_9849.npz",
+      "rgb_sha256": "fa85bbf07c86299ae879c12d8a7db3233a8a37eba55f6a5db917fcfb17b3b477",
+      "sorted_rgb_sha256": "5646483f54279a23e750d52dd7684372ff273bac7bee58050029c73030dcd9fb"
+    },
+    {
+      "path": "full/m-eurosat/id_21180.npz",
+      "rgb_sha256": "45384b24b71f46cace8147da6d45ff69b1748d0d2eb45e3ca1bf641f77234b69",
+      "sorted_rgb_sha256": "a52791aac9770e742c1bdacbe34e4101ff53024e07fdf6ece0d0cad48c3db116"
+    },
+    {
+      "path": "full/m-eurosat/id_26604.npz",
+      "rgb_sha256": "a87d00dd01a5de832380c19aa171e0769b388592b0541a299e7cabfad8fba4ee",
+      "sorted_rgb_sha256": "6aee44c03df95f760a317598d524d558a5209c5f146796910aa74398b7f2798c"
+    },
+    {
+      "path": "full/m-eurosat/id_22462.npz",
+      "rgb_sha256": "c794dfc29fd3fab368672b645337fbf6c0fe5aca2b7aef74418582835f08aa59",
+      "sorted_rgb_sha256": "8bb2f0090dbce481e53a6d2ee028e03e1bc4ef21715085bbc9fa2ef789392127"
+    },
+    {
+      "path": "full/m-eurosat/id_8570.npz",
+      "rgb_sha256": "f429f276764831155199b5b90745af281d403944986b935468922c80416672ce",
+      "sorted_rgb_sha256": "4321f6e6bc7b6854f44fba6e0ecb87dca96f796b4239fe43bd18b82ed2403acf"
+    },
+    {
+      "path": "full/m-eurosat/id_25331.npz",
+      "rgb_sha256": "39434b46a3f5cf0aaca87df7ec9318919dce57875b72d7c3646f93b0f46221da",
+      "sorted_rgb_sha256": "1b089ff9a7454ccff34f11deff19c96000d3147bbe1982a3e75b4738a6698c01"
+    },
+    {
+      "path": "full/m-eurosat/id_17397.npz",
+      "rgb_sha256": "5bc3546c449e88c39b447c4949eeb48e9bf4988e474f977969239848e3d57eb5",
+      "sorted_rgb_sha256": "87a8ac27119c6aa3a833f925c4ebc77def67d8cfb506042fb07ef29f28fe844c"
+    },
+    {
+      "path": "full/m-eurosat/id_10639.npz",
+      "rgb_sha256": "9057499d7fa49895c9147a78a78c6175a4062b384439d07d18927cde829d082d",
+      "sorted_rgb_sha256": "ceee1d51145150589b31c5610fd9614c1ef0697c738622486798e2322a5f0ae5"
+    },
+    {
+      "path": "full/m-eurosat/id_6987.npz",
+      "rgb_sha256": "26f7adb1ffbd4b755654444dbb184269d79a555a4404888c8f67f0786601fc60",
+      "sorted_rgb_sha256": "a9e45c20e53894b6bb9f5977397f096b4155d98bec5486431c0d20d0d6924351"
+    },
+    {
+      "path": "full/m-eurosat/id_25655.npz",
+      "rgb_sha256": "27ed015cea5d1ea0da967950e60f3b7fadcdbf90a3d2389ee47ec9181bd48a70",
+      "sorted_rgb_sha256": "472353df1c50631e95bceb0afbc198938e7c04f8f4e4e254aba18a9459420aef"
+    },
+    {
+      "path": "full/m-eurosat/id_23231.npz",
+      "rgb_sha256": "f0d9ba5c448164246f1c6ca61fdc51d8eea038d06341920d614737352fd671a6",
+      "sorted_rgb_sha256": "5ab558d74302bcd5cd0fe4d3d42c2ef2e21d71aa64a14fb30ea9d012c7f452af"
+    },
+    {
+      "path": "full/m-eurosat/id_0461.npz",
+      "rgb_sha256": "948e5e4ee7587e82488d4a02d09967e65ead789ca6827d9260d369d166e3ab0b",
+      "sorted_rgb_sha256": "1ee785ca49fea5e44ba7d8806f139170c8e94aa70c84887de827bbe414b82103"
+    },
+    {
+      "path": "full/m-eurosat/id_23225.npz",
+      "rgb_sha256": "87bad4c7024e395c8846a3e9175335e6e3c6b39eb6db7180bfdef6cda3e4c297",
+      "sorted_rgb_sha256": "b25fafabe765c042c40f60b0c213fcad73cafc0df656e8a790216853d07c3184"
+    },
+    {
+      "path": "full/m-eurosat/id_25654.npz",
+      "rgb_sha256": "e617ed46752e32087a18280fccda1c04ebe8296d1cf70d45aef4763391af4345",
+      "sorted_rgb_sha256": "3b49efdecca860a3ea7245bef73ef29c65a115f2c461bb34d5665d6f8f247571"
+    },
+    {
+      "path": "full/m-eurosat/id_9451.npz",
+      "rgb_sha256": "46e522af433949dbfb3e7f7a963169bbb78162790a6668644b3a0321d7ab3085",
+      "sorted_rgb_sha256": "7681bc2d39c764e62a28c43932c405b308516e962f8f9515f6a379cf7a375e7c"
+    },
+    {
+      "path": "full/m-eurosat/id_24204.npz",
+      "rgb_sha256": "b64a61ec67a448fe66e40d8c395a737a8ff0bcecdaca18a786f4cad6a0dde207",
+      "sorted_rgb_sha256": "4460b58d8be0246b06a4a2ed411bfbe0361f10572fb2b1d00f3eb1c36ec80e8a"
+    },
+    {
+      "path": "full/m-eurosat/id_17816.npz",
+      "rgb_sha256": "b8f0cf8615f0bf1e61a9528fc65ff89359cd08121bee597e24b0388eab2c8c26",
+      "sorted_rgb_sha256": "32d35a1de7715107151653c7b7b4fd443867e64121e53f4b9527c8a997d46bcc"
+    },
+    {
+      "path": "full/m-eurosat/id_25668.npz",
+      "rgb_sha256": "6cf2816ccec5db6d7f4aebe926fa87e83aa21d8a8403f46167a60f570512a5f8",
+      "sorted_rgb_sha256": "bee954916119e444536c6fed1202f5f1ded6da5a465ad451d016e524b568781e"
+    },
+    {
+      "path": "full/m-eurosat/id_8940.npz",
+      "rgb_sha256": "9f55ad427887622ba7476a008ef5aa52946b77d57f7ce9ea4b09dad484decfcf",
+      "sorted_rgb_sha256": "12084d546214a8cdda9868ec4cccbfc361d0dd2413ad6f156272dc1888e1fa0a"
+    },
+    {
+      "path": "full/m-eurosat/id_17157.npz",
+      "rgb_sha256": "5365bc001cb2ee79fc88903aac4dae9132f6033a39b902489e1fcec69b3d5d06",
+      "sorted_rgb_sha256": "e9dd01d186ace5f6469fa5c95babe1ad8946779a6308c28ac4523bbfbdb1e5d9"
+    },
+    {
+      "path": "full/m-eurosat/id_24589.npz",
+      "rgb_sha256": "3eca8c6cf37177b8c993ccafb8d36f334d6182967305c8453a72c8a5d68d8eec",
+      "sorted_rgb_sha256": "58e56a1a5b7abf2c594ccaae9bc736662988a77304bcb7965cf4dc736516eee8"
+    },
+    {
+      "path": "full/m-eurosat/id_19634.npz",
+      "rgb_sha256": "a85770e77c3c73612c88b5c8783c9ae9635056bdf7b622d5028456d5fdbf1ad1",
+      "sorted_rgb_sha256": "f46fd8159783c3f8e2c7ce288ed41b62d74412ea01906e8b32b8fe40ea573504"
+    },
+    {
+      "path": "full/m-eurosat/id_13696.npz",
+      "rgb_sha256": "a3cfec594664242357a50b91852570e7f80c5ed653c5881a0510a777f782ec49",
+      "sorted_rgb_sha256": "cb5b9da00539a6954491c764dfb41230fbfa2a8b62ff115c0bac8ed2a6329a25"
+    },
+    {
+      "path": "full/m-eurosat/id_9135.npz",
+      "rgb_sha256": "0c55bca3a44f53400c7ace79c6a6713971bb31d4abcba1723f9ccca9dbdbb78c",
+      "sorted_rgb_sha256": "380c526c0c15886ba033fc720a763eea75f6b6c1cbe991565cf79e31ba20173f"
+    },
+    {
+      "path": "full/m-eurosat/id_2060.npz",
+      "rgb_sha256": "f6ad697f2821e5e979e030259f0f2a3639fd0611ae3b4ca76ecda7c5bd11d0a6",
+      "sorted_rgb_sha256": "4e85c2ba724c9f5b749de6e15278e381c6d48d9b62fae5914696f98b412ead6a"
+    },
+    {
+      "path": "full/m-eurosat/id_21618.npz",
+      "rgb_sha256": "ef48c837756bc4a9840d5a5b5bf83dccb4b30068e3b7c0ae8ba90f11cc1d1dad",
+      "sorted_rgb_sha256": "2447959c7f507926841137497c52860e983dfb7974525aa17f68119b8da5fbb4"
+    },
+    {
+      "path": "full/m-eurosat/id_20274.npz",
+      "rgb_sha256": "18de54a5798e909bdbbdf0b5f50b9ad2583832fe676ba5381a0d1270899b6b38",
+      "sorted_rgb_sha256": "341b43dc3e879fab9a4b349d07eb2d4e3659f4808def48bae50d5d04cce8b8a2"
+    },
+    {
+      "path": "full/m-eurosat/id_23796.npz",
+      "rgb_sha256": "ab40d3cf9c9961d5d2b960d873b74b7303aea116005cf7cf3c8240f3726514ea",
+      "sorted_rgb_sha256": "ed98a8d5f0c083f7e4534006a7cdaaadd25a41093ea42cad639a49aa40f512ce"
+    },
+    {
+      "path": "full/m-eurosat/id_13899.npz",
+      "rgb_sha256": "955a1f4ef9c142474415f15a54db397f169edb70b1c3d13e03a6a74d9539a94b",
+      "sorted_rgb_sha256": "916736659ca2f63732b8a25d2c9e2e587f1e0ab4f1815812a0b207f8f62c5d3c"
+    },
+    {
+      "path": "full/m-eurosat/id_7695.npz",
+      "rgb_sha256": "9d07de00f6edde0f8ce37c2bd86533d6ab12194c4cf222c2247e5c168f7f8adc",
+      "sorted_rgb_sha256": "9863c12eafdf12888ac33df6187040f83a2aa806bab04f517188fa9ab5b96245"
+    },
+    {
+      "path": "full/m-eurosat/id_19436.npz",
+      "rgb_sha256": "010cfbd58ea837b28c30efcad3008cb56202c90062ada0e528cf9ca4f8824640",
+      "sorted_rgb_sha256": "34f13fc1ad4e471dd0a433d99cc33273589f721eab17a31da5abe0a28b6f5c53"
+    },
+    {
+      "path": "full/m-eurosat/id_20328.npz",
+      "rgb_sha256": "c8cb26abbef3aab29498fe87cfa6363feb65341bd7c606e069d2ff3ae76a7d69",
+      "sorted_rgb_sha256": "9851f099ae653aa4567b7d4ae4b44da5bdfa6d044858096362ab9e0bd7b82b9a"
+    },
+    {
+      "path": "full/m-eurosat/id_11687.npz",
+      "rgb_sha256": "0ca864111bb5813d35bc97b58d3173b631a45d3a6c3d52d7a834abee592cf084",
+      "sorted_rgb_sha256": "b717d92d07db9306f8e5ccf39a6a76ece5103d1e8676a4e830070da12e4ae77c"
+    },
+    {
+      "path": "full/m-eurosat/id_24172.npz",
+      "rgb_sha256": "2496d94830802e8218e0dc45784eb6f424e6abc6ff879b9e77975cc765121883",
+      "sorted_rgb_sha256": "b8ed76cdb715061548848d0509a7a539b46780693a8da80fe0ccfeac205585ae"
+    },
+    {
+      "path": "full/m-eurosat/id_23609.npz",
+      "rgb_sha256": "32c8a27d466486e9c9ab2207d76e345ea3cd55affde704348ec359fc14599c22",
+      "sorted_rgb_sha256": "a248f1aed21cf6d46fc30f38968525a54ee9db2f2f5f782ec2265c61457d328d"
+    },
+    {
+      "path": "full/m-eurosat/id_18106.npz",
+      "rgb_sha256": "4c31a0da9a890996e8e4200775967f50e64dc0a35f5cf20376e18a2db8b9282a",
+      "sorted_rgb_sha256": "58a95625e40b7e4b988413de92833bf9d1f0f6469a442ddb9401c179dd25a6c6"
+    },
+    {
+      "path": "full/m-eurosat/id_13523.npz",
+      "rgb_sha256": "df999c19d7079a58738544f7e923fe181a21df5136ee7c15d94e524f791be4a9",
+      "sorted_rgb_sha256": "07199a57e22e9df65fb8a7d0e136633239088f596cd64e2682a22a268b882be8"
+    },
+    {
+      "path": "full/m-eurosat/id_21284.npz",
+      "rgb_sha256": "ad3735508f78e6050e68d056ff27d8049c751417bb64ced9814fbfd59ec1273d",
+      "sorted_rgb_sha256": "325b36d0cd7b4a3f7c1e249e9be2e82db09bd59b40b4f4277cbb784ca96b876e"
+    },
+    {
+      "path": "full/m-eurosat/id_22799.npz",
+      "rgb_sha256": "7692a2c25928efd035bf99da089b01ae236f6c14b4f97146c49caabb054fdb36",
+      "sorted_rgb_sha256": "40f404f5f8865536a0c274d19572d3d976a24c7e2ae312d731189bd4d88fca3f"
+    },
+    {
+      "path": "full/m-eurosat/id_25021.npz",
+      "rgb_sha256": "3988b8082e6b7a17cce70f45407790a2f0a1b84ee4bd0817abc7dfc3b631d3d7",
+      "sorted_rgb_sha256": "ba5f3da934bade13592dd1d3f37d728606c5ff030b0f0c17bcc5e1857e5ae05e"
+    },
+    {
+      "path": "full/m-eurosat/id_9542.npz",
+      "rgb_sha256": "052070f0b2da0c1763bad925519b6bbff149b4d965e152d85b6f58b7da81f5f1",
+      "sorted_rgb_sha256": "141d4ec140d9adc0ef607e56f3779a3f86a39ce7b873a2424f3900b8f14c3b82"
+    },
+    {
+      "path": "full/m-eurosat/id_11390.npz",
+      "rgb_sha256": "7cb8b46c692114ce83609be9de58aab71be7b153fe379489746bbc247cfb11fa",
+      "sorted_rgb_sha256": "8fac9ca5990f8218c3bcf161d31802df631be6e94f1b09108942fed5d429a904"
+    },
+    {
+      "path": "full/m-eurosat/id_26266.npz",
+      "rgb_sha256": "0738aca756a20350b97f511a105e5e14f5a6543e595de826f0d59b64fef767aa",
+      "sorted_rgb_sha256": "bf8c7ab24561802f7eef2190d279cca5913bccf72034143ea2ca566ea76aaa81"
+    },
+    {
+      "path": "full/m-eurosat/id_24698.npz",
+      "rgb_sha256": "5cac7475af03d25d3d302c46fef3f0f346d475cf2734d06af1e674c788ab3912",
+      "sorted_rgb_sha256": "118573027e3c44a357c789d359e2e724acef119a385d32f1eed3b72fa5bfc1c5"
+    },
+    {
+      "path": "full/m-eurosat/id_16158.npz",
+      "rgb_sha256": "13fc752f74f70033b464a8afa5d151ea1ef06554438cccd0d09b1f65b78dabc1",
+      "sorted_rgb_sha256": "ba2035c7abe0e2405a99918cb436a45796ff07ddf4ac0a1b56aa8de2e96c7458"
+    },
+    {
+      "path": "full/m-eurosat/id_8489.npz",
+      "rgb_sha256": "262864327a494a5ff0b822b75d4354633213a011332b0ee0c9732f3ae765d4dc",
+      "sorted_rgb_sha256": "f9a8cf5828b9dc8e68a2633164326748f1810a936d3e255ee661d5a5ccb449fc"
+    },
+    {
+      "path": "full/m-eurosat/id_17508.npz",
+      "rgb_sha256": "9967d04024dba7b6773eda6324c19cd60c104180d758498a276d0b36b4910abb",
+      "sorted_rgb_sha256": "ac09ba192f48ae6a2d7965a3bf24650753098d23899960d85c1f03f3ef2a87a9"
+    },
+    {
+      "path": "full/m-eurosat/id_14767.npz",
+      "rgb_sha256": "e616091efc003847915c067fe83d1a9007ced643739e95ef14fec4c7acdd0677",
+      "sorted_rgb_sha256": "8a8956d50fb2d8c0bee5ef6ade9edc438f6a3fd57ab15085685b8c609cde7d7e"
+    },
+    {
+      "path": "full/m-eurosat/id_21045.npz",
+      "rgb_sha256": "264ca990a2718b95d0388a3fffdd85b40ed2b5698d31cc2961339588c2734bb5",
+      "sorted_rgb_sha256": "66bc4a7a5b60da1e6dd90d473bc813a2bf04054e932b3a7bb673026c84904dbd"
+    },
+    {
+      "path": "full/m-eurosat/id_13785.npz",
+      "rgb_sha256": "88b477a474ea3f55c6502e33ca3dfa1f4da5feb783165a8f5fc0aba311322672",
+      "sorted_rgb_sha256": "5797b83922c9195b91601abdabe3fd9eea508863f7402b06aa73b5d7018efb5d"
+    },
+    {
+      "path": "full/m-eurosat/id_22558.npz",
+      "rgb_sha256": "a003659ca42d2412bf9435c37cb91ae4e88fd7d3e25b0b449c19f8fc064388ac",
+      "sorted_rgb_sha256": "643498f00bc83f4f60dba64828c05825b0c699231db651293fc71a48763ee33d"
+    },
+    {
+      "path": "full/m-eurosat/id_24667.npz",
+      "rgb_sha256": "1ffcb9f0cab8793bd232c5dfdb1af35307c6007f056aa31e9266f3b954fba4f0",
+      "sorted_rgb_sha256": "0b15fc23ae9413a207dcaeb9687134cdea93953450c1f6c9779d1fce31b70414"
+    },
+    {
+      "path": "full/m-eurosat/id_16819.npz",
+      "rgb_sha256": "142f340bfb91a3f5b48162eec0ede03990fba9d8170cc808a9ded67d01c1c70c",
+      "sorted_rgb_sha256": "ad8fce8a984154607586af1028c7ce3877cac8ac6810889f316b8c90c6bdb443"
+    },
+    {
+      "path": "full/m-eurosat/id_10307.npz",
+      "rgb_sha256": "5497f3bd41ca9c8104448368ad03e7b548a462d9660f054b9dfe8ab814d7c5aa",
+      "sorted_rgb_sha256": "106ba37908067ba7b9064ba9c879fd2e2952d22678ad8e41fcfc6c26ef1e906e"
+    },
+    {
+      "path": "full/m-eurosat/id_2952.npz",
+      "rgb_sha256": "8bbdc600b84571551a61985a7a96415c18b1fe836e363b26126914bbe595629f",
+      "sorted_rgb_sha256": "027be8de68744f7be8ae7f215bdfaa4ee6a361667a38760ada8465281c0c18df"
+    },
+    {
+      "path": "full/m-eurosat/id_2007.npz",
+      "rgb_sha256": "92859371c9d90f6c4aaf32716c96b573608965908aa75f7516f4a8961e235080",
+      "sorted_rgb_sha256": "3f1172bc3a0a36f2134eca130d6f09761f7aeb255e6c81605afbc2a71f1924be"
+    },
+    {
+      "path": "full/m-eurosat/id_13801.npz",
+      "rgb_sha256": "83f5d4de62a85b6dc1a219d5109faf2bc350213bb0d7ae138b5004f990b584bb",
+      "sorted_rgb_sha256": "33a4aa6a8caf02dd8ffd909985c97fbecafa44dd3feda9852700c348f4eb4280"
+    },
+    {
+      "path": "full/m-eurosat/id_24713.npz",
+      "rgb_sha256": "8e5066f84fef639abb47637cdfaefe0096ccf6ca442f2c8dfabf42caefa67071",
+      "sorted_rgb_sha256": "0cae5ff5b78e9dd4fb0cf0483560d42a43f813d2c88e136ad9bb95eeb21c8d2d"
+    },
+    {
+      "path": "full/m-eurosat/id_26110.npz",
+      "rgb_sha256": "f3ed47cd2afc873229b33ec0645a6bc70416432429d73c9ea9d9506ce41270fe",
+      "sorted_rgb_sha256": "16d89f74199dea555ba0558cb4dbbcfd878b3dbac8feba996a4a06787021cccd"
+    },
+    {
+      "path": "full/m-eurosat/id_20788.npz",
+      "rgb_sha256": "5c5ecb89148d1b9f392371ba016ca3632e012a71a6e8648dadb3d1540f99ce1f",
+      "sorted_rgb_sha256": "b0dc306c5340008bcf4598b0ce4a6402596a433e68c1dd3a049ebe5a631c1148"
+    },
+    {
+      "path": "full/m-eurosat/id_16548.npz",
+      "rgb_sha256": "a4c8e6740fbe384f3e66208c3bfcd156bd9303658f07f892aaa100a3adbbbc02",
+      "sorted_rgb_sha256": "87cea544806ac4ae72996043bf0e09272d14cbd5b443072fba3cf5d82afa24a1"
+    },
+    {
+      "path": "full/m-eurosat/id_20763.npz",
+      "rgb_sha256": "730e3c6a23f881a80847eb9226947c41bf46f514108a0ed54d17bf0a2d8f6ad9",
+      "sorted_rgb_sha256": "13861d512ea26d5bb60592ca474080611f8fd85c5fb82df5795108ee20c08881"
+    },
+    {
+      "path": "full/m-eurosat/id_7354.npz",
+      "rgb_sha256": "a7b2c113d05a6aca5b8640082fe3e0fdadce4eb2fd485ac9dd942cb5042246b7",
+      "sorted_rgb_sha256": "7817877835aa61b8b561b1bfbc6145345111c9bd9a04860468b1a7275991f0c7"
+    },
+    {
+      "path": "full/m-eurosat/id_4661.npz",
+      "rgb_sha256": "134415ce896b69d789144b71535fa9bdab36cf39132a955aec800931b1be1c2d",
+      "sorted_rgb_sha256": "1fbab22543fde70d5739a527d2e0a432287990403429a194d156c1f42402242b"
+    },
+    {
+      "path": "full/m-eurosat/id_17680.npz",
+      "rgb_sha256": "28b66d18c3df362d588921d2f96d45a1c755d654bec305ae4feb56119dc18be6",
+      "sorted_rgb_sha256": "8e06f2e8d305099ac971d9d7086050550c687a5dd3b4ebeb2bb736b5203494ab"
+    },
+    {
+      "path": "full/m-eurosat/id_17131.npz",
+      "rgb_sha256": "faebbaa00a5fe1202db7b1e213b214e6dbf4a0a2fc59744b5fbf32a07f57987f",
+      "sorted_rgb_sha256": "95ec48f3cf7b4e99076af0bcf30047b2091c0122263ca24052b9ca0dbc10d707"
+    },
+    {
+      "path": "full/m-eurosat/id_20945.npz",
+      "rgb_sha256": "e42fdf6b99abd51d7d373ca5b1a389f00d35eccb3f118a66d5402f09c7b676ea",
+      "sorted_rgb_sha256": "5372372088ec2db1986f9d1a4b881340773dc69a325dfc6f7b503d90f0aba478"
+    },
+    {
+      "path": "full/m-eurosat/id_1916.npz",
+      "rgb_sha256": "a813820c13772b5ceb7f0879cbd9dc813071bfdfb6b1919c00b6a329b61063b8",
+      "sorted_rgb_sha256": "385dc734bf89523ec2b178c223cac2f8e2a7f7b79169dda565f60c52db268816"
+    },
+    {
+      "path": "full/m-eurosat/id_24060.npz",
+      "rgb_sha256": "ca9ca20cee295d5c4287570404b11d09b70e3d85e26689ad7f6c883b35c97eff",
+      "sorted_rgb_sha256": "6a1f8bb3887ad9dcf4ca279c2c0054d56673554c55251f80d9f537e030fc69f6"
+    },
+    {
+      "path": "full/m-eurosat/id_21118.npz",
+      "rgb_sha256": "17c1d940d2430e7955a42834219205476e6c23cc42cacb42ff564a0a7e06d8b3",
+      "sorted_rgb_sha256": "a4030d5c1c28c049c662bc7ea6d1ead54e9994ad013dcf9bedb32709de4a77de"
+    },
+    {
+      "path": "full/m-eurosat/id_8271.npz",
+      "rgb_sha256": "5cf33a209a9e76db65cea8e199a0e76d96d3696b964f011f254ed9d45db8fa44",
+      "sorted_rgb_sha256": "2ab5e7c40ccb0e5de96f6bf7453d28af46092c70a289249552f92aa928f3270f"
+    },
+    {
+      "path": "full/m-eurosat/id_21130.npz",
+      "rgb_sha256": "1fd273ea636b19177cadbe0ef27b5a1a1efc6e1eaf64ac9c4539d189f5c58208",
+      "sorted_rgb_sha256": "0dacaf8597ac2d07e933d0ffa1897e523a766c50620cfa84e25111ff21db4ca4"
+    },
+    {
+      "path": "full/m-eurosat/id_16777.npz",
+      "rgb_sha256": "4a8fc6c4cf6664cd74c732623a838608eca1210354fcec1dc3a76840c09c4d8a",
+      "sorted_rgb_sha256": "83a97150d3f4bea7ca8cdc06d4b915e02932d11fd49752a7bfe32c3e29e09f5d"
+    },
+    {
+      "path": "full/m-eurosat/id_18028.npz",
+      "rgb_sha256": "d2fd8831517869076fc8b51c7edd72c7a08130b2f4ab0d666f9925ece3f8b06c",
+      "sorted_rgb_sha256": "621366723a77bbe8e83c6c266273e55a39a58da7bd16c1ca5cb89efecda46add"
+    },
+    {
+      "path": "full/m-eurosat/id_18000.npz",
+      "rgb_sha256": "1b143df7d5f020dd90519c70d0005790aa87a698e3bb021ac02ad69d6b7254b5",
+      "sorted_rgb_sha256": "c4f55ac1cc47b58145b644371bcead39615660ffbe4403274ff2e02b7fba50c8"
+    },
+    {
+      "path": "full/m-eurosat/id_22203.npz",
+      "rgb_sha256": "a45930dee880dcd208f43e5e1542026ff103f16d49ba9c48f1c728dc43c24f14",
+      "sorted_rgb_sha256": "abbce8a0fa96b2c8a0eb139cd38468c5eefff9e1c9478ed931b848701476eb5c"
+    },
+    {
+      "path": "full/m-eurosat/id_23647.npz",
+      "rgb_sha256": "6ddae7b0127a4da22cd0e6369bfc9895565407ab39d7ee2cb6b8f5f514b43baa",
+      "sorted_rgb_sha256": "cb607d73fa3426850642e4edbc06289ec77e4a5275d5182abe6e51372ba59616"
+    },
+    {
+      "path": "full/m-eurosat/id_23135.npz",
+      "rgb_sha256": "e85b067a581132cceda7084394d864e7f183c119d512a3ec74dfa3902fc9bd03",
+      "sorted_rgb_sha256": "8c6373759348507a2e6fd332685e887f63943d724481399e3b67b7089b498198"
+    },
+    {
+      "path": "full/m-eurosat/id_21905.npz",
+      "rgb_sha256": "4a4ba16ea3a208459286bb3bcbac2a0bbb4259a019cbd86eee43c21f14c3f2e1",
+      "sorted_rgb_sha256": "23c190b5af66ab34e7e73918c95fc686b6c85144c672fbf23d490dcd5e0d4143"
+    },
+    {
+      "path": "full/m-eurosat/id_19242.npz",
+      "rgb_sha256": "fc336e852b71ca555abe95edcd572ba79567b712de56ab1a325b5075d6126ff3",
+      "sorted_rgb_sha256": "2cf0b0b53a4fedfaaf791789163e07ad4fa19168510c2e89a58fa70143bea9f0"
+    },
+    {
+      "path": "full/m-eurosat/id_15322.npz",
+      "rgb_sha256": "e052db206c51463ad8ef056bf296842e1d3120e84569116dde239a1535201004",
+      "sorted_rgb_sha256": "b5902bfa50f14b2b7a8a8281eef6f98ffdadad71b229416165cb5c40cc3cd608"
+    },
+    {
+      "path": "full/m-eurosat/id_23479.npz",
+      "rgb_sha256": "e18356bc85333d35d9d8344d096d99501c4ce6e5bc20598dbe7fd10f72f071e6",
+      "sorted_rgb_sha256": "3138a5c00a272be1a949ece0c5124127962778ea5056f52d72cde8fb31f08e23"
+    },
+    {
+      "path": "full/m-eurosat/id_20616.npz",
+      "rgb_sha256": "5dbbf5535971e2d3c9973d1b7e38dbabc958efaf6efbe9efed64f310657e6d05",
+      "sorted_rgb_sha256": "85fc93e476a671df0a4563cd5d0fa804c9357d2821aa2dfc75857ace9947f61b"
+    },
+    {
+      "path": "full/m-eurosat/id_26267.npz",
+      "rgb_sha256": "db02c67f4771d23174481b5132a6fca0bccfa0d480d845d265a6fcac66e65193",
+      "sorted_rgb_sha256": "8abe0b6f0ae8732efa2a11e07001001f1a172ca74521ea0ef894ae3c96576f15"
+    },
+    {
+      "path": "full/m-eurosat/id_9219.npz",
+      "rgb_sha256": "90d3061bb2e021d5a5040c4063c8f020b246f24915f6d4c3a771b50b00a8f0b6",
+      "sorted_rgb_sha256": "236ca6531948225ff1444980827693a212d7454f1813017744f4aa03a20ae975"
+    },
+    {
+      "path": "full/m-eurosat/id_15849.npz",
+      "rgb_sha256": "98122898a02d562020bb22b2dd6c2ecafaa1179d831f0958065dcadbf1512458",
+      "sorted_rgb_sha256": "fc849894812b12c434bbccf557e87fb563b748f0a12853ca74a6789490578779"
+    },
+    {
+      "path": "full/m-eurosat/id_19901.npz",
+      "rgb_sha256": "9c089417b33c3d0da87622c5226aeb532c8f00bf669bc5b8dd513226b7a9641b",
+      "sorted_rgb_sha256": "68b73612366bcec1ffdf42f73ef6a4226c43c9af83f9442201576d1ab09813e4"
+    },
+    {
+      "path": "full/m-eurosat/id_25020.npz",
+      "rgb_sha256": "656fc355a2c782051b7f894db09bbaa0688ed63ed0a5155f9cf81996b542d698",
+      "sorted_rgb_sha256": "dd84c2cbaec747b2101923f60a75093b0f21aeee22ff9ae17883d3841587219d"
+    },
+    {
+      "path": "full/m-eurosat/id_16401.npz",
+      "rgb_sha256": "34a5242fb9c63412a0083abc277b50de537c0faa18dbdcd0108de1374cecf4ad",
+      "sorted_rgb_sha256": "52d4dff7c2868b31c50a44190419da6a1021b2d6dcf82d28a9c80c2dc72a89ce"
+    },
+    {
+      "path": "full/m-eurosat/id_25793.npz",
+      "rgb_sha256": "83aa3e0af298546fd3f8ee2307e64f691dc6147b5a7787146cd7860c028023b5",
+      "sorted_rgb_sha256": "9916d50c0c33e1bfb3be452ce7c2059a6c4e2164e1f63ec7edf0ad7ffbfb9cfd"
+    },
+    {
+      "path": "full/m-eurosat/id_9227.npz",
+      "rgb_sha256": "d482133e49533ff5b6cabf53b518a5a05d862a26288aa90b46c25c68d8104d48",
+      "sorted_rgb_sha256": "ccc51e7f5e2ab9a2f1b80d775ea6d1200ac2d6e44646874cb7c10ff95a78a791"
+    },
+    {
+      "path": "full/m-eurosat/id_22765.npz",
+      "rgb_sha256": "76239ddceaec345053facd8b98343de563c9ea1ccc64575d37462f5a1f0d2154",
+      "sorted_rgb_sha256": "176aba10c0e523f6898851b095f91b8c5acd5e9d20150f178c3df871a8c74de1"
+    },
+    {
+      "path": "full/m-eurosat/id_25778.npz",
+      "rgb_sha256": "7ace8eda04e300b5b1f358c1fa5fd17ca352e58bad4b2ade85c86feae745a1ab",
+      "sorted_rgb_sha256": "6d6ca3ce25fc3ee503f8ccce6fd7177c09125a361c4395df87080df7b827cd19"
+    },
+    {
+      "path": "full/m-eurosat/id_23686.npz",
+      "rgb_sha256": "25dbd1e64b5737496d68cb1e98799165b9ac94e6dbe8451a693696ed02ccf33c",
+      "sorted_rgb_sha256": "491032787d42eb4b2572efb3a61eb63ce9267d458660902ca55dc280278d3126"
+    },
+    {
+      "path": "full/m-eurosat/id_24857.npz",
+      "rgb_sha256": "2427c03033e08ead22c322338ad897c8df7475fe8070894bb77f2b298e7106cd",
+      "sorted_rgb_sha256": "ce32b8e8d01e0c1bf3436e1ebd60839d0f24a040306c5197db0488449eaffd5e"
+    },
+    {
+      "path": "full/m-eurosat/id_5810.npz",
+      "rgb_sha256": "8dba9207fc412ac4ae6521263ccd665109bf76192094ed0a2bbb467dca8f3bf1",
+      "sorted_rgb_sha256": "360fac723e33eed4ccc00a9f132ad59d7e30c1c4b59bd3b7e65521169833ae75"
+    },
+    {
+      "path": "full/m-eurosat/id_10270.npz",
+      "rgb_sha256": "1fca564e8d68fff1178eb0650b41a8092170228b378e2a73017d2fcf273a44de",
+      "sorted_rgb_sha256": "276b460599a2d1b4255bfb432453b3ca8134f675523f06676e8045aae897bd19"
+    },
+    {
+      "path": "full/m-eurosat/id_19254.npz",
+      "rgb_sha256": "ffd53edf712438d51fa7512d7195ad77f6daae1602326fe81c3bf85039a7f89b",
+      "sorted_rgb_sha256": "f9d11194c63098154f1b3a7e51aecd7b5132b33eb0b950bdddf8519a578469b6"
+    },
+    {
+      "path": "full/m-eurosat/id_23651.npz",
+      "rgb_sha256": "62f409214d1eb552f89dda8ae633818cc8f281ea58a2b1e982cf0272af83904f",
+      "sorted_rgb_sha256": "ae605848106c40121fd555bb11eaa2f8b4d7c6dc12f78dfe32a33f36f73fe773"
+    },
+    {
+      "path": "full/m-eurosat/id_25208.npz",
+      "rgb_sha256": "549fd55b139b0ddd4546a9471d6f28e7b2cd7f11eb824a36519a53bb6ae80e0f",
+      "sorted_rgb_sha256": "768938d86d0ee0c1491174d4eb1648c83c54a2dd233eaf5900f5139bcb37758a"
+    },
+    {
+      "path": "full/m-eurosat/id_13976.npz",
+      "rgb_sha256": "7268ea116b080262dd7a00e4c17d96d9e072101b3a8b9f4c55a48c62672b471f",
+      "sorted_rgb_sha256": "d65ac21c0cb25b87f8101f9d7d08326c69c8992e46f0412e785d26c0c9876085"
+    },
+    {
+      "path": "full/m-eurosat/id_9623.npz",
+      "rgb_sha256": "bc259eca71db4054228a666ca72465732509045d64381ef64e0f5b56d33deb4e",
+      "sorted_rgb_sha256": "fc7eb9371d1cabea57f3a4e0f87010e18451cd6a6457adbcfb3cbac9c4cef600"
+    },
+    {
+      "path": "full/m-eurosat/id_0607.npz",
+      "rgb_sha256": "758dbd76049094c092ae6feb58cb959cdee1f7387323d3f9d9646cd529a3afab",
+      "sorted_rgb_sha256": "9669e29aee9730ab7c6e85f80bb0881033969e5df5246635077b19ce2c5464f6"
+    },
+    {
+      "path": "full/m-eurosat/id_9145.npz",
+      "rgb_sha256": "77ef7a0b1b057d0c151c50496a182148f0388703e8e83291b0b7df99763f6093",
+      "sorted_rgb_sha256": "affcaf73a0746804274e45fcad19aa3693c437158d500e54f999566b16f998db"
+    },
+    {
+      "path": "full/m-eurosat/id_18957.npz",
+      "rgb_sha256": "fa43861a636a420030affc607c0c97ff1a5542ef1b901dc65bad4910e3e96bf5",
+      "sorted_rgb_sha256": "4291a616fa49ab45f396d8927021de37b0c538303612549e4e8e8278fdfddb5b"
+    },
+    {
+      "path": "full/m-eurosat/id_16239.npz",
+      "rgb_sha256": "3edc312fbcbce22834120c1829f4e6680bacc048a9c2c58c94eb71a336ae73ee",
+      "sorted_rgb_sha256": "575cfe0864dca409716d8f35f27a3abeb08352cf3cef953d820f2df915eb5198"
+    },
+    {
+      "path": "full/m-eurosat/id_16205.npz",
+      "rgb_sha256": "2864aab1f1d7817857caece911f363c3e56b43114983a2bb54c1eb3a990503ee",
+      "sorted_rgb_sha256": "68a6b34abd544ccf5be1a44680a2055ebbc768a47721e9a1792f9fc03d41eb26"
+    },
+    {
+      "path": "full/m-eurosat/id_23255.npz",
+      "rgb_sha256": "3ab5dcf1573d2b36851be72ad521ef05c0971e9b36748c68a07ab49117a6f65b",
+      "sorted_rgb_sha256": "74b80f68bef5443fd97738c858b3aa6b2b0ef2913c8e7172cc0f027afa0fd9e1"
+    },
+    {
+      "path": "full/m-eurosat/id_19863.npz",
+      "rgb_sha256": "7c0a01fe0bd6dd3c5b9ca5d9560f81e2255f92c3a5abe4bc0df3ab9167df125f",
+      "sorted_rgb_sha256": "c98b8db27b842f61e3e99bc3a7994a85f055365cf9c99e3611853d1d56e06709"
+    },
+    {
+      "path": "full/m-eurosat/id_6060.npz",
+      "rgb_sha256": "6890ac629b644f1f7c50822f921408430142746984d51628d1c22316e9c3fe6b",
+      "sorted_rgb_sha256": "9b7e196fb776fa679e94fbddbdc543a73a3d6fe97ac2c262c0f0cc3af354263a"
+    },
+    {
+      "path": "full/m-eurosat/id_22163.npz",
+      "rgb_sha256": "7aecaa09b2d92d76d10793e019ff06264201b446359e6a0ef4c9696607d0edb2",
+      "sorted_rgb_sha256": "aed9d9b63cb27add34f2e9b7134da3ac6749cbd8e51432444727fe136bfab3b8"
+    },
+    {
+      "path": "full/m-eurosat/id_19692.npz",
+      "rgb_sha256": "9131446c57629f5e5b72c9e16b450699b80b176dabd47d980a60b08eb4472a8b",
+      "sorted_rgb_sha256": "fbd34c485edfd5073aa07d1760faa373019b30e228371f361673004dec979e4f"
+    },
+    {
+      "path": "full/m-eurosat/id_20007.npz",
+      "rgb_sha256": "64691efecb80cf21264f56bf678ff443700f5f95d86d82a063da016aee2eaa87",
+      "sorted_rgb_sha256": "7629f924096053f3ee4180143fd683eb21eefdca08fac9b6c3550a79b82211c7"
+    },
+    {
+      "path": "full/m-eurosat/id_22638.npz",
+      "rgb_sha256": "a645bd31a25bf1b6bb82b6081aeb6ef7e7b052e5815d02ae61f8c6ce6516c018",
+      "sorted_rgb_sha256": "9a57576b99c0d346387d2bcd829d9a00cc4d51acdfafc28f21f0b0d4a3ce95fa"
+    },
+    {
+      "path": "full/m-eurosat/id_23240.npz",
+      "rgb_sha256": "d9f6696a091ad892226d4c9997fbae090fb9f3873ce8efb4afec5c29b20bd8bd",
+      "sorted_rgb_sha256": "5dd7b084a96cfee3344bb506472110b76a9190ef8152d0f3d417a3e374882641"
+    },
+    {
+      "path": "full/m-eurosat/id_11580.npz",
+      "rgb_sha256": "f9ce736767b09c9487a747178bf39945059d759281a564951fa960358d4c786a",
+      "sorted_rgb_sha256": "f1d95f5e6f0ee3418450323c46d60a1d7358ec8a5235a3636f85883babbb152d"
+    },
+    {
+      "path": "full/m-eurosat/id_20946.npz",
+      "rgb_sha256": "6566364d88c167a257fd47c9a207a36d230da8488f44f13509a3529f019ca222",
+      "sorted_rgb_sha256": "ea28db75c4f4f9fa499fab02db56c67619a4d540219caff1d77106914e28c6ae"
+    },
+    {
+      "path": "full/m-eurosat/id_4879.npz",
+      "rgb_sha256": "c648cd9d4f3e7c3ef16c4abfb92d1d48e4b08825f21cca56de75dc2ec204a012",
+      "sorted_rgb_sha256": "d5df10ea4337af0b14a8dab5e025faa8bed6072dfc3566a07f4288d0c8dbc36c"
+    },
+    {
+      "path": "full/m-eurosat/id_25180.npz",
+      "rgb_sha256": "eb29bf92ec4d31f80c5a3a0f4ea89ca76a4a48bc39c0260f37407777004b5349",
+      "sorted_rgb_sha256": "bb64bc022aae6755ee6e463fab597e4e6a358ec877c9de52a21cde69d0b38834"
+    },
+    {
+      "path": "full/m-eurosat/id_24936.npz",
+      "rgb_sha256": "d557728e298c5118b1d63e879a7af536e6517b9bfb6c7707f9d07cb99f4229b9",
+      "sorted_rgb_sha256": "6e1d1840f934c49628b92f21c0f2e03bd9d543ec073147841243eddf56c3b30c"
+    },
+    {
+      "path": "full/m-eurosat/id_18017.npz",
+      "rgb_sha256": "296ee295c2663d1e0a794631886af6e8d8c6a59309688f22750db1f746214cf1",
+      "sorted_rgb_sha256": "1886a1539950fc1c8a221f381005bcb83eaa20266eca809c53288cb7b24c277c"
+    },
+    {
+      "path": "full/m-eurosat/id_20588.npz",
+      "rgb_sha256": "089c794cb77cbbee5353f8099837211a7e6d7be9adc865e7eacf2dbbc4222698",
+      "sorted_rgb_sha256": "317aeda2702c3aea41dcf3f0609a72a1a3e3dede381ffb9be603c16bfe773fb1"
+    },
+    {
+      "path": "full/m-eurosat/id_5150.npz",
+      "rgb_sha256": "157f35eeef5da7fd95275d372f59dea2fbb91e4caafc81e7dbdc02e276f00a19",
+      "sorted_rgb_sha256": "bc333ec210e090c3cc626ce7ede6e55418c888ced066d1b1600183a49be951db"
+    },
+    {
+      "path": "full/m-eurosat/id_3284.npz",
+      "rgb_sha256": "a1e515f870927df5b99d4e15050b021ccd6ab72d86aaeedc44e560a0f499f703",
+      "sorted_rgb_sha256": "54717b2b2d48095ff78b3e9e1b8a23fb1c3d8f0ed1bb12e85ffd18df5e6d5700"
+    },
+    {
+      "path": "full/m-eurosat/id_19255.npz",
+      "rgb_sha256": "d9e8dedb1d44853dac35feef6f1dc33a635fe6c6c7f988f84d50d2663cd027e1",
+      "sorted_rgb_sha256": "80f5d1b5072f9a7435b182a28429e88f1d006a49d98123bc835674bd6bc94058"
+    },
+    {
+      "path": "full/m-eurosat/id_24842.npz",
+      "rgb_sha256": "1a3161f43e8f4fbe5d548503ab5f45169ed154c40d457499859c7d0b0f8d9b5a",
+      "sorted_rgb_sha256": "04508c068ffca60f58614bf9d03656812812a68f90fe88c36af2ec2b300f2669"
+    },
+    {
+      "path": "full/m-eurosat/id_17250.npz",
+      "rgb_sha256": "6bd6db1384fd0984291e351c1878993eaa726f4702bae0fdd7fb19c9ba8f4486",
+      "sorted_rgb_sha256": "978ba08aa430c4978a54be677254bdab2c7709d280ce699a0ca49038659fec3a"
+    },
+    {
+      "path": "full/m-eurosat/id_9795.npz",
+      "rgb_sha256": "0e31f49322187b5e4365c9c9000bb3c01df4882f78eb99abe4ed2b124069ce8d",
+      "sorted_rgb_sha256": "bada70427239ebc118b34791f4844952b63e435c0400951f1dd785e380a60dcf"
+    },
+    {
+      "path": "full/m-eurosat/id_0969.npz",
+      "rgb_sha256": "2e398d770018f1ed8a0746934e12df81fa0da0b42057142e795f4d95f71c6ce9",
+      "sorted_rgb_sha256": "06dfd66ad58740a7e81cf502c25063b22f12c1991fb5e4fcc95bd2e493545b53"
+    },
+    {
+      "path": "full/m-eurosat/id_3051.npz",
+      "rgb_sha256": "616501232427103000ddc3f600e29744d6c849843369f89a84d7aecc17a95239",
+      "sorted_rgb_sha256": "17bdeb12061c0fa79de76a78f247628ce140789410019dfcfd18216a062f0fe8"
+    },
+    {
+      "path": "full/m-eurosat/id_20615.npz",
+      "rgb_sha256": "f800f2e757c87c75b8c48f931014eade3bafa11b0cb9dd1254c27efa89016cc0",
+      "sorted_rgb_sha256": "fdd56eb8750f8ff2de7b1367fa239afade4bb62f348fd603b459d7c71a897aab"
+    },
+    {
+      "path": "full/m-eurosat/id_26264.npz",
+      "rgb_sha256": "f4b65a3eceb6382325c4e328837389263baaa4bfa6b0a18e56ac8f2a111c05a7",
+      "sorted_rgb_sha256": "66d3a0aaae021d4d8efd3eff93b0bb055bcb42b86ec25aaa9dd22de68f766619"
+    },
+    {
+      "path": "full/m-eurosat/id_26258.npz",
+      "rgb_sha256": "7fbf732f3c31868dc1b0661e96da83ad1bc4e47a9f7103c9c47f158d9a67b39e",
+      "sorted_rgb_sha256": "3e0826f7604ad4b1e37129de57aec5dcc7a893218264f6f8b3d1a38e2ae6d4ab"
+    },
+    {
+      "path": "full/m-eurosat/id_16416.npz",
+      "rgb_sha256": "4a225fcace8e3d0cc14141595958a7b13ebb21c2fdf17241893ea1036a31837e",
+      "sorted_rgb_sha256": "13ac37e1251636bc33a026d7d3ec1ae83001fe9b244f3a97c450fcc5300757e3"
+    },
+    {
+      "path": "full/m-eurosat/id_4925.npz",
+      "rgb_sha256": "e6e1bf11c7b5166f260afad717be3ddcdc75898cc9418318d00c6597e62acf91",
+      "sorted_rgb_sha256": "1d8766de38a4afda3dcfd6abd5b51a1066db73b7962c3a135ddb617552589d60"
+    },
+    {
+      "path": "full/m-eurosat/id_19057.npz",
+      "rgb_sha256": "cc5a726bd59cae9a7be2e53a7cda3b408f18c3e99f070ae25644f84de5bd88e1",
+      "sorted_rgb_sha256": "246aadcca608f58a7d49f0da290e213762c60144d4c9acd2942391b4043e7614"
+    },
+    {
+      "path": "full/m-eurosat/id_18359.npz",
+      "rgb_sha256": "4cb61cfab1250a63621e9f8c489e8d0f5878b4fadaae0306743f6f71ddb8fa9c",
+      "sorted_rgb_sha256": "974a12b5adfa7f86325032f0baf3e90291a9518f6a3d64ed2b8b6bd55133831a"
+    },
+    {
+      "path": "full/m-eurosat/id_2388.npz",
+      "rgb_sha256": "b3ae00b927843d6800174d0f70d04ce368d82e3f90482abaedd9b56c625a8315",
+      "sorted_rgb_sha256": "23c12ea73515eb37c93072ea85dcfdab6a665c86d11408068337d8759a853c89"
+    },
+    {
+      "path": "full/m-eurosat/id_25796.npz",
+      "rgb_sha256": "dc44d986e19e48428f46b171d972845a4686b069173292a7010e939289833184",
+      "sorted_rgb_sha256": "fa4d41c3fc288eadeaf561d15adb6dbb6ede2df7611494053c047a50b4a8109c"
+    },
+    {
+      "path": "full/m-eurosat/id_11427.npz",
+      "rgb_sha256": "3e5247513b340ce2b3a8de110e26931b5444e2c8d0a65800d6f8b7352682dcc8",
+      "sorted_rgb_sha256": "90cab347466a4fcfe2e29820fb6c4b78767628ae1ff93bce698a4d93da48aa56"
+    },
+    {
+      "path": "full/m-eurosat/id_23495.npz",
+      "rgb_sha256": "ebe1880da081cd17b5f7936cc2e6d5733790eb5fae052e288e3edf8ab2103f31",
+      "sorted_rgb_sha256": "919edafb45436e37aaefe828aa0eca5684c2151768899e1e34f4d45acd1139fa"
+    },
+    {
+      "path": "full/m-eurosat/id_20605.npz",
+      "rgb_sha256": "36f88a3aaf24e99a213f3ee2cde46ec448db68c060906c8b665e325027285cd0",
+      "sorted_rgb_sha256": "1a6e3392b0f9e2d3e83d897db766d0fb093b7f8f713a9d2eadc6dfd129c612a6"
+    },
+    {
+      "path": "full/m-eurosat/id_17081.npz",
+      "rgb_sha256": "493b33290c1e09e9c0b75dede2018c8caa12fccc60cbcba6e58c6b0fd49660e7",
+      "sorted_rgb_sha256": "e2d6b89fbf048843b6f90bd898367a3d15a1066ffb99732426edb494e02c9a22"
+    },
+    {
+      "path": "full/m-eurosat/id_12853.npz",
+      "rgb_sha256": "d5cddc81ce774e66f934ad59d3751c97be015a43ecff112bef1ff889c57efe5a",
+      "sorted_rgb_sha256": "63a93f126082574c73f1cb41751ed0e48244cdf5d3cdd7f32d8b319f41509ba6"
+    },
+    {
+      "path": "full/m-eurosat/id_12462.npz",
+      "rgb_sha256": "b06e4eee85a5c99e00d31676900851b5e815ac9b9047a8760ca05225a5085edd",
+      "sorted_rgb_sha256": "3a36c8e21ab5dba3ba8d54ce231fefaa34da0a7dcd2549b27afbcdc241b555d6"
+    },
+    {
+      "path": "full/m-eurosat/id_2820.npz",
+      "rgb_sha256": "403165756456984c5748429e7c58177fb392d4c3e522c2738b21a366b8c98fba",
+      "sorted_rgb_sha256": "6aa27ec05fc1224e3e7c34f12beebb76ce7b727b8f2069c5069ee9a8c6645832"
+    },
+    {
+      "path": "full/m-eurosat/id_5183.npz",
+      "rgb_sha256": "3fda2247e7685a36b023cc320d8ee37f784ed1d3ef7c5e26ea9ea72ebe36af3e",
+      "sorted_rgb_sha256": "84f7d84f2cd45347a3030a1816a2609885ae5d850067ca6fb97da2eae3558b2d"
+    },
+    {
+      "path": "full/m-eurosat/id_18601.npz",
+      "rgb_sha256": "04c0fb53f3ffd90d6229a3f5ecc4981b15ac2e8f28d7e813424be645857f76c6",
+      "sorted_rgb_sha256": "2190b82ab892c688e927e4e646eb45d77e41e0182bba9cdd0a59c4dc4e87a990"
+    },
+    {
+      "path": "full/m-eurosat/id_23668.npz",
+      "rgb_sha256": "6b7343b69f52376694d041bada9102fb57956a56a4852be7f79d721dbc52f046",
+      "sorted_rgb_sha256": "4498ba415135b5103701c9f6e6f6a6f9e6d889764c66dad1a3a1ef3e9b59ff71"
+    },
+    {
+      "path": "full/m-eurosat/id_6449.npz",
+      "rgb_sha256": "7bac750b310a96c2d8731f168113ad3f723be19bb164bb688f85692e42f40476",
+      "sorted_rgb_sha256": "f33223ee7126950c22fdfc13e34fb05eb1a573b225f9969c46582d8449fefca3"
+    },
+    {
+      "path": "full/m-eurosat/id_16823.npz",
+      "rgb_sha256": "99c50757c7ef9d0eb04e2362cb996ac6456e85d634843cbcb8a74ec0cdd29f83",
+      "sorted_rgb_sha256": "0ec0d4329008c7c4af3de4bf7d910dbca807bdc5c194c3db856efe4713684822"
+    },
+    {
+      "path": "full/m-eurosat/id_20349.npz",
+      "rgb_sha256": "062644807085780be64e49d12e61af82723115446074368571d54fdcd025d342",
+      "sorted_rgb_sha256": "06f37774b42143dfcc374c1419b16f8631092aefee2b2a7bed047ee6c53daae4"
+    },
+    {
+      "path": "full/m-eurosat/id_24701.npz",
+      "rgb_sha256": "9a6a71748541bcb710860211eb4f6054f190e8d9c78a163c9a6f5a5ea2d76fa1",
+      "sorted_rgb_sha256": "0bbbf0d7e092b13cedbda6817d1898b8de8b2b785098915ef7d5b4940bba5225"
+    },
+    {
+      "path": "full/m-eurosat/id_17485.npz",
+      "rgb_sha256": "575a3bc7aa1aded48f2ec137feabf3d8f7de3c54c3f071a29912bb8934791006",
+      "sorted_rgb_sha256": "305b381c46bd6a459a83bd999ccae3221f9edec331263b0f8f9d22f30413d5d2"
+    },
+    {
+      "path": "full/m-eurosat/id_25351.npz",
+      "rgb_sha256": "acc2930bc8555788a51af5c4afc28af04f02dee68fa97f8feec29ddbc1ef5dbe",
+      "sorted_rgb_sha256": "1a5c52faab88924f40bb0dd38833a962b236e03873eca5481b9a2ad084500497"
+    },
+    {
+      "path": "full/m-eurosat/id_12066.npz",
+      "rgb_sha256": "8ce9239abaf43681b7733dfeca92e500edea06f011e40e911e55b2bb77ed204b",
+      "sorted_rgb_sha256": "f5f5339527b00089f79450ab581177da1537504d014e6e05167a0a4a26365af1"
+    },
+    {
+      "path": "full/m-eurosat/id_21484.npz",
+      "rgb_sha256": "1ea481668da42f90b8046d335edc568164897407070a130311441dbc9b9a7d57",
+      "sorted_rgb_sha256": "480ece2c607b13de9db6eff5474f3c876025df222cf4aa7a7f93838d1936efa9"
+    },
+    {
+      "path": "full/m-eurosat/id_4869.npz",
+      "rgb_sha256": "7ae4544a03dd9b0e1c3a10cbc11d68bd4f87d4e01e8723da11a71b01adc3f9a8",
+      "sorted_rgb_sha256": "dd1c1be7c9acf2406d159275dbafd34654dfa89e6082667c0b2ad4833c564cc4"
+    },
+    {
+      "path": "full/m-eurosat/id_21490.npz",
+      "rgb_sha256": "36ca7442f394628d8895ecc48e4cfb4849ba5f7701c7cda78dbe9a86a26ae4eb",
+      "sorted_rgb_sha256": "8ebc0cf47aabe726262800c9b6edfdc33c2c3382757b9c8b754a6a5ce5910641"
+    },
+    {
+      "path": "full/m-eurosat/id_4115.npz",
+      "rgb_sha256": "a9de9eb3bb65d022a2f40966d7c2a9edd7a956ca01fcd63b1d23cecf1ad11bdd",
+      "sorted_rgb_sha256": "3374237067de7c21b7ee63e82849799e0671aa5240a0ac501d9dc23fd2e8c287"
+    },
+    {
+      "path": "full/m-eurosat/id_23279.npz",
+      "rgb_sha256": "c07b9f24e7191d452bc0a22570ac5b5fc621dde4022cdde295de385ca2b49691",
+      "sorted_rgb_sha256": "afdfa540a5117ca4c5ca977903bd6fd8f394c3789ac4654251abd8a3f554335a"
+    },
+    {
+      "path": "full/m-eurosat/id_24270.npz",
+      "rgb_sha256": "c0ee5e8977fe7add80fb4fbab54ae5102ffd59b55aa14a16957bd16cc6a12cab",
+      "sorted_rgb_sha256": "8fa57976c6dbd199cd364eba89ed2d096a1b078ed5728307d07c9de98f1e738a"
+    },
+    {
+      "path": "full/m-eurosat/id_22198.npz",
+      "rgb_sha256": "1e3f2bdccc9d8b6d242082ca13ba2b45c578dc6cd1bdc74518d49916d4c683d5",
+      "sorted_rgb_sha256": "a794812e5d8dc4d68d68f3c216c97fca37677a824fb4cfd2c0badd5e19f51a33"
+    },
+    {
+      "path": "full/m-eurosat/id_18204.npz",
+      "rgb_sha256": "69311fdb1e95fa0ec7b634b49a071924c9c7b2bf432af04a71744509a3523f9a",
+      "sorted_rgb_sha256": "f6192a2464c28ecc97bb1b448ad43670c377d196adc231f0b2bac413ddf6f2ba"
+    },
+    {
+      "path": "full/m-eurosat/id_9155.npz",
+      "rgb_sha256": "94b2f29c12e779e83b590772917e2164e467cce94af259b952f9f7cfdf63f431",
+      "sorted_rgb_sha256": "ca3964d52f4f558d6bf99cfff48afc6f504bf4838973e4a181b6c85d1d18d02f"
+    },
+    {
+      "path": "full/m-eurosat/id_23047.npz",
+      "rgb_sha256": "0947408af65769303dadc76484a93cd6b20fb0ea56a96b9d0fc24db2feea3655",
+      "sorted_rgb_sha256": "b4d3644a89d0bd4962a755ed0a6f8c7b54359880ac5276001bef2cfd77909fbb"
+    },
+    {
+      "path": "full/m-eurosat/id_26895.npz",
+      "rgb_sha256": "bac79b646eeb04840cc02a15900d0cc7d58f08951b3e9de6e6c33c7ab41d6096",
+      "sorted_rgb_sha256": "5cf4c17245c4204eae62cb84e122a88d1e7419af3f58b062b05c5d5b75fcd990"
+    },
+    {
+      "path": "full/m-eurosat/id_25378.npz",
+      "rgb_sha256": "84681ed75aeba16a0d8a50ef141cd5be5dc1b7a0178e26d5d3f24e8856c08c31",
+      "sorted_rgb_sha256": "c1e4606c3a90be4391376e9b99b8ca2516a0edcb1cd5b8823fd34382c6d591e9"
+    },
+    {
+      "path": "full/m-eurosat/id_20599.npz",
+      "rgb_sha256": "cc9e10db41a2856d4be894b799cf654e26c11f781bdc791dde38a32b6aa841cf",
+      "sorted_rgb_sha256": "1ca2143686021c6d5a6e5bd6e2022660a5069df24de61a3c3a8f020381674aa3"
+    },
+    {
+      "path": "full/m-eurosat/id_6299.npz",
+      "rgb_sha256": "8a5ef5c61f4645e3da426bc7f865c916bef651233045fcca58b3617a26085d09",
+      "sorted_rgb_sha256": "cec2e9196d293bf54360e1003dcaf8f5460815ff46036ed1f4419e7938abc46a"
+    },
+    {
+      "path": "full/m-eurosat/id_7540.npz",
+      "rgb_sha256": "7988357cc5d575e9fc481ef487d573f73a2e46fd833648905eca06231a4e1a2f",
+      "sorted_rgb_sha256": "b6545b0925c0c0f3cb29730b73f6c8c4784a0a0c98eb90fdd49c67fe0ad999fa"
+    },
+    {
+      "path": "full/m-eurosat/id_18364.npz",
+      "rgb_sha256": "6c3d1f25eb7c12e5927706797a853dbe9df9e2522d0c8efac81ef48a38cf4c33",
+      "sorted_rgb_sha256": "197daf39006bb0b3f552475676b179e07e6dffc84c4a1bd5d5cbfd413bb4cfed"
+    },
+    {
+      "path": "full/m-eurosat/id_25967.npz",
+      "rgb_sha256": "bc1b1fa92ecea94cd8beff75b05479b21ed5c721d1d81c3c8711aa8317fc1f72",
+      "sorted_rgb_sha256": "4d6e21278f375a6d474d2de8cc871c97bbcde61b4fbe542c5bc68b871843d29f"
+    },
+    {
+      "path": "full/m-eurosat/id_5380.npz",
+      "rgb_sha256": "79f2839fcc807b450571ba8e7b27528c89ec7e8f09bf7b3061afb27a73ff8a8f",
+      "sorted_rgb_sha256": "6700fbf01b895b0f8b4bfeb982b8066c724e01b14a3dd8fb28d556588254d956"
+    },
+    {
+      "path": "full/m-eurosat/id_10710.npz",
+      "rgb_sha256": "18ae9517689f4f9b39d4ba14c95a0f29b41afa44d562a7d7e7aeef8bbb60c0c9",
+      "sorted_rgb_sha256": "3ba30a5f111411e4e8d1cafbad5b55706060de820f2fffcf333565cbd7c781eb"
+    },
+    {
+      "path": "full/m-eurosat/id_1682.npz",
+      "rgb_sha256": "ac11f0886b702ce60a59e77e5a9c45ff6678f6ac45250ce215d3475a4f5d0a7c",
+      "sorted_rgb_sha256": "dee8b1cf1bfbdd829f1f07acfbf5d2c40a72eca2ea20738951e3dd2d7c5605a1"
+    },
+    {
+      "path": "full/m-eurosat/id_19050.npz",
+      "rgb_sha256": "ccd3fcc6336baf041edb86b63f3dc627a3e3147c1608ded45d23d897f6de8f27",
+      "sorted_rgb_sha256": "7fbce0fa5a4ac0ae90e0b07116f98f3647c253a75f2867b8247fbc2ca24f56b9"
+    },
+    {
+      "path": "full/m-eurosat/id_20821.npz",
+      "rgb_sha256": "cf28805614412b55efa810333b72527c1efbcda1b158e7bf3e84da5b2d3a913a",
+      "sorted_rgb_sha256": "90e0a535aec1502fddd9c7d6f91ee53289feeaea7a2236de4028741d9adcfda1"
+    },
+    {
+      "path": "full/m-eurosat/id_18372.npz",
+      "rgb_sha256": "4fe9677a553a8563194e569846717c9a3a6db8e6f3254748a3d0102f0d13a1fb",
+      "sorted_rgb_sha256": "becf176c65fd8439595b08c0608532ad229b463c4838a368168ba7190d993407"
+    },
+    {
+      "path": "full/m-eurosat/id_17900.npz",
+      "rgb_sha256": "4525691a9b9b867a0151ade438ad7a0cde2fb7dc227db9f98761f5b25674e154",
+      "sorted_rgb_sha256": "66959537e28d8cfedb71fdd838344ad39810082546f074de79e910ccb8349d93"
+    },
+    {
+      "path": "full/m-eurosat/id_25742.npz",
+      "rgb_sha256": "fa7ea0ef33c01a9438feb1ef4b9eceab78777a177ad88a4ce5128fc6a625cf2c",
+      "sorted_rgb_sha256": "5708d68080f4e4b61ec143c233f9ddc2aa2da85f4d564ddb39340449da7aab3f"
+    },
+    {
+      "path": "full/m-eurosat/id_19534.npz",
+      "rgb_sha256": "203671ca9a56abe6c059bc375e5d7644d8621fc1cffbbe9e0af3cceb2bdb836e",
+      "sorted_rgb_sha256": "3bc48993300f83407d0ac76d002d3d2571bf075c956f354f7d5d13af802ccc41"
+    },
+    {
+      "path": "full/m-eurosat/id_16161.npz",
+      "rgb_sha256": "76f806c8eb23bc8577fc65ccc5ecb1bf43333202c2831fb163ec560148661434",
+      "sorted_rgb_sha256": "e06e76df9b09549d672d22af8aa6d0f9fb3b83d0e73cd445ed28f45a486cf06d"
+    },
+    {
+      "path": "full/m-eurosat/id_4513.npz",
+      "rgb_sha256": "07a472568830e7d01a87c7754db4a24415764999d03d15293813bd260679128e",
+      "sorted_rgb_sha256": "62f6a14b3cbd01af76b9b1b2b377c3b1ba421209283846445bfe259732f76e0b"
+    },
+    {
+      "path": "full/m-eurosat/id_25554.npz",
+      "rgb_sha256": "5f6bcf5f35e410d9600527df334f15cf5921829a7fb8b6402dadc3de2f3b764f",
+      "sorted_rgb_sha256": "5ef15afaa171d63febdd0023374bd4ea89d26a5a4b6e39bcf2f86ca4b326ff3f"
+    },
+    {
+      "path": "full/m-eurosat/id_7191.npz",
+      "rgb_sha256": "9d3e4c4d3a1726751d1dcde860a167c883bbd8e0201e1241fcfc335235110e8f",
+      "sorted_rgb_sha256": "e82d06ddd6107a089e3daa0e920ffca7892da611c85640064ebd0a04a0a05416"
+    },
+    {
+      "path": "full/m-eurosat/id_18010.npz",
+      "rgb_sha256": "b509621c7dccc5b48294ecde58d0f913b0ad4255d3883eb4b901da333791bacd",
+      "sorted_rgb_sha256": "eac75ba5992e6179d960644796a6d92e0f38799629a8b6af998e095ee067d9d2"
+    },
+    {
+      "path": "full/m-eurosat/id_25385.npz",
+      "rgb_sha256": "cf3f0810ba4bcc675224fb1aadcb7eca12b11a93ec1180476244fcd478028614",
+      "sorted_rgb_sha256": "f606c78bd2e482ecf7bc89997a4a5f798f4ddb4dc2e973627c502a9e4cb6066c"
+    },
+    {
+      "path": "full/m-eurosat/id_26673.npz",
+      "rgb_sha256": "61d54e0b015a0bf913245432572f1fbae5f5c5dbd58b067fcfa2a7db85bab2d6",
+      "sorted_rgb_sha256": "aa4502c7d87fe055b6198d93c9ee1a94f8c00f7137cf1cb9b6d474bedbe6a157"
+    },
+    {
+      "path": "full/m-eurosat/id_21652.npz",
+      "rgb_sha256": "e7cb452bd9fa345a49964933a3d7af964ce44431dc3cb00154dddbce25b579df",
+      "sorted_rgb_sha256": "6e9e4cd836b7d5c22a5d5a8b548d9e78da0df839443a038dfb9194fcef9c82c4"
+    },
+    {
+      "path": "full/m-eurosat/id_16940.npz",
+      "rgb_sha256": "89481d45c05e0bc2f9b050f2c8b8bab57c104b79646281320c05db2371815cc7",
+      "sorted_rgb_sha256": "f2bd8dd19fce353e6ee1598650a71e59178084f65dfee2fdb590331e383c4a12"
+    },
+    {
+      "path": "full/m-eurosat/id_2764.npz",
+      "rgb_sha256": "29512ed6ca40620171c2a3334157451e17469a2fb0dbc9dfe8b1a901a6e696e9",
+      "sorted_rgb_sha256": "3c8914837f779ffcd8a0a4b2c15b1137b89efe8c6729ac14c10de7982ed55940"
+    },
+    {
+      "path": "full/m-eurosat/id_19130.npz",
+      "rgb_sha256": "ccd612b3dab8817f6a4524096edea05063af9d5fa45f78d60d194836ad53a44b",
+      "sorted_rgb_sha256": "9507dcdb3e64947c46e034d4e81914ab4843a4d4e7ecb9adfedadbeefe876ff3"
+    },
+    {
+      "path": "full/m-eurosat/id_19124.npz",
+      "rgb_sha256": "23243a5597d5f67829bbb1fcc4585ddfbb07f69ed26d8312d0fa3641c5336c18",
+      "sorted_rgb_sha256": "66a31facb43130da85562bc8540ec923ff289f0926eda7a3c5c74ec2d07e39a7"
+    },
+    {
+      "path": "full/m-eurosat/id_13347.npz",
+      "rgb_sha256": "87fb8b617655449bd56876a3f2ccfce9b5693f93b84776a52a7cbc0523a16b41",
+      "sorted_rgb_sha256": "c501a69ea4340852abbec11994d90b7607bce1e5aabeca1436ab76178c68c362"
+    },
+    {
+      "path": "full/m-eurosat/id_24299.npz",
+      "rgb_sha256": "5f485f63a261bf97d2d597dc9adafe6d4045bbcb67b4e76b261120fff939a1b4",
+      "sorted_rgb_sha256": "ea64b734ad54a3d882f63e715bd48b3b5a141affa1699f4fe87e1140ad4a7d6b"
+    },
+    {
+      "path": "full/m-eurosat/id_24514.npz",
+      "rgb_sha256": "792f12d944875974b090ae3a18bb50af36ba802362507a274fafc187991c27d0",
+      "sorted_rgb_sha256": "1a5dd3458d73fd4914f9c8df086235f418dad29ca554ef2b5918797155e89e0e"
+    },
+    {
+      "path": "full/m-eurosat/id_21336.npz",
+      "rgb_sha256": "e92066621d6b555b94b9fd755cc381d4e9e5e47237297cff6e5ffd5b4f29775d",
+      "sorted_rgb_sha256": "dc35456a8e07e87cbc1f7974b3c3a4cbe217e3d4109b3ac14bdeba88ee167b1a"
+    },
+    {
+      "path": "full/m-eurosat/id_5209.npz",
+      "rgb_sha256": "9893ecfcfd0b108080e040e34e31d1d5cedd63e1bae633f37990d7a72878eab1",
+      "sorted_rgb_sha256": "35ac1f1cc3687a57ed36d729ece1eac005dab4955bb39a4f3cb12d69029d0c8d"
+    },
+    {
+      "path": "full/m-eurosat/id_0417.npz",
+      "rgb_sha256": "c8eef308a5d43331f71545172f963bf5116b16d9828a1604e68565e91e04f633",
+      "sorted_rgb_sha256": "eb76e920e966bd0b2a038211fc856db0d70865a84aa39e14a5ecb1a7ac94c2be"
+    },
+    {
+      "path": "full/m-eurosat/id_19865.npz",
+      "rgb_sha256": "8a9a15dd4a333138fac9afd6435ede45647a9cdd5347631366fb472444123249",
+      "sorted_rgb_sha256": "ca674dfecc01d7ee77bf6d5742b42dffb117a9c64ac44e908f91f3b9d96e4ea7"
+    },
+    {
+      "path": "full/m-eurosat/id_20997.npz",
+      "rgb_sha256": "3d202963c759ef577202a14e4e30edf485170b17c0fb9df34419e661586edf65",
+      "sorted_rgb_sha256": "1480fa9ccf3e05e33682dc3e480765331400b36e6b5781bec2cb0f07abd28be6"
+    },
+    {
+      "path": "full/m-eurosat/id_1913.npz",
+      "rgb_sha256": "0489a8b140ab83c6e6165403cd4a197bcda75e3523af3637f844eb4493181e59",
+      "sorted_rgb_sha256": "daa1bc82e2b9f99deae2e67b45d5dd9ae756d4fb3dd3b04a4efc90f57e50ce03"
+    },
+    {
+      "path": "full/m-eurosat/id_17487.npz",
+      "rgb_sha256": "7e24600b916855ff6161bdbd482964a28eaaf534a17bc8fb9e6af1a194d2a444",
+      "sorted_rgb_sha256": "b475cc5e14ccd948ac3706130637cd16bae2ef6844d8ba3f5e9ad4b764b79e93"
+    },
+    {
+      "path": "full/m-eurosat/id_8512.npz",
+      "rgb_sha256": "8d1a1973b08d96a7c9b4cb7830a4329f89bdf6bf6f88d501f7b760358e04b462",
+      "sorted_rgb_sha256": "953ead4d22c8b373ad576e486cfcb0e77833e2101704afc3fc4083fc062afa6c"
+    },
+    {
+      "path": "full/m-eurosat/id_18011.npz",
+      "rgb_sha256": "1d430baca8d10ad89441e84367395f92782e00bdc48fa3dfb37b5c9baa7341ff",
+      "sorted_rgb_sha256": "49ac9d8cdc1d21da0d708c8ac092b8595356ceaf427a111d6a6e43c6c6f429ba"
+    },
+    {
+      "path": "full/m-eurosat/id_16982.npz",
+      "rgb_sha256": "059d28762608eefcda27802044c0107975295fbb054ffa47b9f23aa7db2b80ed",
+      "sorted_rgb_sha256": "f3212982dc1643b1d2a924e659cdaba0d7393c3d313b6d20c1e3ded8f4ca2558"
+    },
+    {
+      "path": "full/m-eurosat/id_25390.npz",
+      "rgb_sha256": "528eedf8c1cd1d2abb80665b8f6672a21d1e7870a3cb6c600678cbda514c3ff5",
+      "sorted_rgb_sha256": "bf8312d80850f52cbaf47c8d9aae218e500cf0eda37dfd23c5a39c669d29738b"
+    },
+    {
+      "path": "full/m-eurosat/id_19441.npz",
+      "rgb_sha256": "eb56f64097e83078c0cc76ce8e6cfcf9592726927158adaa50a04b045ccf0a61",
+      "sorted_rgb_sha256": "49eacf9582a497fa16d0bf5f06d06f6eaf347a270bbba37ddd9e29feb601cfa2"
+    },
+    {
+      "path": "full/m-eurosat/id_19327.npz",
+      "rgb_sha256": "f456f4f4b558f7dbc17761af25afa7b8c65bdd84104519518ddc79136fa6592f",
+      "sorted_rgb_sha256": "6ca597423df07784f4950f527472f96e555dd0769ff7b7bca6c6a73a33e461c9"
+    },
+    {
+      "path": "full/m-eurosat/id_25596.npz",
+      "rgb_sha256": "0af49d6534636ca25908eb096206f445431b0d010d45362ceccfe06db3a74684",
+      "sorted_rgb_sha256": "e3b0ddccc287bd74c137087470f5e07577d36b81ec69b4d39d19c0912ec13e0e"
+    },
+    {
+      "path": "full/m-eurosat/id_25582.npz",
+      "rgb_sha256": "4b6fa90bbaa57af49e6f407927a2080f7c5b7e751773c476129dad7ec30ffc4d",
+      "sorted_rgb_sha256": "b4392ef72780f8e18ccafbb7c62930fca843964138876fe6a62052940b34506d"
+    },
+    {
+      "path": "full/m-eurosat/id_23695.npz",
+      "rgb_sha256": "4a2fb99fd83fdb886b43726c0b5a466ce0bfb7310f8509e13cae2355fc429a4f",
+      "sorted_rgb_sha256": "86e114fa3fa9f5d542e393fb6ba856a30809f6f9d59c83dcc70c5843503ef724"
+    },
+    {
+      "path": "full/m-eurosat/id_25031.npz",
+      "rgb_sha256": "21b9b01611139f7945d554be87bfc3040c820d9c6a584b69819cb28da076da62",
+      "sorted_rgb_sha256": "6c941af3b990480540b0781c2e4d22dfbb69d29efc9ca6bcfad749808daf7f4c"
+    },
+    {
+      "path": "full/m-eurosat/id_21525.npz",
+      "rgb_sha256": "322f8a6c92484771f6c122db64a2559dd0f1906da7f820f68d1627e58f765154",
+      "sorted_rgb_sha256": "f949860603c59470c44def2ebecf83b5059444bfee958b41263c2b3202792144"
+    },
+    {
+      "path": "full/m-eurosat/id_1654.npz",
+      "rgb_sha256": "890b16e62893fbfb7237345b0b8fa1271fff8669febc39dcb151b3e5c935dc23",
+      "sorted_rgb_sha256": "446efad9c49379e54fd1d2144b80361417dd2106f57d86066740aca708fe8c0c"
+    },
+    {
+      "path": "full/m-eurosat/id_1898.npz",
+      "rgb_sha256": "b2623cbbb2281b2023edf6b15d710994590d50996e5c105155415e1d8bebbb41",
+      "sorted_rgb_sha256": "6412f465fd44de90f89e3c5802ecd08e0b2e9bb4ad25a5393f0043b0f8cb3164"
+    },
+    {
+      "path": "full/m-eurosat/id_16362.npz",
+      "rgb_sha256": "561c89295abfaa831448230a6167c24017f73d1260174625ba0a623c64b6802f",
+      "sorted_rgb_sha256": "b35ff3845cb5ab207d42151fa1a207d4520bdb8c4fc84c45a5d7e3a56070ec01"
+    },
+    {
+      "path": "full/m-eurosat/id_19737.npz",
+      "rgb_sha256": "223c3a9e08b838ff8af1c258e1c96a75f0c3e5ae5b80fb0f4a1d95656b0d563a",
+      "sorted_rgb_sha256": "09fd3ef445496caea2360350882ce7c8677b2a031cc29a24a204e543e2499da7"
+    },
+    {
+      "path": "full/m-eurosat/id_12110.npz",
+      "rgb_sha256": "651d4a174a264e051e0ddc5302adfe40c7d02bd15cfa656d4ef33bc5008845eb",
+      "sorted_rgb_sha256": "ec09b43462e342aa60bec71ef80856247b54c80ff23eaccad90dc11c5d94a03e"
+    },
+    {
+      "path": "full/m-eurosat/id_4090.npz",
+      "rgb_sha256": "87fb969b1a339bf4dd2779ca1e2fe0512b5375ed75fca95e19649e9f04c538bf",
+      "sorted_rgb_sha256": "cfd440f34060abbe77ac82bcde75a03095f515eb9fe0b211416dcbd7b2c08a95"
+    },
+    {
+      "path": "full/m-eurosat/id_21299.npz",
+      "rgb_sha256": "c34c1431c1b428cd38e3aaca0b6d150a3fede30ea94f1d9f758000f493f4b6f6",
+      "sorted_rgb_sha256": "fe414d3ffe22e32365bde8a886b30a8814b57a50474c3dbe16d6ae1e01e95b04"
+    },
+    {
+      "path": "full/m-eurosat/id_22009.npz",
+      "rgb_sha256": "021ae1693918697a5f16067acd5219ba1ea97edd13f2b53eaaf859ba1e832fb6",
+      "sorted_rgb_sha256": "0d152ab2e6d362746e89190722b6887d08263fdc3e04f38baa54602f465d215c"
+    },
+    {
+      "path": "full/m-eurosat/id_25000.npz",
+      "rgb_sha256": "edb90c6cde7d28891caba7cd318f0a5d9ffda52610084c0c4d27d48b291739f7",
+      "sorted_rgb_sha256": "e5c81346d83726861a48a3337564c9e7f9554b1e8ce444da994bb5baaf24e390"
+    },
+    {
+      "path": "full/m-eurosat/id_5417.npz",
+      "rgb_sha256": "3d96cf2068bc3fe93ff5b4e14ade8d789ad9a61f9eb135e13060614be3343a39",
+      "sorted_rgb_sha256": "261dfd9a01c30a2288c518abc21e3ef8734875866db094ff14116dab78a5f0a5"
+    },
+    {
+      "path": "full/m-eurosat/id_4286.npz",
+      "rgb_sha256": "8a67b5c8cf8139d7dfb981ad67a91783f0ac86a86a2ee550e447efd1af300a9e",
+      "sorted_rgb_sha256": "ffc4e2364516f3cfd76bf4e7d158b80a1c1e29a4cc952a647189f8f9d446aec3"
+    },
+    {
+      "path": "full/m-eurosat/id_15464.npz",
+      "rgb_sha256": "d4e9dce4f61f924ec67d8c1e26bcec629394d07e35c39df3f27e586cd164c163",
+      "sorted_rgb_sha256": "f7cb79e696fa3347828177bdee94a946e40b26c2cf5d70bcc136778bd18fdf54"
+    },
+    {
+      "path": "full/m-eurosat/id_24875.npz",
+      "rgb_sha256": "6e9f312aeb02a851cb8f10c37ad853ac5eff324a8758ff57a993ae462f295066",
+      "sorted_rgb_sha256": "3cd4e2391380934e0debe5a3e1376ce6d97a66a38cdc4ef16f0be21c0288f80a"
+    },
+    {
+      "path": "full/m-eurosat/id_19262.npz",
+      "rgb_sha256": "bfe0b89ecc210e20cbe250fa9edaeb6547b0f264844e3225f85a183ab32ffc5f",
+      "sorted_rgb_sha256": "3d6194e9d7c17ece60faa653eaa296eb83465be85171a8848f92c942ddb9e04b"
+    },
+    {
+      "path": "full/m-eurosat/id_15458.npz",
+      "rgb_sha256": "14be06e177ae8f8c5655d28bb3a1535247163945ed06f7e5e7083314012243c0",
+      "sorted_rgb_sha256": "03f2ab95f7593a0dc9b7dd48143afa122ed1b3503c83a6bb73db1b81cf432f55"
+    },
+    {
+      "path": "full/m-eurosat/id_20391.npz",
+      "rgb_sha256": "e86b13a614d434cbb8f0184a9599c45e0cd5ebda0a34603bd5a2ba9f8c3e3b13",
+      "sorted_rgb_sha256": "a895d44ad5faa0adfd8de36966bbd62fcfe8fb9af446b63d8fba4f732369a30a"
+    },
+    {
+      "path": "full/m-eurosat/id_21064.npz",
+      "rgb_sha256": "03a22e2bcf0a702a8d9b8fa1252d580fac3d94c3ca74c6a6488c38aaab241500",
+      "sorted_rgb_sha256": "8903fbc8b72a86c80df0afe1b52cbf930cc99c4ccb9950bbd305207ba93ef78d"
+    },
+    {
+      "path": "full/m-eurosat/id_20434.npz",
+      "rgb_sha256": "8273672b88fdb0a7a8464a73ee1bf5eee129eb08cbb6e86da1ffdb9d299d9413",
+      "sorted_rgb_sha256": "453310c275a8a5db9883e6743f15d628bfdf26b824655632ea50f1612ff1e3fe"
+    },
+    {
+      "path": "full/m-eurosat/id_22223.npz",
+      "rgb_sha256": "9ea371763c9fc570e1f2dd21a0853b59be088ce458ff93a545dc9b9fcc165ba8",
+      "sorted_rgb_sha256": "8d7472699f1a2a0495072112028e778f001b7d004378822b545d9765b10c1651"
+    },
+    {
+      "path": "full/m-eurosat/id_20352.npz",
+      "rgb_sha256": "7ebcfa1a959d82e5e99c68c30337a78b330c02329223b665e7f7afd0eecd14b2",
+      "sorted_rgb_sha256": "bce3d3b7b063ab6585df400e178d361aa591d4185a9e5e37e722614b196aad6f"
+    },
+    {
+      "path": "full/m-eurosat/id_14154.npz",
+      "rgb_sha256": "664ab24678008578b8c153de2b6b6019088df227ecde7c38c6de36e1710f76da",
+      "sorted_rgb_sha256": "b262b10ccc262a64ac9aad093fc8887418ed8998a2802d65617a22f8f8f3babf"
+    },
+    {
+      "path": "full/m-eurosat/id_20597.npz",
+      "rgb_sha256": "5f55aad109dba71c46737a2fad8dde0bdfcf119a5943814847ac25bdb104f0f2",
+      "sorted_rgb_sha256": "1d7c9b920da88d6f002a9063ee3385764ef9e8514d353d54de655286a1f590df"
+    },
+    {
+      "path": "full/m-eurosat/id_24083.npz",
+      "rgb_sha256": "1aa3b06049b747f4514ff1119c499c4d1ad29471bb3c184e6419c197e1f426bf",
+      "sorted_rgb_sha256": "fc6d22b87d629f6e5d9b70ed998c4987fb83f3f1f411bc9b0f523171b8b1ebcf"
+    },
+    {
+      "path": "full/m-eurosat/id_23707.npz",
+      "rgb_sha256": "9146a3366be0f89a3ccebce571416fed768963b0473ecd4ff708c70c82fcca1b",
+      "sorted_rgb_sha256": "4a4578059e04f03b11a744ae094e3ca6a2b8a38e49493d16b4ce0275ff6fd7f1"
+    },
+    {
+      "path": "full/m-eurosat/id_22425.npz",
+      "rgb_sha256": "bdf052cb4828f08821f2c45e993cc3decbdc59a258b05c20023ee0692d78d240",
+      "sorted_rgb_sha256": "6a082ffe2c2eee73c70b8ae24bb09b18d0e1e806a4e7f38dd4f7686da6dfe4e7"
+    },
+    {
+      "path": "full/m-eurosat/id_7162.npz",
+      "rgb_sha256": "1a21482fcef2dd3b2e82df3fed8765594decf5c04ef23733ee70c14387e57dff",
+      "sorted_rgb_sha256": "d102cf4a5cf05c69e0b9a91dfbbd3761bc896da8e0525845cd56c839d3640620"
+    },
+    {
+      "path": "full/m-eurosat/id_26125.npz",
+      "rgb_sha256": "ec9593b224d18ee854fcbc6ebe212a3e0bb73b1658ec07c919adf1b2d1677f08",
+      "sorted_rgb_sha256": "7f736e4693c688190c3f72f36d3f85c7b7e18d666d2c2998e7645ee340cf0df9"
+    },
+    {
+      "path": "full/m-eurosat/id_8912.npz",
+      "rgb_sha256": "bb7bdde89d59f748e685739cea0a060ede6e5322996d70de348aa11cc2359f66",
+      "sorted_rgb_sha256": "3d7a04b305a67578a182a42129c5f983a74f5a8fc36ab4c95b5f1590a2febb26"
+    },
+    {
+      "path": "full/m-eurosat/id_22800.npz",
+      "rgb_sha256": "cd61726f418d4980f95cf05ded0edefef0feae53505c8bf3e51c83902f16fef5",
+      "sorted_rgb_sha256": "51a6b7f7e0849845a1871b968f37a874a018a17a6c23ab250631af11330e45af"
+    },
+    {
+      "path": "full/m-eurosat/id_20781.npz",
+      "rgb_sha256": "a023e3ff790146e00ff88c851d22e3b0abb52de40340d63cac7e623ba7f7da10",
+      "sorted_rgb_sha256": "6bb99f455afd3010a26d587a7823f42caf14f9c0b764d38e1fabc7e20d6233f7"
+    },
+    {
+      "path": "full/m-eurosat/id_14424.npz",
+      "rgb_sha256": "f6768a974c89895a2758ab8d7d04511901e870f59eb771e41ffae716e36a190c",
+      "sorted_rgb_sha256": "e783c38a21d32594310abdac6f011329e785ba12ca3b9da93ff1384d68ec462f"
+    },
+    {
+      "path": "full/m-eurosat/id_24256.npz",
+      "rgb_sha256": "a6b8068dc0f4ff1577b3db47ce7760cd8237a10a6319bde8fcb9c6a4c502c405",
+      "sorted_rgb_sha256": "3ed665ba48248ec04027ed381b6eaa1e8f06e435fd0b5d61ee312769683c81a8"
+    },
+    {
+      "path": "full/m-eurosat/id_22155.npz",
+      "rgb_sha256": "2112223a1cee6525bd18d3b0ba16ae9108af7e6de3533d970cc64e5a9769b77a",
+      "sorted_rgb_sha256": "b42140cf7d609481ee5ac4061631fb0e8ff2f36e9c1f75a8c483ef794947e269"
+    },
+    {
+      "path": "full/m-eurosat/id_10859.npz",
+      "rgb_sha256": "54bd1fcd6da2044028c181beb58ae9c1099a06d7f36d0f8e98b62570c27bdf90",
+      "sorted_rgb_sha256": "0dda42c66e639da0c50679e4b66a2d87fc0115aae5d1ceb88e1dc39eec0c40cc"
+    },
+    {
+      "path": "full/m-eurosat/id_26497.npz",
+      "rgb_sha256": "13433e1064fafc5b55719b15879e5263fcd89d0fa14d98a16b79f170fe74934d",
+      "sorted_rgb_sha256": "848118daa4b49fc1e41d0ced5a44af7608acbbd9e41d0b23803bcfd7282232c4"
+    },
+    {
+      "path": "full/m-eurosat/id_14343.npz",
+      "rgb_sha256": "59bf1067e1d186de4591ce541aed9209437a67ee5d5aa262746685f2d936b9c7",
+      "sorted_rgb_sha256": "2d2fa44f4ced51b6c0d6a731fd9c7429210591d0a8a77152c478947001aab444"
+    },
+    {
+      "path": "full/m-eurosat/id_19101.npz",
+      "rgb_sha256": "bc7f144aed8620f7d71ef03780259a89d33d0bf088d403c8ef713311bc295bc0",
+      "sorted_rgb_sha256": "2f762953b28aab46c78adc5e2799c8b2ff7cd9d357b8191ab4e78d99378b598d"
+    },
+    {
+      "path": "full/m-eurosat/id_13362.npz",
+      "rgb_sha256": "521c5aa33edd600cf9ce289c6fd039c6aca01140d923beb338780447476fd6f0",
+      "sorted_rgb_sha256": "73f514ccee13c6540dcd5384787276b0bad2c9dbb535a1990b3f1ad9952cacfc"
+    },
+    {
+      "path": "full/m-eurosat/id_16795.npz",
+      "rgb_sha256": "160d1baee4d361331b03c6ef29c1796ad1122455eb3f96ac99ed1a42a4784c4c",
+      "sorted_rgb_sha256": "1c946eead8372a165b6b29d0c788c94b519bbc38d68f779152a20a9845a5f13c"
+    },
+    {
+      "path": "full/m-eurosat/id_4318.npz",
+      "rgb_sha256": "e3cd64c7f2b1b8545ac491ccc3fe7bafff1c7cf5cdf67111434b1f186a6fed0d",
+      "sorted_rgb_sha256": "6d9fb744467ec39f872e19adfd63f22f408c2f283f0e55166f38f5dbe617c60e"
+    },
+    {
+      "path": "full/m-eurosat/id_18974.npz",
+      "rgb_sha256": "b57f299d69f5c8af266d4997b4b3ff4803e9b047da0fdce679df95380fc058d7",
+      "sorted_rgb_sha256": "63831be9378bf8f825b88283946450c59287d8410b954a5f5bf65ed6a9e72777"
+    },
+    {
+      "path": "full/m-eurosat/id_4442.npz",
+      "rgb_sha256": "198ff18b161dd3c6334305ff4c125c39efcdafe2d9a9c08b18aad65a55ad1548",
+      "sorted_rgb_sha256": "b7dd3be61368b136af30ce715125c8b798fdcd737d19179e07728f0db8d028d2"
+    },
+    {
+      "path": "full/m-eurosat/id_9166.npz",
+      "rgb_sha256": "323d0abad0235717276c0dc8c97cca7e0dcca8465cfb63a3b4312de61b62fcae",
+      "sorted_rgb_sha256": "1ef4ff76fbb3865b7765f755751230359424b7721e22fa2dcfe03d28a3eabc3d"
+    },
+    {
+      "path": "full/m-eurosat/id_24069.npz",
+      "rgb_sha256": "8758dc2642f2c9cf802110cf5cf88a4ccea3f82cd4340cff955f56ed125d3e71",
+      "sorted_rgb_sha256": "24276b8ff09fe8f8b060064df58eb1dae036cce6666e8062f0ba8a8ca7b74f8a"
+    },
+    {
+      "path": "full/m-eurosat/id_20582.npz",
+      "rgb_sha256": "2f39721f1f4fe3d10a9fca34dba5d50244a8e7b0b5b2e7f4eb019fa4844c2073",
+      "sorted_rgb_sha256": "8e6c54c419f4a3e16578e5523b355b91ccdf37ec2647a122d4f520997ccfab5c"
+    },
+    {
+      "path": "full/m-eurosat/id_17528.npz",
+      "rgb_sha256": "8f548bda1615c29cbb58ec483f1a75f90f9db69e2ba8bd5e29aa6eb6e0c56652",
+      "sorted_rgb_sha256": "272ecc7810a8e082f1c8697ca2cbcf0fa9e39d66ad4d61e762c5f1cf520db6cc"
+    },
+    {
+      "path": "full/m-eurosat/id_18633.npz",
+      "rgb_sha256": "4836aa597be80e0a53385bd495e4447359f285c27303a250be3d9f380f8ee5ad",
+      "sorted_rgb_sha256": "4ccdd71bd9d9d03d843651f796e0b47700f44aef71a592d58c21b5f4f11fcc64"
+    },
+    {
+      "path": "full/m-eurosat/id_25983.npz",
+      "rgb_sha256": "61c2aeea923c9db996d3d857b4c51bd7392e09980ab3e1864bc4264043311ef9",
+      "sorted_rgb_sha256": "0e362a463682a6a84cbaba2ec42c1012ec9c16489d8194caddd20e4cc974a0fa"
+    },
+    {
+      "path": "full/m-eurosat/id_10910.npz",
+      "rgb_sha256": "1026d3567a4288879b9cd7f6548619db79da06f838669576f2e89251759fbe36",
+      "sorted_rgb_sha256": "c7cb75b8616e9f24c04e369217bb06711ab85b435c4418c7cbfb33cb103e2de7"
+    },
+    {
+      "path": "full/m-eurosat/id_21501.npz",
+      "rgb_sha256": "0cc17cdbcc68a80ed12ce87b55a8651b16f0da6f55223484b0e23db15d030ce3",
+      "sorted_rgb_sha256": "b53dc583884cccb98398a9a74003f4ec9ad62513a749ae4fae728dee91c02f5c"
+    },
+    {
+      "path": "full/m-eurosat/id_26508.npz",
+      "rgb_sha256": "ecfea5108cf57a76093a535c2b1f10c01e4df1866cbd6834fd101dcc30e2135f",
+      "sorted_rgb_sha256": "f8c7e5b27161abbac54ec836b15fa2867f3af480e60d9c4dee38a332540232d3"
+    },
+    {
+      "path": "full/m-eurosat/id_21267.npz",
+      "rgb_sha256": "612a0c652c2b629482bceefc7a736c6447ca61e5c709d79c9fc678993a4b45d8",
+      "sorted_rgb_sha256": "1e0acce3e2c17a3ebb30c9e0e70384c43602292c1a76c06f4bcf53add3ac2fe2"
+    },
+    {
+      "path": "full/m-eurosat/id_17064.npz",
+      "rgb_sha256": "a14904816737aa1735203907b8f26ff458bb3f5173ef946af02ee71ed162b163",
+      "sorted_rgb_sha256": "3516382b0f352602e23770ad83171a3cee0a3b1128227ae68824feea7d98eaa2"
+    },
+    {
+      "path": "full/m-eurosat/id_19739.npz",
+      "rgb_sha256": "1d3c41eee29a49d9c34216f7e85855a097481cde72c7fc909b70e42d7850dfd7",
+      "sorted_rgb_sha256": "094c52daeadc3186f267d41a23c757677c8801a7bc1b4ea3b41a745854453398"
+    },
+    {
+      "path": "full/m-eurosat/id_18341.npz",
+      "rgb_sha256": "ff13d15325b03cc37a02d5030156b5996d5bea53d5e21481f00bbcdc10f95351",
+      "sorted_rgb_sha256": "d270af78e424df9a0a7fb5f550c3142e84fffe94201a726833c18472a3c0088e"
+    },
+    {
+      "path": "full/m-eurosat/id_1841.npz",
+      "rgb_sha256": "1abe1a5ae0391a18b4387de5c9db43e50e887b13b98e981a90299a4110010195",
+      "sorted_rgb_sha256": "0f3f4a44c294a5ec3d379a1cc99c6d1a810299a7ce2b9e5c55722003a87196af"
+    },
+    {
+      "path": "full/m-eurosat/id_16344.npz",
+      "rgb_sha256": "df19ce190caa238a162a8a8fb5ee6accb29c9640d59afe518117ee61bcaf5026",
+      "sorted_rgb_sha256": "0302db070e82a20acca2db1e1beabbf81dfe89e8bc04f31fdc27ca60c4e16d93"
+    },
+    {
+      "path": "full/m-eurosat/id_10912.npz",
+      "rgb_sha256": "410afd084a787bf1a575733b07893c055f449d1e852025d5f50e63710d156497",
+      "sorted_rgb_sha256": "e5e4e6ae1a8c3f6526f832bca20c92e8a0e0d2c2b8f9bc19fd99f8999b51cd0a"
+    },
+    {
+      "path": "full/m-eurosat/id_19936.npz",
+      "rgb_sha256": "d502fced09456403402b33ac43bda091521c6035957bb1ceccb5b2a7ac4bf5b7",
+      "sorted_rgb_sha256": "19c4c2e47242561f335dc3c433c6d6cae34c37cbf6fad577de3d7cb53067627e"
+    },
+    {
+      "path": "full/m-eurosat/id_24335.npz",
+      "rgb_sha256": "f83966160fa348849a1ecfc7e1b34d69ecfae6ab7109c895ab5d41a31b471f67",
+      "sorted_rgb_sha256": "222b4275c41740b3e1c111b1b3f66036ad7c14b3ccfddc55834f2c3cb92668bc"
+    },
+    {
+      "path": "full/m-eurosat/id_16393.npz",
+      "rgb_sha256": "6806579487c921d0cba834c4124874ebeab3471610b1aa2990d02ec111057735",
+      "sorted_rgb_sha256": "165bf029d8ef4cb11a1ca29c6098dbaf891f4cbe90a5886d64a4d62f03d2e84e"
+    },
+    {
+      "path": "full/m-eurosat/id_18143.npz",
+      "rgb_sha256": "c84fd138baea0a0b41d9f37ce411847fa1edf2d285237779866c3ebf271dd09a",
+      "sorted_rgb_sha256": "4758f56c9b5a93e5063ae59dfed91bd8a6cd2d5fcb9bd0c083ff9df212689904"
+    },
+    {
+      "path": "full/m-eurosat/id_14037.npz",
+      "rgb_sha256": "25602661ac44c95c8e12abaf1f5444493c1e8db4badf67f32afb47fa2563d54c",
+      "sorted_rgb_sha256": "30247d9e92fd006f6abb9cb47bd4740a2b754309cf60ca2280aedb9d49ead642"
+    },
+    {
+      "path": "full/m-eurosat/id_19507.npz",
+      "rgb_sha256": "42efaa88988ac15a47e7496e9d16bdb4b7064f3082c9caae024bce55e44c5bd3",
+      "sorted_rgb_sha256": "96508493d37145971ba092f3de34b5f7a78329464f526530701907ed5c18dc03"
+    },
+    {
+      "path": "full/m-eurosat/id_23102.npz",
+      "rgb_sha256": "3af1c46bf705aa992f0f1ca1f866548ca97d89ed207cec140bdb759bc9bc88e3",
+      "sorted_rgb_sha256": "38218d2199fa3e10188f393d6075e6f9bae5bb8d1e4450814e38cc14e025604a"
+    },
+    {
+      "path": "full/m-eurosat/id_12485.npz",
+      "rgb_sha256": "9ee2b517a35229509fb7f4685c5addfd8c06260a1ba7affe2ef53ec012bd5ed9",
+      "sorted_rgb_sha256": "36dbb380dea942ba87cf4232200ab2b4109949c7ddf033aa959337d5136fdfb5"
+    },
+    {
+      "path": "full/m-eurosat/id_20351.npz",
+      "rgb_sha256": "9db9e1c3055eee998af5294f8d3176a648e17795d09f795a3a59b86eee2c5275",
+      "sorted_rgb_sha256": "01c4ddb02b4b0e9cb20eb7e9bc01c0aa53bfd186e08959a96b88f88fe5e81d1b"
+    },
+    {
+      "path": "full/m-eurosat/id_24645.npz",
+      "rgb_sha256": "e903bbf946a201567379515d7bbe9ca617715637282d939d807f8f046295a965",
+      "sorted_rgb_sha256": "8594a8e47ff3c331da7fc49c0b7829b81b68fa7e2ea03aa5b7d726c3e712c250"
+    },
+    {
+      "path": "full/m-eurosat/id_8440.npz",
+      "rgb_sha256": "cf2f06fe7cb2ba1dfe7f530c8dbb53da8d4869c0c6fc6aa1e757b150ba94a401",
+      "sorted_rgb_sha256": "a908702fd6e9c8409eda3364c57f10c323d5727afd42034bed46f99c4f8aef90"
+    },
+    {
+      "path": "full/m-eurosat/id_4497.npz",
+      "rgb_sha256": "f1f9663d4e5dfcfbb6a2cb88c338ff995a2bc03cff13d2af2d9e9d9f0ed0bfc9",
+      "sorted_rgb_sha256": "6facd0399de32231067380d336cbf9525159c76adf172e1abfe76416e2a8e001"
+    },
+    {
+      "path": "full/m-eurosat/id_21846.npz",
+      "rgb_sha256": "3ca96fa7ea21d4fd0e064b13a9ce1deba641fde360e3843123bbe2a9b492cadb",
+      "sorted_rgb_sha256": "04453efe7751a20e74d15c4d9dac98dbd8f243c9dec9e3df7b9e89992f951047"
+    },
+    {
+      "path": "full/m-eurosat/id_24094.npz",
+      "rgb_sha256": "7afc1e812190480b94e3aad76b92ab318ab74ddbeb40bc6f1064c79e99fb1eef",
+      "sorted_rgb_sha256": "c6d7487fc7ad8159c0e2b0b575a81960bb60be0c9f510e1ec1b04ac8f9a6dfe9"
+    },
+    {
+      "path": "full/m-eurosat/id_21113.npz",
+      "rgb_sha256": "81fea53b82fd0cc9a88dc80b2788aa11dec8cd7266a3658cc45b40b228828f45",
+      "sorted_rgb_sha256": "7987a971c0b01767b4da12a3995708bc18884195e9e31e6122a35e21de240fa6"
+    },
+    {
+      "path": "full/m-eurosat/id_22432.npz",
+      "rgb_sha256": "4413b2a6cf3fb37061e570653a2bdfbfc4fc7f280511d555f61ff3deb8b79cda",
+      "sorted_rgb_sha256": "a10471321f79d4a4f8861f2d93cc05808baaca99cde6ceb7caa951bfb36af168"
+    },
+    {
+      "path": "full/m-eurosat/id_20231.npz",
+      "rgb_sha256": "c74c6ee32f830879893ba7d564cce12ca49e59e2eb92ca21c7a1a81eb216c947",
+      "sorted_rgb_sha256": "92030641cbbabd4ef0765b2ed01413a78dae6e0ef5b202356898ed7e5a274be8"
+    },
+    {
+      "path": "full/m-eurosat/id_18976.npz",
+      "rgb_sha256": "556417a2dec6bc4522f734a96f964cf8f7caed6e022dae928bd57bc7f7174470",
+      "sorted_rgb_sha256": "524f147b5f1a5809c5fed24d8d3154d89c918f2a25d0d2dce3c17e29897a4f13"
+    },
+    {
+      "path": "full/m-eurosat/id_1276.npz",
+      "rgb_sha256": "7f0c84106777cfd774afebdfda3e9b0f3e1bad6a3151cfca66e92a80c2d5b07c",
+      "sorted_rgb_sha256": "6c32fc3c0849e6ccb6e304c4eeeec3ddb8c6febb5cc2c7172fd07b33af30c0d3"
+    },
+    {
+      "path": "full/m-eurosat/id_18221.npz",
+      "rgb_sha256": "51978e5a064d287c8992f10ddaf795ba4faa3c98387f16775b912d1763086fff",
+      "sorted_rgb_sha256": "46f6fe54640cc31cb583523e117ab082467f71a0808784dc17824cb5fd0daaad"
+    },
+    {
+      "path": "full/m-eurosat/id_15936.npz",
+      "rgb_sha256": "aa821b3be601470e3553e3ea2c1914ecc532ee7f551bcd4ba09709d47130fc69",
+      "sorted_rgb_sha256": "26319dc6a6d9b1f46b0c84ae97f5d311c21916d9938961726b9fef642c7264ca"
+    },
+    {
+      "path": "full/m-eurosat/id_22143.npz",
+      "rgb_sha256": "eb3e76e081299a8abd5b2647e1e6cc8eb954086fb9cd00d7afb5111133f43376",
+      "sorted_rgb_sha256": "7ae35cf236a6a44da1f243fc80aa1e2c82d3fffa628f1251c5dbed34eb374eb7"
+    },
+    {
+      "path": "full/m-eurosat/id_23507.npz",
+      "rgb_sha256": "6b66633ca370315526b3c3da49cbc1bc823f4c868e803400bfc8bd0138db906f",
+      "sorted_rgb_sha256": "d5240d9a2255981ce9fbfe42645e85ba14b2c5daf289b3e9dfda0e1b6333d00a"
+    },
+    {
+      "path": "full/m-eurosat/id_18591.npz",
+      "rgb_sha256": "4e10d1199169e7ac623bd2bee6f7400402d63bbe03945acecf0bd983f5a32a2a",
+      "sorted_rgb_sha256": "29c32acbfa7f0a73fde3779f96aa077541f377166284319cdce40e8b4258c692"
+    },
+    {
+      "path": "full/m-eurosat/id_9367.npz",
+      "rgb_sha256": "081fae4a2d45052e14e3f26393b90234a93cefe0d0ca22c2969878624c66cf5a",
+      "sorted_rgb_sha256": "b31bd0fc219e097ccf48c19e6eef7f101495ae0748531c4c2e81c6db4428ad53"
+    },
+    {
+      "path": "full/m-eurosat/id_25604.npz",
+      "rgb_sha256": "70f42d1d7606ea49559fcacb8568ddb28fe7ea11ff999bb6cbafacf3d8262be1",
+      "sorted_rgb_sha256": "5775ab43ad69c8b63d71f3d7cd36c2e593a53d24a50a27bc9208ad141bbd35b6"
+    },
+    {
+      "path": "full/m-eurosat/id_25162.npz",
+      "rgb_sha256": "9320894ddab0b11f2b694d1a8095e2e826264f4631a6aee65a0c92f1bddf0a0c",
+      "sorted_rgb_sha256": "6799ee6edb0fcae12a932edfa08a2db5bb3df9bc6561440e461d2014ba9000dd"
+    },
+    {
+      "path": "full/m-eurosat/id_25189.npz",
+      "rgb_sha256": "c10d0857b500191171091887cb64af922c085ee08c756549fc6d2f95db9b6e6c",
+      "sorted_rgb_sha256": "f38bba3bff66b0a8787b5d26d841389409609488464b929a42711ee25ef6077d"
+    },
+    {
+      "path": "full/m-eurosat/id_3879.npz",
+      "rgb_sha256": "b781f1f0b20ea9633b44a82955e00ecf3983c2874de4d0e4f0686a3404b15233",
+      "sorted_rgb_sha256": "838c42d5bfa6eb15ffd4b3fdeb107f6b258539c1f1e55fee1cd3084dbe8f1696"
+    },
+    {
+      "path": "full/m-eurosat/id_22816.npz",
+      "rgb_sha256": "7f64173f866942b4fc1ec5808e418880d7f8703613633edfcac584326e4bd990",
+      "sorted_rgb_sha256": "6800aeee66558731f090c4f7b0a28bd3bf16320009633aa619092c6b8ea4bd54"
+    },
+    {
+      "path": "full/m-eurosat/id_26899.npz",
+      "rgb_sha256": "863cf13663200ebc6702a08532a3862600337acdaa0b598d152a40b906a8ec4d",
+      "sorted_rgb_sha256": "0f2db7c89191e2def44329c7951c30f36d498ef004c1b8ae3706d89e60a6b53f"
+    },
+    {
+      "path": "full/m-eurosat/id_22355.npz",
+      "rgb_sha256": "2a355974e2881fc7df20fd5c6b3e7615b532586c413e3cd1c83ab6eae44162b4",
+      "sorted_rgb_sha256": "a64feb29e0a472afcf4710eb0bd544469703d9a3dc3a63dc35c59c77e216b0e0"
+    },
+    {
+      "path": "full/m-eurosat/id_21660.npz",
+      "rgb_sha256": "645a7a47a833e10b6a8970de24b8eb3d8a9cb8a5404ff08011945c414f7fea9f",
+      "sorted_rgb_sha256": "20d011f2455bed64cd2f7a60cee5ea258c68c2dee91658ef067f6a614b3875b7"
+    },
+    {
+      "path": "full/m-eurosat/id_24081.npz",
+      "rgb_sha256": "b7ca1d84d753aaeca159ca28424effb02eaa391a1ac6064ef20aecedc40e24a2",
+      "sorted_rgb_sha256": "b9834b8d8db7230daebb1a18b91b1a29abdb556cbf098ff6188228a3066e4f80"
+    },
+    {
+      "path": "full/m-eurosat/id_26696.npz",
+      "rgb_sha256": "9e0fd0f79a73d7c914cdc2efe33b6b6829b53f6086862fd749f43f96bc8789b4",
+      "sorted_rgb_sha256": "747a51687f2881b096b4b96151728ae7a7a05b4b26d7afd8068449aafc3d12e2"
+    },
+    {
+      "path": "full/m-eurosat/id_19328.npz",
+      "rgb_sha256": "48e1362126095db33d86f440ab0cffff67980ba4223923021a9f3f242dbfe142",
+      "sorted_rgb_sha256": "a4268340d1b62a512bb2b3ca7a6e0839361b338bd86fc0c1515dfb73f5cbdd5c"
+    },
+    {
+      "path": "full/m-eurosat/id_18750.npz",
+      "rgb_sha256": "0a4637301b58cdb3520300d2b949e8e3d56ce5305192c85e664c5636edebe71d",
+      "sorted_rgb_sha256": "c1d1a1d065db27cbeff1fe7f5432cc3c721fdd64b5a1ad9a1e3c8bf4dedd7a0b"
+    },
+    {
+      "path": "full/m-eurosat/id_18988.npz",
+      "rgb_sha256": "82c888fb807666da5f4f773ec4ce17dc83de2d0d814b9e8637b48214b9058ff4",
+      "sorted_rgb_sha256": "94b1e3eb6b21cbea8616af3603da3ace2b73bbb7372690528bd0150290d1e11c"
+    },
+    {
+      "path": "full/m-eurosat/id_24122.npz",
+      "rgb_sha256": "4c0224f1d739909a176db0869a7d5df959f1ad5fa6543b4ce72fe64eedc0016b",
+      "sorted_rgb_sha256": "b2932c06a8bc973fa24b38ab130db70790314962ef60c67c6b7f963a3f428b53"
+    },
+    {
+      "path": "full/m-eurosat/id_23103.npz",
+      "rgb_sha256": "2aa6d055332031af8cd36e08789281b47b6414824c240bee66815030a8e2fb9d",
+      "sorted_rgb_sha256": "492d576f3d18ed9b0405cabd4dc3a42dd6c3343648c58d2ee529af1b71a7034c"
+    },
+    {
+      "path": "full/m-eurosat/id_9788.npz",
+      "rgb_sha256": "176787ff1520743367a5fc479c9e2a7c3ed9474d9b5a68df47dc4f5ef24daf0b",
+      "sorted_rgb_sha256": "1868da83bb86e56a2332cfe99d0cca621faa6b746abd86347d6e032846b6346f"
+    },
+    {
+      "path": "full/m-eurosat/id_20146.npz",
+      "rgb_sha256": "eb8b5fb89871141ec20d145050c48b0a69f792a1a5d0286c2188d654849d724e",
+      "sorted_rgb_sha256": "21283a433997e337dbb78f3692834f6238b23f61dd8ce9188865a99437a22932"
+    },
+    {
+      "path": "full/m-eurosat/id_20634.npz",
+      "rgb_sha256": "0391a1c32de1f6a0c315064a4a7e5c75e909af2f34d5d942ec526124c4686352",
+      "sorted_rgb_sha256": "388db66bc83cadf8141deeb4648885fdb28b83934c3c8e94e6093cdaa0ebc0a9"
+    },
+    {
+      "path": "full/m-eurosat/id_25770.npz",
+      "rgb_sha256": "3f94eade875c2456abc949c0d2ba48b8da3ad62ecc5fb5ed82cc695d343a7ed8",
+      "sorted_rgb_sha256": "59a870d9aaf0ad1dae1b1492b85aaa3657952e12477a6822296cc153e85f1c4a"
+    },
+    {
+      "path": "full/m-eurosat/id_20608.npz",
+      "rgb_sha256": "1ea109ae9a4c13a554f5fee9e09145908bb0ae344784a72cf3e31f24992053ed",
+      "sorted_rgb_sha256": "5c541c5ddfe494d1c8ac1e73d23d157fc0fca5a198b79016dd84bd9e14f2e5b1"
+    },
+    {
+      "path": "full/m-eurosat/id_26286.npz",
+      "rgb_sha256": "df4b8b62da9230b13e4da6ec6e3b00d97707be06907c55dd7234a9cba320231b",
+      "sorted_rgb_sha256": "d063f892aee074582861dbf2059e26c5fd45fa2ad9822518c50cb3b833dc7e47"
+    },
+    {
+      "path": "full/m-eurosat/id_20807.npz",
+      "rgb_sha256": "548351ae52e62dfb42d5a6e344561018b306c9d8d718af3d151a7e4e2be0b654",
+      "sorted_rgb_sha256": "3fe00e59e84a46c339ad70ac2b5c5de5a4ef6c267836fc1806e5ec7cd7337e04"
+    },
+    {
+      "path": "full/m-eurosat/id_16379.npz",
+      "rgb_sha256": "c4e74dfdb6bd5e34ee3a91816f46c2c36b148bfe6ef7a77c62823ee7771cb959",
+      "sorted_rgb_sha256": "1f7c5aed056e30985e99ec71447107381230557c6401f1d1d0bcb0d15eeec871"
+    },
+    {
+      "path": "full/m-eurosat/id_22782.npz",
+      "rgb_sha256": "c4af9640d2592d249b6e8ad711c4ee7d0f6745b80e2164e0227b29f6f609d1c6",
+      "sorted_rgb_sha256": "4e11d78c40d310563fdeddf2e8cb33770e75161368537e7097bd9ecd2c378b7d"
+    },
+    {
+      "path": "full/m-eurosat/id_4914.npz",
+      "rgb_sha256": "1eea2884a42b1be3f40ce0ac11eef4f7b39e8099274401226463079e2a1553cd",
+      "sorted_rgb_sha256": "09f9bae50e92bc262213754edc686e67844e2d43819599d2fcbb8fa08c26c687"
+    },
+    {
+      "path": "full/m-eurosat/id_15106.npz",
+      "rgb_sha256": "f902bad37916aa10db56481a48cab45ad015778815499ccf93e863c4eb53434a",
+      "sorted_rgb_sha256": "7563f39c0d8424c1e69c870175b47867230fa6b25cd7ca2a9eb45de450e3b342"
+    },
+    {
+      "path": "full/m-eurosat/id_4069.npz",
+      "rgb_sha256": "04a5c1005a2177f1d198dca8dfb1e66ffd701301c1703ac476380e0b7dbec981",
+      "sorted_rgb_sha256": "6f18fe38a4cd930e8a97e33e75107d2c2af41ffd97715421edcf15d66346bac2"
+    },
+    {
+      "path": "full/m-eurosat/id_26255.npz",
+      "rgb_sha256": "6c33855d5d0753db1cc4af3451c6e5e43a89bd5c5a48029604b39b9b06db018c",
+      "sorted_rgb_sha256": "d797635837281b947b43de6fdfb98cf1592e40c7902b02fba786f6360abcf0c9"
+    },
+    {
+      "path": "full/m-eurosat/id_19099.npz",
+      "rgb_sha256": "86b4f2c28f6371a4b441d28e753e0bd9f8f964e4877c29fb8580f197154a1b70",
+      "sorted_rgb_sha256": "29e896992ba9c5b7bf397e02fc58e055118a04cbfe3c6fe2f78afea9f06f5c9b"
+    },
+    {
+      "path": "full/m-eurosat/id_25006.npz",
+      "rgb_sha256": "0b299ed37fa55fdc60dba68aa374d4f3e05877b70eb3398da0a7f67fbb970200",
+      "sorted_rgb_sha256": "7edd185174b7376f24e881fc43ce6bfaae16fac88c3e354e05c12b2ce3a20276"
+    },
+    {
+      "path": "full/m-eurosat/id_16619.npz",
+      "rgb_sha256": "74b9e47f73aee3c235dc86228a54f6d2bdcb9070532804f33817ebd06a0ec47a",
+      "sorted_rgb_sha256": "ba25f0bd0366c548347a503fc5d6c630f4dfa336463ce9ad8839852c1b0dc1ff"
+    },
+    {
+      "path": "full/m-eurosat/id_18146.npz",
+      "rgb_sha256": "f903792a8955c927ac567f0c79a6d19a3c233362ba5eb2bde5978ab76cc227c5",
+      "sorted_rgb_sha256": "fb208a1ea9e543c17f905229c52897ac31e83910e268753f297b13d2edd26348"
+    },
+    {
+      "path": "full/m-eurosat/id_13946.npz",
+      "rgb_sha256": "141d396df8fed22f861252bc1df50129a43f006def44a6ef4644f1920d7005c6",
+      "sorted_rgb_sha256": "955612466010154c8105b127546ff771af3b5d1e60c9dd4683b709ac1878f378"
+    },
+    {
+      "path": "full/m-eurosat/id_13952.npz",
+      "rgb_sha256": "1f9ed7b7332e9e944a0bbf335816a286639595464d081c25fb674b3eed87e696",
+      "sorted_rgb_sha256": "4cc3e367973aa8bca2c6f0b169d83ee9cc77b207e4c88d8d95454ed4734ee480"
+    },
+    {
+      "path": "full/m-eurosat/id_24640.npz",
+      "rgb_sha256": "02b261a8e1fc47d0cb4a6a514d670427c4bef8ab28a89dfab451f1c5f8c918c7",
+      "sorted_rgb_sha256": "9d7388934d0d5af02ae90975db6c93754133aaef5c1ba26ba6cec821f7ab778e"
+    },
+    {
+      "path": "full/m-eurosat/id_8323.npz",
+      "rgb_sha256": "aa0c81d6c7584c2737e6940819cd218b63539f16e8f74ed3f590c0d9978289ef",
+      "sorted_rgb_sha256": "2571d16c18eabb2a61257c71aaf652c81753b73f360424b037a4c661d6ee6f50"
+    },
+    {
+      "path": "full/m-eurosat/id_6440.npz",
+      "rgb_sha256": "b378342696cdc172501b9aa667e7d74c8055883367b13cb6b829da05432609c6",
+      "sorted_rgb_sha256": "334fda3c7265b3adf3deaebb2646542c67136201116a14d7242420958974bdb9"
+    },
+    {
+      "path": "full/m-eurosat/id_12537.npz",
+      "rgb_sha256": "d05c9239477d62cfad054eade771fed1a0c77e0a25a78a2951fcafde82767c3e",
+      "sorted_rgb_sha256": "ded46ba522cae7777a87e0e481573ac76ce824483eca4efea5da502c13038400"
+    },
+    {
+      "path": "full/m-eurosat/id_9834.npz",
+      "rgb_sha256": "a0a7352c009016e196f3f7844b2aa48d59447104c7f6dc01b4e0b79faaf528e5",
+      "sorted_rgb_sha256": "8b42b06d69b516516b9b022609db7e09e846a7cc16b6e58a0f918619a5bce330"
+    },
+    {
+      "path": "full/m-eurosat/id_4486.npz",
+      "rgb_sha256": "d6e001bfb11010d5e5a65393a4b9daaba9f5d4427b1757e77736ac099a113c2d",
+      "sorted_rgb_sha256": "5e04c3d567772f97eac6343729c9cf842909ffa9644ed6fbcd3242a13b7714c9"
+    },
+    {
+      "path": "full/m-eurosat/id_25358.npz",
+      "rgb_sha256": "7b42bd6516e54707efaf60e8d92f531551b78c5449f7e8e31b145456ba8cf1bd",
+      "sorted_rgb_sha256": "99637d72cc458d52bd95e7da68ba9a4d77391a70179031b75d9c165aaadaf8c3"
+    },
+    {
+      "path": "full/m-eurosat/id_7616.npz",
+      "rgb_sha256": "ea8db738baa3ee9488abb24a4d71c2543325ad3e760387aa5e5fa3088848d4ea",
+      "sorted_rgb_sha256": "7f066489aa7ed47a7b20dda1ca7d1ccd0af80646774c65946a30cfe73c5cc914"
+    },
+    {
+      "path": "full/m-eurosat/id_20208.npz",
+      "rgb_sha256": "f11f6d8ce0b995e5bc7f8f517c5cb139e9d7c6b0e6780cdd37490c26ecd20e13",
+      "sorted_rgb_sha256": "637a748fd42251e945d6dd61753074d6289d8b372977a5092ba051e9bbbda21e"
+    },
+    {
+      "path": "full/m-eurosat/id_6246.npz",
+      "rgb_sha256": "3ceb187c20a99c1c1cab35a421075402f0d65a78d7ece6a1424eb87f10387e24",
+      "sorted_rgb_sha256": "2e399b29391a2efa4e8e23c07e59b525d9a7128bf517bb13d5015a476a13435f"
+    },
+    {
+      "path": "full/m-eurosat/id_3855.npz",
+      "rgb_sha256": "f495185c27054e5d3785f5b7df175fbba16f717740aea3b3393afedb50897aa7",
+      "sorted_rgb_sha256": "2380efacb80a8c584dd76f2f227a8c014e8320f8e8ffcc3a0916d4a7b7a3992b"
+    },
+    {
+      "path": "full/m-eurosat/id_13371.npz",
+      "rgb_sha256": "0d2c6f26eebbe27c7a10385fbe45166168eb430d91af4d67d20886ae51922639",
+      "sorted_rgb_sha256": "6e86f02b2aa41f6f2c0e4ed8ab3ecd82db0dbb6946981a10dc0a00f3160ffc25"
+    },
+    {
+      "path": "full/m-eurosat/id_0390.npz",
+      "rgb_sha256": "bec73056f103ed89ddb58b5430ec1c5ba23895ed4787c80dd1198091d97f25b4",
+      "sorted_rgb_sha256": "3083fa484897c78134f06fd664d0b1a533ad5721dda3a0fdb81326282fa9ca57"
+    },
+    {
+      "path": "full/m-eurosat/id_24522.npz",
+      "rgb_sha256": "cc7032f4eeeb4eab90fb8fa199fb606296ae02a57d7c4ff6bc3f26103c92016a",
+      "sorted_rgb_sha256": "7e12c6a0c23705075d0da15820b2c846e6af1158999e516beb090d2e06b0ff1a"
+    },
+    {
+      "path": "full/m-eurosat/id_24250.npz",
+      "rgb_sha256": "7d92a7ab4bb52e01db0472109833284223f3a0bc6a631a740fdd0dd3c1a9fe93",
+      "sorted_rgb_sha256": "9f555f4d0b26c44153f76690b6e2f15aac0b5e52a93cb1bafe9ac44201aa910f"
+    },
+    {
+      "path": "full/m-eurosat/id_18595.npz",
+      "rgb_sha256": "a8155afbcc7ab82921e0fa60012a6d501711603164be1c247036ef37a1c04c05",
+      "sorted_rgb_sha256": "7ce3c40da1dd6c06a6682ab64b68015316bf454c6e94ec6d4826ee0e515031bc"
+    },
+    {
+      "path": "full/m-eurosat/id_20779.npz",
+      "rgb_sha256": "ad9db5f67091de0d8380e56d7a17dc7f24422c9bb46b96f340f3479d146523f8",
+      "sorted_rgb_sha256": "dc36cd0a7179eeee84bc77d18e9e2a8b3ec0b2a7fe87210ed3696405cfe80a0b"
+    },
+    {
+      "path": "full/m-eurosat/id_21329.npz",
+      "rgb_sha256": "b256112115dda3048d89a90fd5651ebded707cd5b336ddf2a7149323feacae8e",
+      "sorted_rgb_sha256": "3836e4beafc0be885797c72067bbefa2ee85260fd269f3e0ec6e265ddcdbeb80"
+    },
+    {
+      "path": "full/m-eurosat/id_17102.npz",
+      "rgb_sha256": "e2032e4fe221cd91c915fef55516c4351d1767e4c7c49ce5da34a8128dac6648",
+      "sorted_rgb_sha256": "1f58b7b1ef4f8a94facd83eb1948b394bc792d216ea745725cb8de93be3b039e"
+    },
+    {
+      "path": "full/m-eurosat/id_15701.npz",
+      "rgb_sha256": "e0d118ab1200c89aae80e7784ae0d753e29e489e3018fa8d9217ebdc9a594ad3",
+      "sorted_rgb_sha256": "1eedd67a90add3343a7fb1cd6a02a04d84e077a57068236751d6404714557067"
+    },
+    {
+      "path": "full/m-eurosat/id_25832.npz",
+      "rgb_sha256": "a246bb3a4e37b37fc801fee21cd442345366aa696e738fd23e2dff3afe05ba21",
+      "sorted_rgb_sha256": "4b534e98bc967a5cded10acf9649476f37b700bb7afa75f88c0c268f2ceb2b48"
+    },
+    {
+      "path": "full/m-eurosat/id_26491.npz",
+      "rgb_sha256": "d28af60d39d54b9832f8c8effacc91cb134aea67bcf7fbd8b68d2455e845b348",
+      "sorted_rgb_sha256": "2b180416d4cf40308e7181ca3672e5dd0df5b5db7268414c1a50e8ab18adf2ef"
+    },
+    {
+      "path": "full/m-eurosat/id_24286.npz",
+      "rgb_sha256": "7f9e1cfd0a6a3e9e66ef90cd31b43e3932682b8c0db6a73fb5494426bef6d013",
+      "sorted_rgb_sha256": "e4a1df22ae8a3d9ed28014c15187301dd5b767bfdd440b848b1da12d82e8756e"
+    },
+    {
+      "path": "full/m-eurosat/id_6247.npz",
+      "rgb_sha256": "8c19f52b9efdb7913741c34dba9b0f038299a94aee73dd1b5386abf581667af3",
+      "sorted_rgb_sha256": "6400169a4e36df0d5c9d8759f97e732d9d48c35e492070ab8e932c78596a2932"
+    },
+    {
+      "path": "full/m-eurosat/id_9160.npz",
+      "rgb_sha256": "fb4aa4cb33add46c1e1db3bc170af19ceaa59c5e5abb25eff02f665b54980ea5",
+      "sorted_rgb_sha256": "f520d839a96838c469be98f3891b60653cd5216cc0a5edf31bcebcd8707e6ddf"
+    },
+    {
+      "path": "full/m-eurosat/id_22344.npz",
+      "rgb_sha256": "42a63910dc1aba2c4d1c289970deeca973dfaeb7cb7738d5c7f486a453672716",
+      "sorted_rgb_sha256": "91f97cc279b58739a63842a28e4917b53f6cf03bffdc945eec811b0874f02d97"
+    },
+    {
+      "path": "full/m-eurosat/id_26888.npz",
+      "rgb_sha256": "8c0aa4bd5d3c695b63c3f87d840861462a49332f27ef1d7f06ed5edc3b8e5e73",
+      "sorted_rgb_sha256": "a647115eac0bd00503d6f15dbf17768fd8b4509665981fc276b88973453264e0"
+    },
+    {
+      "path": "full/m-eurosat/id_16744.npz",
+      "rgb_sha256": "7ae88d1b8775a51b4bd18dc82f3a0193594b77f67adf2172c181a236be24dfd1",
+      "sorted_rgb_sha256": "f6a93e2c5017e5e76d748b15803ed4bb6a330842979c960b6e39f5926ae35cbc"
+    },
+    {
+      "path": "full/m-eurosat/id_6455.npz",
+      "rgb_sha256": "e17f50cc67b75fe1a83d8151c8a4b95a3cb66e2ce2cdc538371b12fb16bec8b5",
+      "sorted_rgb_sha256": "2ce168d12177e26976d5b65b6f75261e8ffe91161fce12a719aa6e58b23193ee"
+    },
+    {
+      "path": "full/m-eurosat/id_24669.npz",
+      "rgb_sha256": "3c9ac87e21a71758752c212584a985525da5a64b974c97e16236bcbf10c7dde3",
+      "sorted_rgb_sha256": "4f06bf9471c073d3ced3faa420b774be320a9e83417fd20bc64cb6cb6b209369"
+    },
+    {
+      "path": "full/m-eurosat/id_3539.npz",
+      "rgb_sha256": "cbb53e11eda813f405bfadc5286dfb5ed8269fadb0811dcf54baa218ad52fe34",
+      "sorted_rgb_sha256": "3bfc8473c179ac402a146d7e06e223156e3d391647b9b18275e14388c7942a61"
+    },
+    {
+      "path": "full/m-eurosat/id_25239.npz",
+      "rgb_sha256": "a0ece8ea6e110992291847aee9e6f7cca2c64eef361a3b04a795ca219b98d1d8",
+      "sorted_rgb_sha256": "bcd88ad7580c1d5a89e4bda2065829b286fe33613627b9fb92998e1bf8f12e24"
+    },
+    {
+      "path": "full/m-eurosat/id_24127.npz",
+      "rgb_sha256": "ef8fc3d424ed8c61623301fe09009b82953b142bd115286570266e7015ae5d99",
+      "sorted_rgb_sha256": "e854e8a6173310c59437c79844d804a0f1355647dbad2b2dd6d301a153ad11fd"
+    },
+    {
+      "path": "full/m-eurosat/id_26730.npz",
+      "rgb_sha256": "e0c50c30be18bb21333afc3573d823fa1c0110d4e58c63d7459c6b9805399abe",
+      "sorted_rgb_sha256": "b37a5ad7b583343a1c854e1e7a9c0c539194eb8e1ab10b8cf0aac206a4ece510"
+    },
+    {
+      "path": "full/m-eurosat/id_18609.npz",
+      "rgb_sha256": "bec779d6a26156e3f7516a2ca29dc9bc07df864f122c4f740d403b3724247aac",
+      "sorted_rgb_sha256": "1fd5d964c8c6602003656fdd495ea12d6844c468efd063ee9562a64621f40f68"
+    },
+    {
+      "path": "full/m-eurosat/id_24319.npz",
+      "rgb_sha256": "bc57d0ea79c05b2119ddb4cb0e23079d3feb6bb1511c5f9b4cc004398fb65c72",
+      "sorted_rgb_sha256": "6e7f848c0a61ff168269b05293ff62626ad2d699cd0df1da34ada73d91e828e7"
+    },
+    {
+      "path": "full/m-eurosat/id_8646.npz",
+      "rgb_sha256": "be3b662b0a77ac278c6b49c834b18f387b280b3eab3b0989ccb62298bce465a1",
+      "sorted_rgb_sha256": "2dbaf8ea8c1c7ec80096f215c9fdf797129abca4717606ff7b72f7c5e8483dab"
+    },
+    {
+      "path": "full/m-eurosat/id_2394.npz",
+      "rgb_sha256": "dcf76f993e11113674ecdebbdfbc605ba67d0507b12910241583b51d980b10ec",
+      "sorted_rgb_sha256": "ddd6c9dcad56a24417e325a879c83453f93197e6d81e04c5e9d13c5ffd5a364e"
+    },
+    {
+      "path": "full/m-eurosat/id_13204.npz",
+      "rgb_sha256": "eb3e8bfaa98f8094acf9767e401e28c967479fb73fbbf50ff0f25db743aa5b56",
+      "sorted_rgb_sha256": "2de53bbc07d91c9bc4f06411937464334a9adaf12e74c4ab3dd92be012dc116e"
+    },
+    {
+      "path": "full/m-eurosat/id_22783.npz",
+      "rgb_sha256": "d972a06afd756f9fafe1debe7fdd29ddb5738da906b32fbf188679d3e3469c18",
+      "sorted_rgb_sha256": "5f32dc026f72250ca8078d955ecf95326be260f50be076ce7fd305871bb09087"
+    },
+    {
+      "path": "full/m-eurosat/id_20182.npz",
+      "rgb_sha256": "4720ed5f69aaacaf7406863c0e41fef06ed67bc45c525deb1d8a63041e5ea57b",
+      "sorted_rgb_sha256": "d5e0fbf6121408e2f427da19f5472f709631a32f147b18f14c808a7aaa76c6b7"
+    },
+    {
+      "path": "full/m-eurosat/id_17935.npz",
+      "rgb_sha256": "fa7a26561925c27ce3cb68a2f9ef7739dc13c2996986c4a5dbc61a2413a9038b",
+      "sorted_rgb_sha256": "a0ea07807396f1c95605925f7cf42d3177bef36f02aabba64caf6c383ceaea1e"
+    },
+    {
+      "path": "full/m-eurosat/id_12859.npz",
+      "rgb_sha256": "63f3b3c6b2f295ae1c0bf0f53ced0f9cbb3b820c7242cde98653146d5b82a180",
+      "sorted_rgb_sha256": "235eadc776d40b992e0ad1bc79eb53b96a2f2e70abcfc7bacc2d88469d513a3f"
+    },
+    {
+      "path": "full/m-eurosat/id_10525.npz",
+      "rgb_sha256": "371fd0bac5e9b5cd7b26dcd35f86775af6aab7879734212deca73bade867b5c7",
+      "sorted_rgb_sha256": "089b1691793a12e583ee9f12487108627e65f94073e2b30621824083008d9c24"
+    },
+    {
+      "path": "full/m-eurosat/id_24694.npz",
+      "rgb_sha256": "3135e9db56a25c3f08effa2add82ba0c9669eb2a2a85fde3badafb00357508ca",
+      "sorted_rgb_sha256": "ded41d8c83c73924f9ef64dd8cb32091f521cbe452a2cded3bcb84a3e60dfcdd"
+    },
+    {
+      "path": "full/m-eurosat/id_16140.npz",
+      "rgb_sha256": "92b757950caf9c6f2aece5e6e505d8e2f3379fc2d75bea66f980e630fe9b0a09",
+      "sorted_rgb_sha256": "bc3cb0493a779f93ba6bb679fcc3715f9ee6f33bb2f92f8c2960b23eedf5bd7c"
+    },
+    {
+      "path": "full/m-eurosat/id_23110.npz",
+      "rgb_sha256": "66cc8df60efe6f7a6fa3ceb6f55faa2d5b2c575224e699d323cc01aefee488d2",
+      "sorted_rgb_sha256": "ce00c3712dce88e3bcba109b616a2733492d791089e3e95f079afc63ad57d544"
+    },
+    {
+      "path": "full/m-eurosat/id_16815.npz",
+      "rgb_sha256": "2416af9297f3cabcc4a8ed31f890157299cb74783523acd875c21729ec68c815",
+      "sorted_rgb_sha256": "0e17bb97f87e5d6c551e5f549cf795c57b67440379bfe6ce0be71d246ab07957"
+    },
+    {
+      "path": "full/m-eurosat/id_18019.npz",
+      "rgb_sha256": "97b2358300649bd68dd1e7a4f644834dbe6e53ce5faa2fcbd7855427e4d4ebe8",
+      "sorted_rgb_sha256": "fdad8448f1d8c3c8bb2e2bfa71429d9d52b2f1978d75d847a84aa2d9d03ac54c"
+    },
+    {
+      "path": "full/m-eurosat/id_23702.npz",
+      "rgb_sha256": "3d496ba99ac740eefbd6cc458c51846773183633dfcff77d0b6ac037d71b76dc",
+      "sorted_rgb_sha256": "c3af2999e366e9c346d2e1812312a12591d86d14ba1149cab05083a05de5ea37"
+    },
+    {
+      "path": "full/m-eurosat/id_1258.npz",
+      "rgb_sha256": "6ccd9fd569124bac39fd855b5b5ef5d4b1acdc1ab3af7b151b07b76cd9e07ded",
+      "sorted_rgb_sha256": "d0ab4eed145980c6a9b82330f215e391aa2aeefe25951407f965feaaa816ce0e"
+    },
+    {
+      "path": "full/m-eurosat/id_25367.npz",
+      "rgb_sha256": "5a11f70ac1f659b457b4221c80f6662a7ddf08bfa888a250e5fa6c776373353e",
+      "sorted_rgb_sha256": "9b3fbbcabccf321d9542586ff8645f9d6d6b042b7b63086221bc36f041495b8e"
+    },
+    {
+      "path": "full/m-eurosat/id_6251.npz",
+      "rgb_sha256": "c9f37f74a6843042f98f14891f29ced1cb4b86f447e0070cff8a9c52e004462e",
+      "sorted_rgb_sha256": "9d42592e88ca9bef74cf82882624749cb6c0b3f234f27d3ff1e35dcbcb14a40f"
+    },
+    {
+      "path": "full/m-eurosat/id_12044.npz",
+      "rgb_sha256": "fa41a7de28de60b25b88740358448186354bca64601e1e3d4329e52b98bc7a1b",
+      "sorted_rgb_sha256": "872200c4993098250bf3d1623355ee950c6977cb745562fa9ef702d329d54f7d"
+    },
+    {
+      "path": "full/m-eurosat/id_17128.npz",
+      "rgb_sha256": "6eaf06a3c8f467a0414132f9eac758adc6e1500b32c3e525c13ab6f0fc1c9a5a",
+      "sorted_rgb_sha256": "32ed5f9bdf230a95294a93bd32a16fd41d1feec4965b6b4a835f36034b5ced59"
+    },
+    {
+      "path": "full/m-eurosat/id_26322.npz",
+      "rgb_sha256": "a6f3c4a5ab01353a6697d8729b0a711a959abaf6dde21be48476f9d4b92c6362",
+      "sorted_rgb_sha256": "faf4040342c240383e458c8b62a290ac7152a06481b5eb63fdfa84e16ce69384"
+    },
+    {
+      "path": "full/m-eurosat/id_22150.npz",
+      "rgb_sha256": "bece4cb8320c50c53caa11393894c418dbbd8125f6fbe3a600595da6701e29b3",
+      "sorted_rgb_sha256": "10213eff22181a0d3a9b0b6bd69398d985a10d57c81164d53c3aaf0807d2d672"
+    },
+    {
+      "path": "full/m-eurosat/id_26450.npz",
+      "rgb_sha256": "7368f5fdb6e468d460c932b4f78d7b1b6878d715acccda5c20935efeb5378e29",
+      "sorted_rgb_sha256": "1661b382a3bed2c97f76a65cba3a3597c7c14c32e063a3ee96405b4838d9f13a"
+    },
+    {
+      "path": "full/m-eurosat/id_24247.npz",
+      "rgb_sha256": "cfea9ae49b28292f12ceb4950a56077d83c601b1e02d898ee58a02e87c6a953c",
+      "sorted_rgb_sha256": "6eb07fbac30a459f18d25a24b26c9a7b9ff434f744312edf98d987a492b0b89a"
+    },
+    {
+      "path": "full/m-eurosat/id_21317.npz",
+      "rgb_sha256": "dd86b91835a928266ee0762ff753f344dd62533c1f5be712412e7957873be4b7",
+      "sorted_rgb_sha256": "8f3aecf4b56fa0f3bc6920ff54394a09cb091f70503778c186160d903505c4bf"
+    },
+    {
+      "path": "full/m-eurosat/id_25170.npz",
+      "rgb_sha256": "d88695cfd0363f2f51fb3b61e6b7fd09d8cceb4c9b58b3a4683e2a3695463c46",
+      "sorted_rgb_sha256": "7038198c58ddf2754d4c3860f2015835ccc00c8718bb5629b738f5fc1449841b"
+    },
+    {
+      "path": "full/m-eurosat/id_17673.npz",
+      "rgb_sha256": "736650d7e888f05e466ef7c5a7e5073d56f3732c304898418bbb86545ac6e470",
+      "sorted_rgb_sha256": "424788ef7aaf092fbc6fd90a0b8d9520bb2bdf5bb9ad1763b4d165c00e15c228"
+    },
+    {
+      "path": "full/m-eurosat/id_17883.npz",
+      "rgb_sha256": "7b8c24f3d77eaeb7991fb896d509769ed2e9e64b307589411545c4b68c9c251e",
+      "sorted_rgb_sha256": "96ea36ceb1d9944007bd0f84db91e1bb05454df83a417397b0be09ab581fda70"
+    },
+    {
+      "path": "full/m-eurosat/id_26109.npz",
+      "rgb_sha256": "744ee15c39d4622be0f37e79607ac362c411a30e91de2e09c84485a37db1d018",
+      "sorted_rgb_sha256": "a3eb612aa0cb0ac1c33446c0a2d7a2695396a2519cca33a73336ef1f34cf205f"
+    },
+    {
+      "path": "full/m-eurosat/id_4453.npz",
+      "rgb_sha256": "ad2d1ee6191c2564bd7df9d3e31bd65f6c8a1d13e8e5db7e2af3a6156242d18e",
+      "sorted_rgb_sha256": "4292fe3d97d7d6bcfa608877b2b8127e3c499f217140fc75cfe3ce77a7614e1d"
+    },
+    {
+      "path": "full/m-eurosat/id_16948.npz",
+      "rgb_sha256": "eff0f7f5dd2f7c4ae4d9c2e346c93e6e8323461be57e38453436616ef5db04aa",
+      "sorted_rgb_sha256": "5d827d6f134ac72aaf768ce26ee5b5b11d0a0784bd83a59b92f0fcaf5ac5a8e9"
+    },
+    {
+      "path": "full/m-eurosat/id_24722.npz",
+      "rgb_sha256": "d0d2a983072703afd46a9d4e3fbee1179bcefb9cd05c23f0b342a234024a500b",
+      "sorted_rgb_sha256": "f64c970a43dad555b63052aadad166da844c31c57d75e85904f6856131937e0b"
+    },
+    {
+      "path": "full/m-eurosat/id_15266.npz",
+      "rgb_sha256": "55e3c1774241bbe06a154187754705fd0557434ad2d1bfe09c303acad99819c3",
+      "sorted_rgb_sha256": "04d6917a8b4532e08c8c8fef2d4d0af1061a1509975d5164b14fb32db7e6710e"
+    },
+    {
+      "path": "full/m-eurosat/id_0806.npz",
+      "rgb_sha256": "5ba5ca28c8bf2fe09718da6227b32893c79edb7c2588b095c798b33324a74b93",
+      "sorted_rgb_sha256": "98055a22f30f478d9b10d65b8d307bee9d91b423b9a34962c1c5b1713d18f815"
+    },
+    {
+      "path": "full/m-eurosat/id_16747.npz",
+      "rgb_sha256": "b79d67d0b15cde64013e5f3bf2119e657cf6621471bbc68d1346f4e3e3406b4a",
+      "sorted_rgb_sha256": "7f6085e3e1c26c25d5d88c15874ec70a4dc86c63d769b9ae2c76ed835350f838"
+    },
+    {
+      "path": "full/m-eurosat/id_14150.npz",
+      "rgb_sha256": "e223137aedece83e019423c0fd60166e650b6d2a9bcaedff8c54876d88ae675e",
+      "sorted_rgb_sha256": "cbf9c98a46e1bbf5d71988a8c3882ceb8a17dbb50ab2edd220896c3269c4896e"
+    },
+    {
+      "path": "full/m-eurosat/id_19299.npz",
+      "rgb_sha256": "383c484ad1ed76d5b037c8ed8d1d93df135f7befcc0950caa9a4c3a98318a262",
+      "sorted_rgb_sha256": "a91b06ebe2bd4ea720d05ce15fb8381f8f42d901039374ba8f7a6fb1555adff1"
+    },
+    {
+      "path": "full/m-eurosat/id_22541.npz",
+      "rgb_sha256": "73574b5c2b88529cbbf86635d3332cedd7d3abca4b24e928514dd9dfef44a817",
+      "sorted_rgb_sha256": "7ba26ee595f2c6c9a644bc533cd527cd68dc005a3d804c0644cb3e839dc4db4d"
+    },
+    {
+      "path": "full/m-eurosat/id_17511.npz",
+      "rgb_sha256": "6dc2210ed7b98d9d622e0f96c282fd0ac870796a64d2449fd61612eace281043",
+      "sorted_rgb_sha256": "1778a098e135a9292c99512ca8d7531eec8fa3cdd67386a4ec91546c592a5010"
+    },
+    {
+      "path": "full/m-eurosat/id_16627.npz",
+      "rgb_sha256": "5f001e7943fa7f98b3bf3367375dc7c2c15b486aa96fce717d27a7fdb5f9a0da",
+      "sorted_rgb_sha256": "3fd430566c1febc26ecd5e673710ad84b6b04e1abe5a6c01da63a970ae18670a"
+    },
+    {
+      "path": "full/m-eurosat/id_21510.npz",
+      "rgb_sha256": "22f2c488dd47a4622e518eb482cef166d20794544422972d2be41db4d2b30d7c",
+      "sorted_rgb_sha256": "677b0f24ec824318f504e10a58ba036511564d182fcba5c8bc431a6cb0464c05"
+    },
+    {
+      "path": "full/m-eurosat/id_19058.npz",
+      "rgb_sha256": "6a0deb104dadf8f475d79fc85f2c55f7bb2fbfad586389009695bfe3329e3e47",
+      "sorted_rgb_sha256": "ca0e6bc412d1796d6671ff15dfca1ec1b53a74bd77e9fd317502d2b718f3b06c"
+    },
+    {
+      "path": "full/m-eurosat/id_0281.npz",
+      "rgb_sha256": "53f69f3af5e39130660cb06e5a63c8855564fea96e86f689ea72ba5baa7d61f4",
+      "sorted_rgb_sha256": "492f8beb34c652de9dbb9b4acfe4ea356ea3395fae58de2eb3898a910cda2977"
+    },
+    {
+      "path": "full/m-eurosat/id_17006.npz",
+      "rgb_sha256": "f3fe9f5a28390b43d7b90caeb382e7f9618ea6113da2cfa1bd9514a611e5b2a6",
+      "sorted_rgb_sha256": "9cdb59b1c747f00891158c45e5ade52f2463b4b121e08fa42ab3cb444c1095fe"
+    },
+    {
+      "path": "full/m-eurosat/id_10769.npz",
+      "rgb_sha256": "05aa3af2d190453c95e052d238b828d66c009ff3f75f1a867d38170dd2425e86",
+      "sorted_rgb_sha256": "27f0eaf9582c112751ccbfb70785ac6ba5e08661750080c50e53605bacb0d4f9"
+    },
+    {
+      "path": "full/m-eurosat/id_18453.npz",
+      "rgb_sha256": "afdc19f64130382b7bcf59227cc4a6189b82b1ca99ba68fd2890de4cf1a26d08",
+      "sorted_rgb_sha256": "1874f114ee99968ce7c90d1c1c1d60d157cd3bd790853ada4e35b1e0986dd172"
+    },
+    {
+      "path": "full/m-eurosat/id_16456.npz",
+      "rgb_sha256": "f6bc8cd6b37cb92f9200cfb0fef7a37c2fe1bd0b8263d88b31c5a740ea2fb031",
+      "sorted_rgb_sha256": "21e6b3f5daa4e7127a8394644531453c510d5f6672e223f14ca06382c53d704a"
+    },
+    {
+      "path": "full/m-eurosat/id_21577.npz",
+      "rgb_sha256": "ddb2e5a2776d9aef2e4907ffd63d5bf41dd6bc2816a67acf584bd9622b39455c",
+      "sorted_rgb_sha256": "d662c56a1e8177b914fa028d37efd851014a42b62055f1fbab49287e166b3dc8"
+    },
+    {
+      "path": "full/m-eurosat/id_20669.npz",
+      "rgb_sha256": "1a5d3081489cf393b0636194305489632a5b10e8a982cca702a1905c3cf0fc81",
+      "sorted_rgb_sha256": "79f08232da4f449ad47ea50d70753a0afdf6dd9e9c241aba6c10c9a7d11de643"
+    },
+    {
+      "path": "full/m-eurosat/id_3039.npz",
+      "rgb_sha256": "aa6357232d1c08eb8626b6b0a9cdfd2237b1dfe2bed0563e293e64f56ba1d57b",
+      "sorted_rgb_sha256": "77ff5667eea0aa3f1dc4b81a1333f57973849d2db5601691557958b1f82f5658"
+    },
+    {
+      "path": "full/m-eurosat/id_23348.npz",
+      "rgb_sha256": "75e5a88dfd455936a789ebe78b4092e9c144af2756f879f9a76040da5ec45b23",
+      "sorted_rgb_sha256": "c52da65b35776a9c9a320220149412953869962b908dba3bce857be7103e6d88"
+    },
+    {
+      "path": "full/m-eurosat/id_11488.npz",
+      "rgb_sha256": "e5111edeca28c13b52c58a1b4499a1caeed3f6e79def3912210d808e442af67b",
+      "sorted_rgb_sha256": "453ba63151f55f68727506e888db0b373e25255b9d3e19f85d90ca6955640e4c"
+    },
+    {
+      "path": "full/m-eurosat/id_24433.npz",
+      "rgb_sha256": "071e103b112997750396c81a22009e0d237c96ad8be2423070a88f651152e92c",
+      "sorted_rgb_sha256": "580fa9f2c600afbdc8e06faaca73154b2a88c5df79c7bf738724ea51b6fbaa4c"
+    },
+    {
+      "path": "full/m-eurosat/id_3763.npz",
+      "rgb_sha256": "3be8333229fd1523592cce38a73f4f5b590687ec036971b30a08df51aa42ac57",
+      "sorted_rgb_sha256": "9ed6a65f35cad699007c5f820ecd5f0ec4887509b7577822d0fea4c69d5d20ec"
+    },
+    {
+      "path": "full/m-eurosat/id_2131.npz",
+      "rgb_sha256": "76e1a03b60aa4172905f7b39ff97e89c0411c257ef291dda5dbf208495102f4b",
+      "sorted_rgb_sha256": "00e9c2191190f25858925a92035ae8b141a4326ed0505cefcf26beb90e46a62f"
+    },
+    {
+      "path": "full/m-eurosat/id_1362.npz",
+      "rgb_sha256": "42518bbbf0c5f939738f72982813c73531e8de223e04fc8362a1fe97edba2d53",
+      "sorted_rgb_sha256": "6eaa378c2e2555eaca18e319efbf6c693c907081a559ad7679a8c5ab812e3d10"
+    },
+    {
+      "path": "full/m-eurosat/id_17589.npz",
+      "rgb_sha256": "60bc04e189f106e6670994712a58184bb61ac5a3ecda0086565ac489166230e3",
+      "sorted_rgb_sha256": "213d5d5bcff3cd52e8bda8ca8ac82c12459ef4a69cea4dcc83c2d144d0176a4e"
+    },
+    {
+      "path": "full/m-eurosat/id_19349.npz",
+      "rgb_sha256": "15ff6623298bfbdaf4ba7704f6dc9bc4f81242e3520b1da2f70bf801f31c4161",
+      "sorted_rgb_sha256": "7f76ca1e58941ade3b78b5041ebbe6ef7f868b826a76104e3ccc621744f4da45"
+    },
+    {
+      "path": "full/m-eurosat/id_14679.npz",
+      "rgb_sha256": "6b371856f4ff72db63932bfcde8864387a822266c6506528a53e126f5153fb43",
+      "sorted_rgb_sha256": "910b7d974cb039a38c5e70abb0d683e5e2f5325c829da4c70f5166c213b16b95"
+    },
+    {
+      "path": "full/m-eurosat/id_21198.npz",
+      "rgb_sha256": "deadb218762f5b660a60e4e7af42da21a442b614b1d77b07b7256e8dc2503d77",
+      "sorted_rgb_sha256": "c7b5541b08c6d313a33f6fecebc009c3996e2873d3f57d7559c8dbfc931be396"
+    },
+    {
+      "path": "full/m-eurosat/id_26191.npz",
+      "rgb_sha256": "4401c534e02cdc4d03e366c4638fd6283f451bb19d930cf16432b33e87e8c7fa",
+      "sorted_rgb_sha256": "22dd7f45b1c102f203071c050d6f7585a25a5e6abf1122ae0816e23f0fa36921"
+    },
+    {
+      "path": "full/m-eurosat/id_6545.npz",
+      "rgb_sha256": "b961e34d07ae9ea2de89ba0ce6e7fa7016c6471e3bf54dda619aee9d44aaebe4",
+      "sorted_rgb_sha256": "762f1647c5688d24c3b49832c786e76a7a4bb060f919d6c39eed6de865e45653"
+    },
+    {
+      "path": "full/m-eurosat/id_25301.npz",
+      "rgb_sha256": "1e0f00494a9dfcffbbd715f6aa200486f102f5ea396f7322afed4ef5004fd26a",
+      "sorted_rgb_sha256": "7fdae172f2acceaef31bdaa65da0cbd86bac0c2ea32b9a5b2e1486484ecc2a7e"
+    },
+    {
+      "path": "full/m-eurosat/id_23770.npz",
+      "rgb_sha256": "0cae25ccad6e43d1493d822be0bbdbe2e5b1a0439befa16d4c28d47e36ea0cfb",
+      "sorted_rgb_sha256": "f8a92a3c7b4854b73e9669182fda40d6281c70e3ec782cb1412316758e078332"
+    },
+    {
+      "path": "full/m-eurosat/id_11932.npz",
+      "rgb_sha256": "84a3bbb0bce09f6def02a4d979e684fa3d401396cdd91c6bdcc32f1e738c677f",
+      "sorted_rgb_sha256": "5999ac2f9db71e9e6646c34b016b221edcad36a8f8798dd84baf66da5691d404"
+    },
+    {
+      "path": "full/m-eurosat/id_20251.npz",
+      "rgb_sha256": "d4c132c3013b6728d13a218ce2a045bdfa79cbb99eb05a5993b9eca653b5d72b",
+      "sorted_rgb_sha256": "db9b9a17831e3089774acf187ed6bce919c5127abca2212412e979ab3108ea8a"
+    },
+    {
+      "path": "full/m-eurosat/id_19639.npz",
+      "rgb_sha256": "e8fb65c630f5c5648a406ad1bed20c26f2a2f7206642e38b793cd0cc98fad2da",
+      "sorted_rgb_sha256": "5733f7a6869018d9cb2956e66e919ded960794ce865fc231e436b1f1b861f5f3"
+    },
+    {
+      "path": "full/m-eurosat/id_3830.npz",
+      "rgb_sha256": "5e377b3e02cce4a4990e5eea0f3b63f6f86d34265217613511eb79e9071a0278",
+      "sorted_rgb_sha256": "c1d1a9240a6f92ce1322141722736e575e9006e88276b1e84b15250e6623245b"
+    },
+    {
+      "path": "full/m-eurosat/id_22693.npz",
+      "rgb_sha256": "10fdb33f1ef349a96761bc39b45f4e801dec0d9a216683e737a814011cbc085c",
+      "sorted_rgb_sha256": "51d19b2576718f225180dc32d666ea7310973e54a11ced2671e2edbcc42a7779"
+    },
+    {
+      "path": "full/m-eurosat/id_8781.npz",
+      "rgb_sha256": "9ef028907e9aab7342c8036c7f8b2c656d5e89efdeca5f6ce7c2164408e0a9cb",
+      "sorted_rgb_sha256": "cb33e3f2b1db873346e4d8f4a7d2d618c1a00278f437a4eab6ac25566579f32d"
+    },
+    {
+      "path": "full/m-eurosat/id_25671.npz",
+      "rgb_sha256": "fc2d2988c2d374ded78a0b5826fae3f56a2e719b8c50384852536f30dbc88e17",
+      "sorted_rgb_sha256": "d505cd56057e78414786cda21de13694ca8c638b93a66011655b04d182d2d826"
+    },
+    {
+      "path": "full/m-eurosat/id_21365.npz",
+      "rgb_sha256": "e87ed8b9093a8e640f108c1c468b053d533fb3ea4ce8f827e6bba5cfd3caa452",
+      "sorted_rgb_sha256": "085269f3ef4c2805fbc6bd33e8d9ad7e75aa033919b98d7636f446cbb70ebb1b"
+    },
+    {
+      "path": "full/m-eurosat/id_14485.npz",
+      "rgb_sha256": "1e94fc8efe541db62d03a35a53b65e989ab17133bb52b9f8bac05e8631430e5c",
+      "sorted_rgb_sha256": "2a584fd79f581f45eecd384d8fb78da716105eae36dd2a971a8cdf890f9700fc"
+    },
+    {
+      "path": "full/m-eurosat/id_26351.npz",
+      "rgb_sha256": "46513804a38a74c796a4201843c7e214499832945d5e7bc7da1fc383b2a62f39",
+      "sorted_rgb_sha256": "23d85139527b1c7616a98afd01878b28f408c44e1061ed8be17c0f2574417013"
+    },
+    {
+      "path": "full/m-eurosat/id_22645.npz",
+      "rgb_sha256": "023b805bfc7c3b3bd45264b0bec8bdff6035a55850e30472ca904a7e9507d72b",
+      "sorted_rgb_sha256": "9a7807c00f3aca39e53ba839a7b842877c52567d26b80054ba8e07d7076a19c2"
+    },
+    {
+      "path": "full/m-eurosat/id_1773.npz",
+      "rgb_sha256": "fa0f05f34c1035a1f6e9df0beb9acfa016a110fdeb33185700cb9bf86d1de652",
+      "sorted_rgb_sha256": "dcb5fbd429008d5aff8e4311306be6e35e4466167dfbd1e6eb0208519bbd5c9c"
+    },
+    {
+      "path": "full/m-eurosat/id_24591.npz",
+      "rgb_sha256": "48819dac20f9b243fa32bc7944199c9e2548d1aa4b8f7e475fb776769df7da3c",
+      "sorted_rgb_sha256": "cbb886047601e34b1a3023a7fc42a14af51bbbe330c0e5cf808e44b8f8aa7ffe"
+    },
+    {
+      "path": "full/m-eurosat/id_14308.npz",
+      "rgb_sha256": "791aea96b693aa3df7a84c5757995eaee72a0f6ae015f4e42f346a545e3893dc",
+      "sorted_rgb_sha256": "11560141a3606c14fbfd2fa76e63e56fadefe7014cb0e4e251d0441a0bc7512d"
+    },
+    {
+      "path": "full/m-eurosat/id_24022.npz",
+      "rgb_sha256": "5308d214d6796d9cea5e3fb2971576e441579280305b29071295c7268ed9c053",
+      "sorted_rgb_sha256": "6d95b5b743df4f62dcb0b0ae718a677429a3d8a65e86ab4f17f4bfe643520826"
+    },
+    {
+      "path": "full/m-eurosat/id_13856.npz",
+      "rgb_sha256": "ad9cdf024aa4c5f9b0bd88a2aeabaed5428b843d974c120f041963f6048d43a4",
+      "sorted_rgb_sha256": "c4c0e1c8064cbf8da8bae634a37731f06638c4ca4ff5d6e9488d8b6052df6c6f"
+    },
+    {
+      "path": "full/m-eurosat/id_0109.npz",
+      "rgb_sha256": "a11d802ab10db365222cd240c696f53707fc5f61b3569399c3dc45a7ed1b2326",
+      "sorted_rgb_sha256": "0ea2c405465c9db7296d67950f82413c630e35f905cbb945db1f668029a91090"
+    },
+    {
+      "path": "full/m-eurosat/id_21614.npz",
+      "rgb_sha256": "8744d61eb41c0f0dcc96e03936f9922fe49f3bec129f10821ba30c5e400892a5",
+      "sorted_rgb_sha256": "055a7380e4e46afa1cdb3a72e92c652703dcc251f3c0d9b5dedac598eddc4b2f"
+    },
+    {
+      "path": "full/m-eurosat/id_16721.npz",
+      "rgb_sha256": "f850cc6815efe6902cf06ddb13fea3613c42f9f38d91c8ab170f47af95f5c377",
+      "sorted_rgb_sha256": "e0c9d1735e8fb0d2445288ea6d5cd40d047bc26ad6502c5f00556bc6d7ef93ed"
+    },
+    {
+      "path": "full/m-eurosat/id_6593.npz",
+      "rgb_sha256": "f9b6e036d5b06767227ca3e5bfffe35daa86a9bb3daaaf82822a3e957f6d0fc1",
+      "sorted_rgb_sha256": "8f4ac444f2eaf3d59dd0af5369d7fbc25ef00a54e096b2536347295a73788dcf"
+    },
+    {
+      "path": "full/m-eurosat/id_25506.npz",
+      "rgb_sha256": "35a49a5a4cbe8b18035fcdb1a49036fb0e35562c38b5619f2af2427bb90533d1",
+      "sorted_rgb_sha256": "03a60a81bcf60884868e5d1ea9ab300f76feebb07cbc3bf434fc6ffba75392e5"
+    },
+    {
+      "path": "full/m-eurosat/id_20495.npz",
+      "rgb_sha256": "214103c3a4169156ca5393cb6129128889cb542d721cf5173fd53f5a91695380",
+      "sorted_rgb_sha256": "3b586a9074e1467bb468ed90946c72460dc6e333d06a0cd79ff13500fe562179"
+    },
+    {
+      "path": "full/m-eurosat/id_24432.npz",
+      "rgb_sha256": "9fae2f5c3c6b119aff2bcb5a9a83bf38b88228a4dab87889a29edd8b5c9c4244",
+      "sorted_rgb_sha256": "cad274176fe6d41e14a9262b5d33967349602948bb5ba79c9c592b274328b32b"
+    },
+    {
+      "path": "full/m-eurosat/id_8623.npz",
+      "rgb_sha256": "f52ad6db05153fffd97e0f679e6198b1a0831302daa5b31da25dbd6258a1779c",
+      "sorted_rgb_sha256": "510b9f8f89012c1b9546c3f5a77ff0f7cc487a20e5c2f942535a1748260d738b"
+    },
+    {
+      "path": "full/m-eurosat/id_0519.npz",
+      "rgb_sha256": "aa0fc66e37c375dc24c33ddee96e9fe1318f92df6755b5e15eee4fff5f22b9cb",
+      "sorted_rgb_sha256": "8a7dad80125873a8de72a0bcd30c9919f923822ee1ce407fd77ea644597b268f"
+    },
+    {
+      "path": "full/m-eurosat/id_10973.npz",
+      "rgb_sha256": "05ab47d789e7ede888cc5f894a5bab7ebc5188f40667a15df64dbf12c62f4b72",
+      "sorted_rgb_sha256": "21aa710d462718034293d2ad15e2239ec7406e35904d0b3d3b386daa037b1cf0"
+    },
+    {
+      "path": "full/m-eurosat/id_25076.npz",
+      "rgb_sha256": "5630593e711d45c813c55c5ef7790ccb4a9ad280ce46b59ae40c3da7fb384f39",
+      "sorted_rgb_sha256": "eb72ae7b5e43f4562b9aaecb2e2af51cba80cadc7265e99bac190f40903ed0c5"
+    },
+    {
+      "path": "full/m-eurosat/id_3992.npz",
+      "rgb_sha256": "fe0484235fc777656e1928dbf7d3b25f49ea2be0452bc647b2db93b1691df845",
+      "sorted_rgb_sha256": "4a102d50b7f78316b1435cec4141e91f87f7279149c301ac5463a7a221b90a3c"
+    },
+    {
+      "path": "full/m-eurosat/id_16325.npz",
+      "rgb_sha256": "aabaa977957055d8cb76afd1bc7e9271ad6651949596949896bb463c3729aca7",
+      "sorted_rgb_sha256": "2276d255bc213e050715f1bb33a9d54206a7a0eb7e24a84f9313624d910a567f"
+    },
+    {
+      "path": "full/m-eurosat/id_19002.npz",
+      "rgb_sha256": "435ad43d0405bbf73cdc50fd5759defb0fbc5b7b4a593ecff9b19bc3821b8fcd",
+      "sorted_rgb_sha256": "3200536e139f6f77482c74dfc6eebfd2f7f1b63658661afaaf4cba5151385acf"
+    },
+    {
+      "path": "full/m-eurosat/id_1834.npz",
+      "rgb_sha256": "02e496f1991997ee5f92da43507751f9ee57ae85fbb51b0ebb08a6bf980f481f",
+      "sorted_rgb_sha256": "afc72db5aeccdcb7e83b30c0119e4dfc120e78d3e150eec4abc6805fa68b78a3"
+    },
+    {
+      "path": "full/m-eurosat/id_1820.npz",
+      "rgb_sha256": "dbf39380fc0ec966ac62fa0d0d121d32c04d8255d5b86f97ceed4d2dcb77d36d",
+      "sorted_rgb_sha256": "0f02c3ca383b0a24490a55f07ada9178d3c170daf1c0cf37725d3d364d3e1232"
+    },
+    {
+      "path": "full/m-eurosat/id_17039.npz",
+      "rgb_sha256": "654942ce2a495c48a29a4b4ac95a585edad3beb75f1ed5c73e0fba7b4774c8df",
+      "sorted_rgb_sha256": "8ec72b585745ad76c75b22e136bdefc3f6b7a91a99b861acb654abb7cd8d1a11"
+    },
+    {
+      "path": "full/m-eurosat/id_20695.npz",
+      "rgb_sha256": "356f658f9fc6dacf4e024acdd6098628dd988b31cebe7f7d08aebdf37f94259d",
+      "sorted_rgb_sha256": "b5c54c1b95d44cfc468f6d7444a458e408b13caa23e79042277f0a249d150ff1"
+    },
+    {
+      "path": "full/m-eurosat/id_16327.npz",
+      "rgb_sha256": "b55d2569cd5495b0769a5f11b8e6033a3b66a5fd974953bd241d956da3dd3e61",
+      "sorted_rgb_sha256": "76d8726bc2202d456d5223aed6aa46b48208e27d5278fdc6496f8306face8d15"
+    },
+    {
+      "path": "full/m-eurosat/id_19766.npz",
+      "rgb_sha256": "59ab5e4de6dcd3ac504e1e459f8ca88662e28a2243b157795da51194d431b356",
+      "sorted_rgb_sha256": "0da797cc073b0875168a25126b84e0137449b213775993f285e027b159eef58c"
+    },
+    {
+      "path": "full/m-eurosat/id_26596.npz",
+      "rgb_sha256": "fe331166e12f63554a896c0810b94ca6f37921559bb1e593a4944bacf387f176",
+      "sorted_rgb_sha256": "bf0572d1ba5ed84b209a7eaf6a3e4ac05db3be0186fdfc04ed55793936134e35"
+    },
+    {
+      "path": "full/m-eurosat/id_4033.npz",
+      "rgb_sha256": "cf53baac6fde59afd9b7380ca7e261ce2da129baf3b1168cd0dee443baea9788",
+      "sorted_rgb_sha256": "f2b1c6f490ed33fa5c1240344709826450013ed13ec9299170c4a0e62a061683"
+    },
+    {
+      "path": "full/m-eurosat/id_6142.npz",
+      "rgb_sha256": "eaecb3658cb8e115a02398fc2d96ef4219c825d199bc5ea73b52879fa5a5a3c6",
+      "sorted_rgb_sha256": "27124ec453a153c2c1c6c580fe3cdaecb5f1b45427042f098dcd0ae02e67f531"
+    },
+    {
+      "path": "full/m-eurosat/id_9503.npz",
+      "rgb_sha256": "54117a35c532c0cebfd0497221651fc3cf13ea83e8ecd3b878c68cc4f310cf17",
+      "sorted_rgb_sha256": "f6d9b17f68b8ab45f8d493a8bd76288818a9f2d81a3a0dd2b87b3c4b0aea2d02"
+    },
+    {
+      "path": "full/m-eurosat/id_23834.npz",
+      "rgb_sha256": "344056c77586f8255acf42bada3cfbadcea84760061030cbf870188100e3d930",
+      "sorted_rgb_sha256": "de8ca9a0742fe6993a7744f745ddba6588a16a593594a6360daee5f17e0334ef"
+    },
+    {
+      "path": "full/m-eurosat/id_25510.npz",
+      "rgb_sha256": "e82c5e13fcea3d3dbdf8a9daa0d1f07ba81092622e1422a7d97ea18e90e0cd91",
+      "sorted_rgb_sha256": "84de3f6abf4b81f8e39a6d516c1d1f1ed125bf5e868ceae8da3828b67248e327"
+    },
+    {
+      "path": "full/m-eurosat/id_14929.npz",
+      "rgb_sha256": "49d38940fc943b6a43dea71ae72537f164e78d55788276f686b80dea03ab057c",
+      "sorted_rgb_sha256": "cec3df70126ea57c9d7760a694b792973f419c86ae075e868ebdb1eeb43e031c"
+    },
+    {
+      "path": "full/m-eurosat/id_8437.npz",
+      "rgb_sha256": "b4a66e05389a936d9ebb9aed19751cab625a3aa7e806b3d03a691dbb8eee2216",
+      "sorted_rgb_sha256": "ceb9d63ffb23095900fdecfda6573df256c5810682bbeaa222259fe50fd9f4ed"
+    },
+    {
+      "path": "full/m-eurosat/id_17401.npz",
+      "rgb_sha256": "7ab14127486032981899a7eb0421092a52d8ccc293357f375d9fad61eab57955",
+      "sorted_rgb_sha256": "6f66528dac194c2e32c60293288bed9475baf12243ac7562dd938e41623ff057"
+    },
+    {
+      "path": "full/m-eurosat/id_8219.npz",
+      "rgb_sha256": "990e4584f6daa5a1333e8a1fdabf5a099eeda5b138dcb16ab032b5cee9923e85",
+      "sorted_rgb_sha256": "ad2d09913665866cb5f518320ead1e411880418b2337b4150747e48ac7c8c1b3"
+    },
+    {
+      "path": "full/m-eurosat/id_18929.npz",
+      "rgb_sha256": "f667789ec16cdd3a9a2f885b6f8f17e7a506ed2f8dfe308d66065e97a848cd14",
+      "sorted_rgb_sha256": "8cb75b8223c3ea7e101a026e33ac85b4f78e4f14c4e015649f61987adb5f4f76"
+    },
+    {
+      "path": "full/m-eurosat/id_4437.npz",
+      "rgb_sha256": "3e1a0ba87aa9048bcb80f13be15f2ea938a796fe94ab6c818c8f98376b661851",
+      "sorted_rgb_sha256": "4b446af3d540a7a36ca52f01a235135eae6fa897c6180fd63446ee3e1060fde0"
+    },
+    {
+      "path": "full/m-eurosat/id_24746.npz",
+      "rgb_sha256": "c2d52916f85df6b297e5a3d69336dd30cb07ca34b93e4317c4321a62cb6fbda7",
+      "sorted_rgb_sha256": "10179b92365bc8162e75fc4f117672845afaf60207db1cbd7318984962227a9d"
+    },
+    {
+      "path": "full/m-eurosat/id_22690.npz",
+      "rgb_sha256": "50465e648f02ec4e279071f2a53c997e63911d89e08474e7173fbee917e94abd",
+      "sorted_rgb_sha256": "f2035d1c1589786fc0b2f6d756752b9afa31f1836a2adc6371a38b16ec0b58b2"
+    },
+    {
+      "path": "full/m-eurosat/id_25100.npz",
+      "rgb_sha256": "3f8e527b8afdf7c1fbd036a265785fe16089ff9a21a0541215cd2a54c94ac260",
+      "sorted_rgb_sha256": "4f99269f57f672d61be9624a472682d993783c471adebf83a0e4339fa34b212f"
+    },
+    {
+      "path": "full/m-eurosat/id_23203.npz",
+      "rgb_sha256": "f5a7b3c4d729039b4284d39a69b1a17b92a921edbcdb2dfe3215207eb64108f5",
+      "sorted_rgb_sha256": "98a7be08b380a328836e7dad765bb17f56c0b8e3fb57fe986618310095bf1e15"
+    },
+    {
+      "path": "full/m-eurosat/id_8755.npz",
+      "rgb_sha256": "7e62157b6e79376ab9228a7f3d528f784c69d086485a4e5b9b17fa5c1be34521",
+      "sorted_rgb_sha256": "32933d11630b3555c504afbe2cb0c2ecfc3bc0db7e53e2226040240d299bd039"
+    },
+    {
+      "path": "full/m-eurosat/id_25897.npz",
+      "rgb_sha256": "39d337e8ac44e01d15028b5cb3e0e638c297f86c4f0853fff8066ef4961bf6f5",
+      "sorted_rgb_sha256": "75f588f66b4bc4c3d0c9040747f1a195fcb13433d291633ae235e548215e3b52"
+    },
+    {
+      "path": "full/m-eurosat/id_22120.npz",
+      "rgb_sha256": "2297a2d57eeb2cf4e319e2eb5a61cbe1de2c312f2b815a43f5ec3573aec8f828",
+      "sorted_rgb_sha256": "80beaa81c22e1829172f9c005c533063e961c0699be7372eddcbd844b5ee4061"
+    },
+    {
+      "path": "full/m-eurosat/id_3601.npz",
+      "rgb_sha256": "92e7d267c5574aec2aafc8cb0559536f86bf5d1b0f1d54554aba992d73927e66",
+      "sorted_rgb_sha256": "0dc0a4f73ff59482631bb587fce466900944bc403bd60ec3925c98f3471fe954"
+    },
+    {
+      "path": "full/m-eurosat/id_20051.npz",
+      "rgb_sha256": "657eb5579f380061897805a530b0243ddc62a5bd46b9f4235699c9421f44c9f9",
+      "sorted_rgb_sha256": "79836bfc8c61faf7548832dde77d6d44ad466e7821001dfd905214fffdd6f04f"
+    },
+    {
+      "path": "full/m-eurosat/id_9338.npz",
+      "rgb_sha256": "d9e359e0b0c86e9f2b4e1d2d885bc35f7dfa56a9ef4df4fa6b0500d30cd7e499",
+      "sorted_rgb_sha256": "59b560b6c3c9c938a91d55f8f18f337fa3339059cec5db01cc53ae9b2bb560af"
+    },
+    {
+      "path": "full/m-eurosat/id_21367.npz",
+      "rgb_sha256": "f30c2ebfb1e93cea89680644f0e29e2e6ec382b4cb59862a1a78800e784446e3",
+      "sorted_rgb_sha256": "ae301eb54675e6fa0aa9210242e62429aa25116be02b05c8badb6406aed5c874"
+    },
+    {
+      "path": "full/m-eurosat/id_7329.npz",
+      "rgb_sha256": "8aedb2d64a283649dbcd6a61d06164fea0ab5585420e59669c1e125a8848eb51",
+      "sorted_rgb_sha256": "50a8dd3a9e6ab32c9c2292dcf367b36d53137241ced2a0f49d5807bf10a0eb44"
+    },
+    {
+      "path": "full/m-eurosat/id_19613.npz",
+      "rgb_sha256": "11669df455575f97f390416206aa981c12741ffdc0a7f70649379e62b7088a27",
+      "sorted_rgb_sha256": "1fb9025196619f25acfe381d4e688adfb7a2dca0767ca725c05682c0fc9bf512"
+    },
+    {
+      "path": "full/m-eurosat/id_18257.npz",
+      "rgb_sha256": "df321cf05c9da68a958a9ea7cdd476c4b31092e48e38fd8d5d56d4e773ef6ce9",
+      "sorted_rgb_sha256": "4e81a30743356e9e2ce6e06b3d9d95fe73d6fd0edb10e1b299d4fa9dce8b0722"
+    },
+    {
+      "path": "full/m-eurosat/id_24035.npz",
+      "rgb_sha256": "81ac47cdda4e533da5b473bc0848e39d29436683fa858863128221d4763f7ab3",
+      "sorted_rgb_sha256": "e55f40e347dc9b172622cf3a90d174f582aac153381545751582bd37f2819e04"
+    },
+    {
+      "path": "full/m-eurosat/id_23028.npz",
+      "rgb_sha256": "8a9dc80a75e0a0d1fd895d721a0d2748af0b3907a3b07d8ce9cbede78c4f73fa",
+      "sorted_rgb_sha256": "dea61a6ec462212b816f1af8b53cea717fa1fa964e074acdb11801d231f72230"
+    },
+    {
+      "path": "full/m-eurosat/id_25317.npz",
+      "rgb_sha256": "2d0802397bacf1d731438cb69f9afda5eaba4986a6e432f7790b481db0028eeb",
+      "sorted_rgb_sha256": "ce6cd2f0ebc8d525b14268ca169f54e9e1367cdc0cdebeb2f9ae8d443d258a45"
+    },
+    {
+      "path": "full/m-eurosat/id_18928.npz",
+      "rgb_sha256": "b08957b85325736589704b3b2a5bb59449c59f60b3ace4d366ad9ca1e4c6a924",
+      "sorted_rgb_sha256": "ebdade285d9ebd7e9af24770600672ce647ea72e4e5f945e4ddc579c1b43ff8e"
+    },
+    {
+      "path": "full/m-eurosat/id_19405.npz",
+      "rgb_sha256": "ab8008693eebe086990ddfc83bc2497e81e37aab0962be5302fe968cc435c6c3",
+      "sorted_rgb_sha256": "6cfb3989d4eda2ce440907c01b830dd054f530e057d67ee81f0cfaaba34290b5"
+    },
+    {
+      "path": "full/m-eurosat/id_13896.npz",
+      "rgb_sha256": "b6c362eabf184871ee6d8ea0062ff378d3a0bae1c31a8110a2ef7a46f12aeca6",
+      "sorted_rgb_sha256": "b6d5c316fdd57cf0972492cd5433b712d2a27619a2807ae8f9babf2748c4f4ca"
+    },
+    {
+      "path": "full/m-eurosat/id_3239.npz",
+      "rgb_sha256": "22c9cdf5c226a0f869f61108b39ab271dbc0878d42363241029ab4b677293ea3",
+      "sorted_rgb_sha256": "e3d66f838c59503e5b0d608e76c7f2428f565bf09b1fe6d867b0a1c5bac74e82"
+    },
+    {
+      "path": "full/m-eurosat/id_1348.npz",
+      "rgb_sha256": "59bac3e728c1676ec01f65975e2a1406bd556cd5d452f2f1d4617f746af96c95",
+      "sorted_rgb_sha256": "96fcb557b86342d84f0c18263e5d4829edec566854c1c20cff57336777f3e832"
+    },
+    {
+      "path": "full/m-eurosat/id_23606.npz",
+      "rgb_sha256": "5884c5d53ad8fc67449b1b2d236c24997fc9eeb24d4b632976efd359082294d1",
+      "sorted_rgb_sha256": "72b6734375399a5c2a23f9e5a54429acdd8fb3b661f1c469106353347444767b"
+    },
+    {
+      "path": "full/m-eurosat/id_20482.npz",
+      "rgb_sha256": "f1a90a5eb349eb636972ee845ee1f9dee7825f2476896aa4bc8a244a0a3fcaae",
+      "sorted_rgb_sha256": "ceec8138690dbc4fec08225281eb45bcb53847e188fe004c1e529911c9fe31f9"
+    },
+    {
+      "path": "full/m-eurosat/id_18121.npz",
+      "rgb_sha256": "72d54c63e98e670c75a46393976e468020d7ff96c4dd5d40ca79ada45131bed0",
+      "sorted_rgb_sha256": "9b5d54ee56547c22eb6c641af42dcccab6bc58dfe0345f1cbc8dfbb232956d89"
+    },
+    {
+      "path": "full/m-eurosat/id_4768.npz",
+      "rgb_sha256": "f2940e4de5de5df9ed28a541327212475c3da6d5547ae99a28fcfc891e228f48",
+      "sorted_rgb_sha256": "e47b75a4a55a45b7962d743c20b0487cb3c3ba4029aabd1873ae712d31ba179a"
+    },
+    {
+      "path": "full/m-eurosat/id_23362.npz",
+      "rgb_sha256": "a03a5ba7d41290803a6de287abbfb264bb2d9edb4784899e31d98658109e27cf",
+      "sorted_rgb_sha256": "be55140a7518e1bcabafd267a58d2362427d2f6ab1c879aae471546f76cbcbcc"
+    },
+    {
+      "path": "full/m-eurosat/id_16454.npz",
+      "rgb_sha256": "f16b814808f9e8c75d0d5a3328db443c18f4d65c8cfef5e248a96f8773c1a238",
+      "sorted_rgb_sha256": "382f6eabe281d421c67e41896c06b3a8dbd11127be597601f450bf5b8b883ba1"
+    },
+    {
+      "path": "full/m-eurosat/id_24394.npz",
+      "rgb_sha256": "aed0c0959c1413345305a5674dc14bfadf817d1c804d9d1191de599e067ab061",
+      "sorted_rgb_sha256": "2858d7712098e33efea81fc058fda3983e61e683a00b52868156d04ab28fcca8"
+    },
+    {
+      "path": "full/m-eurosat/id_13276.npz",
+      "rgb_sha256": "14d079aa6de41532a2a01adf74f5fe6c878792206917b93faf092f5bdf0faa6d",
+      "sorted_rgb_sha256": "5f087747fee9cf9c4300b129910bdc31a1e424de77c9473df1853d54e8575e08"
+    },
+    {
+      "path": "full/m-eurosat/id_8195.npz",
+      "rgb_sha256": "5f164309a43f0e6ee76c6f393e27458d9f0420e19a7d090e35e8459286530e83",
+      "sorted_rgb_sha256": "756dd3a85517172e7e9fbeefcc57b854d0d841f09dc06c9422b006c4d459364c"
+    },
+    {
+      "path": "full/m-eurosat/id_16336.npz",
+      "rgb_sha256": "8dbc35e22c75a947dc21db5ee2b9524fec68ddfd1f9c3ef4973ec003ecacf41b",
+      "sorted_rgb_sha256": "2ecf87008a799018bdc595d99cde58cde1ef3324ef05c9504c3588159fd0e3a7"
+    },
+    {
+      "path": "full/m-eurosat/id_2490.npz",
+      "rgb_sha256": "0bc1947ae86b67a19aa3fbc521ad8aa08cf120d06060c2ef5029b3f57ebabf19",
+      "sorted_rgb_sha256": "55f5937470345b09c336a5010424f5e085f6795c51de0ee04aec7b4a0db99c6d"
+    },
+    {
+      "path": "full/m-eurosat/id_6190.npz",
+      "rgb_sha256": "0705a61f329253dc1894abba05079166aac612cd013126a56ce0dc8ea46908ac",
+      "sorted_rgb_sha256": "c80cbea0132b46935580765e89796f489e812bf8ff4fb8fd02566ab1c90f1ff6"
+    },
+    {
+      "path": "full/m-eurosat/id_14284.npz",
+      "rgb_sha256": "f96f6cfaa6f56ff544475965823b70e0750afddc370e2759e34affcc1e1407de",
+      "sorted_rgb_sha256": "1f57ab22eab8f22bdc88605ca9340ff8fccdc20c786a9aa03b7d1dc6c1c5e1da"
+    },
+    {
+      "path": "full/m-eurosat/id_21571.npz",
+      "rgb_sha256": "a8a7e2f1ca7c1a47c5ce99d482186c950932c33f9f40063f2465d20b83065c1c",
+      "sorted_rgb_sha256": "a364ce0dc61ac8ac8832e4afb74970d60523b9d6f522a1cebea760d1a8bc4213"
+    },
+    {
+      "path": "full/m-eurosat/id_26578.npz",
+      "rgb_sha256": "e7747552bb1c5f40d3e845768c8233f7726fc8f5dd3ab7602fa630c424b2fced",
+      "sorted_rgb_sha256": "a525e47a7c6c1a082a83d5b94a346a7162026bcf3fa142b52c2cc133fe9782d8"
+    },
+    {
+      "path": "full/m-eurosat/id_26785.npz",
+      "rgb_sha256": "d50a04f65c37d6beb17e1864e0713771a984b327fc25c0c77f7c0b3d44b3d95d",
+      "sorted_rgb_sha256": "949bca21f51c0e020780a76a113516dbd3bd8a75994ce89fda4a5ab74995f72b"
+    },
+    {
+      "path": "full/m-eurosat/id_19561.npz",
+      "rgb_sha256": "c8ef925c250b864403fcb0863cfcf83c04f248ac4acbe685c52d669887c5c8fa",
+      "sorted_rgb_sha256": "f77190078aeaf2cfd6e08b5527ee32f7851d8922164149cd6af461dd49e8752a"
+    },
+    {
+      "path": "full/m-eurosat/id_18870.npz",
+      "rgb_sha256": "078d51a598979836aa5bd4dd937837c53a424db17d3baa02890662f4edcf19ca",
+      "sorted_rgb_sha256": "c44b5b3ff8c7383ac16a80dd336118384b358ffc6848848ed016746e622371d5"
+    },
+    {
+      "path": "full/m-eurosat/id_20337.npz",
+      "rgb_sha256": "b0d7dc072c18e0475e5fb5188b51e4b814c70fbce2b04af05cac21abf88a2eba",
+      "sorted_rgb_sha256": "d3cb4e48626d70c7daac5fdef24a81dcd09fb4a45d82df4d6043cac92edc99f3"
+    },
+    {
+      "path": "full/m-eurosat/id_14092.npz",
+      "rgb_sha256": "3183eb27dca970dc82c143d624e5a77702aa1b9c3a40983ac579d5c326450367",
+      "sorted_rgb_sha256": "9014503eecb0220295e5598dc0195ab3ffdf177ef297fbe8e16789f14a23197c"
+    },
+    {
+      "path": "full/m-eurosat/id_22246.npz",
+      "rgb_sha256": "f296666d3a1703e6ed75ce6bf7b06e46dcc8619abe05bbac4cfeeef2e0970fac",
+      "sorted_rgb_sha256": "a26eb3199fdd332f37fd9afa177857478771617664b779e3881e1325d1a23025"
+    },
+    {
+      "path": "full/m-eurosat/id_23158.npz",
+      "rgb_sha256": "c668d1f9c9604b0e2c98817699970be9aa3bd380d976418f48014569ca33c90a",
+      "sorted_rgb_sha256": "cb54457b5c8ba57030b376d013b9c11a2b4e959e365e96dde8dd148d74db818d"
+    },
+    {
+      "path": "full/m-eurosat/id_16849.npz",
+      "rgb_sha256": "858c4e9fa76e775c48f789e7f257fdf1865da1a662790582751ea4b573564b0a",
+      "sorted_rgb_sha256": "c1524a6cdc1150743d9926c22fcfcae9fbe54237b4720d151ca27506e5a65c65"
+    },
+    {
+      "path": "full/m-eurosat/id_22508.npz",
+      "rgb_sha256": "0977dbe7bfdb6cc4426c4c860ca673e39b0dda6c384d5b8492e6d848dbd85c3f",
+      "sorted_rgb_sha256": "54ae8cc4d28f55e6e24ab4cd5ac6fab10c76876259bbb333cd8b0d3217d0d7c9"
+    },
+    {
+      "path": "full/m-eurosat/id_17404.npz",
+      "rgb_sha256": "ddda7537552b7f894347d59207e4741f7a09bed949e6877583deca28fe336315",
+      "sorted_rgb_sha256": "272bc47bf0057bc4a8e3cdca1e352e10be08d6e156408a1d73876f932e27930f"
+    },
+    {
+      "path": "full/m-eurosat/id_1210.npz",
+      "rgb_sha256": "2936e218fb880ff5e42df40c677f7e5b8ac7a9772b99c248c2df67b927c6ba23",
+      "sorted_rgb_sha256": "146609330ac9dd436859f73b18911e6fbb37fbf6320554f764724fe3aa698266"
+    },
+    {
+      "path": "full/m-eurosat/id_16242.npz",
+      "rgb_sha256": "36c3e9cd72c18c7e88ddaa689b142c1237d7af73697a75b8dd1dcef69243cf73",
+      "sorted_rgb_sha256": "90dbdc3f8f198337df04a7a7cedc16faace4a58b7b56d1352f560442d027f415"
+    },
+    {
+      "path": "full/m-eurosat/id_3836.npz",
+      "rgb_sha256": "4a828425ef4ad4b23863f4a2832f6136829f8e92bfda0df5806563e0ca301bd8",
+      "sorted_rgb_sha256": "d9caf3f8d598cec96afcfde7769561bc07683636550bb162c4de12c8e93f6107"
+    },
+    {
+      "path": "full/m-eurosat/id_20727.npz",
+      "rgb_sha256": "3b7a4501d3cdc86dc1b17be035a108c81f07fbe236d22cb66bd5b92494900277",
+      "sorted_rgb_sha256": "bb9ece6b8551ef479d058364762fa3b81b3040862dea547c50faf7899b96b746"
+    },
+    {
+      "path": "full/m-eurosat/id_26430.npz",
+      "rgb_sha256": "485da22889e69091a1a2f49be5302ec0e1ef8281d40fba691f3cf7a0798c7760",
+      "sorted_rgb_sha256": "8ba15b52a7d36821e8f870d678da318591dd4fe71c77eed39e92dd42ec58e64e"
+    },
+    {
+      "path": "full/m-eurosat/id_3611.npz",
+      "rgb_sha256": "bdf7123824319ead70fbd25ff08595a77fc327aecaef7e151283072abaa1bfce",
+      "sorted_rgb_sha256": "82c3aa29c9acfcc7b47ff08c49af9be9e128449b3172c9af1a40e9ecbb641297"
+    },
+    {
+      "path": "full/m-eurosat/id_6033.npz",
+      "rgb_sha256": "e167a9ef0cac65de6841630f7cf490fc423ca0b4457101a1f1828634f86b80b6",
+      "sorted_rgb_sha256": "8b70f0076d79058b2772934a06e9a7594107cecefdbecf9b1380bd98601abcf4"
+    },
+    {
+      "path": "full/m-eurosat/id_19830.npz",
+      "rgb_sha256": "e8b824e9addd93183cdf1b42de53bb7982299e3f030085869e5282e210586184",
+      "sorted_rgb_sha256": "7042061e8236ca233544a6c576ab2f8d5e45b690b2b813aff4807941de9e3b3f"
+    },
+    {
+      "path": "full/m-eurosat/id_26343.npz",
+      "rgb_sha256": "87dd5546a53fcf730185ee7921208c545cedb1ea242a21b22f5cb98f96668ed0",
+      "sorted_rgb_sha256": "33232f642a829c182fde5da8d176c4621459bda3d6ac97c3dd419309103e1606"
+    },
+    {
+      "path": "full/m-eurosat/id_22657.npz",
+      "rgb_sha256": "786d8d7466aecebff5cc666aacb40591f4969761a5098c19eba55c7c3424a166",
+      "sorted_rgb_sha256": "df438e7ad8b67068da780a5388321399a8fc79f18103cee83d29ab149c68dba9"
+    },
+    {
+      "path": "full/m-eurosat/id_18534.npz",
+      "rgb_sha256": "44dfe6a47ac7ea9b6b7a2113f623b9c5590daeb005766b912cf40f521d756dce",
+      "sorted_rgb_sha256": "035a95659a690b4c5ab6ebab4fa4b35e44f08467751790b1ee0fa64951c918c6"
+    },
+    {
+      "path": "full/m-eurosat/id_15762.npz",
+      "rgb_sha256": "d9a67250297ed29c0ebbc7a8f637d405ed2797b2a6bd35f01993fac08fc4fe19",
+      "sorted_rgb_sha256": "fa0895f8ecb80a22cf72d02fdee512f2312f90c9004786017e44b40ad29b6e84"
+    },
+    {
+      "path": "full/m-eurosat/id_20901.npz",
+      "rgb_sha256": "25829ff690b944499acc7d7977f69139059248045778ffdef1dba94db8505075",
+      "sorted_rgb_sha256": "4a6e718fb21c6a33f36604a2a4b183b9dc80b8bbafeb3ed57a30ed7851b9396c"
+    },
+    {
+      "path": "full/m-eurosat/id_25460.npz",
+      "rgb_sha256": "bd09d3943f095a951088fe6f0e7c01b0f37816acefb1d1eb9a279932fbe32fa0",
+      "sorted_rgb_sha256": "89051c615ea79e3c0162275323cb7125221926a99f993e0f90f96edd5b340e82"
+    },
+    {
+      "path": "full/m-eurosat/id_1205.npz",
+      "rgb_sha256": "fe583f6540296da5f81a0f456a5041fa24027af8bffdf8dcb848b49d5c9fff78",
+      "sorted_rgb_sha256": "5aca17593b5811b7f28a368204af0bf82a884ddc25224646cf8ef347784be715"
+    },
+    {
+      "path": "full/m-eurosat/id_12596.npz",
+      "rgb_sha256": "9899f01dfac2246023f9692d76f1680ead0be99391d53095a1c844ea231b9cc9",
+      "sorted_rgb_sha256": "be4a087cb875943487b23d4f586c8f0ce7bf2f6f40df85f05c6176db067dcdd9"
+    },
+    {
+      "path": "full/m-eurosat/id_18905.npz",
+      "rgb_sha256": "73a0c93326de81cde67884edcbb12c559554da007cc5f9dac6837d3a6b480d0e",
+      "sorted_rgb_sha256": "1f8f226ef9d9ee895027f15f2eb7f895277c81edd0fc4bd6653b9fd333533fe2"
+    },
+    {
+      "path": "full/m-eurosat/id_18736.npz",
+      "rgb_sha256": "b2147e01a9a8909d4d98cf50b51dd4bfc8d82c2c17e07d6dd5f571b4246b972c",
+      "sorted_rgb_sha256": "5224931fc70036920de204b98e52d4ec72fd6c682e656b84bb77493a97d9a94e"
+    },
+    {
+      "path": "full/m-eurosat/id_8584.npz",
+      "rgb_sha256": "8abbcd3a56739f3771e4ff68b78f4db521027ecd9a31cc0334ff6d79762c8f11",
+      "sorted_rgb_sha256": "f235add799147c28e58929550dfb8aa3eba05dda12bbbb8f4e3f8e8fb37b4b1b"
+    },
+    {
+      "path": "full/m-eurosat/id_14642.npz",
+      "rgb_sha256": "92d8b2e489200490d85929d7f04d66a64cdc99a074e26c13b58241a9cbcab01c",
+      "sorted_rgb_sha256": "627bb7d652b18fa3b2bfe66813b248863abe65321c6c7bc2f63491d7b12356cb"
+    },
+    {
+      "path": "full/m-eurosat/id_26035.npz",
+      "rgb_sha256": "3aaec41dc9913cb41483feb4d1049337449e8ea68a9125b789eaa645096619cb",
+      "sorted_rgb_sha256": "180bda16368a96fa9c5d329b76a69fffcdf2818d098ec6dd84bcb3832bdccd97"
+    },
+    {
+      "path": "full/m-eurosat/id_20322.npz",
+      "rgb_sha256": "1a734344598bf703d30db80f671f89e6e5a38ca6cc4e3bbb55ea5e51c7b86f04",
+      "sorted_rgb_sha256": "1ea246c07d55fabcf25d23ece1336e51273e7e905b92a8e1ab629933cb9152cf"
+    },
+    {
+      "path": "full/m-eurosat/id_13924.npz",
+      "rgb_sha256": "efbeff89783996366e8bf48fed27a9c22a779442a9b01ba4bedca63e8d7f67ad",
+      "sorted_rgb_sha256": "7af7fe22532aa15efd8284cb03d2229ea60020e7b2d7b2807739c90ecb0f5f95"
+    },
+    {
+      "path": "full/m-eurosat/id_16684.npz",
+      "rgb_sha256": "6797ba424836a76f135378307f180f038e6089b17842eb6fba4ef8d3bae55d15",
+      "sorted_rgb_sha256": "bf8663d8bc45ade62dbf218153e05ef2c0cbe730639177dbca6198d973c35335"
+    },
+    {
+      "path": "full/m-eurosat/id_18118.npz",
+      "rgb_sha256": "d71cbaaa20a6e10bd8443d720564824531692d99ec6208caa13d2deb60e17bcf",
+      "sorted_rgb_sha256": "f6288026295173e652b1102d4f9ac27e21354502199c6e3b37f5a67c5dccf957"
+    },
+    {
+      "path": "full/m-eurosat/id_12435.npz",
+      "rgb_sha256": "c77934c93dae7238a085c8b81a3cf8f9e485a8df22e9aa63fe16855f185d550c",
+      "sorted_rgb_sha256": "45077ebd4288ba07d282aa06701f89b74de27b96f8c29b0961e00fb17fff43c9"
+    },
+    {
+      "path": "full/m-eurosat/id_9507.npz",
+      "rgb_sha256": "ab12255eaeb0e85cb2da9342ce305276ca47db47fee33af3783e23a5e69bf6fd",
+      "sorted_rgb_sha256": "afe8f9897298e4f66510ed1928e1695cb4184abbc1c17acaddc5b310ebe5ba9b"
+    },
+    {
+      "path": "full/m-eurosat/id_26223.npz",
+      "rgb_sha256": "81c7adf027211492aa83f34b226915d491c40dc835492837a8ff01f89a97f75e",
+      "sorted_rgb_sha256": "f51e98e941b3777a1b0ace0dd0f6eae2434a28af5edfb67ec3ff63f083555a86"
+    },
+    {
+      "path": "full/m-eurosat/id_24393.npz",
+      "rgb_sha256": "bb2b7389bc51e530b73bda0124f5b5901f72e5705da88a007e5ad10107e86321",
+      "sorted_rgb_sha256": "296441670b8eaecddcf9f687a025a7ed4499d30f1b82d47b08478af6eda6c6bd"
+    },
+    {
+      "path": "full/m-eurosat/id_0284.npz",
+      "rgb_sha256": "b0c1dcfc547f9c65e01c5c5424b1a6cdab576179945fdff25c0d8bd95d0aa48b",
+      "sorted_rgb_sha256": "951844912c42e412c88375daa82b2cb20b52f19623f2b5e43373d4b3c8196669"
+    },
+    {
+      "path": "full/m-eurosat/id_22906.npz",
+      "rgb_sha256": "f89f07e002510d4b41c4f71ed21849dde0854eaeb9390e73ce4d1584fa435bc9",
+      "sorted_rgb_sha256": "8a0034a59ba12ff850f2c397503346cf7891899e5e666c943711ce3b9d4f390a"
+    },
+    {
+      "path": "full/m-eurosat/id_9511.npz",
+      "rgb_sha256": "2bfb2373f1fcc6bc3c24f2888c65b6b3f2c5a3e46b66a158fe0eea3e33ae23c6",
+      "sorted_rgb_sha256": "15d26c72721f7af1e3da8fd27c01a8b4c51fdff3da7e017012a205c5adbbeab9"
+    },
+    {
+      "path": "full/m-eurosat/id_23832.npz",
+      "rgb_sha256": "85187770c9421c2e31df98c1ece6a37ad5224635cb23548122a574f9e6303a65",
+      "sorted_rgb_sha256": "8138014a8f413182bd1beb3258ddc17eafa682383219c4df9da2c5471d544874"
+    },
+    {
+      "path": "full/m-eurosat/id_9908.npz",
+      "rgb_sha256": "7414a32945993c0e4e4f43cdf36002ec1a84988babdc497d9cd115b3d9d0affd",
+      "sorted_rgb_sha256": "5647adeb22a9c817d806bba1c1e288395969f59fdff9bd470b25e9f68f1df304"
+    },
+    {
+      "path": "full/m-eurosat/id_20446.npz",
+      "rgb_sha256": "70102687b3bf8affeb8d676b148f52867626c591c7c696bdb191dd72030aa120",
+      "sorted_rgb_sha256": "ed90264b98b52e3cd1ed834e2b7b77e7a3fa60b3c816c1ebdb8a77011482090f"
+    },
+    {
+      "path": "full/m-eurosat/id_26023.npz",
+      "rgb_sha256": "be7ad22b441e5baf4bd17122ba5ee0108b559cb2c818407d49b9b7741425d5cf",
+      "sorted_rgb_sha256": "694b354cc1038c267edb24e6aa4c51e349fab92765b5e554af6c6d9c508712c7"
+    },
+    {
+      "path": "full/m-eurosat/id_2652.npz",
+      "rgb_sha256": "2cbe618cc743bfa0243c1302b9bd45c61aeec1ebf6be0afc5f872241922ba0d0",
+      "sorted_rgb_sha256": "03f64b2d0c1ebd6b12fca6f40958ec39706d96e8694a57d2323efd177efb725a"
+    },
+    {
+      "path": "full/m-eurosat/id_3558.npz",
+      "rgb_sha256": "938dc25475efe1c41efcc2004b95c0d37301fb2c2a98438da5a34175a5b164d2",
+      "sorted_rgb_sha256": "67aa82b107e73aa2cc29d859c6a06af20feb12f720761564c9681ce2213be943"
+    },
+    {
+      "path": "full/m-eurosat/id_20308.npz",
+      "rgb_sha256": "32ea4cb8278e11cc97b4589b61628261fce74db30eb3e16d6bcaeb13035ef1e1",
+      "sorted_rgb_sha256": "16f9adccd8fc2d5efee9b730d600975bb0d131ebb172c27a51018bb8ac164a76"
+    },
+    {
+      "path": "full/m-eurosat/id_23952.npz",
+      "rgb_sha256": "7fc55ef6f077da2971f9745e96056e3aa6ce36fb09889c44ef00de2c4d7fc901",
+      "sorted_rgb_sha256": "1d096b666dceed3f11d288264cb8f7c29d8a2f6aaa907939e9242cb7dc643e0d"
+    },
+    {
+      "path": "full/m-eurosat/id_19402.npz",
+      "rgb_sha256": "6f61cb74947b39ab7e9f5a867320196547179da58b279b3649c9940f86dec167",
+      "sorted_rgb_sha256": "66574393b964b118f451a2d3b2370312a4f31d66694154c9fb24db6ae0e7eef6"
+    },
+    {
+      "path": "full/m-eurosat/id_19358.npz",
+      "rgb_sha256": "c98b777c683a5b1e8fe50503f676a27742776e4b1ed27482c810928cd03a922a",
+      "sorted_rgb_sha256": "d92c5e061fa1e9f76aa92c4332e441600da2601462738d3285757555beabaddb"
+    },
+    {
+      "path": "full/m-eurosat/id_18720.npz",
+      "rgb_sha256": "90f81e0a2d6458976807cd4a9acd41078f5185d95c5471cbc133a457ceb3979c",
+      "sorted_rgb_sha256": "f122bde46f5de3787171f3ccee7eec631aaf0a5ee84df3ec7f3565ebfbbcad5d"
+    },
+    {
+      "path": "full/m-eurosat/id_26631.npz",
+      "rgb_sha256": "5d4de78869bfd459331666606e5a13869c1f9494f7737ba0f35c8b2da467d64d",
+      "sorted_rgb_sha256": "27a15862a900440bcb89ffce81ca767fbf1698d0d8127c53cb47aac00a48a749"
+    },
+    {
+      "path": "full/m-eurosat/id_18091.npz",
+      "rgb_sha256": "a3524107848baf35745a9980c07bb5e8cbc3eeb9c621e3d1fbfe3935f93ba4a8",
+      "sorted_rgb_sha256": "cd9233f3efb7f78d01f450fd1211fc1d81fc1445338480c560773bbd9eb8273d"
+    },
+    {
+      "path": "full/m-eurosat/id_9667.npz",
+      "rgb_sha256": "5b68e4bf0dfb7526586f7741c500961fe77e2bde0b4f0e95de18bfdf9bfbd915",
+      "sorted_rgb_sha256": "ab2e98efb4a9c529f40f95e4e3decd83723738e3639d2f64a0e43170baaf5ef0"
+    },
+    {
+      "path": "full/m-eurosat/id_16241.npz",
+      "rgb_sha256": "baa4b0cfd32fe12c5c12daaa68f2dfcd0d8965a70cf1fa930aa6ef2fcd2310f1",
+      "sorted_rgb_sha256": "5680f3589f2450fc6404c80d1cd8bdaf988be2ee7e66bc83ee2cad69bdcd6020"
+    },
+    {
+      "path": "full/m-eurosat/id_2281.npz",
+      "rgb_sha256": "bac496a1c24d216dbd7e86ff17a06cb5962f4a431a1222d2aaa5b04f5ca3c1ce",
+      "sorted_rgb_sha256": "b29fdc6880e01ba6327f167a4c532222ef75adcf6d2cffc4cd03d6904231892d"
+    },
+    {
+      "path": "full/m-eurosat/id_20917.npz",
+      "rgb_sha256": "16f37fadf8b1b21429d842d3b290b2e942a37acead2c30d6ae267f2bcf98449e",
+      "sorted_rgb_sha256": "675b084ed1d7115f6db754460de3567cb9f74b333c2843266fea8bf68a37142b"
+    },
+    {
+      "path": "full/m-eurosat/id_18536.npz",
+      "rgb_sha256": "e7b405f5b041be3ee8ba92d90bf467b73a9bdce056460243f72e2504c8963f27",
+      "sorted_rgb_sha256": "602a30a378bf06fed2ca5ccb87897e678e1062b075e2e886c1bb2d3effc4bee6"
+    },
+    {
+      "path": "full/m-eurosat/id_17177.npz",
+      "rgb_sha256": "8e0a5eeba56c145470813a07466d74c6e5674b2a7b05d2c683ea69d638389fcc",
+      "sorted_rgb_sha256": "f12464246b15fcd7467ef73580ab9cc26d6fdc0d545e0f8298c16110b47dc091"
+    },
+    {
+      "path": "full/m-eurosat/id_7474.npz",
+      "rgb_sha256": "f6dd70da0242207d99445b93032421ea849a17d8aef03a9e8d3a84d2ed34b7bd",
+      "sorted_rgb_sha256": "9747440aa7ed6aee32c13b1ce1653a1e5b2980a6877089ecf81e58c33c7babda"
+    },
+    {
+      "path": "full/m-eurosat/id_1005.npz",
+      "rgb_sha256": "935cb2a11b2e9ee02eaec5ec9aa0d184777c63f9f20c64619d9caa3e7e93c80f",
+      "sorted_rgb_sha256": "8d46c11e07f854f0338f314acd1acb806c9476b19b6025a0e079c169a28a3287"
+    },
+    {
+      "path": "full/m-eurosat/id_3612.npz",
+      "rgb_sha256": "e289e62e0b6736c794405dbebe8fc5acb7eb9ea7480e8ed5ccbbf0c6f1bafc78",
+      "sorted_rgb_sha256": "fc6d3ea970ddf1702d5f00e2957d49af8c28e34d8a63b91c74ae55a808033185"
+    },
+    {
+      "path": "full/m-eurosat/id_12966.npz",
+      "rgb_sha256": "a379fb0be88426135b588355616fb95079045e5b524c281da755c8b3e7feb291",
+      "sorted_rgb_sha256": "27de94f4df1fb90c79d38b462dc198b8ab40eda7726e2d603e1bc54007062ce8"
+    },
+    {
+      "path": "full/m-eurosat/id_6742.npz",
+      "rgb_sha256": "9b0f6c1277f117bd3cec829ebc00e77ee896bf8eb39be8cce5a05513935fc7cc",
+      "sorted_rgb_sha256": "2e5537347cea8756d68c4ba53c653048b98b38071dfe139f7f9783aa53f37b27"
+    },
+    {
+      "path": "full/m-eurosat/id_2256.npz",
+      "rgb_sha256": "98a6c079f6ae896b718f99d2dac6f756cdf7b37d4b880dbf4f2f9aeb279a39ab",
+      "sorted_rgb_sha256": "e5fbc814866189f68cc44a1951b967ad21ec08225ddb1d775e31fa1010125d9e"
+    },
+    {
+      "path": "full/m-eurosat/id_22668.npz",
+      "rgb_sha256": "9e813de7550f58a2e19a90125f3528a15678d7a95fbed8d25fad9e91398b8456",
+      "sorted_rgb_sha256": "bf4d9914bef10604a3cd19eaf67161fa735ea913c58d8edf6af6553e2d2519ce"
+    },
+    {
+      "path": "full/m-eurosat/id_4626.npz",
+      "rgb_sha256": "113a6f4a63fca174d0892f7d6fa99a798959d9778534f27dbb4838741cfd09f4",
+      "sorted_rgb_sha256": "90fb6c22e3ce2acce5fa67cb3133b2082dad4790a5cd90bf6f661a05bd270163"
+    },
+    {
+      "path": "full/m-eurosat/id_21413.npz",
+      "rgb_sha256": "7dfb1c3a264b9e754004cde9604a534c6d5b35b5cdbad354aa9195c0d6ee5153",
+      "sorted_rgb_sha256": "d5974f0932644a1334ed5ab800873a38e9d583f0e782fde7182401d5a821b4e0"
+    },
+    {
+      "path": "full/m-eurosat/id_6743.npz",
+      "rgb_sha256": "5fc6a2edba946ed17dc8a9927ffbcc4cf2cff1e8a5f474ea63a8a5d56fb84236",
+      "sorted_rgb_sha256": "0eb4b5f2451a44d654b2e8ac82178ec108a02c5aa698b57cad281a3de85f1d0d"
+    },
+    {
+      "path": "full/m-eurosat/id_17837.npz",
+      "rgb_sha256": "5e7d0b216a52e770d2bb239c394c7cb8f49e12ec4dd13b168d078d99f1353033",
+      "sorted_rgb_sha256": "0df5a94c29b4495bc2b76e98a4e9143c6e429875d4508d84ec67c62b1d6a7d33"
+    },
+    {
+      "path": "full/m-eurosat/id_24543.npz",
+      "rgb_sha256": "b58c84c89c0f32ee40abe778f7192684cfa6543506a6d2995035ff28f3acf65e",
+      "sorted_rgb_sha256": "74135952a5e8910292536b9208764a85b7fc9b1e524581c399fa2784fad08fbd"
+    },
+    {
+      "path": "full/m-eurosat/id_20731.npz",
+      "rgb_sha256": "dfd9138b99b1ad7000cc60df9ecc2ac067594a840a0b28bc520986d7c971389f",
+      "sorted_rgb_sha256": "b6cea05da507f6ff270528533d26048b26d39c174393672d90d665bc1450ebe0"
+    },
+    {
+      "path": "full/m-eurosat/id_16268.npz",
+      "rgb_sha256": "d6ca6c888680e36261ea6dbbee044609fde8a28e9ed4c56951601c70675ea2ee",
+      "sorted_rgb_sha256": "df935ef27b9d110daa7975b8742e51dfe0398f7f2d5b29a9334fa03b18aa36b0"
+    },
+    {
+      "path": "full/m-eurosat/id_17162.npz",
+      "rgb_sha256": "24ae8bce44fcc184ff0c3c999936d6efb03ece2584fc938c9673c792502ff5d8",
+      "sorted_rgb_sha256": "dc8b3bed16adaf4d38a47187e4e986744d9e71e795cc74fe425526a91c7d6cc3"
+    },
+    {
+      "path": "full/m-eurosat/id_18279.npz",
+      "rgb_sha256": "7a8a4c58e002c5fcec346567d45ce629e2445356f6dead8288902849ecb1eed3",
+      "sorted_rgb_sha256": "19b0bd7e5df1e288182e80dc8c46e136699ad6c1fb1221161c450c712898877e"
+    },
+    {
+      "path": "full/m-eurosat/id_24769.npz",
+      "rgb_sha256": "2b4c2bedb11d6bcf3968ad65d3d435ebd7c501f195ddb18adf35d6ec20f85a3a",
+      "sorted_rgb_sha256": "73ddae0db34c260d4dc2f5156b847279f28cdb30f61c992d713a6a615a752e67"
+    },
+    {
+      "path": "full/m-eurosat/id_24741.npz",
+      "rgb_sha256": "2fdeba82caa56c124fdee4e21f014691bb13babba546893094e2eb721e864941",
+      "sorted_rgb_sha256": "2785e852a90fc0f10ac546e30a4e1c40c7296d8714405defd44332a6f5745259"
+    },
+    {
+      "path": "full/m-eurosat/id_7677.npz",
+      "rgb_sha256": "a9299c6638bbf0327ac15b3b6cfa48256e9162a126524b762d661dad089a38ac",
+      "sorted_rgb_sha256": "78e5eafb7f145f20ddd4416741f1996948a4b69640a6467b49dfc1d3e7edeacf"
+    },
+    {
+      "path": "full/m-eurosat/id_13660.npz",
+      "rgb_sha256": "8f9a7d6e415130c703b53507467ad171a123a9a05bfc63cb7408a1694fb8857a",
+      "sorted_rgb_sha256": "f39f6ad5a9bcee68feb1c329276d4a4c799bbeef4ec1e2d33fcf10c89fb45bf8"
+    },
+    {
+      "path": "full/m-eurosat/id_19403.npz",
+      "rgb_sha256": "6085c8af2663ad2fa41928d9bc87b905d22bb849db742cbee42c03966352e6e1",
+      "sorted_rgb_sha256": "54eb902468dd883919e4cae1590018ab2223d520f33e0559e91824b97949c614"
+    },
+    {
+      "path": "full/m-eurosat/id_24609.npz",
+      "rgb_sha256": "f73928a49ac71084a207889321bccb8deabf72e59dc12c11b109cf8867573444",
+      "sorted_rgb_sha256": "0dcd75dda21d1ddf43f986d646b150417f50c2c750af93f301c7f44c36606c81"
+    },
+    {
+      "path": "full/m-eurosat/id_6347.npz",
+      "rgb_sha256": "758a42ea7dd66e6349519bfcc945a17ecfed0c1e9231403f30aa1f791a8cd2cd",
+      "sorted_rgb_sha256": "814771d14e8187cf6b2cb769e0e6cd3e3fa98567cbf235329ae941e5b4d2325b"
+    },
+    {
+      "path": "full/m-eurosat/id_21017.npz",
+      "rgb_sha256": "97cd772d4aed341b2ce7dfbd83b4f9b470463a682c07b7c9d83d20dc2e723540",
+      "sorted_rgb_sha256": "56393a9e6ba71d3610f873461207ccf880aa4b443cbb36b613a9258a259a3d6b"
+    },
+    {
+      "path": "full/m-eurosat/id_21765.npz",
+      "rgb_sha256": "cb30d115be2a991c19c1fe8e03e2a077ea09876a163de2788d9e6229ec955fc9",
+      "sorted_rgb_sha256": "d352c9fd7a2baac8ab9c2b1972ec0b3219e67f0d9b08d43fe09c6e74994bbdef"
+    },
+    {
+      "path": "full/m-eurosat/id_24147.npz",
+      "rgb_sha256": "c390de5ab4c1ea4e42a87f8bdd9864580c975f7ff00fb9d1e4da4b9bfb583d1f",
+      "sorted_rgb_sha256": "f99f377bb32f4e72f7c7c37117139cc804686b6259695c9a942d62ea527aab5a"
+    },
+    {
+      "path": "full/m-eurosat/id_18899.npz",
+      "rgb_sha256": "342f989ab7dac7c9e6e12d5b98e1497269b67810b8491cd1d70fad6a74181555",
+      "sorted_rgb_sha256": "681b9e00436179f60e3967d4ffca1224aef7ddbccacbf61cd5a6a322fb226d4a"
+    },
+    {
+      "path": "full/m-eurosat/id_16644.npz",
+      "rgb_sha256": "7f01170b366cad3212c56d301a783bd811c900083bf520a929e6a2b50918831c",
+      "sorted_rgb_sha256": "d6a90d8aaaf9bca61a513b5e65d37de2417bf2a8267df9fb5869d29c32c3d7bb"
+    },
+    {
+      "path": "full/m-eurosat/id_8154.npz",
+      "rgb_sha256": "620f082c03f9b7481acbda09932e3ee6deb12d070c1888e5e770423089bb21d6",
+      "sorted_rgb_sha256": "51a1ef14d05be0d00c2f47170e0140b06e444b44b48562380d4322362470f188"
+    },
+    {
+      "path": "full/m-eurosat/id_15601.npz",
+      "rgb_sha256": "71c239d31fabf2d195ed50e4d48e246b990d9d1a71df36beb80b01be5a94ad26",
+      "sorted_rgb_sha256": "fc9feccadcaa49e7ab9903a25b64ae3d898e4242329ac73283dc3451d1c04788"
+    },
+    {
+      "path": "full/m-eurosat/id_24386.npz",
+      "rgb_sha256": "d53f8997b934d276cf23af921372e16e90a1231cba2cb32671140d40517e6520",
+      "sorted_rgb_sha256": "d59d967641806dbed99889ba21ed50380615500659ac059cbde57cd3e1988a5a"
+    },
+    {
+      "path": "samples/m-eurosat/id_1747.npz",
+      "rgb_sha256": "2a05edc6ad312f2735bc1f1437bd6c9aea63ede1a309b1d6f801dcfc68c1f2c3",
+      "sorted_rgb_sha256": "cfb5c846fc82188d341f1337813383a2a7dd5aa3d020f452efdc97c0bb9a9816"
+    },
+    {
+      "path": "samples/m-eurosat/id_19779.npz",
+      "rgb_sha256": "342c05cbcb2a05a0ca6d8207a3ef7f9ee7bfba7a7fe2140520f622f167ffa69a",
+      "sorted_rgb_sha256": "7d547d43c0f4960710af8b9fea9cc78d0ebbd95a7443fb2cda8e9da4182971a6"
+    },
+    {
+      "path": "samples/m-eurosat/id_22918.npz",
+      "rgb_sha256": "7fb16baa8662cbf7f2ca4a2d144242dd46ad82a6e65e39ea55dd0c8dc9b56acf",
+      "sorted_rgb_sha256": "f87f0d8a3c213aefdc3c2b14e95ab6f9c3659e3029b4731a2fea16c4b3869392"
+    },
+    {
+      "path": "samples/m-eurosat/id_19186.npz",
+      "rgb_sha256": "1c1ac8e22c60be8932c410a8db1c24a9420e22591e698fc0eda4edde21613577",
+      "sorted_rgb_sha256": "2a791b1724438db1e5b8a230aa18ea208617836e7a1bb63bea295d88efecab3f"
+    },
+    {
+      "path": "samples/m-eurosat/id_23796.npz",
+      "rgb_sha256": "ab40d3cf9c9961d5d2b960d873b74b7303aea116005cf7cf3c8240f3726514ea",
+      "sorted_rgb_sha256": "ed98a8d5f0c083f7e4534006a7cdaaadd25a41093ea42cad639a49aa40f512ce"
+    },
+    {
+      "path": "samples/m-eurosat/id_23651.npz",
+      "rgb_sha256": "62f409214d1eb552f89dda8ae633818cc8f281ea58a2b1e982cf0272af83904f",
+      "sorted_rgb_sha256": "ae605848106c40121fd555bb11eaa2f8b4d7c6dc12f78dfe32a33f36f73fe773"
+    },
+    {
+      "path": "samples/m-eurosat/id_9145.npz",
+      "rgb_sha256": "77ef7a0b1b057d0c151c50496a182148f0388703e8e83291b0b7df99763f6093",
+      "sorted_rgb_sha256": "affcaf73a0746804274e45fcad19aa3693c437158d500e54f999566b16f998db"
+    },
+    {
+      "path": "samples/m-eurosat/id_16239.npz",
+      "rgb_sha256": "3edc312fbcbce22834120c1829f4e6680bacc048a9c2c58c94eb71a336ae73ee",
+      "sorted_rgb_sha256": "575cfe0864dca409716d8f35f27a3abeb08352cf3cef953d820f2df915eb5198"
+    },
+    {
+      "path": "samples/m-eurosat/id_24936.npz",
+      "rgb_sha256": "d557728e298c5118b1d63e879a7af536e6517b9bfb6c7707f9d07cb99f4229b9",
+      "sorted_rgb_sha256": "6e1d1840f934c49628b92f21c0f2e03bd9d543ec073147841243eddf56c3b30c"
+    },
+    {
+      "path": "samples/m-eurosat/id_2388.npz",
+      "rgb_sha256": "b3ae00b927843d6800174d0f70d04ce368d82e3f90482abaedd9b56c625a8315",
+      "sorted_rgb_sha256": "23c12ea73515eb37c93072ea85dcfdab6a665c86d11408068337d8759a853c89"
+    },
+    {
+      "path": "samples/m-eurosat/id_8512.npz",
+      "rgb_sha256": "8d1a1973b08d96a7c9b4cb7830a4329f89bdf6bf6f88d501f7b760358e04b462",
+      "sorted_rgb_sha256": "953ead4d22c8b373ad576e486cfcb0e77833e2101704afc3fc4083fc062afa6c"
+    },
+    {
+      "path": "samples/m-eurosat/id_20391.npz",
+      "rgb_sha256": "e86b13a614d434cbb8f0184a9599c45e0cd5ebda0a34603bd5a2ba9f8c3e3b13",
+      "sorted_rgb_sha256": "a895d44ad5faa0adfd8de36966bbd62fcfe8fb9af446b63d8fba4f732369a30a"
+    },
+    {
+      "path": "samples/m-eurosat/id_13362.npz",
+      "rgb_sha256": "521c5aa33edd600cf9ce289c6fd039c6aca01140d923beb338780447476fd6f0",
+      "sorted_rgb_sha256": "73f514ccee13c6540dcd5384787276b0bad2c9dbb535a1990b3f1ad9952cacfc"
+    },
+    {
+      "path": "samples/m-eurosat/id_24335.npz",
+      "rgb_sha256": "f83966160fa348849a1ecfc7e1b34d69ecfae6ab7109c895ab5d41a31b471f67",
+      "sorted_rgb_sha256": "222b4275c41740b3e1c111b1b3f66036ad7c14b3ccfddc55834f2c3cb92668bc"
+    },
+    {
+      "path": "samples/m-eurosat/id_23103.npz",
+      "rgb_sha256": "2aa6d055332031af8cd36e08789281b47b6414824c240bee66815030a8e2fb9d",
+      "sorted_rgb_sha256": "492d576f3d18ed9b0405cabd4dc3a42dd6c3343648c58d2ee529af1b71a7034c"
+    },
+    {
+      "path": "samples/m-eurosat/id_9788.npz",
+      "rgb_sha256": "176787ff1520743367a5fc479c9e2a7c3ed9474d9b5a68df47dc4f5ef24daf0b",
+      "sorted_rgb_sha256": "1868da83bb86e56a2332cfe99d0cca621faa6b746abd86347d6e032846b6346f"
+    },
+    {
+      "path": "samples/m-eurosat/id_20807.npz",
+      "rgb_sha256": "548351ae52e62dfb42d5a6e344561018b306c9d8d718af3d151a7e4e2be0b654",
+      "sorted_rgb_sha256": "3fe00e59e84a46c339ad70ac2b5c5de5a4ef6c267836fc1806e5ec7cd7337e04"
+    },
+    {
+      "path": "samples/m-eurosat/id_24694.npz",
+      "rgb_sha256": "3135e9db56a25c3f08effa2add82ba0c9669eb2a2a85fde3badafb00357508ca",
+      "sorted_rgb_sha256": "ded41d8c83c73924f9ef64dd8cb32091f521cbe452a2cded3bcb84a3e60dfcdd"
+    },
+    {
+      "path": "samples/m-eurosat/id_24722.npz",
+      "rgb_sha256": "d0d2a983072703afd46a9d4e3fbee1179bcefb9cd05c23f0b342a234024a500b",
+      "sorted_rgb_sha256": "f64c970a43dad555b63052aadad166da844c31c57d75e85904f6856131937e0b"
+    },
+    {
+      "path": "samples/m-eurosat/id_16456.npz",
+      "rgb_sha256": "f6bc8cd6b37cb92f9200cfb0fef7a37c2fe1bd0b8263d88b31c5a740ea2fb031",
+      "sorted_rgb_sha256": "21e6b3f5daa4e7127a8394644531453c510d5f6672e223f14ca06382c53d704a"
+    },
+    {
+      "path": "samples/m-eurosat/id_8437.npz",
+      "rgb_sha256": "b4a66e05389a936d9ebb9aed19751cab625a3aa7e806b3d03a691dbb8eee2216",
+      "sorted_rgb_sha256": "ceb9d63ffb23095900fdecfda6573df256c5810682bbeaa222259fe50fd9f4ed"
+    },
+    {
+      "path": "samples/m-eurosat/id_3601.npz",
+      "rgb_sha256": "92e7d267c5574aec2aafc8cb0559536f86bf5d1b0f1d54554aba992d73927e66",
+      "sorted_rgb_sha256": "0dc0a4f73ff59482631bb587fce466900944bc403bd60ec3925c98f3471fe954"
+    },
+    {
+      "path": "samples/m-eurosat/id_25317.npz",
+      "rgb_sha256": "2d0802397bacf1d731438cb69f9afda5eaba4986a6e432f7790b481db0028eeb",
+      "sorted_rgb_sha256": "ce6cd2f0ebc8d525b14268ca169f54e9e1367cdc0cdebeb2f9ae8d443d258a45"
+    },
+    {
+      "path": "samples/m-eurosat/id_6190.npz",
+      "rgb_sha256": "0705a61f329253dc1894abba05079166aac612cd013126a56ce0dc8ea46908ac",
+      "sorted_rgb_sha256": "c80cbea0132b46935580765e89796f489e812bf8ff4fb8fd02566ab1c90f1ff6"
+    },
+    {
+      "path": "samples/m-eurosat/id_26578.npz",
+      "rgb_sha256": "e7747552bb1c5f40d3e845768c8233f7726fc8f5dd3ab7602fa630c424b2fced",
+      "sorted_rgb_sha256": "a525e47a7c6c1a082a83d5b94a346a7162026bcf3fa142b52c2cc133fe9782d8"
+    },
+    {
+      "path": "samples/m-eurosat/id_16684.npz",
+      "rgb_sha256": "6797ba424836a76f135378307f180f038e6089b17842eb6fba4ef8d3bae55d15",
+      "sorted_rgb_sha256": "bf8663d8bc45ade62dbf218153e05ef2c0cbe730639177dbca6198d973c35335"
+    },
+    {
+      "path": "samples/m-eurosat/id_20446.npz",
+      "rgb_sha256": "70102687b3bf8affeb8d676b148f52867626c591c7c696bdb191dd72030aa120",
+      "sorted_rgb_sha256": "ed90264b98b52e3cd1ed834e2b7b77e7a3fa60b3c816c1ebdb8a77011482090f"
+    },
+    {
+      "path": "samples/m-eurosat/id_3558.npz",
+      "rgb_sha256": "938dc25475efe1c41efcc2004b95c0d37301fb2c2a98438da5a34175a5b164d2",
+      "sorted_rgb_sha256": "67aa82b107e73aa2cc29d859c6a06af20feb12f720761564c9681ce2213be943"
+    },
+    {
+      "path": "samples/m-eurosat/id_20731.npz",
+      "rgb_sha256": "dfd9138b99b1ad7000cc60df9ecc2ac067594a840a0b28bc520986d7c971389f",
+      "sorted_rgb_sha256": "b6cea05da507f6ff270528533d26048b26d39c174393672d90d665bc1450ebe0"
+    },
+    {
+      "path": "samples/m-eurosat/id_16644.npz",
+      "rgb_sha256": "7f01170b366cad3212c56d301a783bd811c900083bf520a929e6a2b50918831c",
+      "sorted_rgb_sha256": "d6a90d8aaaf9bca61a513b5e65d37de2417bf2a8267df9fb5869d29c32c3d7bb"
+    }
+  ],
+  "rule": "First three prepared RGB-band DN channels, rounded uint16, blue-green-red order."
+}

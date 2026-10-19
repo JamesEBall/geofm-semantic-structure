@@ -1,0 +1,29 @@
+{
+  "checked": 120,
+  "replacements": [
+    {
+      "excluded": {
+        "id": "-72_59",
+        "lon": -72,
+        "lat": 59,
+        "region": "North America",
+        "split": "train"
+      },
+      "replacement": {
+        "id": "-105_36",
+        "lon": -105,
+        "lat": 36,
+        "region": "North America",
+        "split": "train"
+      },
+      "reason": "fewer_than_200_eligible_spaced_candidates"
+    }
+  ],
+  "blocks": 120,
+  "passed": true,
+  "split_counts": {
+    "train": 60,
+    "val": 20,
+    "test": 40
+  }
+}

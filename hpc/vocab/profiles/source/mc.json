@@ -1,0 +1,16 @@
+{
+  "mc": {
+    "stage_modules": [
+      "osm"
+    ],
+    "pools": {
+      "net": {
+        "start_width": 4,
+        "max_width": 4
+      }
+    },
+    "only_stages": [
+      "osm_fetch"
+    ]
+  }
+}

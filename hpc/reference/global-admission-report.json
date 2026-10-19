@@ -1,0 +1,121 @@
+{
+  "author": "James Edward Ball",
+  "admitted": true,
+  "scene_count": 29733,
+  "attempted_windows": 31600,
+  "target_attempted_windows": 31600,
+  "support": {
+    "train": {
+      "Water": {
+        "scenes": 1568,
+        "blocks": 32
+      },
+      "Trees": {
+        "scenes": 3727,
+        "blocks": 43
+      },
+      "Grass": {
+        "scenes": 3137,
+        "blocks": 52
+      },
+      "Flooded_Vegetation": {
+        "scenes": 97,
+        "blocks": 9
+      },
+      "Crops": {
+        "scenes": 710,
+        "blocks": 17
+      },
+      "Scrub": {
+        "scenes": 640,
+        "blocks": 18
+      },
+      "Built_Area": {
+        "scenes": 247,
+        "blocks": 17
+      },
+      "Bare_Ground": {
+        "scenes": 1257,
+        "blocks": 19
+      }
+    },
+    "val": {
+      "Water": {
+        "scenes": 228,
+        "blocks": 13
+      },
+      "Trees": {
+        "scenes": 1281,
+        "blocks": 18
+      },
+      "Grass": {
+        "scenes": 1175,
+        "blocks": 20
+      },
+      "Flooded_Vegetation": {
+        "scenes": 216,
+        "blocks": 7
+      },
+      "Crops": {
+        "scenes": 607,
+        "blocks": 12
+      },
+      "Scrub": {
+        "scenes": 377,
+        "blocks": 10
+      },
+      "Built_Area": {
+        "scenes": 87,
+        "blocks": 8
+      },
+      "Bare_Ground": {
+        "scenes": 597,
+        "blocks": 7
+      }
+    },
+    "test": {
+      "Water": {
+        "scenes": 1667,
+        "blocks": 42
+      },
+      "Trees": {
+        "scenes": 2796,
+        "blocks": 47
+      },
+      "Grass": {
+        "scenes": 2976,
+        "blocks": 61
+      },
+      "Flooded_Vegetation": {
+        "scenes": 998,
+        "blocks": 26
+      },
+      "Crops": {
+        "scenes": 1793,
+        "blocks": 35
+      },
+      "Scrub": {
+        "scenes": 975,
+        "blocks": 24
+      },
+      "Built_Area": {
+        "scenes": 659,
+        "blocks": 25
+      },
+      "Bare_Ground": {
+        "scenes": 1918,
+        "blocks": 28
+      }
+    }
+  },
+  "technical_failures": 0,
+  "quality_exclusions": 1867,
+  "errors": [],
+  "expert_labels": false,
+  "reference_type": "automated_worldcover_2021_v200",
+  "planning_test_floor_met": true,
+  "planning_floor_note": "Admission requires at least 200 test scenes across 15 test blocks per category; fitting and validation require 30 scenes across 3 blocks per category.",
+  "manifest_sha256": "9ad0d7c52eb8676d790a65217c800e05dff21f1389e80655e956eba55af671e2",
+  "images_sha256": "8a74db1b2aeb8ececfbe5f07a7a4f9f4afdcbfb0cd5fc79512cdd96097fa1048",
+  "appearance_sha256": "9a6bbefb8bdf2df8a5f8f24deb0a4fbf4ed88beb5745f573fd077b894f4e90a7"
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "geofm-semantic-structure"
+version = "1.0.0"
+description = "Reproduction package for Do Geospatial Foundation Models Learn Semantic Structure from Imagery Alone?"
+authors = [{name = "James Edward Ball"}]
+requires-python = ">=3.12,<3.14"
+dependencies = ["numpy==2.5.3", "scipy==1.18.1", "requests>=2.32", "rasterio==1.5.2", "matplotlib==3.11.2"]
+[project.optional-dependencies]
+source = ["torch==2.14.1", "torchvision==0.29.1", "timm==1.0.30", "einops==0.8.2", "PyYAML>=6", "planetary-computer>=1.0", "huggingface-hub>=0.34", "transformers==4.57.6", "open-clip-torch==3.3.0"]
+test = ["pytest>=8"]
+hpc-test = ["scikit-learn>=1.6", "pandas>=2.3", "pyarrow>=25", "shapely>=2", "pyproj>=3", "osmium==4.3.1", "pyshp==3.1.6", "zstandard>=0.25", "PyYAML>=6", "hypothesis>=6", "psutil>=7", "torch==2.6.0", "torchvision==0.21.0", "timm==1.0.30", "einops>=0.8", "transformers==4.57.6"]
+[tool.setuptools.packages.find]
+where = ["src"]

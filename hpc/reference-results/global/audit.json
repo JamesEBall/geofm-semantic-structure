@@ -1,0 +1,9 @@
+{
+  "author": "James Edward Ball",
+  "manifest_sha256": "9ad0d7c52eb8676d790a65217c800e05dff21f1389e80655e956eba55af671e2",
+  "models": 16,
+  "folds_checked": 80,
+  "summary_estimates_checked": 768,
+  "status": "passed",
+  "checks": "Scene identities, split and category eligibility, feature fingerprints, score hashes, geographic weighting, held-out fold aggregation, baseline differences and original-route parity."
+}

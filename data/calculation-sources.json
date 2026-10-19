@@ -1,0 +1,15 @@
+{
+  "author": "James Edward Ball",
+  "files": {
+    "src/geofm_jlens/semantic_nuisance_inputs_v1.py": "c40bb9d88f3313fef6651aee3896f32bf66acacd3f6a76e1d1db3a3db2d83487",
+    "src/geofm_jlens/semantic_evaluation_v1.py": "7e1f0cde9bd90d2f99460b27aac2a06bca2fccb045d1266df91c836f08dfa853",
+    "src/geofm_jlens/semantic_matching_v1.py": "dd0238e54e28806c08d9dac9b806f6f84834ed26f21c147862e3589ea01d1f65",
+    "src/geofm_jlens/semantic_primary_family_v1.py": "ddc00db380e593b2f69d27ebdbac2374293866f5f0e636876e75245e7c5da5d6",
+    "src/geofm_jlens/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src/geofm_jlens/semantic_nuisance_v1.py": "1d8a9d2d3a4338af7f3a3ff6f71af503f8c02e1ce5a872d5b4cb5d092efe438c",
+    "src/geofm_jlens/semantic_s2_inputs_v1.py": "59e69d9e207311d1878738dc3b95cd57a422a922a9b0751f62a79229bb6f5cc3",
+    "src/geofm_jlens/semantic_geometry_hierarchy_v1.py": "c2d5bceddac542665420a14a8b6d48e9d1d7cefa99f19b30ebbf2b6d833e2c75",
+    "src/geofm_jlens/semantic_ridge_v1.py": "ecc462060c161a5ea2589eae8139f0c70033c095aa9d1773583233b769eaec80",
+    "src/geofm_jlens/semantic_retrieval_v1.py": "c8e7c41613499eff944c88983b08dd7e4e6701486859dcf4716853e6db409bf3"
+  }
+}
