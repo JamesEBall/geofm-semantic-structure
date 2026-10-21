@@ -73,6 +73,20 @@ Each file is checked against the frozen SHA-256 manifest. Add `--imagery` to inc
 
 ## Reproduction
 
+### Completed vocabulary and label-sensitivity extensions
+
+The [21 October extension release](https://github.com/JamesEBall/geofm-semantic-structure/releases/tag/completed-extensions-20261021-v1) contains frozen source records, saved query scores and a portable replay for the fixed-count vocabulary, paired single-target, model-ranking and review-conditioned influence analyses. This repository and its release assets require access permission.
+
+```sh
+gh release download completed-extensions-20261021-v1 --repo JamesEBall/geofm-semantic-structure --pattern geofm-completed-extensions-20261021.tar.gz
+tar -xzf geofm-completed-extensions-20261021.tar.gz
+cd geofm-completed-extensions
+python -m pip install -r requirements.txt
+python replay.py --report ../replay-verification.json
+```
+
+The replay checks 720 endpoint estimates, 180 contrasts, 34,020 ranking rows and 540 influence rows. It reaggregates saved scores; full feature extraction and readout refitting require the external frozen inputs identified in the original records. The failed population-calibration gates and single-reviewer limitation remain explicit. Unfinished controlled-pretraining results are excluded.
+
 ### MegaEarth figures
 
 Verify the retained cohort and regenerate the support and transfer figures:
