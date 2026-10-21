@@ -1,0 +1,13 @@
+{
+  "author": "James Edward Ball",
+  "passed": true,
+  "condition_count": 48,
+  "positive_condition_means": 47,
+  "positive_mean_range": [
+    0.0003365040057585154,
+    0.0043557907734023404
+  ],
+  "primary_and_secondary_results_retained": true,
+  "local_transfer_and_full_feature_reconstruction_passed": true,
+  "population_inference_qualified": false
+}

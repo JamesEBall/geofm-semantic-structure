@@ -1,0 +1,15 @@
+{
+  "endpoints_checked": 576,
+  "paired_contrasts_checked": 288,
+  "vocabulary_interactions_checked": 72,
+  "maximum_table_error": 1.6653345369377348e-16,
+  "author": "James Edward Ball",
+  "passed": true,
+  "all_six_runs_replayed": true,
+  "query_scores_checked": 50428800,
+  "maximum_score_aggregation_error": 2.498001805406602e-16,
+  "collection_manifest_sha256": "67ebde43f14c48082d1ac371d382659bc910a5d6ab2b4809ca7ec3a33c461185",
+  "replay_script_sha256": "2bb95d4d5a7f7edf60dacc82c45473e8e1be525df11b75dcb2a517e1677d650c",
+  "model_fitting_repeated": false,
+  "population_inference_qualified": false
+}

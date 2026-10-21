@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.overleaf.com/project/6ace291cb9243e3d4b794c17">Paper</a> ·
+  <a href="docs/RESULTS.md">Study results</a> ·
   <a href="https://huggingface.co/datasets/Mead0w1ark/megaearth-osm-sentinel2">Dataset</a> ·
   <a href="https://github.com/JamesEBall/geofm-semantic-structure/releases">Release assets</a>
 </p>
@@ -32,24 +32,25 @@ Geospatial foundation models learn representations from satellite imagery. This 
 | Transfer | Does that map work for categories and category families excluded from fitting? |
 | Controls and calibration | How much can appearance, metadata and random encoders explain, and do the uncertainty procedures meet their declared requirements? |
 
-## Results
+## Main finding
 
-Corrected MegaEarth family-transfer results use mean pooling, a ridge readout and the instructed Qwen language reference. Class-balanced filtered mean reciprocal rank (MRR) measures how highly the correct category is ranked; higher values indicate better retrieval.
+**The category supervision used to read out a representation materially changes what a GeoFM benchmark reveals about that representation.** Broader fitting vocabularies improve held-out-family retrieval at fixed image counts. Matched vocabularies preserve the tested models' mean ranking; deliberately unequal vocabularies can reverse pairwise comparisons at the same image budget. Random and nuisance controls also benefit.
 
-| Representation | MRR |
-| --- | ---: |
-| Clay | 0.2417 |
-| Prithvi 300M | 0.2301 |
-| Prithvi 100M | 0.2126 |
-| Appearance + metadata control | 0.2076 |
+A paired image-only training experiment across six initialisations improves native category correspondence with the primary language reference. Alternative references give mixed results, and the primary supervised retrieval mean changes little. This separates a training effect on category geometry from performance after fitting a supervised readout.
 
-Clay and Prithvi 300M show positive gains in the paired conditional analysis; the Prithvi 100M comparison remains unresolved. Full transfer calibration fails its declared requirements, and population geometry intervals remain unqualified. These findings support a bounded claim about the tested representations and evaluation setup; general semantic capability remains an open question.
+See [results and interpretation](docs/RESULTS.md) for the numerical findings, controls and scope. Failed uncertainty-calibration checks remain explicit: these estimates describe the evaluated cohort.
 
-The [corrected results](hpc/vocab/results/retained-20261018/results.json) and [qualification records](hpc/vocab/results/retained-20261018/qualify/) preserve the estimates and statistical checks.
+[![Native category geometry under primary and sensitivity language references.](assets/native-geometry-sensitivities.png)](assets/native-geometry-sensitivities.png)
+
+## Start here
+
+- Read the [result tables and evidence boundaries](docs/RESULTS.md).
+- Follow the [reproduction guide](docs/REPRODUCIBILITY.md) for saved-result replay or full GPU reconstruction.
+- Use [DATA.md](DATA.md) for sources, pinned inputs and data licences.
 
 ## Installation
 
-Use Python 3.12. The commands below set up a CPU environment for data checks, saved-result plots and the expert-reference analysis. Install the [GitHub CLI](https://cli.github.com/) and run `gh auth login` to download the feature assets.
+Use Python 3.12. The commands below set up a CPU environment for data checks, saved-result plots and the expert-reference analysis. The release archives can be downloaded through GitHub in a browser. The command examples use the [GitHub CLI](https://cli.github.com/).
 
 ```sh
 git clone https://github.com/JamesEBall/geofm-semantic-structure.git
@@ -75,7 +76,7 @@ Each file is checked against the frozen SHA-256 manifest. Add `--imagery` to inc
 
 ### Completed vocabulary and label-sensitivity extensions
 
-The [21 October extension release](https://github.com/JamesEBall/geofm-semantic-structure/releases/tag/completed-extensions-20261021-v1) contains frozen source records, saved query scores and a portable replay for the fixed-count vocabulary, paired single-target, model-ranking and review-conditioned influence analyses. This repository and its release assets require access permission.
+The [21 October extension release](https://github.com/JamesEBall/geofm-semantic-structure/releases/tag/completed-extensions-20261021-v1) contains frozen source records, saved query scores and a portable replay for the fixed-count vocabulary, paired single-target, model-ranking and review-conditioned influence analyses. The repository and release assets are publicly available.
 
 ```sh
 gh release download completed-extensions-20261021-v1 --repo JamesEBall/geofm-semantic-structure --pattern geofm-completed-extensions-20261021.tar.gz
@@ -85,7 +86,7 @@ python -m pip install -r requirements.txt
 python replay.py --report ../replay-verification.json
 ```
 
-The replay checks 720 endpoint estimates, 180 contrasts, 34,020 ranking rows and 540 influence rows. It reaggregates saved scores; full feature extraction and readout refitting require the external frozen inputs identified in the original records. The failed population-calibration gates and single-reviewer limitation remain explicit. Unfinished controlled-pretraining results are excluded.
+The replay checks 720 endpoint estimates, 180 contrasts, 34,020 ranking rows and 540 influence rows. It reaggregates saved scores; full feature extraction and readout refitting require the external frozen inputs identified in the original records. The failed population-calibration gates and the recorded label-review design remain explicit. The completed paired training experiment has a separate archive, documented in the reproduction guide.
 
 ### MegaEarth figures
 
@@ -130,11 +131,17 @@ The tests check analysis behaviour on controlled inputs. The global-results audi
 src/             Model interfaces and expert-reference analysis
 scripts/         Dataset download, plots and validation commands
 data/            Frozen inputs, splits and reference results
+results/         Complete paired-training tables and verification receipts
+docs/            Findings and reproduction instructions
 hpc/             HPC runners and supporting experiments
   vocab/         MegaEarth pipeline, corrected results and calibration
 tests/           Package tests
 vendor/          Third-party model code and notices
 ```
+
+## Licence
+
+Original study code and associated documentation use the [MIT licence](LICENSE). [Third-party notices](NOTICE.md) and [dataset terms](DATA.md) remain applicable. Contributions are described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Citation
 

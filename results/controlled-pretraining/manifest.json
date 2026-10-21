@@ -1,0 +1,17 @@
+{
+  "author": "James Edward Ball",
+  "source_collection_sha256": "67ebde43f14c48082d1ac371d382659bc910a5d6ab2b4809ca7ec3a33c461185",
+  "complete_archive_sha256": "d7651dda035cc23d5b79477456dab96011ff73e1c9e63e33454ff90d076b6816",
+  "files": {
+    "condition-means.csv": "418863ec547e704787567174e5141e752278fb45c752a0161096d084f04c2255",
+    "interpretation-verification.json": "795b3c6743da05ee1f24748c4c724b2ed765fea3e5353458d86dd3076cec250e",
+    "local-native-verification.json": "84858f2b94cd7e91a46aeb7023c2b1b0cc78fcd2652b83762ada2eb77d417264",
+    "local-transfer-verification.json": "c8b2c80edc7788696769cf70d3e277fe9a5e95242f85d192afa24725e701dfff",
+    "native-summary.json": "2796ee1db4e731bade9e1a2e40e8efab52831db0ae754e68c6f2a3b181105924",
+    "training-summary.json": "b636f0fd32371b980b93b80e4497e9492c1afd60254937c3a5bafd38ae610a52",
+    "transfer-endpoints.csv": "d6e3cb14b730552f881b94ad4b2ac226d5b0c9eea6006482af311b2ceada30c8",
+    "transfer-paired-differences.csv": "68c6320075d1b2332a536751235ce4b30a1685ae4249972d11ab077bbe79d3ca",
+    "transfer-summary.json": "c93790ffea8a5e12268aaca87c025eaade96462cfc1b36cd9d3f158866470600",
+    "transfer-vocabulary-interactions.csv": "98affb446ed92d12258761175653cbb6f2774201cba9fbb1f89dab33ac968d16"
+  }
+}

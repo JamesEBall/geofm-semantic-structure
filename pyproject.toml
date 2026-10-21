@@ -6,6 +6,8 @@ name = "geofm-semantic-structure"
 version = "1.0.0"
 description = "Reproduction package for Do Geospatial Foundation Models Learn Semantic Structure from Imagery Alone?"
 authors = [{name = "James Edward Ball"}]
+license = {file = "LICENSE"}
+readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = ["numpy==2.5.3", "scipy==1.18.1", "requests>=2.32", "rasterio==1.5.2", "matplotlib==3.11.2"]
 [project.optional-dependencies]

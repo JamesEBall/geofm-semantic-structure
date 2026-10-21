@@ -1,0 +1,14 @@
+{
+  "author": "James Edward Ball",
+  "passed": true,
+  "summary_sha256": "2796ee1db4e731bade9e1a2e40e8efab52831db0ae754e68c6f2a3b181105924",
+  "prototypes_sha256": "cf172d784cd97a68d6968a4d393a4701f16bbcb72d82f1663ce14a39f549c0a8",
+  "analysis_freeze_sha256": "8d3f4ca96aa0637f003b49ff1af6873d69fba30c3c2274816a266c28a68e55c6",
+  "independently_reconstructed_feature_prototypes": true,
+  "maximum_mean_error": 1.2434497875801753e-14,
+  "maximum_metric_error": 8.326672684688674e-17,
+  "maximum_distance_error": 5.662137425588298e-15,
+  "endpoints": 72,
+  "contrasts": 18,
+  "population_inference_qualified": false
+}

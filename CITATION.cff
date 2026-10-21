@@ -10,3 +10,5 @@ authors:
 repository-code: 'https://github.com/JamesEBall/geofm-semantic-structure'
 url: 'https://github.com/JamesEBall/geofm-semantic-structure'
 abstract: 'Code and study data for evaluating category structure and language-readout transfer in geospatial foundation models.'
+license: MIT
+date-released: '2026-10-21'

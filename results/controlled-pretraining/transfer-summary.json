@@ -1,0 +1,129 @@
+{
+  "seed_runs": 6,
+  "fitting_repeats_per_run": 10,
+  "primary_condition": {
+    "arm": "single",
+    "budget": 512,
+    "level": "all",
+    "reference": "qwen_instructed"
+  },
+  "primary_paired_difference": {
+    "values_by_seed": [
+      -0.0005068674227613201,
+      -0.002874105396059784,
+      -0.00017614502995977332,
+      3.0315960265231423e-05,
+      -0.0008970239511768563,
+      0.0016848024363952385
+    ],
+    "mean": -0.000456503900549544,
+    "minimum": -0.002874105396059784,
+    "maximum": 0.0016848024363952385,
+    "positive_seeds": 2,
+    "zero_seeds": 0,
+    "negative_seeds": 4,
+    "range_is_confidence_interval": false
+  },
+  "primary_vocabulary_gain_interaction": {
+    "values_by_seed": [
+      -0.0016918785052301988,
+      -0.004417611330134019,
+      -0.00038919313642010733,
+      0.0016204107135248114,
+      -0.0023511433354719835,
+      -0.000251135302395733
+    ],
+    "mean": -0.0012467584826878718,
+    "minimum": -0.004417611330134019,
+    "maximum": 0.0016204107135248114,
+    "positive_seeds": 1,
+    "zero_seeds": 0,
+    "negative_seeds": 5,
+    "range_is_confidence_interval": false
+  },
+  "estimand": "Arithmetic mean over the six specified paired initialisations on the frozen evaluated cohort, after averaging the ten fixed fitting repeats.",
+  "population_inference_qualified": false,
+  "population_confidence_intervals_reported": false,
+  "author": "James Edward Ball",
+  "all_six_runs_verified": true,
+  "specified_intervention_evaluated": true,
+  "released_checkpoint_training_cause_identified": false,
+  "independent_geographic_confirmation": false,
+  "analysis_freeze_sha256": "ecf279ce7a2789e088f12157426fddc79da156959cce63509c92d6d375911bb5",
+  "training_freeze_sha256": "dd8f544a1712fe0787e3e6411d54d387ebbbdb89d22559dfcbd04aa4e8b760c5",
+  "readout_freeze_sha256": "85caef9ef7b2f7cb1c7caf5abd79cbea1cc7d40afdfd2067c41a0e1bf3c72e11",
+  "runs": [
+    {
+      "seed_index": 0,
+      "initialisation_seed": 251827553,
+      "training_verification_sha256": "89344015bf5d4af62ca1cb792804e2dc8566fcebf19b38403c5f16d23509a9f9",
+      "feature_verification_sha256": "f842ebbcd73349a1537ae36c0a5308f4e574367eed52644f635ffcf5d445ff03",
+      "readout_verification_sha256": "d593b5c4e75cfe64dc786474cc30dfdb725516d1923e61a0c3393fe172275974",
+      "initial_encoder_sha256": "79bbce6d486af50615fbdafae56af35f193d1bf2b65743fb67419d181f482620",
+      "final_encoder_sha256": "77c4ebd9e2e06646fa500f9159480eab42dda3ff841c907ece7945a4ab2da040",
+      "primary_initial_mrr": 0.17471755344724407,
+      "primary_trained_mrr": 0.17421068602448275,
+      "primary_paired_difference": -0.0005068674227613201
+    },
+    {
+      "seed_index": 1,
+      "initialisation_seed": 3837750485,
+      "training_verification_sha256": "918b05cee3ce17a4c0606fd2d9cd2ed9ca2f66e73546d4d50399d028568abfd1",
+      "feature_verification_sha256": "7b01ad61eef4e557eee7a418e558fab4452feea6dc4b2e0efc849566867b6bef",
+      "readout_verification_sha256": "fa4c7a3e4cb94f7672f03e1a57b17618eb374e3ca216e1c62a6f49eaf6d595fa",
+      "initial_encoder_sha256": "09afdcab45cf363fdab6d917e491323177addf9eaea2fa4c67234cd29eec3017",
+      "final_encoder_sha256": "bf845c09d1fa5a9a06002584f24f17e7dd9f47b8520d5b3179093698f9cdb5bb",
+      "primary_initial_mrr": 0.1764699627566391,
+      "primary_trained_mrr": 0.1735958573605793,
+      "primary_paired_difference": -0.002874105396059784
+    },
+    {
+      "seed_index": 2,
+      "initialisation_seed": 1773164607,
+      "training_verification_sha256": "173ee72a252858b9744a8e546f096f6052138e440a1e9f8a942a9dcaf829e5dd",
+      "feature_verification_sha256": "62f1cca5e3f79b959eb8c6773704ad743aa7af562c995831c1437617a4f2af75",
+      "readout_verification_sha256": "7fd91d363a14387c27def1a843896f0edfa7c4718db45d2cac399a98f5934368",
+      "initial_encoder_sha256": "7557d9d989908275fff450326e1437877b6b4117aa5eb8838460a17d364db24e",
+      "final_encoder_sha256": "00e0d8d18e3cdf2ad0c6a8079efd278902a5b58929cd49cee3a13c8469c4b513",
+      "primary_initial_mrr": 0.1761047922094558,
+      "primary_trained_mrr": 0.17592864717949602,
+      "primary_paired_difference": -0.00017614502995977332
+    },
+    {
+      "seed_index": 3,
+      "initialisation_seed": 3393106539,
+      "training_verification_sha256": "4cf551ffc8a5939be12ce29dcc5b51b4ee0262415612845f978f7f6a2264f62d",
+      "feature_verification_sha256": "acd783ee49dac084be93aed3ce9e4634f7c814a5fad420431b0a689d07d00b84",
+      "readout_verification_sha256": "04b09f52b5fec50812136903d18c0bf1b94098e9f74d11d1b7d4dece94dbfaaa",
+      "initial_encoder_sha256": "75db4e0244e0b9916c72d4bfd1473d445d878a3261161d26a7b1ae03d3ab6002",
+      "final_encoder_sha256": "bbdbb1ddd14b7c72573b6459ec1e95f968384b5cae174a845b2caf457a92a810",
+      "primary_initial_mrr": 0.17532913187563764,
+      "primary_trained_mrr": 0.17535944783590288,
+      "primary_paired_difference": 3.0315960265231423e-05
+    },
+    {
+      "seed_index": 4,
+      "initialisation_seed": 655264771,
+      "training_verification_sha256": "fe99491147d9309d942b4faf0c0ad17753722c678cd7b412d26fb321ec1f27d8",
+      "feature_verification_sha256": "0431ab9fc60a87c3955b5fd35a4871117b346c5f3673ba6d77166a33179a7e24",
+      "readout_verification_sha256": "4bd840263c993a5fedd2ef6be2a2b485b4bfde862568a4391ae8ab1685f9bc77",
+      "initial_encoder_sha256": "b6a3e3f9f5eb4665c4f38db597ecb74529cf580204843087237ed9d18708b783",
+      "final_encoder_sha256": "c52ffa563c9286cb82c5b4ec9b97a6fa5afc0c659ca6ff8e1f9fadd29f013151",
+      "primary_initial_mrr": 0.17593796864495462,
+      "primary_trained_mrr": 0.17504094469377776,
+      "primary_paired_difference": -0.0008970239511768563
+    },
+    {
+      "seed_index": 5,
+      "initialisation_seed": 2222199236,
+      "training_verification_sha256": "01f19bc8f5a409d0fd2ac5588ddf9aecb6f9fb6eda7df385a53da4546d66f0af",
+      "feature_verification_sha256": "530c112b74b5332a86b82ca9b858861744d36041140744821de8f426a4878911",
+      "readout_verification_sha256": "fd38503ce07a6595bbd845063774baa03c431fbcf6dc86e386001eb38e4e55d3",
+      "initial_encoder_sha256": "2ac9ac90d8dea7a4b31cfb1cbfb28f8ad539d6a74a0840a5d044a2435237a4a9",
+      "final_encoder_sha256": "944b4541c035f425626bfb4b85fda3882a97ca88e5dab96d9bade31303f6e509",
+      "primary_initial_mrr": 0.17443759719865587,
+      "primary_trained_mrr": 0.1761223996350511,
+      "primary_paired_difference": 0.0016848024363952385
+    }
+  ]
+}
